@@ -17,10 +17,12 @@
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
+  <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=1,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_HueShift=17</Effect>
     <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=1,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=1,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
   </EffectDB>
@@ -547,7 +549,9 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Arch-Large">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="Fire" selected="1" startTime="0" endTime="2750" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Arch-medium">
       <EffectLayer/>
@@ -557,7 +561,7 @@
     </Element>
     <Element type="model" name="Frames-Edge-Right">
       <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="2275" palette="0"/>
+        <Effect ref="1" name="Bars" startTime="0" endTime="2275" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames">
@@ -565,7 +569,7 @@
     </Element>
     <Element type="model" name="Frames-Edge-Left">
       <EffectLayer>
-        <Effect ref="1" name="Bars" startTime="0" endTime="2275" palette="0"/>
+        <Effect ref="2" name="Bars" startTime="0" endTime="2275" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames-Edge-Top">

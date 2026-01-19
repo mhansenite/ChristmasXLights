@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.01</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Bollywood Jingle Bells</song>
+    <artist>VoicePlay</artist>
+    <album>Peppermint Winter</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/Bollywood_Jingle_Bells_Adjusted.mp3</mediaFile>
+    <sequenceDuration>98.291</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="500ms Metronome" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="H---ALL PIXELS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-ROOF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-FRAMES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-SNOWFLAKES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-DOOR" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-RIGHT-SF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-LEFT-SF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B3" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B4" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-TREES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-BUSHES" visible="1"/>
+    <Element collapsed="0" type="model" name="H---ALL-NON-PIXELS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-GARAGE-DOOR" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T0" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-3" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-4" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-5" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-6" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-All" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R2-3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L2- 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B4" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B3" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Porch-Roof-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Roof-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Roof-T-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Roof-T-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Porch-Roof-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Roof-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Color-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Color-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-3" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-4" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Star-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T0" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-RoofAddon-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-RoofAddon-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Wreath" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-out" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="500ms Metronome" fixed="500">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H---ALL PIXELS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-ROOF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-FRAMES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-SNOWFLAKES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-ALL">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-ALL">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-DOOR">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-RIGHT-SF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-LEFT-SF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-TREES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-BUSHES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H---ALL-NON-PIXELS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-GARAGE-DOOR">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T0">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R2-3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R1-Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L2- 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L1-Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Porch-Roof-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Roof-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Roof-T-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Roof-T-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Porch-Roof-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Roof-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Color-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Color-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Star-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T0">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-RoofAddon-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-RoofAddon-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Wreath">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" selected="1" startTime="500" endTime="3500" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H-Arch-1-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-1-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-1-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-out">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
