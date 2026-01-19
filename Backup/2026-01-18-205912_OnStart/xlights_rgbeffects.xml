@@ -520,9 +520,9 @@
     <Display2DBoundingBox value="0"/>
     <LayoutMode3D value="0"/>
     <backgroundBrightness value="20"/>
-    <backgroundImage value="/Users/mike/git/personal/ChristmasXLights/Images/HansenHouseXlights.jpg"/>
     <previewWidth value="3028"/>
     <previewHeight value="1025"/>
+    <backgroundImage value="/Users/mike/git/personal/ChristmasXLights/Images/HansenHouseXlights.jpg"/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>

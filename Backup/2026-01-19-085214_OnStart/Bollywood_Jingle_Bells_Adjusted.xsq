@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.01</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Bollywood Jingle Bells</song>
+    <artist>VoicePlay</artist>
+    <album>Peppermint Winter</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/Bollywood_Jingle_Bells_Adjusted.mp3</mediaFile>
+    <sequenceDuration>98.291</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Morph_Start_Link=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphStartLength=6,E_SLIDER_Morph_Start_X1=30,E_SLIDER_Morph_Start_X2=58,E_SLIDER_Morph_Start_Y1=97,E_SLIDER_Morph_Start_Y2=58</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+    <Effect>E_CHECKBOX_Piano_FadeNotes=0,E_CHECKBOX_Piano_ShowSharps=1,E_CHOICE_Piano_MIDITrack_APPLYLAST=Beats,E_CHOICE_Piano_Type=Bars,E_SLIDER_Piano_Scale=100,E_SLIDER_Piano_XOffset=2,E_SPINCTRL_Piano_EndMIDI=72,E_SPINCTRL_Piano_StartMIDI=60</Effect>
+    <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=3,E_SLIDER_Tree_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=10,E_SLIDER_Shockwave_End_Width=10,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=5</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="500ms Metronome" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-ROOF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-FRAMES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--ALL-SNOWFLAKES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-WINDOWS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-DOOR" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-RIGHT-SF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-LEFT-SF" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B3" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-Window-B4" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-TREES" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-BUSHES" visible="1"/>
+    <Element collapsed="0" type="model" name="H---ALL-NON-PIXELS" visible="1"/>
+    <Element collapsed="0" type="model" name="H--BOTTOM-GARAGE-DOOR" visible="1"/>
+    <Element collapsed="0" type="model" name="H--TOP-Window-T0" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-3" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-4" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-5" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-6" visible="1"/>
+    <Element collapsed="0" type="model" name="H--YARD-Arch-All" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R2-3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-R1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L2- 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-SF-L1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B4" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Window-B3" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Porch-Roof-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Roof-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Roof-T-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Roof-T-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Porch-Roof-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Roof-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Color-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Color-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-3" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Trees-4" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Star-1" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Yard-Bushes-Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-Windows-T0" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Garage-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-RoofAddon-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="H-House-RoofAddon-White" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Wreath" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-1-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-2-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-3-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-4-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-5-out" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-in" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-mid" visible="1"/>
+    <Element collapsed="0" type="model" name="H-Arch-6-out" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="500ms Metronome" fixed="500">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Beats">
+      <EffectLayer>
+        <Effect label="" startTime="2975" endTime="3375"></Effect>
+        <Effect label="" startTime="3375" endTime="3775"></Effect>
+        <Effect label="" startTime="3775" endTime="4200"></Effect>
+        <Effect label="" startTime="4200" endTime="4600"></Effect>
+        <Effect label="" startTime="4600" endTime="5025"></Effect>
+        <Effect label="" startTime="5025" endTime="5600"></Effect>
+        <Effect label="" startTime="5600" endTime="6000"></Effect>
+        <Effect label="" startTime="6000" endTime="6400"></Effect>
+        <Effect label="" startTime="6400" endTime="6775"></Effect>
+        <Effect label="" startTime="6775" endTime="7175"></Effect>
+        <Effect label="" startTime="7175" endTime="7575"></Effect>
+        <Effect label="" startTime="7575" endTime="7975"></Effect>
+        <Effect label="" startTime="7975" endTime="8400"></Effect>
+        <Effect label="" startTime="8400" endTime="8800"></Effect>
+        <Effect label="" startTime="8800" endTime="9200"></Effect>
+        <Effect label="" startTime="9200" endTime="9600"></Effect>
+        <Effect label="" startTime="9600" endTime="9975"></Effect>
+        <Effect label="" startTime="9975" endTime="10375"></Effect>
+        <Effect label="" startTime="10375" endTime="10775"></Effect>
+        <Effect label="" startTime="10775" endTime="11200"></Effect>
+        <Effect label="" startTime="11200" endTime="11600"></Effect>
+        <Effect label="" startTime="11600" endTime="12000"></Effect>
+        <Effect label="" startTime="12000" endTime="12375"></Effect>
+        <Effect label="" startTime="12375" endTime="12775"></Effect>
+        <Effect label="" startTime="12775" endTime="13175"></Effect>
+        <Effect label="" startTime="13175" endTime="13575"></Effect>
+        <Effect label="" startTime="13575" endTime="13925"></Effect>
+        <Effect label="" startTime="13925" endTime="14325"></Effect>
+        <Effect label="" startTime="14325" endTime="14725"></Effect>
+        <Effect label="" startTime="14725" endTime="15125"></Effect>
+        <Effect label="" startTime="15125" endTime="15500"></Effect>
+        <Effect label="" startTime="15500" endTime="15900"></Effect>
+        <Effect label="" startTime="15900" endTime="16300"></Effect>
+        <Effect label="" startTime="16300" endTime="16725"></Effect>
+        <Effect label="" startTime="16725" endTime="17125"></Effect>
+        <Effect label="" startTime="17125" endTime="17525"></Effect>
+        <Effect label="" startTime="17525" endTime="17900"></Effect>
+        <Effect label="" startTime="17900" endTime="18300"></Effect>
+        <Effect label="" startTime="18300" endTime="18700"></Effect>
+        <Effect label="" startTime="18700" endTime="19450"></Effect>
+        <Effect label="" startTime="19450" endTime="19850"></Effect>
+        <Effect label="" startTime="19850" endTime="20225"></Effect>
+        <Effect label="" startTime="20225" endTime="20625"></Effect>
+        <Effect label="" startTime="20625" endTime="21025"></Effect>
+        <Effect label="" startTime="21025" endTime="21425"></Effect>
+        <Effect label="" startTime="21425" endTime="21850"></Effect>
+        <Effect label="" startTime="21850" endTime="22250"></Effect>
+        <Effect label="" startTime="22250" endTime="22625"></Effect>
+        <Effect label="" startTime="22625" endTime="23025"></Effect>
+        <Effect label="" startTime="23025" endTime="23425"></Effect>
+        <Effect label="" startTime="23425" endTime="23825"></Effect>
+        <Effect label="" startTime="23825" endTime="24225"></Effect>
+        <Effect label="" startTime="24225" endTime="24650"></Effect>
+        <Effect label="" startTime="24650" endTime="25050"></Effect>
+        <Effect label="" startTime="25050" endTime="25450"></Effect>
+        <Effect label="" startTime="25450" endTime="25850"></Effect>
+        <Effect label="" startTime="25850" endTime="26250"></Effect>
+        <Effect label="" startTime="26250" endTime="26625"></Effect>
+        <Effect label="" startTime="26625" endTime="27025"></Effect>
+        <Effect label="" startTime="27025" endTime="27575"></Effect>
+        <Effect label="" startTime="27575" endTime="27975"></Effect>
+        <Effect label="" startTime="27975" endTime="28350"></Effect>
+        <Effect label="" startTime="28350" endTime="28750"></Effect>
+        <Effect label="" startTime="28750" endTime="29150"></Effect>
+        <Effect label="" startTime="29150" endTime="29550"></Effect>
+        <Effect label="" startTime="29550" endTime="29950"></Effect>
+        <Effect label="" startTime="29950" endTime="30475"></Effect>
+        <Effect label="" startTime="30475" endTime="30875"></Effect>
+        <Effect label="" startTime="30875" endTime="31275"></Effect>
+        <Effect label="" startTime="31275" endTime="31650"></Effect>
+        <Effect label="" startTime="31650" endTime="32050"></Effect>
+        <Effect label="" startTime="32050" endTime="32450"></Effect>
+        <Effect label="" startTime="32450" endTime="32875"></Effect>
+        <Effect label="" startTime="32875" endTime="33275"></Effect>
+        <Effect label="" startTime="33275" endTime="33675"></Effect>
+        <Effect label="" startTime="33675" endTime="34050"></Effect>
+        <Effect label="" startTime="34050" endTime="34450"></Effect>
+        <Effect label="" startTime="34450" endTime="34850"></Effect>
+        <Effect label="" startTime="34850" endTime="35250"></Effect>
+        <Effect label="" startTime="35250" endTime="35700"></Effect>
+        <Effect label="" startTime="35700" endTime="36075"></Effect>
+        <Effect label="" startTime="36075" endTime="36475"></Effect>
+        <Effect label="" startTime="36475" endTime="36875"></Effect>
+        <Effect label="" startTime="36875" endTime="37275"></Effect>
+        <Effect label="" startTime="37275" endTime="37675"></Effect>
+        <Effect label="" startTime="37675" endTime="38050"></Effect>
+        <Effect label="" startTime="38050" endTime="38500"></Effect>
+        <Effect label="" startTime="38500" endTime="38900"></Effect>
+        <Effect label="" startTime="38900" endTime="39275"></Effect>
+        <Effect label="" startTime="39275" endTime="39675"></Effect>
+        <Effect label="" startTime="39675" endTime="40075"></Effect>
+        <Effect label="" startTime="40075" endTime="40475"></Effect>
+        <Effect label="" startTime="40475" endTime="40875"></Effect>
+        <Effect label="" startTime="40875" endTime="41250"></Effect>
+        <Effect label="" startTime="41250" endTime="41650"></Effect>
+        <Effect label="" startTime="41650" endTime="42025"></Effect>
+        <Effect label="" startTime="42025" endTime="42425"></Effect>
+        <Effect label="" startTime="42425" endTime="42825"></Effect>
+        <Effect label="" startTime="42825" endTime="43225"></Effect>
+        <Effect label="" startTime="43225" endTime="43625"></Effect>
+        <Effect label="" startTime="43625" endTime="44025"></Effect>
+        <Effect label="" startTime="44025" endTime="44425"></Effect>
+        <Effect label="" startTime="44425" endTime="44800"></Effect>
+        <Effect label="" startTime="44800" endTime="45200"></Effect>
+        <Effect label="" startTime="45200" endTime="45600"></Effect>
+        <Effect label="" startTime="45600" endTime="46000"></Effect>
+        <Effect label="" startTime="46000" endTime="46525"></Effect>
+        <Effect label="" startTime="46525" endTime="46925"></Effect>
+        <Effect label="" startTime="46925" endTime="47325"></Effect>
+        <Effect label="" startTime="47325" endTime="47700"></Effect>
+        <Effect label="" startTime="47700" endTime="48100"></Effect>
+        <Effect label="" startTime="48100" endTime="48500"></Effect>
+        <Effect label="" startTime="48500" endTime="48900"></Effect>
+        <Effect label="" startTime="48900" endTime="49325"></Effect>
+        <Effect label="" startTime="49325" endTime="49725"></Effect>
+        <Effect label="" startTime="49725" endTime="50125"></Effect>
+        <Effect label="" startTime="50125" endTime="50525"></Effect>
+        <Effect label="" startTime="50525" endTime="50900"></Effect>
+        <Effect label="" startTime="50900" endTime="51300"></Effect>
+        <Effect label="" startTime="51300" endTime="51700"></Effect>
+        <Effect label="" startTime="51700" endTime="52150"></Effect>
+        <Effect label="" startTime="52150" endTime="52550"></Effect>
+        <Effect label="" startTime="52550" endTime="52950"></Effect>
+        <Effect label="" startTime="52950" endTime="53325"></Effect>
+        <Effect label="" startTime="53325" endTime="53725"></Effect>
+        <Effect label="" startTime="53725" endTime="54100"></Effect>
+        <Effect label="" startTime="54100" endTime="54500"></Effect>
+        <Effect label="" startTime="54500" endTime="54950"></Effect>
+        <Effect label="" startTime="54950" endTime="55350"></Effect>
+        <Effect label="" startTime="55350" endTime="55725"></Effect>
+        <Effect label="" startTime="55725" endTime="56125"></Effect>
+        <Effect label="" startTime="56125" endTime="56525"></Effect>
+        <Effect label="" startTime="56525" endTime="56925"></Effect>
+        <Effect label="" startTime="56925" endTime="57375"></Effect>
+        <Effect label="" startTime="57375" endTime="57750"></Effect>
+        <Effect label="" startTime="57750" endTime="58150"></Effect>
+        <Effect label="" startTime="58150" endTime="58550"></Effect>
+        <Effect label="" startTime="58550" endTime="58925"></Effect>
+        <Effect label="" startTime="58925" endTime="59325"></Effect>
+        <Effect label="" startTime="59325" endTime="59725"></Effect>
+        <Effect label="" startTime="59725" endTime="60150"></Effect>
+        <Effect label="" startTime="60150" endTime="60550"></Effect>
+        <Effect label="" startTime="60550" endTime="60950"></Effect>
+        <Effect label="" startTime="60950" endTime="61350"></Effect>
+        <Effect label="" startTime="61350" endTime="61750"></Effect>
+        <Effect label="" startTime="61750" endTime="62125"></Effect>
+        <Effect label="" startTime="62125" endTime="62525"></Effect>
+        <Effect label="" startTime="62525" endTime="62900"></Effect>
+        <Effect label="" startTime="62900" endTime="63275"></Effect>
+        <Effect label="" startTime="63275" endTime="63675"></Effect>
+        <Effect label="" startTime="63675" endTime="64075"></Effect>
+        <Effect label="" startTime="64075" endTime="64475"></Effect>
+        <Effect label="" startTime="64475" endTime="64875"></Effect>
+        <Effect label="" startTime="64875" endTime="65250"></Effect>
+        <Effect label="" startTime="65250" endTime="65600"></Effect>
+        <Effect label="" startTime="65600" endTime="66000"></Effect>
+        <Effect label="" startTime="66000" endTime="66400"></Effect>
+        <Effect label="" startTime="66400" endTime="66775"></Effect>
+        <Effect label="" startTime="66775" endTime="67175"></Effect>
+        <Effect label="" startTime="67175" endTime="67575"></Effect>
+        <Effect label="" startTime="67575" endTime="67975"></Effect>
+        <Effect label="" startTime="67975" endTime="68400"></Effect>
+        <Effect label="" startTime="68400" endTime="68800"></Effect>
+        <Effect label="" startTime="68800" endTime="69175"></Effect>
+        <Effect label="" startTime="69175" endTime="69575"></Effect>
+        <Effect label="" startTime="69575" endTime="69975"></Effect>
+        <Effect label="" startTime="69975" endTime="70375"></Effect>
+        <Effect label="" startTime="70375" endTime="70750"></Effect>
+        <Effect label="" startTime="70750" endTime="71000"></Effect>
+        <Effect label="" startTime="71000" endTime="71400"></Effect>
+        <Effect label="" startTime="71400" endTime="71800"></Effect>
+        <Effect label="" startTime="71800" endTime="72200"></Effect>
+        <Effect label="" startTime="72200" endTime="72575"></Effect>
+        <Effect label="" startTime="72575" endTime="72975"></Effect>
+        <Effect label="" startTime="72975" endTime="73375"></Effect>
+        <Effect label="" startTime="73375" endTime="73750"></Effect>
+        <Effect label="" startTime="73750" endTime="74150"></Effect>
+        <Effect label="" startTime="74150" endTime="74550"></Effect>
+        <Effect label="" startTime="74550" endTime="74950"></Effect>
+        <Effect label="" startTime="74950" endTime="75350"></Effect>
+        <Effect label="" startTime="75350" endTime="75725"></Effect>
+        <Effect label="" startTime="75725" endTime="76125"></Effect>
+        <Effect label="" startTime="76125" endTime="76500"></Effect>
+        <Effect label="" startTime="76500" endTime="76900"></Effect>
+        <Effect label="" startTime="76900" endTime="77300"></Effect>
+        <Effect label="" startTime="77300" endTime="77700"></Effect>
+        <Effect label="" startTime="77700" endTime="78100"></Effect>
+        <Effect label="" startTime="78100" endTime="78475"></Effect>
+        <Effect label="" startTime="78475" endTime="78875"></Effect>
+        <Effect label="" startTime="78875" endTime="79450"></Effect>
+        <Effect label="" startTime="79450" endTime="79850"></Effect>
+        <Effect label="" startTime="79850" endTime="80225"></Effect>
+        <Effect label="" startTime="80225" endTime="80625"></Effect>
+        <Effect label="" startTime="80625" endTime="81025"></Effect>
+        <Effect label="" startTime="81025" endTime="81425"></Effect>
+        <Effect label="" startTime="81425" endTime="81825"></Effect>
+        <Effect label="" startTime="81825" endTime="82250"></Effect>
+        <Effect label="" startTime="82250" endTime="82625"></Effect>
+        <Effect label="" startTime="82625" endTime="83025"></Effect>
+        <Effect label="" startTime="83025" endTime="83425"></Effect>
+        <Effect label="" startTime="83425" endTime="83825"></Effect>
+        <Effect label="" startTime="83825" endTime="84225"></Effect>
+        <Effect label="" startTime="84225" endTime="84650"></Effect>
+        <Effect label="" startTime="84650" endTime="85050"></Effect>
+        <Effect label="" startTime="85050" endTime="85450"></Effect>
+        <Effect label="" startTime="85450" endTime="85825"></Effect>
+        <Effect label="" startTime="85825" endTime="86225"></Effect>
+        <Effect label="" startTime="86225" endTime="86625"></Effect>
+        <Effect label="" startTime="86625" endTime="87025"></Effect>
+        <Effect label="" startTime="87025" endTime="87450"></Effect>
+        <Effect label="" startTime="87450" endTime="87850"></Effect>
+        <Effect label="" startTime="87850" endTime="88250"></Effect>
+        <Effect label="" startTime="88250" endTime="88650"></Effect>
+        <Effect label="" startTime="88650" endTime="89025"></Effect>
+        <Effect label="" startTime="89025" endTime="89425"></Effect>
+        <Effect label="" startTime="89425" endTime="89825"></Effect>
+        <Effect label="" startTime="89825" endTime="90275"></Effect>
+        <Effect label="" startTime="90275" endTime="90675"></Effect>
+        <Effect label="" startTime="90675" endTime="91050"></Effect>
+        <Effect label="" startTime="91050" endTime="91450"></Effect>
+        <Effect label="" startTime="91450" endTime="91850"></Effect>
+        <Effect label="" startTime="91850" endTime="92250"></Effect>
+        <Effect label="" startTime="92250" endTime="92650"></Effect>
+        <Effect label="" startTime="92650" endTime="93075"></Effect>
+        <Effect label="" startTime="93075" endTime="93475"></Effect>
+        <Effect label="" startTime="93475" endTime="93875"></Effect>
+        <Effect label="" startTime="93875" endTime="94250"></Effect>
+        <Effect label="" startTime="94250" endTime="94650"></Effect>
+        <Effect label="" startTime="94650" endTime="95050"></Effect>
+        <Effect label="" startTime="95050" endTime="95450"></Effect>
+        <Effect label="" startTime="95450" endTime="95800"></Effect>
+        <Effect label="" startTime="95800" endTime="96200"></Effect>
+        <Effect label="" startTime="96200" endTime="96575"></Effect>
+        <Effect label="" startTime="96575" endTime="96975"></Effect>
+        <Effect label="" startTime="96975" endTime="97375"></Effect>
+        <Effect label="" startTime="97375" endTime="97775"></Effect>
+        <Effect label="" startTime="97775" endTime="98175"></Effect>
+        <Effect label="" startTime="98175" endTime="98300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H--ALL-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-ROOF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-FRAMES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--ALL-SNOWFLAKES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-ALL">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-WINDOWS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-ALL">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-DOOR">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-RIGHT-SF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-LEFT-SF">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-Window-B4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-TREES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-BUSHES">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H---ALL-NON-PIXELS">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--BOTTOM-GARAGE-DOOR">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--TOP-Window-T0">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H--YARD-Arch-All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R2-3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-R1-Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L2- 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-SF-L1-Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Window-B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Porch-Roof-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Roof-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Roof-T-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Roof-T-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Porch-Roof-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Roof-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Color-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Color-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Trees-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Star-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Yard-Bushes-Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-Windows-T0">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Garage-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-RoofAddon-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-House-RoofAddon-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Wreath">
+      <EffectLayer>
+        <Effect ref="0" name="Morph" startTime="500" endTime="3500" palette="0"/>
+        <Effect ref="1" name="Butterfly" id="1" startTime="12775" endTime="13175" palette="1"/>
+        <Effect ref="2" name="Piano" id="2" startTime="13175" endTime="13575" palette="2"/>
+        <Effect ref="3" name="Tree" id="3" startTime="13575" endTime="13925" palette="3"/>
+        <Effect ref="4" name="Marquee" id="4" startTime="13925" endTime="14325" palette="4"/>
+        <Effect ref="5" name="Shockwave" id="5" startTime="14325" endTime="14725" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H-Arch-1-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-1-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-1-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-2-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-3-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-4-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-5-out">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-in">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H-Arch-6-out">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
