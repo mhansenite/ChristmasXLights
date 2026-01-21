@@ -445,7 +445,7 @@
         <Effect ref="0" name="Color Wash" id="14" startTime="10700" endTime="11075" palette="15"/>
         <Effect ref="9" name="Bars" id="15" startTime="11075" endTime="11475" palette="16"/>
         <Effect ref="0" name="Color Wash" id="16" startTime="11475" endTime="11850" palette="15"/>
-        <Effect ref="9" name="Bars" id="17" startTime="11850" endTime="12200" palette="16"/>
+        <Effect ref="9" name="Bars" selected="1" id="17" startTime="11850" endTime="12200" palette="16"/>
         <Effect ref="0" name="Color Wash" id="18" startTime="12200" endTime="12600" palette="15"/>
         <Effect ref="9" name="Bars" id="19" startTime="12600" endTime="12975" palette="16"/>
         <Effect ref="0" name="Color Wash" id="20" startTime="12975" endTime="13725" palette="3"/>
