@@ -5,15 +5,15 @@
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
-    <song>Angels We Have Heard on High</song>
-    <artist>One Voice Children&amp;apos;s Choir</artist>
-    <album>Joy</album>
+    <song>Full of Cheer</song>
+    <artist>Home Free</artist>
+    <album>Full Of (Even More) Cheer</album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/OneVoice - Angels We Have Heard on High.mp3</mediaFile>
-    <sequenceDuration>91.275</sequenceDuration>
+    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/HomeFree_Full_of_Cheer.mp3</mediaFile>
+    <sequenceDuration>104.645</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
@@ -23,29 +23,60 @@
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
-    <Element collapsed="0" type="model" name="Arch-6" visible="1"/>
+    <Element collapsed="0" type="model" name="All-DumbLights" visible="1"/>
+    <Element collapsed="0" type="model" name="All-Pixles" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-1-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-1-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-1-3-small" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-2-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-2-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-2-3-small" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-3-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-3-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-3-3-small" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-4-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-4-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-4-3-small" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-5-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-5-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-5-3-small" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-6-1-large" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-6-2-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-6-3-small" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-All" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-Large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-medium" visible="1"/>
     <Element collapsed="0" type="model" name="Arch-Small" visible="1"/>
-    <Element collapsed="0" type="model" name="Frames-Edge-All-Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-medium" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-Left-Color" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-Left-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-Right-Color" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-Right-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes-color" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Garage-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-House-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Bottom-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Bottom-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Bottom-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Bottom-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Top-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Top-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Frame-Window-Top-3" visible="1"/>
     <Element collapsed="0" type="model" name="Frames" visible="1"/>
-    <Element collapsed="0" type="model" name="Frames-Edge-All-Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Frames-Edge-All-Top" visible="1"/>
-    <Element collapsed="0" type="model" name="Frames-Edge-All-Bottom" visible="1"/>
-    <Element collapsed="0" type="model" name="All-Pixles" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlakes-Left" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlakes-Right" visible="1"/>
     <Element collapsed="0" type="model" name="Frames-All-Bottom" visible="1"/>
     <Element collapsed="0" type="model" name="Frames-All-Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Frames-Edge-All-Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Frames-Edge-All-Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Frames-Edge-All-Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Frames-Edge-All-Top" visible="1"/>
     <Element collapsed="0" type="model" name="Frames-Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="PPD Wreath" visible="1"/>
     <Element collapsed="0" type="model" name="PPD Wreath Center Piece" visible="1"/>
     <Element collapsed="0" type="model" name="PPD Wreath Center Rings" visible="1"/>
     <Element collapsed="0" type="model" name="PPD Wreath DiamondArms" visible="1"/>
@@ -56,84 +87,111 @@
     <Element collapsed="0" type="model" name="PPD Wreath Spiral Clockwise" visible="1"/>
     <Element collapsed="0" type="model" name="PPD Wreath Star" visible="1"/>
     <Element collapsed="0" type="model" name="PPD Wreath Star Offset" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rings" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-Green" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-color" visible="1"/>
-    <Element collapsed="0" type="model" name="PPD Wreath" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-6-3-small" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-5-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-6-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-6-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-5-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-4-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-3-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-2-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-1-1-large" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-1-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-1-3-small" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-R4-2 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-R2-3 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-R3-Arrow" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-R1-Diamond" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-L3-Arrow" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-L4-2 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-L2- 3 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="SnowFlake-L1-Diamond" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Top-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Top-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Bottom-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Bottom-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Bottom-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Bottom-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-House-Door" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-BottomRight-Green" visible="1"/>
     <Element collapsed="0" type="model" name="Roof-BottomLeft-Green" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-TopRight-Green" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-TopRight-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Roof-BottomRight-White" visible="1"/>
     <Element collapsed="0" type="model" name="Roof-BottomLeft-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-Left-Color" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-Right-Color" visible="1"/>
-    <Element collapsed="0" type="model" name="H-Yard-Trees-3" visible="1"/>
-    <Element collapsed="0" type="model" name="H-Yard-Trees-1" visible="1"/>
-    <Element collapsed="0" type="model" name="H-Yard-Trees-2" visible="1"/>
-    <Element collapsed="0" type="model" name="H-Yard-Trees-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-Left-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes-Right-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Window-Top-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Frame-Garage-Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-BottomRight-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-BottomRight-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-Green" visible="1"/>
     <Element collapsed="0" type="model" name="Roof-TopLeft-Green" visible="1"/>
     <Element collapsed="0" type="model" name="Roof-TopLeft-White" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-2-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-3-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-4-2-medium" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-2-3-small" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-3-3-small" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-4-3-small" visible="1"/>
-    <Element collapsed="0" type="model" name="Arch-5-3-small" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-TopRight-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-TopRight-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof-White" visible="1"/>
+    <Element collapsed="0" type="model" name="RoofLines-All" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-L1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-L2- 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-L3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-L4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-R1-Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-R2-3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-R3-Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlake-R4-2 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlakes-Left" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlakes-Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath Rings" visible="1"/>
   </DisplayElements>
   <ElementEffects>
-    <Element type="timing" name="New Timing">
+    <Element type="model" name="All-DumbLights">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-6">
+    <Element type="model" name="All-Pixles">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Arch-1">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Arch-1-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-1-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-1-3-small">
+      <EffectLayer/>
+    </Element>
     <Element type="model" name="Arch-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-2-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-2-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-2-3-small">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Arch-3">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Arch-3-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-3-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-3-3-small">
+      <EffectLayer/>
+    </Element>
     <Element type="model" name="Arch-4">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Arch-4-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-4-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-4-3-small">
+      <EffectLayer/>
+    </Element>
     <Element type="model" name="Arch-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-5-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-5-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-5-3-small">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-6-1-large">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-6-2-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-6-3-small">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Arch-All">
@@ -142,37 +200,58 @@
     <Element type="model" name="Arch-Large">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-medium">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Arch-Small">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Frames-Edge-All-Right">
+    <Element type="model" name="Arch-medium">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-Left-Color">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-Left-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-Right-Color">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-Right-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes-color">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Garage-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-House-Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Top-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Top-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frame-Window-Top-3">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Frames">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frames-Edge-All-Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frames-Edge-All-Top">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frames-Edge-All-Bottom">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="All-Pixles">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflakes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlakes-Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlakes-Right">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Frames-All-Bottom">
@@ -181,7 +260,22 @@
     <Element type="model" name="Frames-All-Top">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Frames-Edge-All-Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Top">
+      <EffectLayer/>
+    </Element>
     <Element type="model" name="Frames-Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="PPD Wreath">
       <EffectLayer/>
     </Element>
     <Element type="model" name="PPD Wreath Center Piece">
@@ -214,148 +308,19 @@
     <Element type="model" name="PPD Wreath Star Offset">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Wreath Rings">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-Green">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-White">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes-White">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes-color">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="PPD Wreath">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-6-3-small">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-5-2-medium">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-6-2-medium">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-6-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-5-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-4-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-3-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-2-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-1-1-large">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-1-2-medium">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Arch-1-3-small">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-R4-2 prong">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-R2-3 prong">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-R3-Arrow">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-R1-Diamond">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-L3-Arrow">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-L4-2 prong">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-L2- 3 prong">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="SnowFlake-L1-Diamond">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Top-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Top-3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Bottom-4">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Bottom-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Bottom-1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Bottom-3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-House-Door">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-BottomRight-Green">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Roof-BottomLeft-Green">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-TopRight-Green">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-TopRight-White">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Roof-BottomRight-White">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Roof-BottomLeft-White">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bushes-Left-Color">
+    <Element type="model" name="Roof-BottomRight-Green">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bushes-Right-Color">
+    <Element type="model" name="Roof-BottomRight-White">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="H-Yard-Trees-3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="H-Yard-Trees-1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="H-Yard-Trees-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="H-Yard-Trees-4">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes-Left-White">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes-Right-White">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Window-Top-1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Frame-Garage-Door">
+    <Element type="model" name="Roof-Green">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Roof-TopLeft-Green">
@@ -364,25 +329,64 @@
     <Element type="model" name="Roof-TopLeft-White">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-2-2-medium">
+    <Element type="model" name="Roof-TopRight-Green">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-3-2-medium">
+    <Element type="model" name="Roof-TopRight-White">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-4-2-medium">
+    <Element type="model" name="Roof-White">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-2-3-small">
+    <Element type="model" name="RoofLines-All">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-3-3-small">
+    <Element type="model" name="SnowFlake-L1-Diamond">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-4-3-small">
+    <Element type="model" name="SnowFlake-L2- 3 prong">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Arch-5-3-small">
+    <Element type="model" name="SnowFlake-L3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlake-L4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlake-R1-Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlake-R2-3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlake-R3-Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlake-R4-2 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlakes-Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlakes-Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath Rings">
       <EffectLayer/>
     </Element>
   </ElementEffects>

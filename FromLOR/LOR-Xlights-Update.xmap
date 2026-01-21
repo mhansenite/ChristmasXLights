@@ -1,0 +1,146 @@
+false
+67
+All-DumbLights
+Bushes-Left-Color
+Bushes-Left-White
+Bushes-Right-Color
+Bushes-Right-White
+Roof-BottomLeft-Green
+Roof-BottomLeft-White
+Roof-BottomRight-Green
+Roof-BottomRight-White
+Roof-TopLeft-Green
+Roof-TopLeft-White
+Roof-TopRight-Green
+Roof-TopRight-White
+Tree-1
+Tree-2
+Tree-3
+Tree-4
+All-Pixles
+Arch-1-1-large
+Arch-1-2-medium
+Arch-1-3-small
+Arch-2-1-large
+Arch-2-2-medium
+Arch-2-3-small
+Arch-3-1-large
+Arch-3-2-medium
+Arch-3-3-small
+Arch-4-1-large
+Arch-4-2-medium
+Arch-4-3-small
+Arch-5-1-large
+Arch-5-2-medium
+Arch-5-3-small
+Arch-6-1-large
+Arch-6-2-medium
+Arch-6-3-small
+Frame-Garage-Door
+Frame-House-Door
+Frame-Window-Bottom-1
+Frame-Window-Bottom-2
+Frame-Window-Bottom-3
+Frame-Window-Bottom-4
+Frame-Window-Top-1
+Frame-Window-Top-2
+Frame-Window-Top-3
+SnowFlake-L1-Diamond
+SnowFlake-L2- 3 prong
+SnowFlake-L3-Arrow
+SnowFlake-L4-2 prong
+SnowFlake-R1-Diamond
+SnowFlake-R2-3 prong
+SnowFlake-R3-Arrow
+SnowFlake-R4-2 prong
+Arch-1
+Arch-2
+Arch-3
+Arch-4
+Arch-5
+Arch-6
+Arch-All
+Frames
+Frames-All-Bottom
+Frames-All-Top
+Frames-Windows
+PPD Wreath
+RoofLines-All
+Snowflakes
+All-DumbLights			H---ALL-NON-PIXELS	white
+Bushes-Left-Color			H-Yard-Bushes-Color-1	white
+Bushes-Left-White			H-Yard-Bushes-Star-1	white
+Bushes-Right-Color			H-Yard-Bushes-Color-2	white
+Bushes-Right-White			H-Yard-Bushes-Star-2	white
+Roof-BottomLeft-Green			H-Garage-Roof-Green	white
+Roof-BottomLeft-White			H-Garage-Roof-White	white
+Roof-BottomRight-Green			H-Porch-Roof-Green	white
+Roof-BottomRight-White			H-Porch-Roof-White	white
+Roof-TopLeft-Green			H-House-RoofAddon-Green	white
+Roof-TopLeft-White			H-House-RoofAddon-White	white
+Roof-TopRight-Green			H-House-Roof-T-Green	white
+Roof-TopRight-White			H-House-Roof-T-White	white
+Tree-1			H-Yard-Trees-1	white
+Tree-2			H-Yard-Trees-2	white
+Tree-3			H-Yard-Trees-3	white
+Tree-4			H-Yard-Trees-4	white
+All-Pixles			H---ALL PIXELS	white
+Arch-1-1-large			H-Arch-1-out	white
+Arch-1-2-medium			H-Arch-1-mid	white
+Arch-1-3-small			H-Arch-1-in	white
+Arch-2-1-large			H-Arch-2-out	white
+Arch-2-2-medium			H-Arch-2-mid	white
+Arch-2-3-small			H-Arch-2-in	white
+Arch-3-1-large			H-Arch-3-out	white
+Arch-3-2-medium			H-Arch-3-mid	white
+Arch-3-3-small			H-Arch-3-in	white
+Arch-4-1-large			H-Arch-4-out	white
+Arch-4-2-medium			H-Arch-4-mid	white
+Arch-4-3-small			H-Arch-4-in	white
+Arch-5-1-large			H-Arch-5-out	white
+Arch-5-2-medium			H-Arch-5-mid	white
+Arch-5-3-small			H-Arch-5-in	white
+Arch-6-1-large			H-Arch-6-out	white
+Arch-6-2-medium			H-Arch-6-mid	white
+Arch-6-3-small			H-Arch-6-in	white
+Frame-Garage-Door			H-Garage-Door	white
+Frame-House-Door			H-House-Door	white
+Frame-Window-Bottom-1			H--BOTTOM-Window-B1	white
+Frame-Window-Bottom-1	Strand 1		H-House-Window-B1	white
+Frame-Window-Bottom-2			H--BOTTOM-Window-B2	white
+Frame-Window-Bottom-2	Strand 1		H-House-Window-B2	white
+Frame-Window-Bottom-3			H--BOTTOM-Window-B3	white
+Frame-Window-Bottom-3	Strand 1		H-House-Window-B3	white
+Frame-Window-Bottom-4			H--BOTTOM-Window-B4	white
+Frame-Window-Bottom-4	Strand 1		H-House-Window-B4	white
+Frame-Window-Top-1			H--TOP-Window-T0	white
+Frame-Window-Top-1	Strand 1		H-House-Windows-T0	white
+Frame-Window-Top-2			H--TOP-Window-T1	white
+Frame-Window-Top-2	Strand 1		H-House-Windows-T1	white
+Frame-Window-Top-3			H-House-Windows-T2	white
+SnowFlake-L1-Diamond			H-Garage-SF-L1-Diamond	white
+SnowFlake-L2- 3 prong			H-Garage-SF-L2- 3 prong	white
+SnowFlake-L3-Arrow			H-Garage-SF-L3-Arrow	white
+SnowFlake-L4-2 prong			H-Garage-SF-L4-2 prong	white
+SnowFlake-R1-Diamond			H-Garage-SF-R1-Diamond	white
+SnowFlake-R2-3 prong			H-Garage-SF-R2-3 prong	white
+SnowFlake-R3-Arrow			H-Garage-SF-R3-Arrow	white
+SnowFlake-R4-2 prong			H-Garage-SF-R4-2 prong	white
+Arch-1			H--YARD-Arch-1	white
+Arch-2			H--YARD-Arch-2	white
+Arch-3			H--YARD-Arch-3	white
+Arch-4			H--YARD-Arch-4	white
+Arch-5			H--YARD-Arch-5	white
+Arch-6			H--YARD-Arch-6	white
+Arch-All			H--YARD-Arch-All	white
+Frames			H--ALL-FRAMES	white
+Frames-All-Bottom			H--BOTTOM-ALL	white
+Frames-All-Top			H--TOP-ALL	white
+Frames-Windows			H--ALL-WINDOWS	white
+PPD Wreath			H-Wreath	white
+RoofLines-All			H--ALL-ROOF	white
+Snowflakes			H--ALL-SNOWFLAKES	white
+H-Yard-Trees-1			H-Yard-Trees-1	white
+H-Yard-Trees-2			H-Yard-Trees-2	white
+H-Yard-Trees-3			H-Yard-Trees-3	white
+H-Yard-Trees-4			H-Yard-Trees-4	white
