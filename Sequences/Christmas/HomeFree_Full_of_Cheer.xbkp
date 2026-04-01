@@ -53,6 +53,7 @@
     <ColorPalette>C_BUTTON_Palette1=#2A3B90,C_BUTTON_Palette2=#388953,C_BUTTON_Palette3=#C0C0C0,C_BUTTON_Palette4=#FFC31F,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=32.00|P2=11.00|RV=TRUE|</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#2A3B90,C_BUTTON_Palette2=#388953,C_BUTTON_Palette3=#C0C0C0,C_BUTTON_Palette4=#FFC31F,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#2A3B90,C_BUTTON_Palette2=#183A23,C_BUTTON_Palette3=#C0C0C0,C_BUTTON_Palette4=#FFC31F,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
@@ -62,6 +63,7 @@
     <ColorPalette>C_BUTTON_Palette1=#2A3B90,C_BUTTON_Palette2=#388953,C_BUTTON_Palette3=#C0C0C0,C_BUTTON_Palette4=#FFC31F,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_SparkleFrequency=74</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#2A3B90,C_BUTTON_Palette2=#183A23,C_BUTTON_Palette3=#C0C0C0,C_BUTTON_Palette4=#FFC31F,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_SparkleFrequency=74</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0.0,E_TEXTCTRL_Curtain_Speed=1.6,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=22</Effect>
@@ -80,6 +82,7 @@
     <Effect>T_SLIDER_EffectLayerMix=26</Effect>
     <Effect>E_CHOICE_Falling=Falling &amp;amp; Accumulating,E_SLIDER_Snowflakes_Count=67,E_SLIDER_Snowflakes_Speed=22,E_SLIDER_Snowflakes_Type=5,E_SLIDER_Snowflakes_WarmupFrames=0</Effect>
     <Effect>T_SLIDER_EffectLayerMix=22</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=Sweep,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=223,E_SLIDER_Pinwheel_Arms=13,E_SLIDER_Pinwheel_Offset=226,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=66,E_SLIDER_Pinwheel_Twist=316</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/mike/git/personal/ChristmasXLights/Images/Christmas/Full of Cheer/crimmas.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.8,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=31,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=-360</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=31,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=-360</Effect>
@@ -2155,8 +2158,8 @@
     <Element type="model" name="Frames-All-Top">
       <EffectLayer>
         <Effect ref="15" name="Color Wash" startTime="1400" endTime="3800" palette="32"/>
-        <Effect ref="5" name="Color Wash" id="2" startTime="61200" endTime="61400" palette="2"/>
-        <Effect ref="5" name="Color Wash" id="3" startTime="61600" endTime="61900" palette="2"/>
+        <Effect ref="5" name="Color Wash" id="1" startTime="61200" endTime="61400" palette="2"/>
+        <Effect ref="5" name="Color Wash" id="2" startTime="61600" endTime="61900" palette="2"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="14" name="Snowflakes" startTime="1400" endTime="3825" palette="33"/>
@@ -2179,15 +2182,16 @@
     </Element>
     <Element type="model" name="PPD Wreath">
       <EffectLayer>
-        <Effect ref="16" name="Pictures" startTime="8700" endTime="15500" palette="34"/>
-        <Effect ref="17" name="Pinwheel" id="1" startTime="42025" endTime="46025" palette="35"/>
-        <Effect ref="18" name="Pinwheel" id="2" startTime="46025" endTime="50025" palette="35"/>
-        <Effect ref="17" name="Pinwheel" id="3" startTime="50025" endTime="52025" palette="35"/>
-        <Effect ref="19" name="Sketch" selected="1" id="4" startTime="52025" endTime="54025" palette="36"/>
-        <Effect ref="9" name="Color Wash" id="5" startTime="54300" endTime="54600" palette="37"/>
-        <Effect ref="9" name="Color Wash" id="6" startTime="60200" endTime="60500" palette="37"/>
-        <Effect ref="20" name="Pinwheel" id="7" startTime="87800" endTime="99800" palette="38"/>
-        <Effect ref="9" name="Color Wash" id="8" startTime="100100" endTime="100400" palette="37"/>
+        <Effect ref="16" name="Pinwheel" startTime="3400" endTime="3875" palette="34"/>
+        <Effect ref="17" name="Pictures" id="1" startTime="8700" endTime="15500" palette="35"/>
+        <Effect ref="18" name="Pinwheel" id="2" startTime="42025" endTime="46025" palette="36"/>
+        <Effect ref="19" name="Pinwheel" id="3" startTime="46025" endTime="50025" palette="36"/>
+        <Effect ref="18" name="Pinwheel" id="4" startTime="50025" endTime="52025" palette="36"/>
+        <Effect ref="20" name="Sketch" id="5" startTime="52025" endTime="54025" palette="37"/>
+        <Effect ref="9" name="Color Wash" id="6" startTime="54300" endTime="54600" palette="38"/>
+        <Effect ref="9" name="Color Wash" id="7" startTime="60200" endTime="60500" palette="38"/>
+        <Effect ref="21" name="Pinwheel" id="8" startTime="87800" endTime="99800" palette="39"/>
+        <Effect ref="9" name="Color Wash" id="9" startTime="100100" endTime="100400" palette="38"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath Center Piece">
@@ -2198,7 +2202,7 @@
     </Element>
     <Element type="model" name="PPD Wreath DiamondArms">
       <EffectLayer>
-        <Effect ref="21" name="Curtain" startTime="32200" endTime="40900" palette="39"/>
+        <Effect ref="22" name="Curtain" startTime="32200" endTime="40900" palette="40"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath Outer Diamonds">
@@ -2224,22 +2228,22 @@
     </Element>
     <Element type="model" name="Roof-BottomLeft-Green">
       <EffectLayer>
-        <Effect ref="22" name="On" startTime="4500" endTime="4800" palette="19"/>
+        <Effect ref="23" name="On" startTime="4500" endTime="4800" palette="19"/>
         <Effect ref="12" name="On" id="1" startTime="4800" endTime="6000" palette="19"/>
         <Effect ref="11" name="On" id="2" startTime="6000" endTime="6100" palette="19"/>
-        <Effect ref="22" name="On" id="3" startTime="9300" endTime="9600" palette="19"/>
+        <Effect ref="23" name="On" id="3" startTime="9300" endTime="9600" palette="19"/>
         <Effect ref="12" name="On" id="4" startTime="9600" endTime="10700" palette="19"/>
         <Effect ref="11" name="On" id="5" startTime="10700" endTime="10800" palette="19"/>
-        <Effect ref="22" name="On" id="6" startTime="14100" endTime="14400" palette="19"/>
+        <Effect ref="23" name="On" id="6" startTime="14100" endTime="14400" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="14400" endTime="15600" palette="19"/>
         <Effect ref="11" name="On" id="8" startTime="15600" endTime="15700" palette="19"/>
-        <Effect ref="22" name="On" id="9" startTime="18900" endTime="19200" palette="19"/>
+        <Effect ref="23" name="On" id="9" startTime="18900" endTime="19200" palette="19"/>
         <Effect ref="12" name="On" id="10" startTime="19200" endTime="20300" palette="19"/>
         <Effect ref="11" name="On" id="11" startTime="20300" endTime="20400" palette="19"/>
-        <Effect ref="22" name="On" id="12" startTime="23500" endTime="23800" palette="19"/>
+        <Effect ref="23" name="On" id="12" startTime="23500" endTime="23800" palette="19"/>
         <Effect ref="12" name="On" id="13" startTime="23800" endTime="25000" palette="19"/>
         <Effect ref="11" name="On" id="14" startTime="25000" endTime="25100" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="28300" endTime="28600" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="28300" endTime="28600" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="28600" endTime="29700" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="29700" endTime="29800" palette="19"/>
         <Effect ref="12" name="On" id="18" startTime="42000" endTime="42200" palette="19"/>
@@ -2342,22 +2346,22 @@
     <Element type="model" name="Roof-BottomLeft-White">
       <EffectLayer>
         <Effect ref="12" name="On" startTime="0" endTime="1400" palette="19"/>
-        <Effect ref="22" name="On" id="1" startTime="7000" endTime="7300" palette="19"/>
+        <Effect ref="23" name="On" id="1" startTime="7000" endTime="7300" palette="19"/>
         <Effect ref="12" name="On" id="2" startTime="7300" endTime="8400" palette="19"/>
         <Effect ref="11" name="On" id="3" startTime="8400" endTime="8500" palette="19"/>
-        <Effect ref="22" name="On" id="4" startTime="11700" endTime="12000" palette="19"/>
+        <Effect ref="23" name="On" id="4" startTime="11700" endTime="12000" palette="19"/>
         <Effect ref="12" name="On" id="5" startTime="12000" endTime="13100" palette="19"/>
         <Effect ref="11" name="On" id="6" startTime="13100" endTime="13200" palette="19"/>
-        <Effect ref="22" name="On" id="7" startTime="16600" endTime="16900" palette="19"/>
+        <Effect ref="23" name="On" id="7" startTime="16600" endTime="16900" palette="19"/>
         <Effect ref="12" name="On" id="8" startTime="16900" endTime="18000" palette="19"/>
         <Effect ref="11" name="On" id="9" startTime="18000" endTime="18100" palette="19"/>
-        <Effect ref="22" name="On" id="10" startTime="21300" endTime="21600" palette="19"/>
+        <Effect ref="23" name="On" id="10" startTime="21300" endTime="21600" palette="19"/>
         <Effect ref="12" name="On" id="11" startTime="21600" endTime="22700" palette="19"/>
         <Effect ref="11" name="On" id="12" startTime="22700" endTime="22800" palette="19"/>
-        <Effect ref="22" name="On" id="13" startTime="26000" endTime="26300" palette="19"/>
+        <Effect ref="23" name="On" id="13" startTime="26000" endTime="26300" palette="19"/>
         <Effect ref="12" name="On" id="14" startTime="26300" endTime="27400" palette="19"/>
         <Effect ref="11" name="On" id="15" startTime="27400" endTime="27500" palette="19"/>
-        <Effect ref="23" name="On" id="16" startTime="30700" endTime="31000" palette="18"/>
+        <Effect ref="24" name="On" id="16" startTime="30700" endTime="31000" palette="18"/>
         <Effect ref="12" name="On" id="17" startTime="31000" endTime="32100" palette="19"/>
         <Effect ref="11" name="On" id="18" startTime="32100" endTime="32200" palette="19"/>
         <Effect ref="12" name="On" id="19" startTime="42200" endTime="42400" palette="19"/>
@@ -2461,22 +2465,22 @@
     </Element>
     <Element type="model" name="Roof-BottomRight-Green">
       <EffectLayer>
-        <Effect ref="22" name="On" startTime="4500" endTime="4800" palette="19"/>
+        <Effect ref="23" name="On" startTime="4500" endTime="4800" palette="19"/>
         <Effect ref="12" name="On" id="1" startTime="4800" endTime="6000" palette="19"/>
         <Effect ref="11" name="On" id="2" startTime="6000" endTime="6100" palette="19"/>
-        <Effect ref="22" name="On" id="3" startTime="9300" endTime="9600" palette="19"/>
+        <Effect ref="23" name="On" id="3" startTime="9300" endTime="9600" palette="19"/>
         <Effect ref="12" name="On" id="4" startTime="9600" endTime="10700" palette="19"/>
         <Effect ref="11" name="On" id="5" startTime="10700" endTime="10800" palette="19"/>
-        <Effect ref="22" name="On" id="6" startTime="14100" endTime="14400" palette="19"/>
+        <Effect ref="23" name="On" id="6" startTime="14100" endTime="14400" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="14400" endTime="15600" palette="19"/>
         <Effect ref="11" name="On" id="8" startTime="15600" endTime="15700" palette="19"/>
-        <Effect ref="22" name="On" id="9" startTime="18900" endTime="19200" palette="19"/>
+        <Effect ref="23" name="On" id="9" startTime="18900" endTime="19200" palette="19"/>
         <Effect ref="12" name="On" id="10" startTime="19200" endTime="20300" palette="19"/>
         <Effect ref="11" name="On" id="11" startTime="20300" endTime="20400" palette="19"/>
-        <Effect ref="22" name="On" id="12" startTime="23500" endTime="23800" palette="19"/>
+        <Effect ref="23" name="On" id="12" startTime="23500" endTime="23800" palette="19"/>
         <Effect ref="12" name="On" id="13" startTime="23800" endTime="25000" palette="19"/>
         <Effect ref="11" name="On" id="14" startTime="25000" endTime="25100" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="28300" endTime="28600" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="28300" endTime="28600" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="28600" endTime="29700" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="29700" endTime="29800" palette="19"/>
         <Effect ref="12" name="On" id="18" startTime="42000" endTime="42200" palette="19"/>
@@ -2579,22 +2583,22 @@
     <Element type="model" name="Roof-BottomRight-White">
       <EffectLayer>
         <Effect ref="12" name="On" startTime="0" endTime="1400" palette="19"/>
-        <Effect ref="22" name="On" id="1" startTime="7000" endTime="7300" palette="19"/>
+        <Effect ref="23" name="On" id="1" startTime="7000" endTime="7300" palette="19"/>
         <Effect ref="12" name="On" id="2" startTime="7300" endTime="8400" palette="19"/>
         <Effect ref="11" name="On" id="3" startTime="8400" endTime="8500" palette="19"/>
-        <Effect ref="22" name="On" id="4" startTime="11700" endTime="12000" palette="19"/>
+        <Effect ref="23" name="On" id="4" startTime="11700" endTime="12000" palette="19"/>
         <Effect ref="12" name="On" id="5" startTime="12000" endTime="13100" palette="19"/>
         <Effect ref="11" name="On" id="6" startTime="13100" endTime="13200" palette="19"/>
-        <Effect ref="22" name="On" id="7" startTime="16600" endTime="16900" palette="19"/>
+        <Effect ref="23" name="On" id="7" startTime="16600" endTime="16900" palette="19"/>
         <Effect ref="12" name="On" id="8" startTime="16900" endTime="18000" palette="19"/>
         <Effect ref="11" name="On" id="9" startTime="18000" endTime="18100" palette="19"/>
-        <Effect ref="22" name="On" id="10" startTime="21300" endTime="21600" palette="19"/>
+        <Effect ref="23" name="On" id="10" startTime="21300" endTime="21600" palette="19"/>
         <Effect ref="12" name="On" id="11" startTime="21600" endTime="22700" palette="19"/>
         <Effect ref="11" name="On" id="12" startTime="22700" endTime="22800" palette="19"/>
-        <Effect ref="22" name="On" id="13" startTime="26000" endTime="26300" palette="19"/>
+        <Effect ref="23" name="On" id="13" startTime="26000" endTime="26300" palette="19"/>
         <Effect ref="12" name="On" id="14" startTime="26300" endTime="27400" palette="19"/>
         <Effect ref="11" name="On" id="15" startTime="27400" endTime="27500" palette="19"/>
-        <Effect ref="22" name="On" id="16" startTime="30700" endTime="31000" palette="19"/>
+        <Effect ref="23" name="On" id="16" startTime="30700" endTime="31000" palette="19"/>
         <Effect ref="12" name="On" id="17" startTime="31000" endTime="32100" palette="19"/>
         <Effect ref="11" name="On" id="18" startTime="32100" endTime="32200" palette="19"/>
         <Effect ref="12" name="On" id="19" startTime="42200" endTime="42400" palette="19"/>
@@ -2701,22 +2705,22 @@
     </Element>
     <Element type="model" name="Roof-TopLeft-Green">
       <EffectLayer>
-        <Effect ref="22" name="On" startTime="5100" endTime="5400" palette="19"/>
+        <Effect ref="23" name="On" startTime="5100" endTime="5400" palette="19"/>
         <Effect ref="12" name="On" id="1" startTime="5400" endTime="6000" palette="19"/>
         <Effect ref="11" name="On" id="2" startTime="6000" endTime="6100" palette="19"/>
-        <Effect ref="22" name="On" id="3" startTime="9900" endTime="10200" palette="19"/>
+        <Effect ref="23" name="On" id="3" startTime="9900" endTime="10200" palette="19"/>
         <Effect ref="12" name="On" id="4" startTime="10200" endTime="10700" palette="19"/>
         <Effect ref="11" name="On" id="5" startTime="10700" endTime="10800" palette="19"/>
-        <Effect ref="22" name="On" id="6" startTime="14700" endTime="15000" palette="19"/>
+        <Effect ref="23" name="On" id="6" startTime="14700" endTime="15000" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="15000" endTime="15600" palette="19"/>
         <Effect ref="11" name="On" id="8" startTime="15600" endTime="15700" palette="19"/>
-        <Effect ref="22" name="On" id="9" startTime="19500" endTime="19800" palette="19"/>
+        <Effect ref="23" name="On" id="9" startTime="19500" endTime="19800" palette="19"/>
         <Effect ref="12" name="On" id="10" startTime="19800" endTime="20300" palette="19"/>
         <Effect ref="11" name="On" id="11" startTime="20300" endTime="20400" palette="19"/>
-        <Effect ref="22" name="On" id="12" startTime="24100" endTime="24400" palette="19"/>
+        <Effect ref="23" name="On" id="12" startTime="24100" endTime="24400" palette="19"/>
         <Effect ref="12" name="On" id="13" startTime="24400" endTime="25000" palette="19"/>
         <Effect ref="11" name="On" id="14" startTime="25000" endTime="25100" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="28900" endTime="29200" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="28900" endTime="29200" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="29200" endTime="29700" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="29700" endTime="29800" palette="19"/>
         <Effect ref="12" name="On" id="18" startTime="42000" endTime="42200" palette="19"/>
@@ -2822,24 +2826,24 @@
     <Element type="model" name="Roof-TopLeft-White">
       <EffectLayer>
         <Effect ref="12" name="On" startTime="1400" endTime="3900" palette="19"/>
-        <Effect ref="22" name="On" id="1" startTime="7600" endTime="7900" palette="19"/>
+        <Effect ref="23" name="On" id="1" startTime="7600" endTime="7900" palette="19"/>
         <Effect ref="12" name="On" id="2" startTime="7900" endTime="8400" palette="19"/>
         <Effect ref="11" name="On" id="3" startTime="8400" endTime="8500" palette="19"/>
-        <Effect ref="22" name="On" id="4" startTime="12300" endTime="12600" palette="19"/>
+        <Effect ref="23" name="On" id="4" startTime="12300" endTime="12600" palette="19"/>
         <Effect ref="12" name="On" id="5" startTime="12600" endTime="13100" palette="19"/>
         <Effect ref="11" name="On" id="6" startTime="13100" endTime="13200" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="13400" endTime="13500" palette="19"/>
-        <Effect ref="22" name="On" id="8" startTime="17200" endTime="17500" palette="19"/>
+        <Effect ref="23" name="On" id="8" startTime="17200" endTime="17500" palette="19"/>
         <Effect ref="12" name="On" id="9" startTime="17500" endTime="18000" palette="19"/>
         <Effect ref="11" name="On" id="10" startTime="18000" endTime="18100" palette="19"/>
-        <Effect ref="22" name="On" id="11" startTime="21900" endTime="22200" palette="19"/>
+        <Effect ref="23" name="On" id="11" startTime="21900" endTime="22200" palette="19"/>
         <Effect ref="12" name="On" id="12" startTime="22200" endTime="22700" palette="19"/>
         <Effect ref="11" name="On" id="13" startTime="22700" endTime="22800" palette="19"/>
         <Effect ref="12" name="On" id="14" startTime="22800" endTime="22900" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="26600" endTime="26900" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="26600" endTime="26900" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="26900" endTime="27400" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="27400" endTime="27500" palette="19"/>
-        <Effect ref="22" name="On" id="18" startTime="31300" endTime="31600" palette="19"/>
+        <Effect ref="23" name="On" id="18" startTime="31300" endTime="31600" palette="19"/>
         <Effect ref="12" name="On" id="19" startTime="31600" endTime="32100" palette="19"/>
         <Effect ref="11" name="On" id="20" startTime="32100" endTime="32200" palette="19"/>
         <Effect ref="12" name="On" id="21" startTime="42200" endTime="42400" palette="19"/>
@@ -2945,22 +2949,22 @@
     </Element>
     <Element type="model" name="Roof-TopRight-Green">
       <EffectLayer>
-        <Effect ref="22" name="On" startTime="5100" endTime="5400" palette="19"/>
+        <Effect ref="23" name="On" startTime="5100" endTime="5400" palette="19"/>
         <Effect ref="12" name="On" id="1" startTime="5400" endTime="6000" palette="19"/>
         <Effect ref="11" name="On" id="2" startTime="6000" endTime="6100" palette="19"/>
-        <Effect ref="22" name="On" id="3" startTime="9900" endTime="10200" palette="19"/>
+        <Effect ref="23" name="On" id="3" startTime="9900" endTime="10200" palette="19"/>
         <Effect ref="12" name="On" id="4" startTime="10200" endTime="10700" palette="19"/>
         <Effect ref="11" name="On" id="5" startTime="10700" endTime="10800" palette="19"/>
-        <Effect ref="22" name="On" id="6" startTime="14700" endTime="15000" palette="19"/>
+        <Effect ref="23" name="On" id="6" startTime="14700" endTime="15000" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="15000" endTime="15600" palette="19"/>
         <Effect ref="11" name="On" id="8" startTime="15600" endTime="15700" palette="19"/>
-        <Effect ref="22" name="On" id="9" startTime="19500" endTime="19800" palette="19"/>
+        <Effect ref="23" name="On" id="9" startTime="19500" endTime="19800" palette="19"/>
         <Effect ref="12" name="On" id="10" startTime="19800" endTime="20300" palette="19"/>
         <Effect ref="11" name="On" id="11" startTime="20300" endTime="20400" palette="19"/>
-        <Effect ref="22" name="On" id="12" startTime="24100" endTime="24400" palette="19"/>
+        <Effect ref="23" name="On" id="12" startTime="24100" endTime="24400" palette="19"/>
         <Effect ref="12" name="On" id="13" startTime="24400" endTime="25000" palette="19"/>
         <Effect ref="11" name="On" id="14" startTime="25000" endTime="25100" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="28900" endTime="29200" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="28900" endTime="29200" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="29200" endTime="29700" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="29700" endTime="29800" palette="19"/>
         <Effect ref="12" name="On" id="18" startTime="42000" endTime="42200" palette="19"/>
@@ -3066,24 +3070,24 @@
     <Element type="model" name="Roof-TopRight-White">
       <EffectLayer>
         <Effect ref="12" name="On" startTime="1400" endTime="3900" palette="19"/>
-        <Effect ref="22" name="On" id="1" startTime="7600" endTime="7900" palette="19"/>
+        <Effect ref="23" name="On" id="1" startTime="7600" endTime="7900" palette="19"/>
         <Effect ref="12" name="On" id="2" startTime="7900" endTime="8400" palette="19"/>
         <Effect ref="11" name="On" id="3" startTime="8400" endTime="8500" palette="19"/>
-        <Effect ref="22" name="On" id="4" startTime="12300" endTime="12600" palette="19"/>
+        <Effect ref="23" name="On" id="4" startTime="12300" endTime="12600" palette="19"/>
         <Effect ref="12" name="On" id="5" startTime="12600" endTime="13100" palette="19"/>
         <Effect ref="11" name="On" id="6" startTime="13100" endTime="13200" palette="19"/>
         <Effect ref="12" name="On" id="7" startTime="13400" endTime="13500" palette="19"/>
-        <Effect ref="22" name="On" id="8" startTime="17200" endTime="17500" palette="19"/>
+        <Effect ref="23" name="On" id="8" startTime="17200" endTime="17500" palette="19"/>
         <Effect ref="12" name="On" id="9" startTime="17500" endTime="18000" palette="19"/>
         <Effect ref="11" name="On" id="10" startTime="18000" endTime="18100" palette="19"/>
-        <Effect ref="22" name="On" id="11" startTime="21900" endTime="22200" palette="19"/>
+        <Effect ref="23" name="On" id="11" startTime="21900" endTime="22200" palette="19"/>
         <Effect ref="12" name="On" id="12" startTime="22200" endTime="22700" palette="19"/>
         <Effect ref="11" name="On" id="13" startTime="22700" endTime="22800" palette="19"/>
         <Effect ref="12" name="On" id="14" startTime="22800" endTime="22900" palette="19"/>
-        <Effect ref="22" name="On" id="15" startTime="26600" endTime="26900" palette="19"/>
+        <Effect ref="23" name="On" id="15" startTime="26600" endTime="26900" palette="19"/>
         <Effect ref="12" name="On" id="16" startTime="26900" endTime="27400" palette="19"/>
         <Effect ref="11" name="On" id="17" startTime="27400" endTime="27500" palette="19"/>
-        <Effect ref="22" name="On" id="18" startTime="31300" endTime="31600" palette="19"/>
+        <Effect ref="23" name="On" id="18" startTime="31300" endTime="31600" palette="19"/>
         <Effect ref="12" name="On" id="19" startTime="31600" endTime="32100" palette="19"/>
         <Effect ref="11" name="On" id="20" startTime="32100" endTime="32200" palette="19"/>
         <Effect ref="12" name="On" id="21" startTime="42200" endTime="42400" palette="19"/>
@@ -3199,9 +3203,9 @@
     <Element type="model" name="SnowFlake-L2- 3 prong">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41300" endTime="42000" palette="10"/>
-        <Effect ref="20" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57200" endTime="57300" palette="2"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57500" endTime="57600" palette="13"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="57900" endTime="58000" palette="2"/>
@@ -3210,13 +3214,13 @@
         <Effect ref="5" name="Color Wash" id="9" startTime="58900" endTime="59800" palette="14"/>
         <Effect ref="5" name="Color Wash" id="10" startTime="61000" endTime="61200" palette="15"/>
         <Effect ref="5" name="Color Wash" id="11" startTime="61400" endTime="61600" palette="15"/>
-        <Effect ref="5" name="Color Wash" id="12" startTime="61900" endTime="62700" palette="40"/>
-        <Effect ref="5" name="Color Wash" id="13" startTime="66300" endTime="66800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="14" startTime="76300" endTime="76800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="15" startTime="80400" endTime="80900" palette="41"/>
-        <Effect ref="20" name="Pinwheel" id="16" startTime="87800" endTime="91800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="17" startTime="91800" endTime="95800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="18" startTime="95800" endTime="99800" palette="11"/>
+        <Effect ref="5" name="Color Wash" id="12" startTime="61900" endTime="62700" palette="41"/>
+        <Effect ref="5" name="Color Wash" id="13" startTime="66300" endTime="66800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="14" startTime="76300" endTime="76800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="15" startTime="80400" endTime="80900" palette="42"/>
+        <Effect ref="21" name="Pinwheel" id="16" startTime="87800" endTime="91800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="17" startTime="91800" endTime="95800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="18" startTime="95800" endTime="99800" palette="11"/>
         <Effect ref="5" name="Color Wash" id="19" startTime="103000" endTime="103100" palette="2"/>
         <Effect ref="5" name="Color Wash" id="20" startTime="103300" endTime="103400" palette="13"/>
         <Effect ref="5" name="Color Wash" id="21" startTime="103700" endTime="103800" palette="2"/>
@@ -3227,9 +3231,9 @@
     <Element type="model" name="SnowFlake-L3-Arrow">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41600" endTime="42000" palette="10"/>
-        <Effect ref="24" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
+        <Effect ref="25" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57200" endTime="57300" palette="13"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57300" endTime="57400" palette="2"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="57900" endTime="58000" palette="13"/>
@@ -3239,9 +3243,9 @@
         <Effect ref="5" name="Color Wash" id="10" startTime="58900" endTime="59800" palette="16"/>
         <Effect ref="5" name="Color Wash" id="11" startTime="61200" endTime="61400" palette="15"/>
         <Effect ref="5" name="Color Wash" id="12" startTime="61600" endTime="61900" palette="15"/>
-        <Effect ref="24" name="Pinwheel" id="13" startTime="87800" endTime="91800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="14" startTime="91800" endTime="95800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="15" startTime="95800" endTime="99800" palette="9"/>
+        <Effect ref="25" name="Pinwheel" id="13" startTime="87800" endTime="91800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="14" startTime="91800" endTime="95800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="15" startTime="95800" endTime="99800" palette="9"/>
         <Effect ref="5" name="Color Wash" id="16" startTime="103000" endTime="103100" palette="13"/>
         <Effect ref="5" name="Color Wash" id="17" startTime="103100" endTime="103200" palette="2"/>
         <Effect ref="5" name="Color Wash" id="18" startTime="103700" endTime="103800" palette="13"/>
@@ -3253,18 +3257,18 @@
     <Element type="model" name="SnowFlake-L4-2 prong">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41800" endTime="42000" palette="10"/>
-        <Effect ref="20" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57000" endTime="57100" palette="13"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57700" endTime="57800" palette="13"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="58400" endTime="58500" palette="13"/>
         <Effect ref="5" name="Color Wash" id="7" startTime="58900" endTime="59800" palette="14"/>
         <Effect ref="5" name="Color Wash" id="8" startTime="61200" endTime="61400" palette="15"/>
         <Effect ref="5" name="Color Wash" id="9" startTime="61600" endTime="61900" palette="15"/>
-        <Effect ref="20" name="Pinwheel" id="10" startTime="87800" endTime="91800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="11" startTime="91800" endTime="95800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="12" startTime="95800" endTime="99800" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="10" startTime="87800" endTime="91800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="11" startTime="91800" endTime="95800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="12" startTime="95800" endTime="99800" palette="11"/>
         <Effect ref="5" name="Color Wash" id="13" startTime="102800" endTime="102900" palette="13"/>
         <Effect ref="5" name="Color Wash" id="14" startTime="103500" endTime="103600" palette="13"/>
         <Effect ref="5" name="Color Wash" id="15" startTime="104200" endTime="104300" palette="13"/>
@@ -3273,9 +3277,9 @@
     <Element type="model" name="SnowFlake-R1-Diamond">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41000" endTime="42000" palette="10"/>
-        <Effect ref="24" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
+        <Effect ref="25" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57100" endTime="57200" palette="2"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57400" endTime="57500" palette="13"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="57800" endTime="57900" palette="2"/>
@@ -3285,13 +3289,13 @@
         <Effect ref="5" name="Color Wash" id="10" startTime="58900" endTime="59800" palette="16"/>
         <Effect ref="5" name="Color Wash" id="11" startTime="61000" endTime="61200" palette="15"/>
         <Effect ref="5" name="Color Wash" id="12" startTime="61400" endTime="61600" palette="15"/>
-        <Effect ref="5" name="Color Wash" id="13" startTime="61900" endTime="62700" palette="40"/>
-        <Effect ref="5" name="Color Wash" id="14" startTime="66300" endTime="66800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="15" startTime="76300" endTime="76800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="16" startTime="80400" endTime="80900" palette="41"/>
-        <Effect ref="24" name="Pinwheel" id="17" startTime="87800" endTime="91800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="18" startTime="91800" endTime="95800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="19" startTime="95800" endTime="99800" palette="9"/>
+        <Effect ref="5" name="Color Wash" id="13" startTime="61900" endTime="62700" palette="41"/>
+        <Effect ref="5" name="Color Wash" id="14" startTime="66300" endTime="66800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="15" startTime="76300" endTime="76800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="16" startTime="80400" endTime="80900" palette="42"/>
+        <Effect ref="25" name="Pinwheel" id="17" startTime="87800" endTime="91800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="18" startTime="91800" endTime="95800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="19" startTime="95800" endTime="99800" palette="9"/>
         <Effect ref="5" name="Color Wash" id="20" startTime="102900" endTime="103000" palette="2"/>
         <Effect ref="5" name="Color Wash" id="21" startTime="103200" endTime="103300" palette="13"/>
         <Effect ref="5" name="Color Wash" id="22" startTime="103600" endTime="103700" palette="2"/>
@@ -3303,22 +3307,22 @@
     <Element type="model" name="SnowFlake-R2-3 prong">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41300" endTime="42000" palette="10"/>
-        <Effect ref="20" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57400" endTime="57500" palette="2"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="58100" endTime="58200" palette="2"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="58800" endTime="58900" palette="13"/>
         <Effect ref="5" name="Color Wash" id="7" startTime="58900" endTime="59800" palette="14"/>
         <Effect ref="5" name="Color Wash" id="8" startTime="61000" endTime="61200" palette="15"/>
         <Effect ref="5" name="Color Wash" id="9" startTime="61400" endTime="61600" palette="15"/>
-        <Effect ref="5" name="Color Wash" id="10" startTime="61900" endTime="62700" palette="40"/>
-        <Effect ref="5" name="Color Wash" id="11" startTime="66300" endTime="66800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="12" startTime="76300" endTime="76800" palette="41"/>
-        <Effect ref="5" name="Color Wash" id="13" startTime="80400" endTime="80900" palette="41"/>
-        <Effect ref="20" name="Pinwheel" id="14" startTime="87800" endTime="91800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="15" startTime="91800" endTime="95800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="16" startTime="95800" endTime="99800" palette="11"/>
+        <Effect ref="5" name="Color Wash" id="10" startTime="61900" endTime="62700" palette="41"/>
+        <Effect ref="5" name="Color Wash" id="11" startTime="66300" endTime="66800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="12" startTime="76300" endTime="76800" palette="42"/>
+        <Effect ref="5" name="Color Wash" id="13" startTime="80400" endTime="80900" palette="42"/>
+        <Effect ref="21" name="Pinwheel" id="14" startTime="87800" endTime="91800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="15" startTime="91800" endTime="95800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="16" startTime="95800" endTime="99800" palette="11"/>
         <Effect ref="5" name="Color Wash" id="17" startTime="103200" endTime="103300" palette="2"/>
         <Effect ref="5" name="Color Wash" id="18" startTime="103900" endTime="104000" palette="2"/>
         <Effect ref="5" name="Color Wash" id="19" startTime="104600" endTime="104675" palette="13"/>
@@ -3327,9 +3331,9 @@
     <Element type="model" name="SnowFlake-R3-Arrow">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41600" endTime="42000" palette="10"/>
-        <Effect ref="24" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
+        <Effect ref="25" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="9"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57200" endTime="57300" palette="13"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57600" endTime="57700" palette="13"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="57900" endTime="58000" palette="13"/>
@@ -3338,9 +3342,9 @@
         <Effect ref="5" name="Color Wash" id="9" startTime="58900" endTime="59800" palette="16"/>
         <Effect ref="5" name="Color Wash" id="10" startTime="61200" endTime="61400" palette="15"/>
         <Effect ref="5" name="Color Wash" id="11" startTime="61600" endTime="61900" palette="15"/>
-        <Effect ref="24" name="Pinwheel" id="12" startTime="87800" endTime="91800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="13" startTime="91800" endTime="95800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="14" startTime="95800" endTime="99800" palette="9"/>
+        <Effect ref="25" name="Pinwheel" id="12" startTime="87800" endTime="91800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="13" startTime="91800" endTime="95800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="14" startTime="95800" endTime="99800" palette="9"/>
         <Effect ref="5" name="Color Wash" id="15" startTime="103000" endTime="103100" palette="13"/>
         <Effect ref="5" name="Color Wash" id="16" startTime="103400" endTime="103500" palette="13"/>
         <Effect ref="5" name="Color Wash" id="17" startTime="103700" endTime="103800" palette="13"/>
@@ -3351,9 +3355,9 @@
     <Element type="model" name="SnowFlake-R4-2 prong">
       <EffectLayer>
         <Effect ref="5" name="Color Wash" startTime="41800" endTime="42000" palette="10"/>
-        <Effect ref="20" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="1" startTime="42000" endTime="46000" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="2" startTime="46000" endTime="50000" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="3" startTime="50000" endTime="54000" palette="11"/>
         <Effect ref="5" name="Color Wash" id="4" startTime="57000" endTime="57100" palette="2"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="57500" endTime="57600" palette="2"/>
         <Effect ref="5" name="Color Wash" id="6" startTime="57700" endTime="57800" palette="2"/>
@@ -3362,9 +3366,9 @@
         <Effect ref="5" name="Color Wash" id="9" startTime="58900" endTime="59800" palette="14"/>
         <Effect ref="5" name="Color Wash" id="10" startTime="61200" endTime="61400" palette="15"/>
         <Effect ref="5" name="Color Wash" id="11" startTime="61600" endTime="61900" palette="15"/>
-        <Effect ref="20" name="Pinwheel" id="12" startTime="87800" endTime="91800" palette="11"/>
-        <Effect ref="24" name="Pinwheel" id="13" startTime="91800" endTime="95800" palette="9"/>
-        <Effect ref="20" name="Pinwheel" id="14" startTime="95800" endTime="99800" palette="11"/>
+        <Effect ref="21" name="Pinwheel" id="12" startTime="87800" endTime="91800" palette="11"/>
+        <Effect ref="25" name="Pinwheel" id="13" startTime="91800" endTime="95800" palette="9"/>
+        <Effect ref="21" name="Pinwheel" id="14" startTime="95800" endTime="99800" palette="11"/>
         <Effect ref="5" name="Color Wash" id="15" startTime="102800" endTime="102900" palette="2"/>
         <Effect ref="5" name="Color Wash" id="16" startTime="103300" endTime="103400" palette="2"/>
         <Effect ref="5" name="Color Wash" id="17" startTime="103500" endTime="103600" palette="2"/>
@@ -3380,16 +3384,16 @@
     </Element>
     <Element type="model" name="Snowflakes">
       <EffectLayer>
-        <Effect ref="25" name="Color Wash" startTime="0" endTime="1400" palette="2"/>
+        <Effect ref="26" name="Color Wash" startTime="0" endTime="1400" palette="2"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="26" name="Snowflakes" startTime="0" endTime="1400" palette="42"/>
+        <Effect ref="27" name="Snowflakes" startTime="0" endTime="1400" palette="43"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree-1">
       <EffectLayer>
         <Effect ref="12" name="On" startTime="0" endTime="1400" palette="19"/>
-        <Effect ref="12" name="On" id="1" startTime="3800" endTime="6000" palette="19"/>
+        <Effect ref="9" name="On" selected="1" id="1" startTime="3800" endTime="6000" palette="44"/>
         <Effect ref="11" name="On" id="2" startTime="6000" endTime="6100" palette="19"/>
         <Effect ref="12" name="On" id="3" startTime="8600" endTime="10700" palette="19"/>
         <Effect ref="11" name="On" id="4" startTime="10700" endTime="10800" palette="19"/>

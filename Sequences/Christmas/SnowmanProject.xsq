@@ -17,6 +17,7 @@
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
+  <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#E5562B,C_BUTTON_Palette2=#F9931E,C_BUTTON_Palette3=#C3A61E,C_BUTTON_Palette4=#A775D2,C_BUTTON_Palette5=#C31E1E,C_BUTTON_Palette6=#FFF56D,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1</ColorPalette>
