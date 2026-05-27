@@ -2,3 +2,4 @@
 *.xbkp
 /RenderCache
 *.xbkp
+.DS_Store
