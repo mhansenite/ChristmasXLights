@@ -1,0 +1,116 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Hover_Brick_OM___Dark_Red_default
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.313725 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Hover_Brick_OM___Dark_Red_default.jpg
+
+newmtl HOVER_Poured_Concrete_default
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.388235 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Poured_Concrete_default.jpg
+
+newmtl Single_Garage_Hover_Door_Plain__CGT__Generic__f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Single_Garage_Hover_Door_Plain__CGT__Generic__f6f7f4.jpg
+
+newmtl Entry_Basic_Hover_Door_Standard_Right_Handel_Generic__f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Entry_Basic_Hover_Door_Standard_Right_Handel_Generic__f6f7f4.jpg
+
+newmtl Patio_Sliding_Doors_White_Generic_w__Slider__f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Patio_Sliding_Doors_White_Generic_w__Slider__f6f7f4.png
+
+newmtl HOVER_Fascia_Fine_Cedar__CGT___f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Fascia_Fine_Cedar__CGT___f6f7f4.png
+
+newmtl Ply_Gem_Mitten_Sentry_4_5___667c8f
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.486275 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Ply_Gem_Mitten_Sentry_4_5___667c8f.jpg
+
+newmtl Ply_Gem_Mitten_Sentry_4_5___9a9e9d
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.619608 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Ply_Gem_Mitten_Sentry_4_5___9a9e9d.jpg
+
+newmtl HOVER_Openings_Trim__f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Openings_Trim__f6f7f4.png
+
+newmtl GAF_Timberline_HD_Charcoal_S_default
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.172549 0.176471
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/GAF_Timberline_HD_Charcoal_S_default.jpg
+
+newmtl _Translucent_Glass_Gray_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.961988
+
+newmtl James_Hardie___Straight_Edge_Shingle__9a9e9d
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.619608 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/James_Hardie___Straight_Edge_Shingle__9a9e9d.png
+
+newmtl Mastic___Soffit_Vinyl_Universal_Vented__f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Mastic___Soffit_Vinyl_Universal_Vented__f6f7f4.png
+
+newmtl HOVER_Vinyl_Trim__CGT___3f4043
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.250980 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Vinyl_Trim__CGT___3f4043.png
+
+newmtl HOVER_Vinyl_Trim__CGT___9a9e9d
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.619608 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Vinyl_Trim__CGT___9a9e9d.png
+
+newmtl HOVER_Vinyl_Trim__CGT___f6f7f4
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.968627 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/HOVER_Vinyl_Trim__CGT___f6f7f4.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Hardie_Plank_Flush_Vertical_Smooth___4_8__Plank__667c8f
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.486275 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd 33394249/Hardie_Plank_Flush_Vertical_Smooth___4_8__Plank__667c8f.jpg
+
+newmtl LimeGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.803922 0.196078
+Ks 0.330000 0.330000 0.330000
+
