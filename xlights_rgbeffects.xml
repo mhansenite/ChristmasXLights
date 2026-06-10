@@ -324,8 +324,8 @@
     </modelGroup>
   </modelGroups>
   <view_objects>
-    <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" Locked="1" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="12" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
-    <view_object name="House" DisplayAs="Mesh" LayoutGroup="Default" WorldPosX="-547.000000" WorldPosY="18.000000" WorldPosZ="0.000000" Locked="1" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="0.000000" RotateY="135.000000" RotateZ="0.000000" ObjFile="/Users/mike/git/personal/ChristmasXLights/3d/House.obj" MeshOnly="0" Brightness="30"/>
+    <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" Active="0" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" Locked="1" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="12" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
+    <view_object name="House" DisplayAs="Mesh" LayoutGroup="Default" WorldPosX="-547.000000" WorldPosY="18.000000" WorldPosZ="0.000000" Locked="1" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="0.000000" RotateY="135.000000" RotateZ="0.000000" ObjFile="/Users/mike/git/personal/ChristmasXLights/3d/House.obj" MeshOnly="0" Brightness="16"/>
   </view_objects>
   <layoutGroups>
   </layoutGroups>
