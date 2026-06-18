@@ -221,19 +221,7 @@
   <modelGroups type="rgb_effects">
     <modelGroup name="All-Pixles" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-All,Frames-All,PPD Wreath-All,RoofLines-All,Snowflakes-All" TagColour="black">
     </modelGroup>
-    <modelGroup name="Arch-1" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-1-1-large,Arch-1-2-medium,Arch-1-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-2" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-2-1-large,Arch-2-2-medium,Arch-2-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-3" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-3-1-large,Arch-3-2-medium,Arch-3-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-4" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-4-1-large,Arch-4-2-medium,Arch-4-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-5" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-5-1-large,Arch-5-2-medium,Arch-5-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-6" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-6-1-large,Arch-6-2-medium,Arch-6-3-small" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Arch-All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-1,Arch-2,Arch-3,Arch-4,Arch-5,Arch-6" TagColour="black">
+    <modelGroup name="Arch-All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-1-1-large,Arch-1-2-medium,Arch-1-3-small,Arch-2-1-large,Arch-2-2-medium,Arch-2-3-small,Arch-3-1-large,Arch-3-2-medium,Arch-3-3-small,Arch-4-1-large,Arch-4-2-medium,Arch-4-3-small,Arch-5-1-large,Arch-5-2-medium,Arch-5-3-small,Arch-6-1-large,Arch-6-2-medium,Arch-6-3-small">
     </modelGroup>
     <modelGroup name="Arch-Large" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Arch-1-1-large,Arch-2-1-large,Arch-3-1-large,Arch-4-1-large,Arch-5-1-large,Arch-6-1-large" TagColour="black">
     </modelGroup>
@@ -257,8 +245,6 @@
     <modelGroup name="Frames-Edge-All-Right" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Frame-Garage-Door/RightSide,Frame-House-Door/RightSide,Frame-Window-Bottom-1/RightSide,Frame-Window-Bottom-2/RightSide,Frame-Window-Bottom-3/RightSide,Frame-Window-Bottom-4/RightSide,Frame-Window-Top-1/RightSide,Frame-Window-Top-2/RightSide,Frame-Window-Top-3/RightSide" TagColour="black">
     </modelGroup>
     <modelGroup name="Frames-Edge-All-Top" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Frame-Garage-Door/Top,Frame-House-Door/Top,Frame-Window-Bottom-1/Top,Frame-Window-Bottom-2/Top,Frame-Window-Bottom-3/Top,Frame-Window-Bottom-4/Top,Frame-Window-Top-1/Top,Frame-Window-Top-2/Top,Frame-Window-Top-3/Top" TagColour="black">
-    </modelGroup>
-    <modelGroup name="Frames-Windows" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Frame-Window-Bottom-1,Frame-Window-Bottom-2,Frame-Window-Bottom-3,Frame-Window-Bottom-4,Frame-Window-Top-1,Frame-Window-Top-2,Frame-Window-Top-3" TagColour="black">
     </modelGroup>
     <modelGroup name="PPD Wreath Center Piece" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="PPD Wreath/Ring17,PPD Wreath/Ring18,PPD Wreath/Ring19,PPD Wreath/Ring20,PPD Wreath/Ring21,PPD Wreath/Ring22">
     </modelGroup>
