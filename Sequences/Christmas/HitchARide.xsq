@@ -12,7 +12,7 @@
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>/Users/denisehansen/git/ChristmasXLights/Audio/Hitch A Ride With Santa.mp3</mediaFile>
+    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/Hitch A Ride With Santa.mp3</mediaFile>
     <sequenceDuration>92.727</sequenceDuration>
     <imageDir></imageDir>
   </head>
@@ -36,7 +36,7 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.1,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>E_CHOICE_Falling=Falling &amp;amp; Accumulating,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=24,E_SLIDER_Snowflakes_Type=5,E_SLIDER_Snowflakes_WarmupFrames=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>B_CHOICE_BufferStyle=Overlay - Scaled,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=61,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
-    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Lines Outward Ripple,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Direction=0,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Scale=135,E_SLIDER_Ripple_Thickness=15,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_Outline=2.5,E_TEXTCTRL_Ripple_Spacing=2.9,E_TEXTCTRL_Ripple_Twist=0.0,E_TEXTCTRL_Ripple_Velocity=0.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Lines Outward Ripple,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Direction=0,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Scale=135,E_SLIDER_Ripple_Thickness=15,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_Outline=2.5,E_TEXTCTRL_Ripple_Spacing=2.9,E_TEXTCTRL_Ripple_Twist=0.0,E_TEXTCTRL_Ripple_Velocity=0.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>E_CHECKBOX_Lines_FadeTrails=1,E_SLIDER_Lines_Objects=10,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=0,E_TEXTCTRL_Lines_Speed=1.4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.50</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=213,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=38,E_SLIDER_Pinwheel_Twist=213,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_In_Transition_Type=From Middle,T_CHOICE_LayerMethod=Normal,T_CHOICE_Out_Transition_Type=From Middle,T_SLIDER_EffectLayerMix=0,T_SLIDER_Out_Transition_Blur=3,T_TEXTCTRL_Fadein=1.50,T_TEXTCTRL_Fadeout=1.00</Effect>
@@ -57,7 +57,10 @@
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=170,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=41,E_SLIDER_Pinwheel_Twist=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_ColorWash_CircularPalette=0,E_CHECKBOX_ColorWash_HFade=1,E_CHECKBOX_ColorWash_ReverseFades=0,E_CHECKBOX_ColorWash_Shimmer=0,E_CHECKBOX_ColorWash_VFade=0,E_TEXTCTRL_ColorWash_Cycles=7.9,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>B_CHOICE_BufferStyle=Vertical Per Model/Strand,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Vertical Per Model/Strand,B_CUSTOM_SubBuffer=-1.05x0.00x100.00x106.25x0.00x0.00,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Vertical Per Model/Strand,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Vertical Per Strand,B_CUSTOM_SubBuffer=-1.05x0.00x100.00x106.25x0.00x0.00,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model/Strand,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Android,E_CHOICE_SingleStrand_FX_Palette=* Color 1,E_CHOICE_SingleStrand_TimingTrack=,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=-500.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=186,E_SLIDER_Pinwheel_Arms=8,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=5,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=34,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_CHOICE_Out_Transition_Type=Shatter,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.1</Effect>
     <Effect>B_CHOICE_BufferStyle=Overlay - Scaled,E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=186,E_SLIDER_Pinwheel_Arms=8,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=5,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=34,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_CHOICE_Out_Transition_Type=Shatter,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.1</Effect>
     <Effect>B_CHOICE_BufferStyle=Overlay - Scaled,E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=186,E_SLIDER_Pinwheel_Arms=8,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=5,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=34,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_CHOICE_Out_Transition_Type=Shatter,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.1</Effect>
@@ -933,7 +936,7 @@
         <Effect ref="0" name="Color Wash" startTime="825" endTime="975" palette="0" />
         <Effect ref="0" name="Color Wash" id="1" startTime="3725" endTime="4025" palette="0" />
         <Effect ref="1" name="SingleStrand" id="2" startTime="61400" endTime="62050" palette="2" />
-        <Effect ref="0" name="Color Wash" id="4" startTime="83475" endTime="83625" palette="0" />
+        <Effect ref="0" name="Color Wash" id="3" startTime="83475" endTime="83625" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Arch-1-3-small">
@@ -1125,21 +1128,21 @@
         <Effect ref="12" name="SingleStrand" id="27" startTime="65375" endTime="65700" palette="3" />
         <Effect ref="13" name="SingleStrand" id="28" startTime="65700" endTime="66050" palette="1" />
         <Effect ref="12" name="SingleStrand" id="29" startTime="66050" endTime="66700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="38" startTime="69650" endTime="69925" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="39" startTime="69925" endTime="70300" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="40" startTime="70300" endTime="70700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="41" startTime="70700" endTime="71050" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="42" startTime="71050" endTime="71375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="43" startTime="71375" endTime="71700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="44" startTime="71700" endTime="72050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="45" startTime="72050" endTime="72375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="46" startTime="72375" endTime="72650" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="47" startTime="72650" endTime="72925" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="48" startTime="72925" endTime="73250" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="49" startTime="73250" endTime="73600" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="50" startTime="73600" endTime="73925" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="51" startTime="73925" endTime="74250" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="52" startTime="74250" endTime="74700" palette="1" />
+        <Effect ref="13" name="SingleStrand" id="30" startTime="69650" endTime="69925" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="31" startTime="69925" endTime="70300" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="32" startTime="70300" endTime="70700" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="33" startTime="70700" endTime="71050" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="34" startTime="71050" endTime="71375" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="35" startTime="71375" endTime="71700" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="36" startTime="71700" endTime="72050" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="37" startTime="72050" endTime="72375" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="38" startTime="72375" endTime="72650" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="39" startTime="72650" endTime="72925" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="40" startTime="72925" endTime="73250" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="41" startTime="73250" endTime="73600" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="42" startTime="73600" endTime="73925" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="43" startTime="73925" endTime="74250" palette="3" />
+        <Effect ref="13" name="SingleStrand" id="44" startTime="74250" endTime="74700" palette="1" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Frame-Garage-Door">
@@ -1287,9 +1290,9 @@
         <Effect ref="12" name="SingleStrand" id="8" startTime="53075" endTime="54400" palette="3" />
         <Effect ref="12" name="SingleStrand" id="9" startTime="55700" endTime="57100" palette="3" />
         <Effect ref="12" name="SingleStrand" id="10" startTime="58375" endTime="59700" palette="3" />
-        <Effect ref="12" name="SingleStrand" id="12" startTime="64050" endTime="65375" palette="3" />
-        <Effect ref="12" name="SingleStrand" id="14" startTime="69375" endTime="70700" palette="3" />
-        <Effect ref="12" name="SingleStrand" id="15" startTime="72050" endTime="73250" palette="3" />
+        <Effect ref="12" name="SingleStrand" id="11" startTime="64050" endTime="65375" palette="3" />
+        <Effect ref="12" name="SingleStrand" id="12" startTime="69375" endTime="70700" palette="3" />
+        <Effect ref="12" name="SingleStrand" id="13" startTime="72050" endTime="73250" palette="3" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames-Edge-All-Left">
@@ -1306,8 +1309,8 @@
         <Effect ref="12" name="SingleStrand" id="9" startTime="57100" endTime="58375" palette="3" />
         <Effect ref="12" name="SingleStrand" id="10" startTime="59700" endTime="61025" palette="3" />
         <Effect ref="12" name="SingleStrand" id="11" startTime="65375" endTime="66700" palette="3" />
-        <Effect ref="12" name="SingleStrand" id="13" startTime="70700" endTime="72050" palette="3" />
-        <Effect ref="12" name="SingleStrand" id="14" startTime="73250" endTime="74700" palette="3" />
+        <Effect ref="12" name="SingleStrand" id="12" startTime="70700" endTime="72050" palette="3" />
+        <Effect ref="12" name="SingleStrand" id="13" startTime="73250" endTime="74700" palette="3" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames-Edge-All-Right">
@@ -1324,8 +1327,8 @@
         <Effect ref="12" name="SingleStrand" id="9" startTime="57100" endTime="58375" palette="1" />
         <Effect ref="12" name="SingleStrand" id="10" startTime="59700" endTime="61025" palette="1" />
         <Effect ref="12" name="SingleStrand" id="11" startTime="65375" endTime="66700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="13" startTime="70700" endTime="72050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="14" startTime="73250" endTime="74700" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="12" startTime="70700" endTime="72050" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="13" startTime="73250" endTime="74700" palette="1" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames-Edge-All-Top">
@@ -1341,16 +1344,16 @@
         <Effect ref="12" name="SingleStrand" id="8" startTime="53075" endTime="54400" palette="1" />
         <Effect ref="12" name="SingleStrand" id="9" startTime="55700" endTime="57100" palette="1" />
         <Effect ref="12" name="SingleStrand" id="10" startTime="58375" endTime="59700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="12" startTime="64050" endTime="65375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="14" startTime="69375" endTime="70700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="15" startTime="72050" endTime="73250" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="11" startTime="64050" endTime="65375" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="12" startTime="69375" endTime="70700" palette="1" />
+        <Effect ref="12" name="SingleStrand" id="13" startTime="72050" endTime="73250" palette="1" />
       </EffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath">
       <EffectLayer>
         <Effect ref="21" name="Pictures" startTime="32400" endTime="53075" palette="4" />
-        <Effect ref="22" name="Pictures" id="2" startTime="89125" endTime="90775" palette="4" />
-        <Effect ref="23" name="Pictures" id="3" startTime="91125" endTime="92750" palette="4" />
+        <Effect ref="22" name="Pictures" id="1" startTime="89125" endTime="90775" palette="4" />
+        <Effect ref="23" name="Pictures" id="2" startTime="91125" endTime="92750" palette="4" />
       </EffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath Center Piece">
@@ -1463,53 +1466,53 @@
         <Effect ref="19" name="SingleStrand" id="22" startTime="10050" endTime="10350" palette="5" />
         <Effect ref="20" name="SingleStrand" id="23" startTime="10350" endTime="10725" palette="6" />
         <Effect ref="26" name="SingleStrand" id="24" startTime="32400" endTime="33725" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="25" startTime="33725" endTime="35025" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="26" startTime="35025" endTime="36375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="27" startTime="36375" endTime="37750" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="28" startTime="37750" endTime="39050" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="29" startTime="39050" endTime="40375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="30" startTime="40375" endTime="41725" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="31" startTime="41725" endTime="43050" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="32" startTime="43050" endTime="44375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="33" startTime="44375" endTime="45700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="34" startTime="45700" endTime="47050" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="35" startTime="47050" endTime="48450" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="36" startTime="48450" endTime="49700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="37" startTime="49700" endTime="51000" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="38" startTime="51000" endTime="52375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="39" startTime="52375" endTime="53075" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="25" startTime="33725" endTime="35025" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="26" startTime="35025" endTime="36375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="27" startTime="36375" endTime="37750" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="28" startTime="37750" endTime="39050" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="29" startTime="39050" endTime="40375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="30" startTime="40375" endTime="41725" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="31" startTime="41725" endTime="43050" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="32" startTime="43050" endTime="44375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="33" startTime="44375" endTime="45700" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="34" startTime="45700" endTime="47050" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="35" startTime="47050" endTime="48450" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="36" startTime="48450" endTime="49700" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="37" startTime="49700" endTime="51000" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="38" startTime="51000" endTime="52375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="39" startTime="52375" endTime="53075" palette="3" />
         <Effect ref="26" name="SingleStrand" id="40" startTime="53075" endTime="54400" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="41" startTime="54400" endTime="55700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="42" startTime="55700" endTime="57100" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="43" startTime="57100" endTime="58375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="44" startTime="58375" endTime="59700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="45" startTime="59700" endTime="61025" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="47" startTime="65050" endTime="66375" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="48" startTime="66375" endTime="67625" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="49" startTime="67625" endTime="69050" palette="3" />
-        <Effect ref="26" name="SingleStrand" id="50" startTime="69375" endTime="70700" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="51" startTime="70700" endTime="72050" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="52" startTime="72050" endTime="73250" palette="3" />
-        <Effect ref="13" name="SingleStrand" id="53" startTime="73250" endTime="74700" palette="3" />
-        <Effect ref="19" name="SingleStrand" id="54" startTime="80375" endTime="80725" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="55" startTime="80725" endTime="81050" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="56" startTime="81050" endTime="81375" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="57" startTime="81375" endTime="81700" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="58" startTime="81700" endTime="82050" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="59" startTime="82050" endTime="82375" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="60" startTime="82375" endTime="82700" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="61" startTime="82700" endTime="83050" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="62" startTime="83050" endTime="83400" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="63" startTime="83400" endTime="83725" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="64" startTime="83725" endTime="84050" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="65" startTime="84050" endTime="84375" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="66" startTime="84375" endTime="84675" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="67" startTime="84675" endTime="85050" palette="6" />
+        <Effect ref="26" name="SingleStrand" id="41" startTime="54400" endTime="55700" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="42" startTime="55700" endTime="57100" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="43" startTime="57100" endTime="58375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="44" startTime="58375" endTime="59700" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="45" startTime="59700" endTime="61025" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="46" startTime="65050" endTime="66375" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="47" startTime="66375" endTime="67625" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="48" startTime="67625" endTime="69050" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="49" startTime="69375" endTime="70700" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="50" startTime="70700" endTime="72050" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="51" startTime="72050" endTime="73250" palette="3" />
+        <Effect ref="26" name="SingleStrand" id="52" startTime="73250" endTime="74700" palette="3" />
+        <Effect ref="19" name="SingleStrand" id="53" startTime="80375" endTime="80725" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="54" startTime="80725" endTime="81050" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="55" startTime="81050" endTime="81375" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="56" startTime="81375" endTime="81700" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="57" startTime="81700" endTime="82050" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="58" startTime="82050" endTime="82375" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="59" startTime="82375" endTime="82700" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="60" startTime="82700" endTime="83050" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="61" startTime="83050" endTime="83400" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="62" startTime="83400" endTime="83725" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="63" startTime="83725" endTime="84050" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="64" startTime="84050" endTime="84375" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="65" startTime="84375" endTime="84675" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="66" startTime="84675" endTime="85050" palette="6" />
       </EffectLayer>
     </Element>
     <Element type="model" name="RoofLines-Top">
       <EffectLayer>
-        <Effect ref="18" name="SingleStrand" startTime="5425" endTime="5700" palette="5" />
+        <Effect ref="18" name="SingleStrand" selected="1" startTime="5425" endTime="5700" palette="5" />
         <Effect ref="20" name="SingleStrand" id="1" startTime="5700" endTime="6050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="2" startTime="6050" endTime="6375" palette="5" />
         <Effect ref="20" name="SingleStrand" id="3" startTime="6375" endTime="6725" palette="6" />
@@ -1526,48 +1529,48 @@
         <Effect ref="19" name="SingleStrand" id="14" startTime="10050" endTime="10350" palette="5" />
         <Effect ref="20" name="SingleStrand" id="15" startTime="10350" endTime="10725" palette="6" />
         <Effect ref="27" name="SingleStrand" id="16" startTime="32400" endTime="33725" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="17" startTime="33725" endTime="35025" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="18" startTime="35025" endTime="36375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="19" startTime="36375" endTime="37750" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="20" startTime="37750" endTime="39050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="21" startTime="39050" endTime="40375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="22" startTime="40375" endTime="41725" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="23" startTime="41725" endTime="43050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="24" startTime="43050" endTime="44375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="25" startTime="44375" endTime="45700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="26" startTime="45700" endTime="47050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="27" startTime="47050" endTime="48450" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="28" startTime="48450" endTime="49700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="29" startTime="49700" endTime="51000" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="30" startTime="51000" endTime="52375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="31" startTime="52375" endTime="53050" palette="1" />
-        <Effect ref="27" name="SingleStrand" id="32" startTime="53075" endTime="54400" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="33" startTime="54400" endTime="55700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="34" startTime="55700" endTime="57100" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="35" startTime="57100" endTime="58375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="36" startTime="58375" endTime="59700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="37" startTime="59700" endTime="61025" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="39" startTime="65050" endTime="66375" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="40" startTime="66375" endTime="67625" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="41" startTime="67625" endTime="69050" palette="1" />
-        <Effect ref="27" name="SingleStrand" id="42" startTime="69375" endTime="70700" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="43" startTime="70700" endTime="72050" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="44" startTime="72050" endTime="73250" palette="1" />
-        <Effect ref="12" name="SingleStrand" id="45" startTime="73250" endTime="74700" palette="1" />
-        <Effect ref="19" name="SingleStrand" id="46" startTime="80375" endTime="80725" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="47" startTime="80725" endTime="81050" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="48" startTime="81050" endTime="81375" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="49" startTime="81375" endTime="81700" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="50" startTime="81700" endTime="82050" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="51" startTime="82050" endTime="82375" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="52" startTime="82375" endTime="82700" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="53" startTime="82700" endTime="83050" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="54" startTime="83050" endTime="83400" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="55" startTime="83400" endTime="83725" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="56" startTime="83725" endTime="84050" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="57" startTime="84050" endTime="84375" palette="6" />
-        <Effect ref="19" name="SingleStrand" id="58" startTime="84375" endTime="84675" palette="5" />
-        <Effect ref="20" name="SingleStrand" id="59" startTime="84675" endTime="85050" palette="6" />
+        <Effect ref="28" name="SingleStrand" id="17" startTime="33725" endTime="35025" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="18" startTime="35025" endTime="36375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="19" startTime="36375" endTime="37750" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="20" startTime="37750" endTime="39050" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="21" startTime="39050" endTime="40375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="22" startTime="40375" endTime="41725" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="23" startTime="41725" endTime="43050" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="24" startTime="43050" endTime="44375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="25" startTime="44375" endTime="45700" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="26" startTime="45700" endTime="47050" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="27" startTime="47050" endTime="48450" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="28" startTime="48450" endTime="49700" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="29" startTime="49700" endTime="51000" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="30" startTime="51000" endTime="52375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="31" startTime="52375" endTime="53050" palette="1" />
+        <Effect ref="29" name="SingleStrand" id="32" startTime="53075" endTime="54400" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="33" startTime="54400" endTime="55700" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="34" startTime="55700" endTime="57100" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="35" startTime="57100" endTime="58375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="36" startTime="58375" endTime="59700" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="37" startTime="59700" endTime="61025" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="38" startTime="65050" endTime="66375" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="39" startTime="66375" endTime="67625" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="40" startTime="67625" endTime="69050" palette="1" />
+        <Effect ref="29" name="SingleStrand" id="41" startTime="69375" endTime="70700" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="42" startTime="70700" endTime="72050" palette="1" />
+        <Effect ref="30" name="SingleStrand" id="43" startTime="72050" endTime="73250" palette="1" />
+        <Effect ref="28" name="SingleStrand" id="44" startTime="73250" endTime="74700" palette="1" />
+        <Effect ref="19" name="SingleStrand" id="45" startTime="80375" endTime="80725" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="46" startTime="80725" endTime="81050" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="47" startTime="81050" endTime="81375" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="48" startTime="81375" endTime="81700" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="49" startTime="81700" endTime="82050" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="50" startTime="82050" endTime="82375" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="51" startTime="82375" endTime="82700" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="52" startTime="82700" endTime="83050" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="53" startTime="83050" endTime="83400" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="54" startTime="83400" endTime="83725" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="55" startTime="83725" endTime="84050" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="56" startTime="84050" endTime="84375" palette="6" />
+        <Effect ref="19" name="SingleStrand" id="57" startTime="84375" endTime="84675" palette="5" />
+        <Effect ref="20" name="SingleStrand" id="58" startTime="84675" endTime="85050" palette="6" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-L1-Diamond">
@@ -1575,17 +1578,17 @@
     </Element>
     <Element type="model" name="SnowFlake-L2- 3 prong">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="10350" endTime="10725" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="10350" endTime="10725" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-L3-Arrow">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="10050" endTime="10350" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="10050" endTime="10350" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-L4-2 prong">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="9700" endTime="10050" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="9700" endTime="10050" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-R1-Diamond">
@@ -1593,17 +1596,17 @@
     </Element>
     <Element type="model" name="SnowFlake-R2-3 prong">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="10350" endTime="10725" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="10350" endTime="10725" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-R3-Arrow">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="10050" endTime="10350" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="10050" endTime="10350" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-R4-2 prong">
       <EffectLayer>
-        <Effect ref="28" name="Pinwheel" startTime="9700" endTime="10050" palette="0" />
+        <Effect ref="31" name="Pinwheel" startTime="9700" endTime="10050" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlakes-Left">
@@ -1620,21 +1623,21 @@
         <Effect ref="20" name="SingleStrand" id="9" startTime="9700" endTime="10050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="10" startTime="10050" endTime="10350" palette="5" />
         <Effect ref="20" name="SingleStrand" id="11" startTime="10350" endTime="10725" palette="6" />
-        <Effect ref="29" name="Pinwheel" id="12" startTime="10725" endTime="11275" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="13" startTime="12050" endTime="12575" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="14" startTime="13375" endTime="13875" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="15" startTime="14700" endTime="15200" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="16" startTime="16050" endTime="16550" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="17" startTime="17375" endTime="17925" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="18" startTime="18700" endTime="19225" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="19" startTime="20050" endTime="20525" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="20" startTime="21375" endTime="21900" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="21" startTime="22700" endTime="23225" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="22" startTime="24025" endTime="24525" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="23" startTime="25375" endTime="25875" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="24" startTime="26700" endTime="27225" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="25" startTime="28050" endTime="28550" palette="0" />
-        <Effect ref="29" name="Pinwheel" id="26" startTime="29375" endTime="29875" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="12" startTime="10725" endTime="11275" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="13" startTime="12050" endTime="12575" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="14" startTime="13375" endTime="13875" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="15" startTime="14700" endTime="15200" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="16" startTime="16050" endTime="16550" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="17" startTime="17375" endTime="17925" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="18" startTime="18700" endTime="19225" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="19" startTime="20050" endTime="20525" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="20" startTime="21375" endTime="21900" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="21" startTime="22700" endTime="23225" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="22" startTime="24025" endTime="24525" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="23" startTime="25375" endTime="25875" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="24" startTime="26700" endTime="27225" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="25" startTime="28050" endTime="28550" palette="0" />
+        <Effect ref="32" name="Pinwheel" id="26" startTime="29375" endTime="29875" palette="0" />
         <Effect ref="19" name="SingleStrand" id="27" startTime="80375" endTime="80725" palette="5" />
         <Effect ref="20" name="SingleStrand" id="28" startTime="80725" endTime="81050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="29" startTime="81050" endTime="81375" palette="5" />
@@ -1661,21 +1664,21 @@
         <Effect ref="20" name="SingleStrand" id="5" startTime="9700" endTime="10050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="6" startTime="10050" endTime="10350" palette="5" />
         <Effect ref="20" name="SingleStrand" id="7" startTime="10350" endTime="10725" palette="6" />
-        <Effect ref="30" name="Pinwheel" id="8" startTime="10725" endTime="11275" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="9" startTime="12050" endTime="12575" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="10" startTime="13375" endTime="13875" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="11" startTime="14700" endTime="15200" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="12" startTime="16050" endTime="16550" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="13" startTime="17375" endTime="17925" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="14" startTime="18700" endTime="19225" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="15" startTime="20050" endTime="20525" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="16" startTime="21375" endTime="21900" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="17" startTime="22700" endTime="23225" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="18" startTime="24025" endTime="24525" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="19" startTime="25375" endTime="25875" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="20" startTime="26700" endTime="27225" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="21" startTime="28050" endTime="28550" palette="0" />
-        <Effect ref="30" name="Pinwheel" id="22" startTime="29375" endTime="29875" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="8" startTime="10725" endTime="11275" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="9" startTime="12050" endTime="12575" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="10" startTime="13375" endTime="13875" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="11" startTime="14700" endTime="15200" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="12" startTime="16050" endTime="16550" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="13" startTime="17375" endTime="17925" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="14" startTime="18700" endTime="19225" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="15" startTime="20050" endTime="20525" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="16" startTime="21375" endTime="21900" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="17" startTime="22700" endTime="23225" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="18" startTime="24025" endTime="24525" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="19" startTime="25375" endTime="25875" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="20" startTime="26700" endTime="27225" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="21" startTime="28050" endTime="28550" palette="0" />
+        <Effect ref="33" name="Pinwheel" id="22" startTime="29375" endTime="29875" palette="0" />
         <Effect ref="19" name="SingleStrand" id="23" startTime="80375" endTime="80725" palette="5" />
         <Effect ref="20" name="SingleStrand" id="24" startTime="80725" endTime="81050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="25" startTime="81050" endTime="81375" palette="5" />
