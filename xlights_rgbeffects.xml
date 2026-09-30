@@ -233,6 +233,8 @@
     <modelGroup name="Frames-All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Frame-Garage-Door,Frame-House-Door,Frame-Window-Bottom-1,Frame-Window-Bottom-2,Frame-Window-Bottom-3,Frame-Window-Bottom-4,Frame-Window-Top-1,Frame-Window-Top-2,Frame-Window-Top-3">
       <Aliases>
         <alias name="oldname:frames"/>
+        <alias name="oldname:frames-windows"/>
+        <alias name="oldname:arch-5"/>
       </Aliases>
     </modelGroup>
     <modelGroup name="Frames-All-Bottom" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Frame-Garage-Door,Frame-House-Door,Frame-Window-Bottom-1,Frame-Window-Bottom-2,Frame-Window-Bottom-3,Frame-Window-Bottom-4">
@@ -260,6 +262,7 @@
     <modelGroup name="PPD Wreath Rings" DisplayAs="ModelGroup" centreDefined="1" centreMaxx="1622" centreMaxy="660" centreMinx="1457" centreMiny="519" centrex="704.480896" centrey="15.448215" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="PPD Wreath/Ring1,PPD Wreath/Ring2,PPD Wreath/Ring3,PPD Wreath/Ring4,PPD Wreath/Ring5,PPD Wreath/Ring6,PPD Wreath/Ring7,PPD Wreath/Ring8,PPD Wreath/Ring9,PPD Wreath/Ring10,PPD Wreath/Ring11,PPD Wreath/Ring12,PPD Wreath/Ring13,PPD Wreath/Ring14,PPD Wreath/Ring15,PPD Wreath/Ring16,PPD Wreath/Ring17,PPD Wreath/Ring18,PPD Wreath/Ring19,PPD Wreath/Ring20,PPD Wreath/Ring21,PPD Wreath/Ring22" XCentreOffset="-10105" YCentreOffset="-8133">
       <Aliases>
         <alias name="oldname:wreath rings"/>
+        <alias name="oldname:arch-4"/>
       </Aliases>
     </modelGroup>
     <modelGroup name="PPD Wreath Spiral All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="PPD Wreath/SpiralsCW,PPD Wreath/SpiralsCCW">
