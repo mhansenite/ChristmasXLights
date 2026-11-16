@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2026.19</version>
+    <version>2026.20</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -575,26 +575,26 @@
       <EffectLayer>
         <Effect label="OOH WE GOT IT HEY WE GOT IT SAY WE GOT IT" startTime="12375" endTime="17925" />
         <Effect label="OH WE GOT IT SO WE GOT IT YO WE GOT IT" startTime="19250" endTime="25825" />
-        <Effect label="HERE WE'VE ONLY GOT ONE RULE NEVER EVER LET IT COOL AND" startTime="27200" endTime="31125" />
+        <Effect label="HERE WE&amp;apos;VE ONLY GOT ONE RULE NEVER EVER LET IT COOL AND" startTime="27200" endTime="31125" />
         <Effect label="KEEP IT COOKING IN THE POT HERE YOU GO" startTime="31350" endTime="33775" />
         <Effect label="OH WE GOT IT HEY WE GOT IT HEY WE GOT IT" startTime="41675" endTime="46475" />
         <Effect label="OH WE GOT IT SO WE GOT IT YO WE GOT IT" startTime="48050" endTime="55575" />
         <Effect label="HERE WE ONLY GOT ONE RULE NEVER EVER LET IS COOL SEE" startTime="55625" endTime="62300" />
-        <Effect label="YOU'VE GOT HOT CHOCOLATE" startTime="62350" endTime="64175" />
-        <Effect label="OH WE GOT IT HOT HOT HEY WE'VE GOT IT HOT HOT" startTime="70550" endTime="74025" />
+        <Effect label="YOU&amp;apos;VE GOT HOT CHOCOLATE" startTime="62350" endTime="64175" />
+        <Effect label="OH WE GOT IT HOT HOT HEY WE&amp;apos;VE GOT IT HOT HOT" startTime="70550" endTime="74025" />
         <Effect label="SAY WE GOT IT" startTime="74175" endTime="75550" />
         <Effect label="HOT CHOCOLATE HOT HOT OH WE GOT IT HOT HOT SO WE" startTime="76500" endTime="80625" />
         <Effect label="GOT IT HOT HOT YO WE GOT IT" startTime="80675" endTime="82975" />
         <Effect label="HOT CHOCOLATE HERE WE ONLY GOT ONE RULE HERE WE ONLY GOT" startTime="84150" endTime="88000" />
         <Effect label="ONE RULE NEVER EVER LET IT COOL NEVER EVER LET IT COOL" startTime="88100" endTime="92225" />
-        <Effect label="KEEP IT COOKING IN HOT SOON YOU'LL GET HOT CHOCOLATE" startTime="92550" endTime="96550" />
-        <Effect label="HOT YEAH WE GOT IT HOT HOT OH WE'VE GOT IT HOT" startTime="98725" endTime="102550" />
-        <Effect label="HOT YEAH WE GOT IT HOT HOT OH WE'VE GOT IT HOT" startTime="102575" endTime="106225" />
-        <Effect label="HOT YEAH WE'VE GOT IT HOT HOT OH WE'VE GOT IT HOT" startTime="106350" endTime="110225" />
-        <Effect label="HOT YEAH WE'VE GOT IT HOT HOT OH WE'VE GOT IT HOT" startTime="110275" endTime="113925" />
-        <Effect label="HOT YES WE'VE GOT IT HOT HOT OH WE'VE GOT IT HOT" startTime="114100" endTime="117800" />
-        <Effect label="HOT YEAH WE'VE GOT IT HOT HOT YES WE'VE GOT IT HOT" startTime="117925" endTime="121700" />
-        <Effect label="HOT YEAH WE'VE GOT IT HOT HOT" startTime="121800" endTime="127225" />
+        <Effect label="KEEP IT COOKING IN HOT SOON YOU&amp;apos;LL GET HOT CHOCOLATE" startTime="92550" endTime="96550" />
+        <Effect label="HOT YEAH WE GOT IT HOT HOT OH WE&amp;apos;VE GOT IT HOT" startTime="98725" endTime="102550" />
+        <Effect label="HOT YEAH WE GOT IT HOT HOT OH WE&amp;apos;VE GOT IT HOT" startTime="102575" endTime="106225" />
+        <Effect label="HOT YEAH WE&amp;apos;VE GOT IT HOT HOT OH WE&amp;apos;VE GOT IT HOT" startTime="106350" endTime="110225" />
+        <Effect label="HOT YEAH WE&amp;apos;VE GOT IT HOT HOT OH WE&amp;apos;VE GOT IT HOT" startTime="110275" endTime="113925" />
+        <Effect label="HOT YES WE&amp;apos;VE GOT IT HOT HOT OH WE&amp;apos;VE GOT IT HOT" startTime="114100" endTime="117800" />
+        <Effect label="HOT YEAH WE&amp;apos;VE GOT IT HOT HOT YES WE&amp;apos;VE GOT IT HOT" startTime="117925" endTime="121700" />
+        <Effect label="HOT YEAH WE&amp;apos;VE GOT IT HOT HOT" startTime="121800" endTime="127225" />
         <Effect label="CHOCOLATE" startTime="147425" endTime="148325" />
       </EffectLayer>
       <EffectLayer>
@@ -623,7 +623,7 @@
         <Effect label="GOT" startTime="24900" endTime="25200" />
         <Effect label="IT" startTime="25200" endTime="25825" />
         <Effect label="HERE" startTime="27200" endTime="27500" />
-        <Effect label="WE'VE" startTime="27500" endTime="27850" />
+        <Effect label="WE&amp;apos;VE" startTime="27500" endTime="27850" />
         <Effect label="ONLY" startTime="27850" endTime="28100" />
         <Effect label="GOT" startTime="28100" endTime="28450" />
         <Effect label="ONE" startTime="28450" endTime="28700" />
@@ -679,7 +679,7 @@
         <Effect label="IS" startTime="61125" endTime="61200" />
         <Effect label="COOL" startTime="61275" endTime="61825" />
         <Effect label="SEE" startTime="61850" endTime="62300" />
-        <Effect label="YOU'VE" startTime="62350" endTime="62750" />
+        <Effect label="YOU&amp;apos;VE" startTime="62350" endTime="62750" />
         <Effect label="GOT" startTime="62825" endTime="63000" />
         <Effect label="HOT" startTime="63050" endTime="63125" />
         <Effect label="CHOCOLATE" startTime="63150" endTime="64175" />
@@ -690,7 +690,7 @@
         <Effect label="HOT" startTime="71475" endTime="71700" />
         <Effect label="HOT" startTime="71825" endTime="72025" />
         <Effect label="HEY" startTime="72225" endTime="72475" />
-        <Effect label="WE'VE" startTime="72725" endTime="72925" />
+        <Effect label="WE&amp;apos;VE" startTime="72725" endTime="72925" />
         <Effect label="GOT" startTime="73000" endTime="73200" />
         <Effect label="IT" startTime="73250" endTime="73325" />
         <Effect label="HOT" startTime="73400" endTime="73600" />
@@ -749,7 +749,7 @@
         <Effect label="IN" startTime="93625" endTime="93750" />
         <Effect label="HOT" startTime="93925" endTime="94150" />
         <Effect label="SOON" startTime="94550" endTime="94800" />
-        <Effect label="YOU'LL" startTime="94825" endTime="94975" />
+        <Effect label="YOU&amp;apos;LL" startTime="94825" endTime="94975" />
         <Effect label="GET" startTime="95000" endTime="95175" />
         <Effect label="HOT" startTime="95275" endTime="95475" />
         <Effect label="CHOCOLATE" startTime="95550" endTime="96550" />
@@ -761,7 +761,7 @@
         <Effect label="HOT" startTime="100275" endTime="100550" />
         <Effect label="HOT" startTime="100650" endTime="100950" />
         <Effect label="OH" startTime="101350" endTime="101450" />
-        <Effect label="WE'VE" startTime="101475" endTime="101675" />
+        <Effect label="WE&amp;apos;VE" startTime="101475" endTime="101675" />
         <Effect label="GOT" startTime="101700" endTime="102000" />
         <Effect label="IT" startTime="102050" endTime="102125" />
         <Effect label="HOT" startTime="102200" endTime="102550" />
@@ -773,61 +773,61 @@
         <Effect label="HOT" startTime="104125" endTime="104350" />
         <Effect label="HOT" startTime="104475" endTime="104900" />
         <Effect label="OH" startTime="105050" endTime="105300" />
-        <Effect label="WE'VE" startTime="105350" endTime="105525" />
+        <Effect label="WE&amp;apos;VE" startTime="105350" endTime="105525" />
         <Effect label="GOT" startTime="105575" endTime="105850" />
         <Effect label="IT" startTime="105900" endTime="105950" />
         <Effect label="HOT" startTime="106025" endTime="106225" />
         <Effect label="HOT" startTime="106350" endTime="106575" />
         <Effect label="YEAH" startTime="106750" endTime="107175" />
-        <Effect label="WE'VE" startTime="107250" endTime="107425" />
+        <Effect label="WE&amp;apos;VE" startTime="107250" endTime="107425" />
         <Effect label="GOT" startTime="107475" endTime="107775" />
         <Effect label="IT" startTime="107800" endTime="107875" />
         <Effect label="HOT" startTime="107950" endTime="108250" />
         <Effect label="HOT" startTime="108325" endTime="108650" />
         <Effect label="OH" startTime="109025" endTime="109150" />
-        <Effect label="WE'VE" startTime="109175" endTime="109375" />
+        <Effect label="WE&amp;apos;VE" startTime="109175" endTime="109375" />
         <Effect label="GOT" startTime="109375" endTime="109675" />
         <Effect label="IT" startTime="109725" endTime="109800" />
         <Effect label="HOT" startTime="109875" endTime="110225" />
         <Effect label="HOT" startTime="110275" endTime="110725" />
         <Effect label="YEAH" startTime="110750" endTime="111075" />
-        <Effect label="WE'VE" startTime="111100" endTime="111275" />
+        <Effect label="WE&amp;apos;VE" startTime="111100" endTime="111275" />
         <Effect label="GOT" startTime="111300" endTime="111600" />
         <Effect label="IT" startTime="111650" endTime="111700" />
         <Effect label="HOT" startTime="111775" endTime="112000" />
         <Effect label="HOT" startTime="112100" endTime="112500" />
         <Effect label="OH" startTime="112750" endTime="113000" />
-        <Effect label="WE'VE" startTime="113050" endTime="113200" />
+        <Effect label="WE&amp;apos;VE" startTime="113050" endTime="113200" />
         <Effect label="GOT" startTime="113275" endTime="113575" />
         <Effect label="IT" startTime="113600" endTime="113700" />
         <Effect label="HOT" startTime="113750" endTime="113925" />
         <Effect label="HOT" startTime="114100" endTime="114700" />
         <Effect label="YES" startTime="114750" endTime="114900" />
-        <Effect label="WE'VE" startTime="114950" endTime="115125" />
+        <Effect label="WE&amp;apos;VE" startTime="114950" endTime="115125" />
         <Effect label="GOT" startTime="115175" endTime="115450" />
         <Effect label="IT" startTime="115500" endTime="115575" />
         <Effect label="HOT" startTime="115650" endTime="115900" />
         <Effect label="HOT" startTime="116050" endTime="116350" />
         <Effect label="OH" startTime="116575" endTime="116775" />
-        <Effect label="WE'VE" startTime="116825" endTime="117025" />
+        <Effect label="WE&amp;apos;VE" startTime="116825" endTime="117025" />
         <Effect label="GOT" startTime="117075" endTime="117375" />
         <Effect label="IT" startTime="117400" endTime="117500" />
         <Effect label="HOT" startTime="117575" endTime="117800" />
         <Effect label="HOT" startTime="117925" endTime="118200" />
         <Effect label="YEAH" startTime="118275" endTime="118800" />
-        <Effect label="WE'VE" startTime="118825" endTime="119000" />
+        <Effect label="WE&amp;apos;VE" startTime="118825" endTime="119000" />
         <Effect label="GOT" startTime="119025" endTime="119350" />
         <Effect label="IT" startTime="119400" endTime="119450" />
         <Effect label="HOT" startTime="119525" endTime="119775" />
         <Effect label="HOT" startTime="119875" endTime="120175" />
         <Effect label="YES" startTime="120225" endTime="120675" />
-        <Effect label="WE'VE" startTime="120725" endTime="120900" />
+        <Effect label="WE&amp;apos;VE" startTime="120725" endTime="120900" />
         <Effect label="GOT" startTime="120925" endTime="121225" />
         <Effect label="IT" startTime="121250" endTime="121350" />
         <Effect label="HOT" startTime="121425" endTime="121700" />
         <Effect label="HOT" startTime="121800" endTime="122100" />
         <Effect label="YEAH" startTime="122125" endTime="122600" />
-        <Effect label="WE'VE" startTime="122625" endTime="122825" />
+        <Effect label="WE&amp;apos;VE" startTime="122625" endTime="122825" />
         <Effect label="GOT" startTime="122850" endTime="123150" />
         <Effect label="IT" startTime="123175" endTime="123250" />
         <Effect label="HOT" startTime="123325" endTime="123600" />

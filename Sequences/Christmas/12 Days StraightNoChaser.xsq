@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2026.19</version>
+    <version>2026.20</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -358,9 +358,9 @@
         <Effect ref="13" name="Fan" id="38" startTime="68975" endTime="69225" palette="4" />
         <Effect ref="14" name="Curtain" id="39" startTime="69225" endTime="70200" palette="7" />
         <Effect ref="12" name="Fan" id="40" startTime="70225" endTime="71250" palette="4" />
-        <Effect ref="19" name="Spirals" id="43" startTime="110125" endTime="111125" palette="12" />
-        <Effect ref="15" name="Bars" id="44" startTime="118350" endTime="119650" palette="8" />
-        <Effect ref="16" name="On" id="45" startTime="123300" endTime="126100" palette="1" />
+        <Effect ref="19" name="Spirals" id="41" startTime="110125" endTime="111125" palette="12" />
+        <Effect ref="15" name="Bars" id="42" startTime="118350" endTime="119650" palette="8" />
+        <Effect ref="16" name="On" id="43" startTime="123300" endTime="126100" palette="1" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Frames-All-Bottom">
@@ -384,7 +384,7 @@
     <Element type="model" name="PPD Wreath">
       <EffectLayer>
         <Effect ref="21" name="Shape" startTime="62475" endTime="63450" palette="14" />
-        <Effect ref="22" name="Pictures" selected="1" id="1" startTime="71200" endTime="74400" palette="1" />
+        <Effect ref="22" name="Pictures" id="1" startTime="71200" endTime="74400" palette="1" />
       </EffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath Center Piece">
@@ -534,7 +534,7 @@
         <Effect ref="37" name="Curtain" startTime="26175" endTime="27125" palette="12" />
         <Effect ref="37" name="Curtain" id="1" startTime="38775" endTime="39725" palette="12" />
         <Effect ref="37" name="Curtain" id="2" startTime="64425" endTime="65375" palette="12" />
-        <Effect ref="38" name="Curtain" id="5" startTime="123300" endTime="126100" palette="12" />
+        <Effect ref="38" name="Curtain" id="3" startTime="123300" endTime="126100" palette="12" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SnowFlakes-Right">
@@ -542,7 +542,7 @@
         <Effect ref="39" name="Curtain" startTime="26175" endTime="27125" palette="12" />
         <Effect ref="39" name="Curtain" id="1" startTime="38775" endTime="39725" palette="12" />
         <Effect ref="39" name="Curtain" id="2" startTime="64425" endTime="65375" palette="12" />
-        <Effect ref="40" name="Curtain" id="5" startTime="123300" endTime="126100" palette="12" />
+        <Effect ref="40" name="Curtain" id="3" startTime="123300" endTime="126100" palette="12" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Snowflakes-All">
@@ -582,8 +582,8 @@
         <Effect label="Five golden rings" startTime="45150" endTime="47625" />
         <Effect label="Four calling birds," startTime="47925" endTime="49000" />
         <Effect label="Two turtle doves" startTime="50125" endTime="51050" />
-        <Effect label="The boar's head in hand bear I" startTime="51450" endTime="53900" />
-        <Effect label="Bedeck'd with bays" startTime="54200" endTime="55675" />
+        <Effect label="The boar&amp;apos;s head in hand bear I" startTime="51450" endTime="53900" />
+        <Effect label="Bedeck&amp;apos;d with bays" startTime="54200" endTime="55675" />
         <Effect label="And partridge in a pear tree" startTime="55675" endTime="57950" />
         <Effect label="On the eleventh day of Christmas my true love gave to me" startTime="58275" endTime="61150" />
         <Effect label="Eleven pipers piping" startTime="61425" endTime="62425" />
@@ -600,7 +600,7 @@
         <Effect label="On the" startTime="74650" endTime="74925" />
         <Effect label="I have a little dreidel," startTime="76200" endTime="77525" />
         <Effect label="I made it out of clay," startTime="77525" endTime="78750" />
-        <Effect label="and when it's dry and ready" startTime="78925" endTime="80100" />
+        <Effect label="and when it&amp;apos;s dry and ready" startTime="78925" endTime="80100" />
         <Effect label="A dreidel I shall play." startTime="80275" endTime="81400" />
         <Effect label="Oh dreidel" startTime="81400" endTime="82000" />
         <Effect label="what" startTime="83100" endTime="83350" />
@@ -769,14 +769,14 @@
         <Effect label="TURTLE" startTime="50450" endTime="50850" />
         <Effect label="DOVES" startTime="50850" endTime="51075" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />
@@ -852,7 +852,7 @@
         <Effect label="CLAY" startTime="78300" endTime="78750" />
         <Effect label="AND" startTime="78925" endTime="79050" />
         <Effect label="WHEN" startTime="79050" endTime="79225" />
-        <Effect label="IT'S" startTime="79225" endTime="79400" />
+        <Effect label="IT&amp;apos;S" startTime="79225" endTime="79400" />
         <Effect label="DRY" startTime="79400" endTime="79600" />
         <Effect label="AND" startTime="79600" endTime="79750" />
         <Effect label="READY" startTime="79750" endTime="80100" />
@@ -2186,8 +2186,8 @@
         <Effect label="Six geese a laying" startTime="44100" endTime="45050" />
         <Effect label="Five golden rings" startTime="45150" endTime="47625" />
         <Effect label="three french hens" startTime="49000" endTime="50100" />
-        <Effect label="The boar's head in hand bear I" startTime="51450" endTime="53900" />
-        <Effect label="Bedeck'd with bays" startTime="54200" endTime="55675" />
+        <Effect label="The boar&amp;apos;s head in hand bear I" startTime="51450" endTime="53900" />
+        <Effect label="Bedeck&amp;apos;d with bays" startTime="54200" endTime="55675" />
         <Effect label="And partridge in a pear tree" startTime="55675" endTime="57950" />
         <Effect label="On the eleventh day of Christmas my true love gave to me" startTime="58275" endTime="61150" />
         <Effect label="Ding" startTime="61500" endTime="61625" />
@@ -2356,14 +2356,14 @@
         <Effect label="FRENCH" startTime="49350" endTime="49825" />
         <Effect label="HENS" startTime="49825" endTime="50125" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />
@@ -3596,8 +3596,8 @@
         <Effect label="Five golden rings" startTime="45150" endTime="47625" />
         <Effect label="Four calling birds," startTime="47925" endTime="49000" />
         <Effect label="Two turtle doves" startTime="50125" endTime="51050" />
-        <Effect label="The boar's head in hand bear I" startTime="51450" endTime="53900" />
-        <Effect label="Bedeck'd with bays" startTime="54200" endTime="55675" />
+        <Effect label="The boar&amp;apos;s head in hand bear I" startTime="51450" endTime="53900" />
+        <Effect label="Bedeck&amp;apos;d with bays" startTime="54200" endTime="55675" />
         <Effect label="And partridge in a pear tree" startTime="55675" endTime="57950" />
         <Effect label="On the eleventh day of Christmas my true love gave to me" startTime="58275" endTime="61150" />
         <Effect label="Ding" startTime="61500" endTime="61625" />
@@ -3779,14 +3779,14 @@
         <Effect label="TURTLE" startTime="50450" endTime="50850" />
         <Effect label="DOVES" startTime="50850" endTime="51075" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />
@@ -6292,14 +6292,14 @@
         <Effect label="TURTLE" startTime="50450" endTime="50850" />
         <Effect label="DOVES" startTime="50850" endTime="51075" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />
@@ -6375,7 +6375,7 @@
         <Effect label="CLAY" startTime="78300" endTime="78750" />
         <Effect label="AND" startTime="78925" endTime="79050" />
         <Effect label="WHEN" startTime="79050" endTime="79225" />
-        <Effect label="IT'S" startTime="79225" endTime="79400" />
+        <Effect label="IT&amp;apos;S" startTime="79225" endTime="79400" />
         <Effect label="DRY" startTime="79400" endTime="79600" />
         <Effect label="AND" startTime="79600" endTime="79750" />
         <Effect label="READY" startTime="79750" endTime="80100" />
@@ -6647,14 +6647,14 @@
         <Effect label="FRENCH" startTime="49350" endTime="49825" />
         <Effect label="HENS" startTime="49825" endTime="50125" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />
@@ -6996,14 +6996,14 @@
         <Effect label="TURTLE" startTime="50450" endTime="50850" />
         <Effect label="DOVES" startTime="50850" endTime="51075" />
         <Effect label="The" startTime="51450" endTime="51800" />
-        <Effect label="boar's" startTime="51800" endTime="52150" />
+        <Effect label="boar&amp;apos;s" startTime="51800" endTime="52150" />
         <Effect label="head" startTime="52150" endTime="52500" />
         <Effect label="in" startTime="52500" endTime="52850" />
         <Effect label="hand" startTime="52850" endTime="53200" />
         <Effect label="bear" startTime="53200" endTime="53550" />
         <Effect label="I" startTime="53550" endTime="53900" />
         <Effect label="SO" startTime="54200" endTime="54250" />
-        <Effect label="BEDECK'D" startTime="54250" endTime="54750" />
+        <Effect label="BEDECK&amp;apos;D" startTime="54250" endTime="54750" />
         <Effect label="WITH" startTime="54825" endTime="55075" />
         <Effect label="BAYS" startTime="55075" endTime="55675" />
         <Effect label="AND" startTime="55675" endTime="55825" />

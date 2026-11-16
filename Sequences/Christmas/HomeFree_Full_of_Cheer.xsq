@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2026.07</version>
+    <version>2026.20</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -80,9 +80,9 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,T_SLIDER_EffectLayerMix=12</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Speed=33,E_SLIDER_Pinwheel_Thickness=44,E_SLIDER_Pinwheel_Twist=0,T_CHOICE_LayerMethod=Normal</Effect>
     <Effect></Effect>
-    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0.0,E_TEXTCTRL_Curtain_Speed=4.6,T_CHOICE_LayerMethod=Normal</Effect>
-    <Effect>E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1,T_CHOICE_LayerMethod=Normal</Effect>
+    <Effect>E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1,T_CHOICE_LayerMethod=Normal</Effect>
     <Effect>T_CHOICE_LayerMethod=Normal</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0.0,E_TEXTCTRL_Curtain_Speed=5.2,T_CHOICE_LayerMethod=Normal</Effect>
@@ -110,28 +110,22 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="false" type="model" name="All-Pixles" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-1" visible="true" />
     <Element collapsed="false" type="timing" name="Beats" visible="true" views=",Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
     <Element collapsed="false" type="model" name="Arch-1-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-1-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-1-3-small" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-2" visible="true" />
     <Element collapsed="false" type="model" name="Arch-2-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-2-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-2-3-small" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-3" visible="true" />
     <Element collapsed="false" type="model" name="Arch-3-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-3-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-3-3-small" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-4" visible="true" />
     <Element collapsed="false" type="model" name="Arch-4-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-4-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-4-3-small" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-5" visible="true" />
     <Element collapsed="false" type="model" name="Arch-5-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-5-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-5-3-small" visible="true" />
-    <Element collapsed="false" type="model" name="Arch-6" visible="true" />
     <Element collapsed="false" type="model" name="Arch-6-1-large" visible="true" />
     <Element collapsed="false" type="model" name="Arch-6-2-medium" visible="true" />
     <Element collapsed="false" type="model" name="Arch-6-3-small" visible="true" />
@@ -154,7 +148,6 @@
     <Element collapsed="false" type="model" name="Frames-Edge-All-Left" visible="true" />
     <Element collapsed="false" type="model" name="Frames-Edge-All-Right" visible="true" />
     <Element collapsed="false" type="model" name="Frames-Edge-All-Top" visible="true" />
-    <Element collapsed="false" type="model" name="Frames-Windows" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Center Piece" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Center Rings" visible="true" />
@@ -219,9 +212,6 @@
         <Effect ref="4" name="Pinwheel" id="26" startTime="68200" endTime="76300" palette="9" />
         <Effect ref="4" name="Pinwheel" id="27" startTime="82300" endTime="87700" palette="9" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Arch-1">
-      <EffectLayer />
     </Element>
     <Element type="timing" name="Beats">
       <EffectLayer>
@@ -636,9 +626,6 @@
         <Effect ref="9" name="Color Wash" id="72" startTime="101600" endTime="103500" palette="14" />
       </EffectLayer>
     </Element>
-    <Element type="model" name="Arch-2">
-      <EffectLayer />
-    </Element>
     <Element type="model" name="Arch-2-1-large">
       <EffectLayer>
         <Effect ref="9" name="Color Wash" startTime="41800" endTime="42000" palette="18" />
@@ -837,9 +824,6 @@
         <Effect ref="7" name="Curtain" id="63" startTime="99300" endTime="99800" palette="12" />
         <Effect ref="9" name="Color Wash" id="64" startTime="101600" endTime="103500" palette="14" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Arch-3">
-      <EffectLayer />
     </Element>
     <Element type="model" name="Arch-3-1-large">
       <EffectLayer>
@@ -1048,9 +1032,6 @@
         <Effect ref="9" name="Color Wash" id="68" startTime="101600" endTime="103500" palette="14" />
       </EffectLayer>
     </Element>
-    <Element type="model" name="Arch-4">
-      <EffectLayer />
-    </Element>
     <Element type="model" name="Arch-4-1-large">
       <EffectLayer>
         <Effect ref="9" name="Color Wash" startTime="41800" endTime="42000" palette="18" />
@@ -1249,9 +1230,6 @@
         <Effect ref="7" name="Curtain" id="63" startTime="99300" endTime="99800" palette="12" />
         <Effect ref="9" name="Color Wash" id="64" startTime="101600" endTime="103500" palette="14" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Arch-5">
-      <EffectLayer />
     </Element>
     <Element type="model" name="Arch-5-1-large">
       <EffectLayer>
@@ -1459,9 +1437,6 @@
         <Effect ref="7" name="Curtain" id="67" startTime="99300" endTime="99800" palette="12" />
         <Effect ref="9" name="Color Wash" id="68" startTime="101600" endTime="103500" palette="14" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Arch-6">
-      <EffectLayer />
     </Element>
     <Element type="model" name="Arch-6-1-large">
       <EffectLayer>
@@ -1941,7 +1916,7 @@
         <Effect ref="19" name="Curtain" id="12" startTime="90000" endTime="90500" palette="42" />
         <Effect ref="19" name="Curtain" id="13" startTime="91975" endTime="92475" palette="40" />
         <Effect ref="19" name="Curtain" id="14" startTime="94000" endTime="94500" palette="42" />
-        <Effect ref="19" name="Curtain" selected="1" id="15" startTime="96000" endTime="96500" palette="40" />
+        <Effect ref="19" name="Curtain" id="15" startTime="96000" endTime="96500" palette="40" />
         <Effect ref="19" name="Curtain" id="16" startTime="97975" endTime="98450" palette="42" />
       </EffectLayer>
     </Element>
@@ -1997,9 +1972,6 @@
         <Effect ref="19" name="Curtain" id="15" startTime="96975" endTime="97475" palette="40" />
         <Effect ref="19" name="Curtain" id="16" startTime="98900" endTime="99375" palette="42" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Frames-Windows">
-      <EffectLayer />
     </Element>
     <Element type="model" name="PPD Wreath">
       <EffectLayer>

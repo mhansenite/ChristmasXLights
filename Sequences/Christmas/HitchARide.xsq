@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2026.15</version>
+    <version>2026.20</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -155,7 +155,7 @@
         <Effect label="Verse 2 - see you just because" startTime="32400" endTime="53075" />
         <Effect label="Rudolph grab all the toys" startTime="53075" endTime="64050" />
         <Effect label="My bags are packed" startTime="64050" endTime="74700" />
-        <Effect label="Take, I'm going to break" startTime="74700" endTime="80375" />
+        <Effect label="Take, I&amp;apos;m going to break" startTime="74700" endTime="80375" />
         <Effect label="Whistling" startTime="80375" endTime="85050" />
         <Effect label="My Christmas wish is u and nothin more" startTime="85050" endTime="88975" />
         <Effect label="Hey Thanks for the ride santa" startTime="88975" endTime="92675" />
@@ -1512,7 +1512,7 @@
     </Element>
     <Element type="model" name="RoofLines-Top">
       <EffectLayer>
-        <Effect ref="18" name="SingleStrand" selected="1" startTime="5425" endTime="5700" palette="5" />
+        <Effect ref="18" name="SingleStrand" startTime="5425" endTime="5700" palette="5" />
         <Effect ref="20" name="SingleStrand" id="1" startTime="5700" endTime="6050" palette="6" />
         <Effect ref="19" name="SingleStrand" id="2" startTime="6050" endTime="6375" palette="5" />
         <Effect ref="20" name="SingleStrand" id="3" startTime="6375" endTime="6725" palette="6" />

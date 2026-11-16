@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.20</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>You&amp;apos;re A Mean One, Mr. Grinch</song>
+    <artist>Thurl Ravenscroft</artist>
+    <album>How The Grinch Stole Christmas</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/mike/git/personal/ChristmasXLights/Audio/04 - New_You're A Mean One, Mr. Grinch.mp3</mediaFile>
+    <sequenceDuration>176.333</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes />
+  <EffectDB />
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
+    <Element collapsed="false" type="model" name="All-Pixles" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-All" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-Small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-Large" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All-Top" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Top" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Right" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Left" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-All" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Top" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="Snowflakes-All" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlakes-Left" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlakes-Right" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All-Pixles">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-Small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-Large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Snowflakes-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SnowFlakes-Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SnowFlakes-Right">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>2</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
