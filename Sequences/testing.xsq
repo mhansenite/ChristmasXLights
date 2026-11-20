@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.20</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
+    <Element collapsed="false" type="timing" name="100ms" visible="true" views="" active="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Rings" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-All" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Petals" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath-All" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Left" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Right" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Top" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath DiamondArms" visible="true" />
+    <Element collapsed="false" type="model" name="Snowflakes-All" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-Edge-All-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-Large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-Small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Center Piece" visible="true" />
+    <Element collapsed="false" type="model" name="All-Pixles" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Star" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-All" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlakes-Left" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlakes-Right" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Star Offset" visible="true" />
+    <Element collapsed="false" type="model" name="Frames-All-Top" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Center Rings" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral All" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Top" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral CClockwise" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral Clockwise" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Outer Diamonds" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Garage-Door" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-House-Door" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Bottom-1" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Bottom-2" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Bottom-3" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Bottom-4" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Top-1" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Top-2" visible="true" />
+    <Element collapsed="false" type="model" name="Frame-Window-Top-3" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-BottomLeft" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-BottomRight" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-TopLeft" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-TopRight" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-L1-Diamond" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-L2- 3 prong" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-L3-Arrow" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-L4-2 prong" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-R1-Diamond" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-R2-3 prong" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-R3-Arrow" visible="true" />
+    <Element collapsed="false" type="model" name="SnowFlake-R4-2 prong" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="timing" name="100ms" fixed="100">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Rings">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Petals">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath DiamondArms">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Snowflakes-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-Edge-All-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-Large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-Small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Center Piece">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All-Pixles">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Star">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SnowFlakes-Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SnowFlakes-Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Star Offset">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frames-All-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Center Rings">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-Bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="RoofLines-Top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral CClockwise">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral Clockwise">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Outer Diamonds">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-1-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-1-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-1-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-2-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-2-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-2-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-3-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-3-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-3-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-4-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-4-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-4-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-5-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-5-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-5-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-6-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-6-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-6-3-small">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Garage-Door">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Frame-House-Door">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Bottom-4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Top-1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Top-2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Frame-Window-Top-3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Roof-BottomLeft">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Roof-BottomRight">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Roof-TopLeft">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Roof-TopRight">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SnowFlake-L1-Diamond">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-L2- 3 prong">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-L3-Arrow">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-L4-2 prong">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-R1-Diamond">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-R2-3 prong">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-R3-Arrow">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowFlake-R4-2 prong">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
