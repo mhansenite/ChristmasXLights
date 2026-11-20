@@ -1,4 +1,5 @@
 *Backup/*
+/Backup/
 *.xbkp
 /RenderCache
 .DS_Store
