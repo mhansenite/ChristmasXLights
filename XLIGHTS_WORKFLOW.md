@@ -113,6 +113,7 @@ The working library is [Effect Examples.xsq](<Sequences/Effect Examples.xsq>). I
 - The `Christmas` playlist on `fpp.local` contains the 19 sequences in `Sequences/Christmas/`, paired with the media paths in their XSQ files. Both Full of Cheer variants share one soundtrack.
 - After model or channel-layout changes, re-render the FSEQ files against the current show directory before uploading. Uploading existing FSEQ files does not update their model/channel mapping.
 - Match FPP's Falcon DDP output channel count to `xlights_networks.xml`. On November 20, 2026, the layout required 9,654 channels, but FPP was still sending 8,328 to `192.168.60.143`. The FPP output was updated and reloaded; its reported zero-based range became `0-9653`.
+- Later on November 20, the revised layout required 9,777 channels. After correcting the edge submodels for all three top windows and bottom window 3, all 19 Christmas sequences were re-rendered. FPP's Falcon DDP output was extended to 9,777 channels (`0-9776` zero-based). The previous files, layout snapshot, render validation, and upload log are in `Backup/2026-11-20-window-layout-rerender/`.
 - Back up FPP configuration before changing it. Verify uploaded files by checksum and validate the playlist. Physical prop behavior still requires a playback check against the Falcon controller's own port configuration.
 
 ## Render and verify before finishing

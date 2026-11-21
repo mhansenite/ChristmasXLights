@@ -18,10 +18,15 @@
   </head>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
   </EffectDB>
   <SequenceMedia />
   <DataLayers>
@@ -184,7 +189,9 @@
       <EffectLayer />
     </Element>
     <Element type="model" name="RoofLines-Bottom">
-      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="200" endTime="300" palette="0" />
+      </EffectLayer>
     </Element>
     <Element type="model" name="RoofLines-Top">
       <EffectLayer />
@@ -253,9 +260,7 @@
       <EffectLayer />
     </Element>
     <Element type="model" name="Frame-Garage-Door">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="0" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="Frame-House-Door">
       <EffectLayer />
@@ -286,55 +291,111 @@
     </Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer />
+      <SubModelEffectLayer name="Section1">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section2">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="1" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="section3">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="2" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="section4">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="3" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="leftside">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Roof-BottomRight">
       <EffectLayer />
+      <SubModelEffectLayer name="LeftFacing3">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section5">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="1" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section6">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="2" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section7">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="3" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section8">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="RightFacing2">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="4" />
+      </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Roof-TopLeft">
       <EffectLayer />
+      <SubModelEffectLayer name="LeftFacing1">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section1">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="1" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="LeftFacing2">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="2" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section2">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="3" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section3">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="RightFacing1">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="4" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section4">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="5" />
+      </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Roof-TopRight">
       <EffectLayer />
+      <SubModelEffectLayer name="section5">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="0" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section6">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="1" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section7">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="2" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Rightfacing2">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="3" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Section8">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="4" />
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="SubModel-1">
+        <Effect ref="0" name="On" startTime="0" endTime="100" palette="6" />
+      </SubModelEffectLayer>
     </Element>
     <Element type="model" name="SnowFlake-L1-Diamond">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-L2- 3 prong">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-L3-Arrow">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-L4-2 prong">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-R1-Diamond">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-R2-3 prong">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-R3-Arrow">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="SnowFlake-R4-2 prong">
-      <EffectLayer>
-        <Effect ref="0" name="Bars" startTime="0" endTime="800" palette="1" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
