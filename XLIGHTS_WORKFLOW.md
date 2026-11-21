@@ -108,6 +108,13 @@ The working library is [Effect Examples.xsq](<Sequences/Effect Examples.xsq>). I
 5. Start the next clip **exactly 5,000 ms after the last clip's end**. Extend the sequence to fit. On the library's frame grid the gap is **200 dark frames**. Preserve existing clips and labels when appending.
 6. Render the updated library and verify that every new clip lights multiple intended models, all gaps are dark, and the previously rendered library still matches through its previous end. The two XATW donor packages are under [Sequences/Sources/XATW](Sequences/Sources/XATW).
 
+## FPP Christmas playback
+
+- The `Christmas` playlist on `fpp.local` contains the 19 sequences in `Sequences/Christmas/`, paired with the media paths in their XSQ files. Both Full of Cheer variants share one soundtrack.
+- After model or channel-layout changes, re-render the FSEQ files against the current show directory before uploading. Uploading existing FSEQ files does not update their model/channel mapping.
+- Match FPP's Falcon DDP output channel count to `xlights_networks.xml`. On November 20, 2026, the layout required 9,654 channels, but FPP was still sending 8,328 to `192.168.60.143`. The FPP output was updated and reloaded; its reported zero-based range became `0-9653`.
+- Back up FPP configuration before changing it. Verify uploaded files by checksum and validate the playlist. Physical prop behavior still requires a playback check against the Falcon controller's own port configuration.
+
 ## Render and verify before finishing
 
 Use the installed xLights renderer to generate the companion FSEQ. On this Mac, direct sandboxed execution could abort or fail, while the approved local invocation worked. Render staged files against the project show directory so the relative images and actual model definitions resolve.
