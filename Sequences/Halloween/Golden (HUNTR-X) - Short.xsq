@@ -127,7 +127,9 @@
     <Effect>E_CHOICE_Wave_Direction=Left,E_CHOICE_Wave_Type=Sine,E_SLIDER_Wave_Height=16,E_SLIDER_Wave_Number_Waves=5,E_SLIDER_Wave_YOffset=12,E_TEXTCTRL_Wave_Speed=50,T_CHOICE_LayerMethod=1 reveals 2</Effect>
     <Effect>E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Wave_Height=16,E_SLIDER_Wave_Number_Waves=5,E_SLIDER_Wave_YOffset=12,E_TEXTCTRL_Wave_Speed=50,T_CHOICE_LayerMethod=Normal</Effect>
     <Effect>E_CHOICE_Wave_Direction=Right to Left,E_CHOICE_Wave_Type=Sine,E_SLIDER_Wave_Height=16,E_SLIDER_Wave_Number_Waves=5,E_SLIDER_Wave_YOffset=12,E_TEXTCTRL_Wave_Speed=50,T_CHOICE_LayerMethod=1 reveals 2</Effect>
-  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect>    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=1,E_SLIDER_Pinwheel_Speed=20,E_SLIDER_Pinwheel_Thickness=12,E_SLIDER_Pinwheel_Twist=300</Effect>
+    <Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=4,E_TEXTCTRL_Bars_Cycles=0.938</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -3087,7 +3089,7 @@
         <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="22" palette="29" id="11" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="22" palette="29" />
+        <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="71" palette="29" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Bottom-4">
@@ -3101,7 +3103,7 @@
         <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="22" palette="29" id="6" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="22" palette="29" />
+        <Effect name="Pinwheel" startTime="23300" endTime="24100" ref="71" palette="29" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-1">
@@ -3118,10 +3120,10 @@
         <Effect name="On" startTime="61330" endTime="61480" ref="39" palette="30" id="9" />
       </EffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="31000" endTime="32500" ref="44" palette="33" />
+        <Effect name="Bars" startTime="31000" endTime="32500" ref="72" palette="33" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="31000" endTime="32500" ref="44" palette="33" />
+        <Effect name="Bars" startTime="31000" endTime="32500" ref="72" palette="33" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -3180,13 +3182,13 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="94740" ref="36" palette="36" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
           <Effect name="On" startTime="63070" endTime="63560" ref="54" palette="37" id="1" />
           <Effect name="On" startTime="64050" endTime="64570" ref="54" palette="37" id="2" />
           <Effect name="On" startTime="65060" endTime="65550" ref="54" palette="37" id="3" />
           <Effect name="On" startTime="66040" endTime="66520" ref="54" palette="37" id="4" />
           <Effect name="On" startTime="67020" endTime="67500" ref="54" palette="37" id="5" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
           <Effect name="On" startTime="63560" endTime="64050" ref="54" palette="34" id="1" />
           <Effect name="On" startTime="64570" endTime="65060" ref="54" palette="34" id="2" />
           <Effect name="On" startTime="65550" endTime="66040" ref="54" palette="34" id="3" />
@@ -3197,13 +3199,13 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="94740" ref="36" palette="36" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
           <Effect name="On" startTime="63070" endTime="63560" ref="54" palette="37" id="1" />
           <Effect name="On" startTime="64050" endTime="64570" ref="54" palette="37" id="2" />
           <Effect name="On" startTime="65060" endTime="65550" ref="54" palette="37" id="3" />
           <Effect name="On" startTime="66040" endTime="66520" ref="54" palette="37" id="4" />
           <Effect name="On" startTime="67020" endTime="67500" ref="54" palette="37" id="5" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
           <Effect name="On" startTime="63560" endTime="64050" ref="54" palette="34" id="1" />
           <Effect name="On" startTime="64570" endTime="65060" ref="54" palette="34" id="2" />
           <Effect name="On" startTime="65550" endTime="66040" ref="54" palette="34" id="3" />
@@ -3214,13 +3216,13 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="94740" ref="36" palette="36" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
           <Effect name="On" startTime="63070" endTime="63560" ref="54" palette="37" id="1" />
           <Effect name="On" startTime="64050" endTime="64570" ref="54" palette="37" id="2" />
           <Effect name="On" startTime="65060" endTime="65550" ref="54" palette="37" id="3" />
           <Effect name="On" startTime="66040" endTime="66520" ref="54" palette="37" id="4" />
           <Effect name="On" startTime="67020" endTime="67500" ref="54" palette="37" id="5" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
           <Effect name="On" startTime="63560" endTime="64050" ref="54" palette="34" id="1" />
           <Effect name="On" startTime="64570" endTime="65060" ref="54" palette="34" id="2" />
           <Effect name="On" startTime="65550" endTime="66040" ref="54" palette="34" id="3" />
@@ -3231,13 +3233,13 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="94740" ref="36" palette="36" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="62030" endTime="62580" ref="54" palette="37" />
           <Effect name="On" startTime="63070" endTime="63560" ref="54" palette="37" id="1" />
           <Effect name="On" startTime="64050" endTime="64570" ref="54" palette="37" id="2" />
           <Effect name="On" startTime="65060" endTime="65550" ref="54" palette="37" id="3" />
           <Effect name="On" startTime="66040" endTime="66520" ref="54" palette="37" id="4" />
           <Effect name="On" startTime="67020" endTime="67500" ref="54" palette="37" id="5" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="62580" endTime="63070" ref="54" palette="34" />
           <Effect name="On" startTime="63560" endTime="64050" ref="54" palette="34" id="1" />
           <Effect name="On" startTime="64570" endTime="65060" ref="54" palette="34" id="2" />
           <Effect name="On" startTime="65550" endTime="66040" ref="54" palette="34" id="3" />

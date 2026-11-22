@@ -1345,7 +1345,11 @@
     <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=21,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.643</Effect>
     <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=21,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.629</Effect>
     <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=67,E_TEXTCTRL_Eff_On_Start=100</Effect>
-  <Effect>E_CHECKBOX_Twinkle_Strobe=0,E_SLIDER_Twinkle_Count=40,E_SLIDER_Twinkle_Steps=12</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=7,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=20,E_SLIDER_Fireworks_Fade=30,E_SLIDER_Fireworks_Velocity=3,E_SLIDER_Fireworks_XLocation=50,E_SLIDER_Fireworks_YLocation=50</Effect><Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.03</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.3</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=2.53</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.33</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.33</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.0</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=14,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=8</Effect><Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=100.0,E_TEXTCTRL_Eff_On_Start=100.0,T_CHOICE_LayerMethod=1 reveals 2</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Twinkle_Strobe=0,E_SLIDER_Twinkle_Count=40,E_SLIDER_Twinkle_Steps=12</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=7,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=20,E_SLIDER_Fireworks_Fade=30,E_SLIDER_Fireworks_Velocity=3,E_SLIDER_Fireworks_XLocation=50,E_SLIDER_Fireworks_YLocation=50</Effect><Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.03</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.3</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=2.53</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.33</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.33</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.0</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=14,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=8</Effect><Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=100.0,E_TEXTCTRL_Eff_On_Start=100.0,T_CHOICE_LayerMethod=1 reveals 2</Effect>    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=5.727</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.400</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=5.909</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=5.382</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -1988,9 +1992,9 @@
         <Effect name="Bars" startTime="71800" endTime="71950" ref="35" palette="15" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="15" />
-        <Effect name="Bars" startTime="71800" endTime="71950" ref="35" palette="8" id="1" />
-        <Effect name="Bars" startTime="78220" endTime="78300" ref="35" palette="15" id="2" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="15" />
+        <Effect name="Bars" startTime="71800" endTime="71950" ref="73" palette="8" id="1" />
+        <Effect name="Bars" startTime="78220" endTime="78300" ref="73" palette="15" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="8" />
@@ -2024,7 +2028,7 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="36" palette="12" id="19" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="15" />
+        <Effect name="Bars" startTime="65450" endTime="71950" ref="74" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="8" />
@@ -2058,7 +2062,7 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="36" palette="12" id="20" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="15" />
+        <Effect name="Bars" startTime="65450" endTime="71950" ref="74" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="8" />
@@ -2095,7 +2099,7 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="36" palette="12" id="20" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="15" />
+        <Effect name="Bars" startTime="65450" endTime="71950" ref="74" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="8" />
@@ -2135,7 +2139,7 @@
         <Effect name="Bars" startTime="78220" endTime="84220" ref="8" palette="8" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="15" />
+        <Effect name="Bars" startTime="65450" endTime="71950" ref="74" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="8" />
@@ -2169,7 +2173,7 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="36" palette="12" id="20" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="15" />
+        <Effect name="Bars" startTime="65450" endTime="71950" ref="74" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Bars" startTime="65450" endTime="71950" ref="41" palette="8" />
@@ -2188,21 +2192,21 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="42" palette="12" id="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="15" />
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="8" id="1" />
-        <Effect name="Bars" startTime="71800" endTime="71950" ref="35" palette="15" id="2" />
+        <Effect name="Bars" startTime="65450" endTime="65500" ref="73" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="8" id="1" />
+        <Effect name="Bars" startTime="71800" endTime="71950" ref="73" palette="15" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="8" />
-        <Effect name="Bars" startTime="71800" endTime="71950" ref="35" palette="8" id="1" />
-        <Effect name="Bars" startTime="78300" endTime="84220" ref="43" palette="15" id="2" />
+        <Effect name="Bars" startTime="65450" endTime="65500" ref="73" palette="8" />
+        <Effect name="Bars" startTime="71800" endTime="71950" ref="73" palette="8" id="1" />
+        <Effect name="Bars" startTime="78300" endTime="84220" ref="75" palette="15" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="78220" endTime="78300" ref="35" palette="15" />
-        <Effect name="Bars" startTime="78300" endTime="84220" ref="43" palette="8" id="1" />
+        <Effect name="Bars" startTime="78220" endTime="78300" ref="73" palette="15" />
+        <Effect name="Bars" startTime="78300" endTime="84220" ref="75" palette="8" id="1" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -2212,12 +2216,12 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="42" palette="12" id="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="15" />
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="8" id="1" />
-        <Effect name="Bars" startTime="71800" endTime="71950" ref="35" palette="15" id="2" />
+        <Effect name="Bars" startTime="65450" endTime="65500" ref="73" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="8" id="1" />
+        <Effect name="Bars" startTime="71800" endTime="71950" ref="73" palette="15" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="8" />
@@ -2236,8 +2240,8 @@
         <Effect name="Bars" startTime="84220" endTime="90970" ref="42" palette="12" id="3" />
       </EffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="15" />
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="8" id="1" />
+        <Effect name="Bars" startTime="65450" endTime="65500" ref="73" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="8" id="1" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect name="Bars" startTime="65450" endTime="65500" ref="35" palette="8" />
@@ -2249,7 +2253,7 @@
         <Effect name="Bars" startTime="78220" endTime="84220" ref="8" palette="8" id="1" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65500" endTime="71800" ref="37" palette="15" />
+        <Effect name="Bars" startTime="65500" endTime="71800" ref="72" palette="15" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath">
@@ -2259,7 +2263,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="102760" ref="39" palette="1269" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
           <Effect name="On" startTime="18750" endTime="22400" ref="44" palette="34" id="1" />
           <Effect name="On" startTime="26400" endTime="29550" ref="44" palette="34" id="2" />
           <Effect name="On" startTime="30550" endTime="33250" ref="44" palette="34" id="3" />
@@ -2332,7 +2336,7 @@
           <Effect name="On" startTime="100620" endTime="101020" ref="44" palette="34" id="70" />
           <Effect name="On" startTime="101420" endTime="101780" ref="44" palette="34" id="71" />
           <Effect name="On" startTime="102220" endTime="102630" ref="44" palette="34" id="72" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
           <Effect name="On" startTime="22400" endTime="26400" ref="44" palette="22" id="1" />
           <Effect name="On" startTime="29550" endTime="30550" ref="44" palette="22" id="2" />
           <Effect name="On" startTime="33250" endTime="34900" ref="44" palette="22" id="3" />
@@ -2410,7 +2414,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="102760" ref="39" palette="1269" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
           <Effect name="On" startTime="18750" endTime="22400" ref="44" palette="34" id="1" />
           <Effect name="On" startTime="26400" endTime="29550" ref="44" palette="34" id="2" />
           <Effect name="On" startTime="30550" endTime="33250" ref="44" palette="34" id="3" />
@@ -2490,7 +2494,7 @@
           <Effect name="On" startTime="100620" endTime="101020" ref="44" palette="34" id="77" />
           <Effect name="On" startTime="101420" endTime="101780" ref="44" palette="34" id="78" />
           <Effect name="On" startTime="102220" endTime="102630" ref="44" palette="34" id="79" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
           <Effect name="On" startTime="22400" endTime="26400" ref="44" palette="22" id="1" />
           <Effect name="On" startTime="29550" endTime="30550" ref="44" palette="22" id="2" />
           <Effect name="On" startTime="33250" endTime="34900" ref="44" palette="22" id="3" />
@@ -2575,7 +2579,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="102760" ref="39" palette="1269" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
           <Effect name="On" startTime="18750" endTime="22400" ref="44" palette="34" id="1" />
           <Effect name="On" startTime="26400" endTime="29550" ref="44" palette="34" id="2" />
           <Effect name="On" startTime="30550" endTime="33250" ref="44" palette="34" id="3" />
@@ -2655,7 +2659,7 @@
           <Effect name="On" startTime="100620" endTime="101020" ref="44" palette="34" id="77" />
           <Effect name="On" startTime="101420" endTime="101780" ref="44" palette="34" id="78" />
           <Effect name="On" startTime="102220" endTime="102630" ref="44" palette="34" id="79" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
           <Effect name="On" startTime="22400" endTime="26400" ref="44" palette="22" id="1" />
           <Effect name="On" startTime="29550" endTime="30550" ref="44" palette="22" id="2" />
           <Effect name="On" startTime="33250" endTime="34900" ref="44" palette="22" id="3" />
@@ -2740,7 +2744,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="102760" ref="39" palette="1269" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="8900" endTime="14350" ref="44" palette="34" />
           <Effect name="On" startTime="18750" endTime="22400" ref="44" palette="34" id="1" />
           <Effect name="On" startTime="26400" endTime="29550" ref="44" palette="34" id="2" />
           <Effect name="On" startTime="30550" endTime="33250" ref="44" palette="34" id="3" />
@@ -2820,7 +2824,7 @@
           <Effect name="On" startTime="100620" endTime="101020" ref="44" palette="34" id="77" />
           <Effect name="On" startTime="101420" endTime="101780" ref="44" palette="34" id="78" />
           <Effect name="On" startTime="102220" endTime="102630" ref="44" palette="34" id="79" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="14350" endTime="18750" ref="44" palette="22" />
           <Effect name="On" startTime="22400" endTime="26400" ref="44" palette="22" id="1" />
           <Effect name="On" startTime="29550" endTime="30550" ref="44" palette="22" id="2" />
           <Effect name="On" startTime="33250" endTime="34900" ref="44" palette="22" id="3" />

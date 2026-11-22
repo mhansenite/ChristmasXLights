@@ -99,7 +99,21 @@
     <Effect>E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=Custom,E_SLIDER_Bars_Angle=90,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_SLIDER_Twinkle_Count=58,E_SLIDER_Twinkle_Steps=18</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=400,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Speed=1,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=-24</Effect>
-  </EffectDB>
+      <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x0.8695652174x100.0000000000x100</Effect>
+    <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x0.4504504505x100.0000000000x100</Effect>
+    <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x0.5917159763x100.0000000000x100</Effect>
+    <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x1.8867924528x100.0000000000x100</Effect>
+    <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x0.5102040816x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=9.07,B_CUSTOM_SubBuffer=0x0.7142857143x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=15.0,E_TEXTCTRL_Eff_On_Start=100.0,B_CUSTOM_SubBuffer=0x0.7142857143x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=9.07,B_CUSTOM_SubBuffer=0x1.4285714286x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=15.0,E_TEXTCTRL_Eff_On_Start=100.0,B_CUSTOM_SubBuffer=0x1.4285714286x100.0000000000x100</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.273</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.523</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.555</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.547</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=0.586</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
@@ -1918,80 +1932,80 @@
         <Effect ref="19" name="Ripple" id="45" startTime="109650" endTime="109950" palette="0" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="61175" endTime="61425" palette="0" />
-        <Effect ref="19" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
-        <Effect ref="21" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
-        <Effect ref="19" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
-        <Effect ref="19" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
-        <Effect ref="27" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
-        <Effect ref="19" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
-        <Effect ref="19" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
-        <Effect ref="20" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
-        <Effect ref="19" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
-        <Effect ref="19" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
-        <Effect ref="30" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
-        <Effect ref="19" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
-        <Effect ref="19" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
-        <Effect ref="30" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
-        <Effect ref="19" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
-        <Effect ref="19" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
+        <Effect ref="72" name="Ripple" startTime="61175" endTime="61425" palette="0" />
+        <Effect ref="72" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
+        <Effect ref="73" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
+        <Effect ref="72" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
+        <Effect ref="72" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
+        <Effect ref="74" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
+        <Effect ref="72" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
+        <Effect ref="72" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
+        <Effect ref="75" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
+        <Effect ref="72" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
+        <Effect ref="72" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
+        <Effect ref="76" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
+        <Effect ref="72" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
+        <Effect ref="72" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
+        <Effect ref="76" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
+        <Effect ref="72" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
+        <Effect ref="72" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="19" name="Ripple" startTime="61175" endTime="61425" palette="0" />
-        <Effect ref="19" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
-        <Effect ref="21" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
-        <Effect ref="19" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
-        <Effect ref="19" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
-        <Effect ref="27" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
-        <Effect ref="19" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
-        <Effect ref="19" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
-        <Effect ref="20" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
-        <Effect ref="19" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
-        <Effect ref="19" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
-        <Effect ref="30" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
-        <Effect ref="19" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
-        <Effect ref="19" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
-        <Effect ref="30" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
-        <Effect ref="19" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
-        <Effect ref="19" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
+        <Effect ref="72" name="Ripple" startTime="61175" endTime="61425" palette="0" />
+        <Effect ref="72" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
+        <Effect ref="73" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
+        <Effect ref="72" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
+        <Effect ref="72" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
+        <Effect ref="74" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
+        <Effect ref="72" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
+        <Effect ref="72" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
+        <Effect ref="75" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
+        <Effect ref="72" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
+        <Effect ref="72" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
+        <Effect ref="76" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
+        <Effect ref="72" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
+        <Effect ref="72" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
+        <Effect ref="76" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
+        <Effect ref="72" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
+        <Effect ref="72" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect ref="19" name="Ripple" startTime="61175" endTime="61425" palette="0" />
-        <Effect ref="19" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
-        <Effect ref="21" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
-        <Effect ref="19" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
-        <Effect ref="19" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
-        <Effect ref="27" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
-        <Effect ref="19" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
-        <Effect ref="19" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
-        <Effect ref="20" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
-        <Effect ref="19" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
-        <Effect ref="19" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
-        <Effect ref="30" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
-        <Effect ref="19" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
-        <Effect ref="19" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
-        <Effect ref="30" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
-        <Effect ref="19" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
-        <Effect ref="19" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
+        <Effect ref="72" name="Ripple" startTime="61175" endTime="61425" palette="0" />
+        <Effect ref="72" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
+        <Effect ref="73" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
+        <Effect ref="72" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
+        <Effect ref="72" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
+        <Effect ref="74" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
+        <Effect ref="72" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
+        <Effect ref="72" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
+        <Effect ref="75" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
+        <Effect ref="72" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
+        <Effect ref="72" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
+        <Effect ref="76" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
+        <Effect ref="72" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
+        <Effect ref="72" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
+        <Effect ref="76" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
+        <Effect ref="72" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
+        <Effect ref="72" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect ref="19" name="Ripple" startTime="61175" endTime="61425" palette="0" />
-        <Effect ref="19" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
-        <Effect ref="21" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
-        <Effect ref="19" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
-        <Effect ref="19" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
-        <Effect ref="27" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
-        <Effect ref="19" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
-        <Effect ref="19" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
-        <Effect ref="20" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
-        <Effect ref="19" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
-        <Effect ref="19" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
-        <Effect ref="30" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
-        <Effect ref="19" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
-        <Effect ref="19" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
-        <Effect ref="30" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
-        <Effect ref="19" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
-        <Effect ref="19" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
+        <Effect ref="72" name="Ripple" startTime="61175" endTime="61425" palette="0" />
+        <Effect ref="72" name="Ripple" id="1" startTime="61750" endTime="62000" palette="0" />
+        <Effect ref="73" name="Ripple" id="2" startTime="62150" endTime="62825" palette="0" />
+        <Effect ref="72" name="Ripple" id="3" startTime="64600" endTime="64900" palette="0" />
+        <Effect ref="72" name="Ripple" id="4" startTime="65150" endTime="65450" palette="0" />
+        <Effect ref="74" name="Ripple" id="5" startTime="65600" endTime="66300" palette="0" />
+        <Effect ref="72" name="Ripple" id="6" startTime="98825" endTime="99125" palette="0" />
+        <Effect ref="72" name="Ripple" id="7" startTime="99375" endTime="99675" palette="0" />
+        <Effect ref="75" name="Ripple" id="8" startTime="99825" endTime="100525" palette="0" />
+        <Effect ref="72" name="Ripple" id="9" startTime="102225" endTime="102525" palette="0" />
+        <Effect ref="72" name="Ripple" id="10" startTime="102825" endTime="103075" palette="0" />
+        <Effect ref="76" name="Ripple" id="11" startTime="103225" endTime="103975" palette="0" />
+        <Effect ref="72" name="Ripple" id="12" startTime="105625" endTime="105950" palette="0" />
+        <Effect ref="72" name="Ripple" id="13" startTime="106250" endTime="106500" palette="0" />
+        <Effect ref="76" name="Ripple" id="14" startTime="106650" endTime="107400" palette="0" />
+        <Effect ref="72" name="Ripple" id="15" startTime="109100" endTime="109400" palette="0" />
+        <Effect ref="72" name="Ripple" id="16" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -2162,24 +2176,24 @@
         <Effect ref="46" name="Bars" id="3" startTime="42350" endTime="42700" palette="10" />
         <Effect ref="46" name="Bars" id="4" startTime="44650" endTime="44950" palette="10" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Star3">
-        <Effect ref="47" name="Ripple" startTime="61175" endTime="61425" palette="11" />
-        <Effect ref="47" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
-        <Effect ref="47" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
-        <Effect ref="47" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
-        <Effect ref="47" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
-        <Effect ref="47" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
-        <Effect ref="47" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
-        <Effect ref="47" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
-        <Effect ref="47" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
-        <Effect ref="47" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
-        <Effect ref="47" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
-        <Effect ref="47" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
-        <Effect ref="47" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
-        <Effect ref="47" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
-        <Effect ref="47" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
-        <Effect ref="47" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
-        <Effect ref="47" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
+      <SubModelEffectLayer name="Star3">
+        <Effect ref="63" name="Ripple" startTime="61175" endTime="61425" palette="11" />
+        <Effect ref="63" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
+        <Effect ref="63" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
+        <Effect ref="63" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
+        <Effect ref="63" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
+        <Effect ref="63" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
+        <Effect ref="63" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
+        <Effect ref="63" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
+        <Effect ref="63" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
+        <Effect ref="63" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
+        <Effect ref="63" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
+        <Effect ref="63" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
+        <Effect ref="63" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
+        <Effect ref="63" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
+        <Effect ref="63" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
+        <Effect ref="63" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
+        <Effect ref="63" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LOR-StarCW">
         <Effect ref="47" name="Ripple" startTime="61175" endTime="61425" palette="11" />
@@ -2230,57 +2244,57 @@
         <Effect ref="47" name="Ripple" id="7" startTime="64900" endTime="65150" palette="11" />
         <Effect ref="47" name="Ripple" id="8" startTime="65600" endTime="66300" palette="11" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Star1">
-        <Effect ref="47" name="Ripple" startTime="61425" endTime="61750" palette="11" />
-        <Effect ref="47" name="Ripple" id="1" startTime="62000" endTime="62825" palette="11" />
-        <Effect ref="47" name="Ripple" id="2" startTime="64900" endTime="65150" palette="11" />
-        <Effect ref="47" name="Ripple" id="3" startTime="65450" endTime="66300" palette="11" />
-        <Effect ref="47" name="Ripple" id="4" startTime="99125" endTime="99375" palette="11" />
-        <Effect ref="47" name="Ripple" id="5" startTime="99675" endTime="100525" palette="11" />
-        <Effect ref="47" name="Ripple" id="6" startTime="102525" endTime="102825" palette="11" />
-        <Effect ref="47" name="Ripple" id="7" startTime="103075" endTime="103975" palette="11" />
-        <Effect ref="47" name="Ripple" id="8" startTime="105950" endTime="106250" palette="11" />
-        <Effect ref="47" name="Ripple" id="9" startTime="106500" endTime="107400" palette="11" />
-        <Effect ref="47" name="Ripple" id="10" startTime="109400" endTime="109650" palette="11" />
-        <Effect ref="47" name="Ripple" id="11" startTime="109950" endTime="111150" palette="11" />
+      <SubModelEffectLayer name="Star1">
+        <Effect ref="64" name="Ripple" startTime="61425" endTime="61750" palette="11" />
+        <Effect ref="64" name="Ripple" id="1" startTime="62000" endTime="62825" palette="11" />
+        <Effect ref="64" name="Ripple" id="2" startTime="64900" endTime="65150" palette="11" />
+        <Effect ref="64" name="Ripple" id="3" startTime="65450" endTime="66300" palette="11" />
+        <Effect ref="64" name="Ripple" id="4" startTime="99125" endTime="99375" palette="11" />
+        <Effect ref="64" name="Ripple" id="5" startTime="99675" endTime="100525" palette="11" />
+        <Effect ref="64" name="Ripple" id="6" startTime="102525" endTime="102825" palette="11" />
+        <Effect ref="64" name="Ripple" id="7" startTime="103075" endTime="103975" palette="11" />
+        <Effect ref="64" name="Ripple" id="8" startTime="105950" endTime="106250" palette="11" />
+        <Effect ref="64" name="Ripple" id="9" startTime="106500" endTime="107400" palette="11" />
+        <Effect ref="64" name="Ripple" id="10" startTime="109400" endTime="109650" palette="11" />
+        <Effect ref="64" name="Ripple" id="11" startTime="109950" endTime="111150" palette="11" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Star2">
-        <Effect ref="47" name="Ripple" startTime="61175" endTime="61425" palette="11" />
-        <Effect ref="47" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
-        <Effect ref="47" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
-        <Effect ref="47" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
-        <Effect ref="47" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
-        <Effect ref="47" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
-        <Effect ref="47" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
-        <Effect ref="47" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
-        <Effect ref="47" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
-        <Effect ref="47" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
-        <Effect ref="47" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
-        <Effect ref="47" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
-        <Effect ref="47" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
-        <Effect ref="47" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
-        <Effect ref="47" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
-        <Effect ref="47" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
-        <Effect ref="47" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
+      <SubModelEffectLayer name="Star2">
+        <Effect ref="65" name="Ripple" startTime="61175" endTime="61425" palette="11" />
+        <Effect ref="65" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
+        <Effect ref="65" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
+        <Effect ref="65" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
+        <Effect ref="65" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
+        <Effect ref="65" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
+        <Effect ref="65" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
+        <Effect ref="65" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
+        <Effect ref="65" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
+        <Effect ref="65" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
+        <Effect ref="65" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
+        <Effect ref="65" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
+        <Effect ref="65" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
+        <Effect ref="65" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
+        <Effect ref="65" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
+        <Effect ref="65" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
+        <Effect ref="65" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Star4">
-        <Effect ref="47" name="Ripple" startTime="61175" endTime="61425" palette="11" />
-        <Effect ref="47" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
-        <Effect ref="47" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
-        <Effect ref="47" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
-        <Effect ref="47" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
-        <Effect ref="47" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
-        <Effect ref="47" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
-        <Effect ref="47" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
-        <Effect ref="47" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
-        <Effect ref="47" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
-        <Effect ref="47" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
-        <Effect ref="47" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
-        <Effect ref="47" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
-        <Effect ref="47" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
-        <Effect ref="47" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
-        <Effect ref="47" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
-        <Effect ref="47" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
+      <SubModelEffectLayer name="Star4">
+        <Effect ref="66" name="Ripple" startTime="61175" endTime="61425" palette="11" />
+        <Effect ref="66" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
+        <Effect ref="66" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
+        <Effect ref="66" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
+        <Effect ref="66" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
+        <Effect ref="66" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
+        <Effect ref="66" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
+        <Effect ref="66" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
+        <Effect ref="66" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
+        <Effect ref="66" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
+        <Effect ref="66" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
+        <Effect ref="66" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
+        <Effect ref="66" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
+        <Effect ref="66" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
+        <Effect ref="66" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
+        <Effect ref="66" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
+        <Effect ref="66" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LOR-Star5">
         <Effect ref="47" name="Ripple" startTime="61425" endTime="61750" palette="11" />
@@ -2380,55 +2394,55 @@
         <Effect ref="46" name="Bars" id="3" startTime="42950" endTime="43200" palette="10" />
         <Effect ref="46" name="Bars" id="4" startTime="44350" endTime="44650" palette="10" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-StarOffset1">
-        <Effect ref="47" name="Ripple" startTime="61175" endTime="61425" palette="11" />
-        <Effect ref="47" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
-        <Effect ref="47" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
-        <Effect ref="47" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
-        <Effect ref="47" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
-        <Effect ref="47" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
-        <Effect ref="47" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
-        <Effect ref="47" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
-        <Effect ref="47" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
-        <Effect ref="47" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
-        <Effect ref="47" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
-        <Effect ref="47" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
-        <Effect ref="47" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
-        <Effect ref="47" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
-        <Effect ref="47" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
-        <Effect ref="47" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
-        <Effect ref="47" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
+      <SubModelEffectLayer name="StarOffset1">
+        <Effect ref="67" name="Ripple" startTime="61175" endTime="61425" palette="11" />
+        <Effect ref="67" name="Ripple" id="1" startTime="61750" endTime="62000" palette="11" />
+        <Effect ref="67" name="Ripple" id="2" startTime="62150" endTime="62825" palette="11" />
+        <Effect ref="67" name="Ripple" id="3" startTime="64600" endTime="64900" palette="11" />
+        <Effect ref="67" name="Ripple" id="4" startTime="65150" endTime="65450" palette="11" />
+        <Effect ref="67" name="Ripple" id="5" startTime="65600" endTime="66300" palette="11" />
+        <Effect ref="67" name="Ripple" id="6" startTime="98825" endTime="99125" palette="11" />
+        <Effect ref="67" name="Ripple" id="7" startTime="99375" endTime="99675" palette="11" />
+        <Effect ref="67" name="Ripple" id="8" startTime="99825" endTime="100525" palette="11" />
+        <Effect ref="67" name="Ripple" id="9" startTime="102225" endTime="102525" palette="11" />
+        <Effect ref="67" name="Ripple" id="10" startTime="102825" endTime="103075" palette="11" />
+        <Effect ref="67" name="Ripple" id="11" startTime="103225" endTime="103975" palette="11" />
+        <Effect ref="67" name="Ripple" id="12" startTime="105625" endTime="105950" palette="11" />
+        <Effect ref="67" name="Ripple" id="13" startTime="106250" endTime="106500" palette="11" />
+        <Effect ref="67" name="Ripple" id="14" startTime="106650" endTime="107400" palette="11" />
+        <Effect ref="67" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
+        <Effect ref="67" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-StarOffset2">
-        <Effect ref="52" name="Bars" startTime="45800" endTime="59400" palette="14" />
-        <Effect ref="45" name="On" id="1" startTime="71150" endTime="71400" palette="6" />
-        <Effect ref="45" name="On" id="2" startTime="72850" endTime="73100" palette="6" />
-        <Effect ref="45" name="On" id="3" startTime="73350" endTime="73550" palette="6" />
-        <Effect ref="45" name="On" id="4" startTime="74000" endTime="74250" palette="6" />
-        <Effect ref="45" name="On" id="5" startTime="74550" endTime="74800" palette="6" />
-        <Effect ref="45" name="On" id="6" startTime="75150" endTime="76250" palette="6" />
-        <Effect ref="45" name="On" id="7" startTime="76400" endTime="76550" palette="6" />
-        <Effect ref="45" name="On" id="8" startTime="78000" endTime="78250" palette="6" />
-        <Effect ref="45" name="On" id="9" startTime="79700" endTime="79950" palette="6" />
-        <Effect ref="45" name="On" id="10" startTime="80250" endTime="80550" palette="6" />
-        <Effect ref="45" name="On" id="11" startTime="80800" endTime="81100" palette="6" />
-        <Effect ref="45" name="On" id="12" startTime="81400" endTime="81650" palette="6" />
-        <Effect ref="45" name="On" id="13" startTime="83100" endTime="83250" palette="6" />
-        <Effect ref="45" name="On" id="14" startTime="83250" endTime="83400" palette="6" />
-        <Effect ref="45" name="On" id="15" startTime="84550" endTime="84850" palette="6" />
-        <Effect ref="45" name="On" id="16" startTime="84850" endTime="85100" palette="6" />
-        <Effect ref="45" name="On" id="17" startTime="86550" endTime="86750" palette="6" />
-        <Effect ref="45" name="On" id="18" startTime="86950" endTime="87100" palette="6" />
-        <Effect ref="45" name="On" id="19" startTime="87650" endTime="87800" palette="6" />
-        <Effect ref="45" name="On" id="20" startTime="88000" endTime="88250" palette="6" />
-        <Effect ref="45" name="On" id="21" startTime="88500" endTime="89900" palette="6" />
-        <Effect ref="45" name="On" id="22" startTime="90100" endTime="90250" palette="6" />
-        <Effect ref="45" name="On" id="23" startTime="91400" endTime="91650" palette="6" />
-        <Effect ref="45" name="On" id="24" startTime="91650" endTime="91950" palette="6" />
-        <Effect ref="45" name="On" id="25" startTime="93250" endTime="93400" palette="6" />
-        <Effect ref="45" name="On" id="26" startTime="93400" endTime="93550" palette="6" />
-        <Effect ref="45" name="On" id="27" startTime="94950" endTime="95100" palette="6" />
-        <Effect ref="45" name="On" id="28" startTime="95100" endTime="95350" palette="6" />
+      <SubModelEffectLayer name="StarOffset2">
+        <Effect ref="68" name="Bars" startTime="45800" endTime="59400" palette="14" />
+        <Effect ref="69" name="On" id="1" startTime="71150" endTime="71400" palette="6" />
+        <Effect ref="69" name="On" id="2" startTime="72850" endTime="73100" palette="6" />
+        <Effect ref="69" name="On" id="3" startTime="73350" endTime="73550" palette="6" />
+        <Effect ref="69" name="On" id="4" startTime="74000" endTime="74250" palette="6" />
+        <Effect ref="69" name="On" id="5" startTime="74550" endTime="74800" palette="6" />
+        <Effect ref="69" name="On" id="6" startTime="75150" endTime="76250" palette="6" />
+        <Effect ref="69" name="On" id="7" startTime="76400" endTime="76550" palette="6" />
+        <Effect ref="69" name="On" id="8" startTime="78000" endTime="78250" palette="6" />
+        <Effect ref="69" name="On" id="9" startTime="79700" endTime="79950" palette="6" />
+        <Effect ref="69" name="On" id="10" startTime="80250" endTime="80550" palette="6" />
+        <Effect ref="69" name="On" id="11" startTime="80800" endTime="81100" palette="6" />
+        <Effect ref="69" name="On" id="12" startTime="81400" endTime="81650" palette="6" />
+        <Effect ref="69" name="On" id="13" startTime="83100" endTime="83250" palette="6" />
+        <Effect ref="69" name="On" id="14" startTime="83250" endTime="83400" palette="6" />
+        <Effect ref="69" name="On" id="15" startTime="84550" endTime="84850" palette="6" />
+        <Effect ref="69" name="On" id="16" startTime="84850" endTime="85100" palette="6" />
+        <Effect ref="69" name="On" id="17" startTime="86550" endTime="86750" palette="6" />
+        <Effect ref="69" name="On" id="18" startTime="86950" endTime="87100" palette="6" />
+        <Effect ref="69" name="On" id="19" startTime="87650" endTime="87800" palette="6" />
+        <Effect ref="69" name="On" id="20" startTime="88000" endTime="88250" palette="6" />
+        <Effect ref="69" name="On" id="21" startTime="88500" endTime="89900" palette="6" />
+        <Effect ref="69" name="On" id="22" startTime="90100" endTime="90250" palette="6" />
+        <Effect ref="69" name="On" id="23" startTime="91400" endTime="91650" palette="6" />
+        <Effect ref="69" name="On" id="24" startTime="91650" endTime="91950" palette="6" />
+        <Effect ref="69" name="On" id="25" startTime="93250" endTime="93400" palette="6" />
+        <Effect ref="69" name="On" id="26" startTime="93400" endTime="93550" palette="6" />
+        <Effect ref="69" name="On" id="27" startTime="94950" endTime="95100" palette="6" />
+        <Effect ref="69" name="On" id="28" startTime="95100" endTime="95350" palette="6" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LOR-Ring Group Outer">
         <Effect ref="53" name="On" startTime="59400" endTime="60250" palette="0" />
@@ -2519,43 +2533,43 @@
         <Effect ref="47" name="Ripple" id="15" startTime="109100" endTime="109400" palette="11" />
         <Effect ref="47" name="Ripple" id="16" startTime="109650" endTime="109950" palette="11" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-StarOffset3">
-        <Effect ref="52" name="Bars" startTime="45800" endTime="59400" palette="14" />
-        <Effect ref="45" name="On" id="1" startTime="71150" endTime="71400" palette="6" />
-        <Effect ref="45" name="On" id="2" startTime="72850" endTime="73100" palette="6" />
-        <Effect ref="45" name="On" id="3" startTime="73350" endTime="73550" palette="6" />
-        <Effect ref="45" name="On" id="4" startTime="74000" endTime="74250" palette="6" />
-        <Effect ref="45" name="On" id="5" startTime="74550" endTime="74800" palette="6" />
-        <Effect ref="45" name="On" id="6" startTime="75150" endTime="76250" palette="6" />
-        <Effect ref="45" name="On" id="7" startTime="76400" endTime="76550" palette="6" />
-        <Effect ref="45" name="On" id="8" startTime="78000" endTime="78250" palette="6" />
-        <Effect ref="45" name="On" id="9" startTime="79700" endTime="79950" palette="6" />
-        <Effect ref="45" name="On" id="10" startTime="80250" endTime="80550" palette="6" />
-        <Effect ref="45" name="On" id="11" startTime="80800" endTime="81100" palette="6" />
-        <Effect ref="45" name="On" id="12" startTime="81400" endTime="81650" palette="6" />
-        <Effect ref="45" name="On" id="13" startTime="83100" endTime="83250" palette="6" />
-        <Effect ref="45" name="On" id="14" startTime="83250" endTime="83400" palette="6" />
-        <Effect ref="45" name="On" id="15" startTime="84550" endTime="84850" palette="6" />
-        <Effect ref="45" name="On" id="16" startTime="84850" endTime="85100" palette="6" />
-        <Effect ref="45" name="On" id="17" startTime="86550" endTime="86750" palette="6" />
-        <Effect ref="45" name="On" id="18" startTime="86950" endTime="87100" palette="6" />
-        <Effect ref="45" name="On" id="19" startTime="87650" endTime="87800" palette="6" />
-        <Effect ref="45" name="On" id="20" startTime="88000" endTime="88250" palette="6" />
-        <Effect ref="45" name="On" id="21" startTime="88500" endTime="89900" palette="6" />
-        <Effect ref="45" name="On" id="22" startTime="90100" endTime="90250" palette="6" />
-        <Effect ref="45" name="On" id="23" startTime="91400" endTime="91650" palette="6" />
-        <Effect ref="45" name="On" id="24" startTime="91650" endTime="91950" palette="6" />
-        <Effect ref="45" name="On" id="25" startTime="93250" endTime="93400" palette="6" />
-        <Effect ref="45" name="On" id="26" startTime="93400" endTime="93550" palette="6" />
-        <Effect ref="45" name="On" id="27" startTime="94950" endTime="95100" palette="6" />
-        <Effect ref="45" name="On" id="28" startTime="95100" endTime="95350" palette="6" />
+      <SubModelEffectLayer name="StarOffset3">
+        <Effect ref="70" name="Bars" startTime="45800" endTime="59400" palette="14" />
+        <Effect ref="71" name="On" id="1" startTime="71150" endTime="71400" palette="6" />
+        <Effect ref="71" name="On" id="2" startTime="72850" endTime="73100" palette="6" />
+        <Effect ref="71" name="On" id="3" startTime="73350" endTime="73550" palette="6" />
+        <Effect ref="71" name="On" id="4" startTime="74000" endTime="74250" palette="6" />
+        <Effect ref="71" name="On" id="5" startTime="74550" endTime="74800" palette="6" />
+        <Effect ref="71" name="On" id="6" startTime="75150" endTime="76250" palette="6" />
+        <Effect ref="71" name="On" id="7" startTime="76400" endTime="76550" palette="6" />
+        <Effect ref="71" name="On" id="8" startTime="78000" endTime="78250" palette="6" />
+        <Effect ref="71" name="On" id="9" startTime="79700" endTime="79950" palette="6" />
+        <Effect ref="71" name="On" id="10" startTime="80250" endTime="80550" palette="6" />
+        <Effect ref="71" name="On" id="11" startTime="80800" endTime="81100" palette="6" />
+        <Effect ref="71" name="On" id="12" startTime="81400" endTime="81650" palette="6" />
+        <Effect ref="71" name="On" id="13" startTime="83100" endTime="83250" palette="6" />
+        <Effect ref="71" name="On" id="14" startTime="83250" endTime="83400" palette="6" />
+        <Effect ref="71" name="On" id="15" startTime="84550" endTime="84850" palette="6" />
+        <Effect ref="71" name="On" id="16" startTime="84850" endTime="85100" palette="6" />
+        <Effect ref="71" name="On" id="17" startTime="86550" endTime="86750" palette="6" />
+        <Effect ref="71" name="On" id="18" startTime="86950" endTime="87100" palette="6" />
+        <Effect ref="71" name="On" id="19" startTime="87650" endTime="87800" palette="6" />
+        <Effect ref="71" name="On" id="20" startTime="88000" endTime="88250" palette="6" />
+        <Effect ref="71" name="On" id="21" startTime="88500" endTime="89900" palette="6" />
+        <Effect ref="71" name="On" id="22" startTime="90100" endTime="90250" palette="6" />
+        <Effect ref="71" name="On" id="23" startTime="91400" endTime="91650" palette="6" />
+        <Effect ref="71" name="On" id="24" startTime="91650" endTime="91950" palette="6" />
+        <Effect ref="71" name="On" id="25" startTime="93250" endTime="93400" palette="6" />
+        <Effect ref="71" name="On" id="26" startTime="93400" endTime="93550" palette="6" />
+        <Effect ref="71" name="On" id="27" startTime="94950" endTime="95100" palette="6" />
+        <Effect ref="71" name="On" id="28" startTime="95100" endTime="95350" palette="6" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer>
         <Effect ref="8" name="On" startTime="0" endTime="117175" palette="15" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green">
+      <SubModelEffectLayer name="Odd">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="0" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="0" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="0" />
@@ -2666,7 +2680,7 @@
         <Effect ref="55" name="On" id="107" startTime="109100" endTime="109450" palette="0" />
         <Effect ref="55" name="On" id="108" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-White">
+      <SubModelEffectLayer name="Even">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="16" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="16" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="16" />
@@ -2782,7 +2796,7 @@
       <EffectLayer>
         <Effect ref="8" name="On" startTime="0" endTime="117175" palette="15" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green">
+      <SubModelEffectLayer name="Odd">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="0" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="0" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="0" />
@@ -2893,7 +2907,7 @@
         <Effect ref="55" name="On" id="107" startTime="109100" endTime="109450" palette="0" />
         <Effect ref="55" name="On" id="108" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-White">
+      <SubModelEffectLayer name="Even">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="16" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="16" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="16" />
@@ -3009,7 +3023,7 @@
       <EffectLayer>
         <Effect ref="8" name="On" startTime="0" endTime="117175" palette="15" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green">
+      <SubModelEffectLayer name="Odd">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="0" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="0" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="0" />
@@ -3120,7 +3134,7 @@
         <Effect ref="55" name="On" id="107" startTime="109100" endTime="109450" palette="0" />
         <Effect ref="55" name="On" id="108" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-White">
+      <SubModelEffectLayer name="Even">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="16" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="16" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="16" />
@@ -3236,7 +3250,7 @@
       <EffectLayer>
         <Effect ref="8" name="On" startTime="0" endTime="117175" palette="15" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green">
+      <SubModelEffectLayer name="Odd">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="0" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="0" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="0" />
@@ -3346,7 +3360,7 @@
         <Effect ref="55" name="On" id="106" startTime="109100" endTime="109450" palette="0" />
         <Effect ref="55" name="On" id="107" startTime="109650" endTime="109950" palette="0" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-White">
+      <SubModelEffectLayer name="Even">
         <Effect ref="55" name="On" startTime="350" endTime="550" palette="16" />
         <Effect ref="55" name="On" id="1" startTime="550" endTime="800" palette="16" />
         <Effect ref="55" name="On" id="2" startTime="800" endTime="1100" palette="16" />

@@ -8586,7 +8586,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="150230" ref="14" palette="7316" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="3" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="3" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="3" id="3" />
@@ -8691,7 +8691,7 @@
           <Effect name="On" startTime="146300" endTime="146600" ref="16" palette="3" id="102" />
           <Effect name="On" startTime="146900" endTime="147250" ref="16" palette="3" id="103" />
           <Effect name="On" startTime="147250" endTime="148150" ref="15" palette="3" id="104" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="8" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="8" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="8" id="3" />
@@ -8801,7 +8801,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="150230" ref="14" palette="7316" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="3" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="3" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="3" id="3" />
@@ -8906,7 +8906,7 @@
           <Effect name="On" startTime="146300" endTime="146600" ref="16" palette="3" id="102" />
           <Effect name="On" startTime="146900" endTime="147250" ref="16" palette="3" id="103" />
           <Effect name="On" startTime="147250" endTime="148150" ref="15" palette="3" id="104" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="8" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="8" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="8" id="3" />
@@ -9016,7 +9016,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="150230" ref="14" palette="7316" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="3" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="3" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="3" id="3" />
@@ -9121,7 +9121,7 @@
           <Effect name="On" startTime="146300" endTime="146600" ref="16" palette="3" id="102" />
           <Effect name="On" startTime="146900" endTime="147250" ref="16" palette="3" id="103" />
           <Effect name="On" startTime="147250" endTime="148150" ref="15" palette="3" id="104" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="8" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="8" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="8" id="3" />
@@ -9231,7 +9231,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="150230" ref="14" palette="7316" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="3" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="3" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="3" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="3" id="3" />
@@ -9336,7 +9336,7 @@
           <Effect name="On" startTime="146300" endTime="146600" ref="16" palette="3" id="102" />
           <Effect name="On" startTime="146900" endTime="147250" ref="16" palette="3" id="103" />
           <Effect name="On" startTime="147250" endTime="148150" ref="15" palette="3" id="104" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="50" endTime="1000" ref="15" palette="8" />
           <Effect name="On" startTime="1850" endTime="2800" ref="15" palette="8" id="1" />
           <Effect name="On" startTime="3650" endTime="4600" ref="15" palette="8" id="2" />
           <Effect name="On" startTime="5350" endTime="5650" ref="16" palette="8" id="3" />

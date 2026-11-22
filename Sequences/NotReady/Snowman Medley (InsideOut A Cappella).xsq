@@ -1544,7 +1544,10 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=2,E_TEXTCTRL_Curtain_Speed=0.8333333333333334,T_CHOICE_LayerMethod=Max</Effect>
     <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=45,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=0.8333333333333334,T_CHOICE_LayerMethod=Max</Effect>
-  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=0.0,E_TEXTCTRL_Eff_On_Start=100.0</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=0.0,E_TEXTCTRL_Eff_On_Start=100.0</Effect>    <Effect>B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Right,E_SLIDER_Garlands_Spacing=81,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Left,E_SLIDER_Garlands_Spacing=81,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -4190,7 +4193,7 @@
         <Effect ref="79" name="On" id="6" startTime="152450" endTime="152525" palette="79" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
         <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
@@ -4251,7 +4254,7 @@
         <Effect ref="78" name="Twinkle" id="6" startTime="141300" endTime="142500" palette="32" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
         <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
@@ -4317,7 +4320,7 @@
         <Effect ref="78" name="Twinkle" id="5" startTime="137700" endTime="138900" palette="34" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="95" name="Garlands" startTime="17450" endTime="25750" palette="0" />
@@ -4381,7 +4384,7 @@
         <Effect ref="78" name="Twinkle" id="4" startTime="140100" endTime="141300" palette="31" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="95" name="Garlands" startTime="17450" endTime="25750" palette="0" />
@@ -4450,10 +4453,10 @@
         <Effect ref="78" name="Twinkle" id="4" startTime="140100" endTime="141300" palette="31" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="95" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="128" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
         <Effect ref="0" name="Color Wash" startTime="17450" endTime="25750" palette="0" />
@@ -4494,10 +4497,10 @@
         <Effect ref="78" name="Twinkle" id="2" startTime="142500" endTime="142875" palette="33" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="95" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="128" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
         <Effect ref="0" name="Color Wash" startTime="17450" endTime="25750" palette="0" />
@@ -4566,10 +4569,10 @@
         <Effect ref="79" name="On" id="6" startTime="168475" endTime="168550" palette="79" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="94" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="127" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="95" name="Garlands" startTime="17450" endTime="25750" palette="0" />
+        <Effect ref="128" name="Garlands" startTime="17450" endTime="25750" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
         <Effect ref="0" name="Color Wash" startTime="17450" endTime="25750" palette="0" />
@@ -4614,20 +4617,20 @@
         <Effect ref="111" name="Pinwheel" id="19" startTime="149700" endTime="150250" palette="35" />
       </EffectLayer>
       <SubModelEffectLayer name="Star1">
-        <Effect ref="0" name="Color Wash" startTime="47400" endTime="48500" palette="51" />
-        <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
+        <Effect ref="126" name="Color Wash" startTime="47400" endTime="48500" palette="51" />
+        <Effect ref="126" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star2">
-        <Effect ref="0" name="Color Wash" startTime="47400" endTime="48500" palette="0" />
-        <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="64" />
+        <Effect ref="126" name="Color Wash" startTime="47400" endTime="48500" palette="0" />
+        <Effect ref="126" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="64" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star3">
-        <Effect ref="0" name="Color Wash" startTime="47400" endTime="48500" palette="51" />
-        <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
+        <Effect ref="126" name="Color Wash" startTime="47400" endTime="48500" palette="51" />
+        <Effect ref="126" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="52" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star4">
-        <Effect ref="0" name="Color Wash" startTime="47400" endTime="48500" palette="0" />
-        <Effect ref="0" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="64" />
+        <Effect ref="126" name="Color Wash" startTime="47400" endTime="48500" palette="0" />
+        <Effect ref="126" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="64" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LOR-SpiralsCW All" layer="0"><Effect name="Pinwheel" startTime="43000" endTime="43400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="43400" endTime="43800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="43800" endTime="44200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="44200" endTime="44600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="44600" endTime="45000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45000" endTime="45400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45400" endTime="45800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45800" endTime="46200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="46200" endTime="46600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="46600" endTime="47000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="47000" endTime="47400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="48600" endTime="49000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49000" endTime="49400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49400" endTime="49800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49800" endTime="50200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="50200" endTime="50600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="50600" endTime="51000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51000" endTime="51400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51400" endTime="51800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51800" endTime="52200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="52200" endTime="52600" ref="122" palette="1403" /><Effect name="Spirals" startTime="52600" endTime="53000" ref="123" palette="1403" /><Effect name="Spirals" startTime="53000" endTime="53400" ref="123" palette="1403" /><Effect name="Spirals" startTime="53400" endTime="53800" ref="123" palette="1403" /><Effect name="Spirals" startTime="53800" endTime="54200" ref="123" palette="1403" /><Effect name="Spirals" startTime="54200" endTime="54600" ref="123" palette="1403" /><Effect name="Spirals" startTime="54600" endTime="55000" ref="123" palette="1403" /><Effect name="Spirals" startTime="55000" endTime="55400" ref="123" palette="1403" /><Effect name="Spirals" startTime="55400" endTime="55800" ref="123" palette="1403" /><Effect name="Spirals" startTime="55800" endTime="56200" ref="123" palette="1403" /><Effect name="Spirals" startTime="56200" endTime="56600" ref="123" palette="1403" /><Effect name="Spirals" startTime="56600" endTime="57000" ref="123" palette="1403" /><Effect name="Spirals" startTime="57000" endTime="57400" ref="123" palette="1403" /><Effect name="Spirals" startTime="57400" endTime="57600" ref="123" palette="1403" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 2" layer="0"><Effect name="Pinwheel" startTime="18720" endTime="26050" ref="124" palette="1404" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 5" layer="0"><Effect name="On" startTime="19070" endTime="19560" ref="125" palette="0" /><Effect name="On" startTime="19960" endTime="20310" ref="125" palette="0" /><Effect name="On" startTime="20840" endTime="21290" ref="125" palette="0" /><Effect name="On" startTime="21600" endTime="22140" ref="125" palette="0" /><Effect name="On" startTime="22640" endTime="23040" ref="125" palette="0" /><Effect name="On" startTime="23640" endTime="24090" ref="125" palette="0" /><Effect name="On" startTime="24440" endTime="24990" ref="125" palette="0" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Tips Group" layer="0"><Effect name="On" startTime="18720" endTime="19070" ref="125" palette="0" /><Effect name="On" startTime="19560" endTime="19960" ref="125" palette="0" /><Effect name="On" startTime="20310" endTime="20840" ref="125" palette="0" /><Effect name="On" startTime="21290" endTime="21600" ref="125" palette="0" /><Effect name="On" startTime="22140" endTime="22640" ref="125" palette="0" /><Effect name="On" startTime="23040" endTime="23640" ref="125" palette="0" /><Effect name="On" startTime="24090" endTime="24440" ref="125" palette="0" /><Effect name="On" startTime="24990" endTime="26050" ref="125" palette="0" /></SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomLeft">

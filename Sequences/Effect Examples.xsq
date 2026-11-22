@@ -308,7 +308,9 @@
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.8,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.8,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=7,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.8,T_TEXTCTRL_Fadeout=.5</Effect>
-  </EffectDB>
+      <Effect>B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1,B_CHOICE_BufferStyle=Single Line</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -3445,40 +3447,40 @@
         <Effect ref="65" palette="43" name="Curtain" startTime="65925" endTime="66375" />
       </EffectLayer>
       <SubModelEffectLayer name="StarOffset2">
-        <Effect ref="85" palette="79" name="Color Wash" startTime="128950" endTime="129100" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="129100" endTime="129250" id="1" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="130650" endTime="130800" id="2" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="130800" endTime="131050" id="3" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="128950" endTime="129100" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="129100" endTime="129250" id="1" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="130650" endTime="130800" id="2" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="130800" endTime="131050" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="StarOffset3">
-        <Effect ref="85" palette="79" name="Color Wash" startTime="128950" endTime="129100" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="129100" endTime="129250" id="1" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="130650" endTime="130800" id="2" />
-        <Effect ref="85" palette="79" name="Color Wash" startTime="130800" endTime="131050" id="3" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="128950" endTime="129100" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="129100" endTime="129250" id="1" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="130650" endTime="130800" id="2" />
+        <Effect ref="174" palette="79" name="Color Wash" startTime="130800" endTime="131050" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star2">
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="134525" endTime="134825" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star3">
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="134525" endTime="134825" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star4">
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="134525" endTime="134825" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="StarOffset1">
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="134525" endTime="134825" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135075" endTime="135375" id="1" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135525" endTime="136225" id="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star1">
-        <Effect ref="97" palette="69" name="Ripple" startTime="134825" endTime="135075" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135375" endTime="136225" id="1" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="134825" endTime="135075" />
+        <Effect ref="175" palette="69" name="Ripple" startTime="135375" endTime="136225" id="1" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Roof-BottomLeft">

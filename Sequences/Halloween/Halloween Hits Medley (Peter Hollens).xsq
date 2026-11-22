@@ -311,7 +311,30 @@
     <Effect>E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_TEXTCTRL_Pictures_Filename=Images/Halloween/Halloween Hits Medley (Peter Hollens)/—Pngtree—sanderson sisters hocus pocus witches_8586077.png,E_TEXTCTRL_Pictures_Speed=1.0,E_VALUECURVE_PicturesXC=Active=TRUE|Id=ID_VALUECURVE_PicturesXC|Type=Custom|Min=-100.00|Max=100.00|P1=1.00|RV=TRUE|Values=0.000:0.875;0.250:0.500;0.720:0.500;1.000:0.875|,T_CHOICE_LayerMethod=Effect 1</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Cross,E_SLIDER_Shape_Count=22,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=14,E_SLIDER_Shape_Thickness=15,E_SLIDER_Shapes_Velocity=4,T_CHOICE_LayerMethod=1 reveals 2</Effect>
     <Effect>E_SLIDER_Plasma_Line_Density=4,E_SLIDER_Plasma_Speed=1,E_SLIDER_Plasma_Style=3,T_CHOICE_LayerMethod=Normal</Effect>
-  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect><Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=66,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect><Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=66,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.9900990099x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.6134969325x100.0000000000x100</Effect>
+    <Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=66,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,B_CUSTOM_SubBuffer=0x0.6451612903x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.791</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=64,E_TEXTCTRL_Spirals_Movement=0.647</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=64,E_TEXTCTRL_Spirals_Movement=0.719</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=77,E_TEXTCTRL_Spirals_Movement=0.632</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=77,E_TEXTCTRL_Spirals_Movement=0.719</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=92,E_TEXTCTRL_Spirals_Movement=0.647</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=92,E_TEXTCTRL_Spirals_Movement=0.791</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.719</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.704</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=92,E_TEXTCTRL_Spirals_Movement=0.719</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=92,E_TEXTCTRL_Spirals_Movement=0.561</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.647</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=64,E_TEXTCTRL_Spirals_Movement=0.791</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=64,E_TEXTCTRL_Spirals_Movement=0.776</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=4,E_SLIDER_Spirals_Thickness=77,E_TEXTCTRL_Spirals_Movement=0.647</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=3,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.632</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -2755,48 +2778,48 @@
         <Effect name="Bars" startTime="160780" endTime="161290" ref="83" palette="31" id="1" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Curtain" startTime="72870" endTime="73380" ref="39" palette="22" />
-        <Effect name="Curtain" startTime="74150" endTime="74920" ref="39" palette="23" id="1" />
-        <Effect name="Curtain" startTime="75690" endTime="76450" ref="39" palette="24" id="2" />
-        <Effect name="Curtain" startTime="77200" endTime="77940" ref="39" palette="22" id="3" />
-        <Effect name="Curtain" startTime="78750" endTime="79450" ref="39" palette="23" id="4" />
-        <Effect name="Curtain" startTime="80240" endTime="81000" ref="39" palette="24" id="5" />
-        <Effect name="Curtain" startTime="81750" endTime="82440" ref="39" palette="22" id="6" />
-        <Effect name="Curtain" startTime="83240" endTime="83990" ref="39" palette="23" id="7" />
-        <Effect name="Curtain" startTime="84740" endTime="85440" ref="39" palette="24" id="8" />
-        <Effect name="Curtain" startTime="86190" endTime="86940" ref="39" palette="22" id="9" />
-        <Effect name="Curtain" startTime="87680" endTime="88430" ref="39" palette="23" id="10" />
-        <Effect name="Curtain" startTime="89180" endTime="89930" ref="39" palette="24" id="11" />
-        <Effect name="Curtain" startTime="90680" endTime="91420" ref="39" palette="22" id="12" />
-        <Effect name="Curtain" startTime="92170" endTime="92920" ref="39" palette="23" id="13" />
-        <Effect name="Curtain" startTime="93670" endTime="94370" ref="39" palette="24" id="14" />
-        <Effect name="Curtain" startTime="95110" endTime="95910" ref="39" palette="22" id="15" />
-        <Effect name="Curtain" startTime="96660" endTime="97410" ref="39" palette="23" id="16" />
-        <Effect name="Curtain" startTime="98150" endTime="98850" ref="39" palette="24" id="17" />
-        <Effect name="Curtain" startTime="99650" endTime="100350" ref="39" palette="22" id="18" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="19" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="20" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="21" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="22" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="23" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="24" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="25" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="26" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="27" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="28" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="29" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="30" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="31" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="32" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="33" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="34" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="35" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="36" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="37" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="40" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="41" />
+        <Effect name="Curtain" startTime="72870" endTime="73380" ref="159" palette="22" />
+        <Effect name="Curtain" startTime="74150" endTime="74920" ref="159" palette="23" id="1" />
+        <Effect name="Curtain" startTime="75690" endTime="76450" ref="159" palette="24" id="2" />
+        <Effect name="Curtain" startTime="77200" endTime="77940" ref="159" palette="22" id="3" />
+        <Effect name="Curtain" startTime="78750" endTime="79450" ref="159" palette="23" id="4" />
+        <Effect name="Curtain" startTime="80240" endTime="81000" ref="159" palette="24" id="5" />
+        <Effect name="Curtain" startTime="81750" endTime="82440" ref="159" palette="22" id="6" />
+        <Effect name="Curtain" startTime="83240" endTime="83990" ref="159" palette="23" id="7" />
+        <Effect name="Curtain" startTime="84740" endTime="85440" ref="159" palette="24" id="8" />
+        <Effect name="Curtain" startTime="86190" endTime="86940" ref="159" palette="22" id="9" />
+        <Effect name="Curtain" startTime="87680" endTime="88430" ref="159" palette="23" id="10" />
+        <Effect name="Curtain" startTime="89180" endTime="89930" ref="159" palette="24" id="11" />
+        <Effect name="Curtain" startTime="90680" endTime="91420" ref="159" palette="22" id="12" />
+        <Effect name="Curtain" startTime="92170" endTime="92920" ref="159" palette="23" id="13" />
+        <Effect name="Curtain" startTime="93670" endTime="94370" ref="159" palette="24" id="14" />
+        <Effect name="Curtain" startTime="95110" endTime="95910" ref="159" palette="22" id="15" />
+        <Effect name="Curtain" startTime="96660" endTime="97410" ref="159" palette="23" id="16" />
+        <Effect name="Curtain" startTime="98150" endTime="98850" ref="159" palette="24" id="17" />
+        <Effect name="Curtain" startTime="99650" endTime="100350" ref="159" palette="22" id="18" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="19" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="20" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="21" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="22" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="23" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="24" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="25" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="26" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="27" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="28" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="29" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="30" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="31" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="32" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="33" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="34" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="35" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="36" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="37" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="40" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="41" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Curtain" startTime="72870" endTime="73380" ref="81" palette="22" />
@@ -2852,48 +2875,48 @@
         <Effect name="Bars" startTime="169250" endTime="169550" ref="88" palette="31" id="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Curtain" startTime="73380" endTime="74150" ref="39" palette="22" />
-        <Effect name="Curtain" startTime="74920" endTime="75690" ref="39" palette="23" id="1" />
-        <Effect name="Curtain" startTime="76450" endTime="77200" ref="39" palette="24" id="2" />
-        <Effect name="Curtain" startTime="77940" endTime="78750" ref="39" palette="22" id="3" />
-        <Effect name="Curtain" startTime="79450" endTime="80240" ref="39" palette="23" id="4" />
-        <Effect name="Curtain" startTime="81000" endTime="81750" ref="39" palette="24" id="5" />
-        <Effect name="Curtain" startTime="82440" endTime="83240" ref="39" palette="22" id="6" />
-        <Effect name="Curtain" startTime="83990" endTime="84740" ref="39" palette="23" id="7" />
-        <Effect name="Curtain" startTime="85440" endTime="86190" ref="39" palette="24" id="8" />
-        <Effect name="Curtain" startTime="86940" endTime="87680" ref="39" palette="22" id="9" />
-        <Effect name="Curtain" startTime="88430" endTime="89180" ref="39" palette="23" id="10" />
-        <Effect name="Curtain" startTime="89930" endTime="90680" ref="39" palette="24" id="11" />
-        <Effect name="Curtain" startTime="91420" endTime="92170" ref="39" palette="22" id="12" />
-        <Effect name="Curtain" startTime="92920" endTime="93670" ref="39" palette="23" id="13" />
-        <Effect name="Curtain" startTime="94370" endTime="95110" ref="39" palette="24" id="14" />
-        <Effect name="Curtain" startTime="95910" endTime="96660" ref="39" palette="22" id="15" />
-        <Effect name="Curtain" startTime="97410" endTime="98150" ref="39" palette="23" id="16" />
-        <Effect name="Curtain" startTime="98850" endTime="99650" ref="39" palette="24" id="17" />
-        <Effect name="Curtain" startTime="100350" endTime="101140" ref="39" palette="22" id="18" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="19" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="20" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="21" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="22" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="23" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="24" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="25" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="26" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="27" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="28" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="29" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="30" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="31" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="32" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="33" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="34" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="35" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="36" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="37" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="40" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="41" />
+        <Effect name="Curtain" startTime="73380" endTime="74150" ref="159" palette="22" />
+        <Effect name="Curtain" startTime="74920" endTime="75690" ref="159" palette="23" id="1" />
+        <Effect name="Curtain" startTime="76450" endTime="77200" ref="159" palette="24" id="2" />
+        <Effect name="Curtain" startTime="77940" endTime="78750" ref="159" palette="22" id="3" />
+        <Effect name="Curtain" startTime="79450" endTime="80240" ref="159" palette="23" id="4" />
+        <Effect name="Curtain" startTime="81000" endTime="81750" ref="159" palette="24" id="5" />
+        <Effect name="Curtain" startTime="82440" endTime="83240" ref="159" palette="22" id="6" />
+        <Effect name="Curtain" startTime="83990" endTime="84740" ref="159" palette="23" id="7" />
+        <Effect name="Curtain" startTime="85440" endTime="86190" ref="159" palette="24" id="8" />
+        <Effect name="Curtain" startTime="86940" endTime="87680" ref="159" palette="22" id="9" />
+        <Effect name="Curtain" startTime="88430" endTime="89180" ref="159" palette="23" id="10" />
+        <Effect name="Curtain" startTime="89930" endTime="90680" ref="159" palette="24" id="11" />
+        <Effect name="Curtain" startTime="91420" endTime="92170" ref="159" palette="22" id="12" />
+        <Effect name="Curtain" startTime="92920" endTime="93670" ref="159" palette="23" id="13" />
+        <Effect name="Curtain" startTime="94370" endTime="95110" ref="159" palette="24" id="14" />
+        <Effect name="Curtain" startTime="95910" endTime="96660" ref="159" palette="22" id="15" />
+        <Effect name="Curtain" startTime="97410" endTime="98150" ref="159" palette="23" id="16" />
+        <Effect name="Curtain" startTime="98850" endTime="99650" ref="159" palette="24" id="17" />
+        <Effect name="Curtain" startTime="100350" endTime="101140" ref="159" palette="22" id="18" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="19" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="20" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="21" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="22" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="23" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="24" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="25" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="26" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="27" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="28" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="29" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="30" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="31" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="32" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="33" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="34" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="35" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="36" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="37" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="40" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="41" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Curtain" startTime="73380" endTime="74150" ref="81" palette="22" />
@@ -2963,67 +2986,67 @@
         <Effect name="Plasma" startTime="96660" endTime="101140" ref="105" palette="34" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="40" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="41" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="42" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="43" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="44" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="45" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="46" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="47" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="48" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="49" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="50" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="51" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="52" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="53" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="54" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="55" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="56" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="57" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="58" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="59" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="60" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="40" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="41" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="42" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="43" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="44" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="45" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="46" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="47" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="48" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="49" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="50" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="51" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="52" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="53" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="54" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="55" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="56" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="57" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="58" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="59" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="60" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
@@ -3254,67 +3277,67 @@
         <Effect name="Plasma" startTime="96660" endTime="101140" ref="105" palette="34" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="40" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="41" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="42" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="43" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="44" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="45" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="46" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="47" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="48" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="49" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="50" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="51" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="52" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="53" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="54" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="55" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="56" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="57" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="58" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="59" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="60" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="40" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="41" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="42" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="43" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="44" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="45" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="46" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="47" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="48" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="49" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="50" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="51" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="52" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="53" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="54" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="55" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="56" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="57" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="58" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="59" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="60" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
@@ -3543,67 +3566,67 @@
         <Effect name="Shape" startTime="96660" endTime="101140" ref="148" palette="6" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="40" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="41" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="42" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="43" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="44" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="45" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="46" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="47" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="48" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="49" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="50" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="51" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="52" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="53" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="54" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="55" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="56" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="57" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="58" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="59" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="60" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="40" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="41" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="42" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="43" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="44" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="45" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="46" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="47" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="48" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="49" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="50" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="51" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="52" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="53" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="54" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="55" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="56" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="57" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="58" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="59" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="60" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
@@ -3832,67 +3855,67 @@
         <Effect name="Shape" startTime="96660" endTime="101140" ref="148" palette="6" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="105680" endTime="106330" ref="80" palette="28" id="38" />
-        <Effect name="Curtain" startTime="106330" endTime="106980" ref="80" palette="28" id="39" />
-        <Effect name="Curtain" startTime="106980" endTime="107640" ref="80" palette="28" id="40" />
-        <Effect name="Curtain" startTime="108240" endTime="108890" ref="80" palette="29" id="41" />
-        <Effect name="Curtain" startTime="108890" endTime="109550" ref="80" palette="29" id="42" />
-        <Effect name="Curtain" startTime="109550" endTime="110250" ref="80" palette="29" id="43" />
-        <Effect name="Curtain" startTime="110800" endTime="111450" ref="80" palette="30" id="44" />
-        <Effect name="Curtain" startTime="111450" endTime="112160" ref="80" palette="30" id="45" />
-        <Effect name="Curtain" startTime="112160" endTime="112810" ref="80" palette="30" id="46" />
-        <Effect name="Curtain" startTime="113410" endTime="113970" ref="80" palette="28" id="47" />
-        <Effect name="Curtain" startTime="113970" endTime="114620" ref="80" palette="28" id="48" />
-        <Effect name="Curtain" startTime="114620" endTime="115220" ref="80" palette="28" id="49" />
-        <Effect name="Curtain" startTime="115820" endTime="116430" ref="80" palette="29" id="50" />
-        <Effect name="Curtain" startTime="116430" endTime="117080" ref="80" palette="29" id="51" />
-        <Effect name="Curtain" startTime="117080" endTime="117730" ref="80" palette="29" id="52" />
-        <Effect name="Curtain" startTime="118390" endTime="118990" ref="80" palette="30" id="53" />
-        <Effect name="Curtain" startTime="118990" endTime="119690" ref="80" palette="30" id="54" />
-        <Effect name="Curtain" startTime="119690" endTime="120340" ref="80" palette="30" id="55" />
-        <Effect name="Curtain" startTime="120950" endTime="121650" ref="80" palette="28" id="56" />
-        <Effect name="Curtain" startTime="121650" endTime="122300" ref="80" palette="28" id="57" />
-        <Effect name="Curtain" startTime="122300" endTime="123050" ref="80" palette="28" id="58" />
-        <Effect name="Curtain" startTime="123750" endTime="124620" ref="80" palette="29" id="59" />
-        <Effect name="Curtain" startTime="124620" endTime="124930" ref="80" palette="29" id="60" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="105680" endTime="106330" ref="160" palette="28" id="38" />
+        <Effect name="Curtain" startTime="106330" endTime="106980" ref="160" palette="28" id="39" />
+        <Effect name="Curtain" startTime="106980" endTime="107640" ref="160" palette="28" id="40" />
+        <Effect name="Curtain" startTime="108240" endTime="108890" ref="160" palette="29" id="41" />
+        <Effect name="Curtain" startTime="108890" endTime="109550" ref="160" palette="29" id="42" />
+        <Effect name="Curtain" startTime="109550" endTime="110250" ref="160" palette="29" id="43" />
+        <Effect name="Curtain" startTime="110800" endTime="111450" ref="160" palette="30" id="44" />
+        <Effect name="Curtain" startTime="111450" endTime="112160" ref="160" palette="30" id="45" />
+        <Effect name="Curtain" startTime="112160" endTime="112810" ref="160" palette="30" id="46" />
+        <Effect name="Curtain" startTime="113410" endTime="113970" ref="160" palette="28" id="47" />
+        <Effect name="Curtain" startTime="113970" endTime="114620" ref="160" palette="28" id="48" />
+        <Effect name="Curtain" startTime="114620" endTime="115220" ref="160" palette="28" id="49" />
+        <Effect name="Curtain" startTime="115820" endTime="116430" ref="160" palette="29" id="50" />
+        <Effect name="Curtain" startTime="116430" endTime="117080" ref="160" palette="29" id="51" />
+        <Effect name="Curtain" startTime="117080" endTime="117730" ref="160" palette="29" id="52" />
+        <Effect name="Curtain" startTime="118390" endTime="118990" ref="160" palette="30" id="53" />
+        <Effect name="Curtain" startTime="118990" endTime="119690" ref="160" palette="30" id="54" />
+        <Effect name="Curtain" startTime="119690" endTime="120340" ref="160" palette="30" id="55" />
+        <Effect name="Curtain" startTime="120950" endTime="121650" ref="160" palette="28" id="56" />
+        <Effect name="Curtain" startTime="121650" endTime="122300" ref="160" palette="28" id="57" />
+        <Effect name="Curtain" startTime="122300" endTime="123050" ref="160" palette="28" id="58" />
+        <Effect name="Curtain" startTime="123750" endTime="124620" ref="160" palette="29" id="59" />
+        <Effect name="Curtain" startTime="124620" endTime="124930" ref="160" palette="29" id="60" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
@@ -4118,204 +4141,204 @@
         <Effect name="Plasma" startTime="96660" endTime="101140" ref="105" palette="34" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
-        <Effect name="Spirals" startTime="20180" endTime="20670" ref="97" palette="18" id="1" />
-        <Effect name="Spirals" startTime="22220" endTime="22670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="24260" endTime="24710" ref="90" palette="19" id="3" />
-        <Effect name="Spirals" startTime="26150" endTime="26650" ref="93" palette="2" id="4" />
-        <Effect name="Spirals" startTime="28100" endTime="28600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="30100" endTime="30600" ref="98" palette="20" id="6" />
-        <Effect name="Spirals" startTime="32100" endTime="32490" ref="99" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="18180" endTime="18680" ref="170" palette="18" />
+        <Effect name="Spirals" startTime="20180" endTime="20670" ref="171" palette="18" id="1" />
+        <Effect name="Spirals" startTime="22220" endTime="22670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="24260" endTime="24710" ref="162" palette="19" id="3" />
+        <Effect name="Spirals" startTime="26150" endTime="26650" ref="165" palette="2" id="4" />
+        <Effect name="Spirals" startTime="28100" endTime="28600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="30100" endTime="30600" ref="172" palette="20" id="6" />
+        <Effect name="Spirals" startTime="32100" endTime="32490" ref="173" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Spirals" startTime="16740" endTime="17190" ref="100" palette="18" />
-        <Effect name="Spirals" startTime="18680" endTime="19130" ref="100" palette="18" id="1" />
-        <Effect name="Spirals" startTime="20670" endTime="21220" ref="101" palette="19" id="2" />
-        <Effect name="Spirals" startTime="22670" endTime="23210" ref="102" palette="19" id="3" />
-        <Effect name="Spirals" startTime="24710" endTime="25210" ref="93" palette="2" id="4" />
-        <Effect name="Spirals" startTime="26650" endTime="27100" ref="103" palette="2" id="5" />
-        <Effect name="Spirals" startTime="28600" endTime="29150" ref="95" palette="20" id="6" />
-        <Effect name="Spirals" startTime="30600" endTime="31100" ref="98" palette="20" id="7" />
-        <Effect name="Curtain" startTime="34240" endTime="34650" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="34650" endTime="35110" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="35110" endTime="35580" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="35580" endTime="35990" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="35990" endTime="36350" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="36350" endTime="36760" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="36760" endTime="37170" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="40370" endTime="40770" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="40770" endTime="41160" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="41160" endTime="41560" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="41560" endTime="41960" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="41960" endTime="42360" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="42360" endTime="42710" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="42710" endTime="43110" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="43110" endTime="43510" ref="38" palette="21" id="22" />
-        <Effect name="Curtain" startTime="46250" endTime="46640" ref="37" palette="21" id="23" />
-        <Effect name="Curtain" startTime="46640" endTime="47040" ref="38" palette="21" id="24" />
-        <Effect name="Curtain" startTime="47040" endTime="47490" ref="37" palette="21" id="25" />
-        <Effect name="Curtain" startTime="47490" endTime="47890" ref="38" palette="21" id="26" />
-        <Effect name="Curtain" startTime="47890" endTime="48340" ref="37" palette="21" id="27" />
-        <Effect name="Curtain" startTime="48340" endTime="48690" ref="38" palette="21" id="28" />
-        <Effect name="Curtain" startTime="48690" endTime="49090" ref="37" palette="21" id="29" />
-        <Effect name="Curtain" startTime="49090" endTime="49480" ref="38" palette="21" id="30" />
-        <Effect name="Curtain" startTime="49480" endTime="49880" ref="37" palette="21" id="31" />
-        <Effect name="Curtain" startTime="49880" endTime="50280" ref="38" palette="21" id="32" />
-        <Effect name="Curtain" startTime="52710" endTime="53010" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="53010" endTime="53420" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="53420" endTime="53860" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="53860" endTime="54260" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="54260" endTime="54660" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="54660" endTime="55060" ref="38" palette="3" id="38" />
-        <Effect name="Curtain" startTime="55060" endTime="55460" ref="37" palette="3" id="39" />
-        <Effect name="Curtain" startTime="55460" endTime="55860" ref="38" palette="3" id="40" />
-        <Effect name="Curtain" startTime="55860" endTime="56200" ref="37" palette="3" id="41" />
-        <Effect name="Curtain" startTime="56200" endTime="56610" ref="38" palette="3" id="42" />
-        <Effect name="Curtain" startTime="59850" endTime="60250" ref="37" palette="3" id="43" />
-        <Effect name="Curtain" startTime="60250" endTime="60700" ref="38" palette="3" id="44" />
-        <Effect name="Curtain" startTime="60700" endTime="61100" ref="37" palette="3" id="45" />
-        <Effect name="Curtain" startTime="61100" endTime="61450" ref="38" palette="3" id="46" />
-        <Effect name="Curtain" startTime="61450" endTime="61800" ref="37" palette="3" id="47" />
-        <Effect name="Curtain" startTime="61800" endTime="62200" ref="38" palette="3" id="48" />
-        <Effect name="Curtain" startTime="62200" endTime="62650" ref="37" palette="3" id="49" />
-        <Effect name="Curtain" startTime="65970" endTime="66220" ref="37" palette="3" id="50" />
-        <Effect name="Curtain" startTime="66220" endTime="66650" ref="38" palette="3" id="51" />
-        <Effect name="Curtain" startTime="66650" endTime="67100" ref="37" palette="3" id="52" />
-        <Effect name="Curtain" startTime="67100" endTime="67500" ref="38" palette="3" id="53" />
-        <Effect name="Curtain" startTime="67500" endTime="67900" ref="37" palette="3" id="54" />
-        <Effect name="Curtain" startTime="67900" endTime="68260" ref="38" palette="3" id="55" />
-        <Effect name="Curtain" startTime="68260" endTime="68660" ref="37" palette="3" id="56" />
-        <Effect name="Curtain" startTime="68660" endTime="69110" ref="38" palette="3" id="57" />
+        <Effect name="Spirals" startTime="16740" endTime="17190" ref="174" palette="18" />
+        <Effect name="Spirals" startTime="18680" endTime="19130" ref="174" palette="18" id="1" />
+        <Effect name="Spirals" startTime="20670" endTime="21220" ref="175" palette="19" id="2" />
+        <Effect name="Spirals" startTime="22670" endTime="23210" ref="176" palette="19" id="3" />
+        <Effect name="Spirals" startTime="24710" endTime="25210" ref="165" palette="2" id="4" />
+        <Effect name="Spirals" startTime="26650" endTime="27100" ref="177" palette="2" id="5" />
+        <Effect name="Spirals" startTime="28600" endTime="29150" ref="167" palette="20" id="6" />
+        <Effect name="Spirals" startTime="30600" endTime="31100" ref="172" palette="20" id="7" />
+        <Effect name="Curtain" startTime="34240" endTime="34650" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="34650" endTime="35110" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="35110" endTime="35580" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="35580" endTime="35990" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="35990" endTime="36350" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="36350" endTime="36760" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="36760" endTime="37170" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="40370" endTime="40770" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="40770" endTime="41160" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="41160" endTime="41560" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="41560" endTime="41960" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="41960" endTime="42360" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="42360" endTime="42710" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="42710" endTime="43110" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="43110" endTime="43510" ref="169" palette="21" id="22" />
+        <Effect name="Curtain" startTime="46250" endTime="46640" ref="168" palette="21" id="23" />
+        <Effect name="Curtain" startTime="46640" endTime="47040" ref="169" palette="21" id="24" />
+        <Effect name="Curtain" startTime="47040" endTime="47490" ref="168" palette="21" id="25" />
+        <Effect name="Curtain" startTime="47490" endTime="47890" ref="169" palette="21" id="26" />
+        <Effect name="Curtain" startTime="47890" endTime="48340" ref="168" palette="21" id="27" />
+        <Effect name="Curtain" startTime="48340" endTime="48690" ref="169" palette="21" id="28" />
+        <Effect name="Curtain" startTime="48690" endTime="49090" ref="168" palette="21" id="29" />
+        <Effect name="Curtain" startTime="49090" endTime="49480" ref="169" palette="21" id="30" />
+        <Effect name="Curtain" startTime="49480" endTime="49880" ref="168" palette="21" id="31" />
+        <Effect name="Curtain" startTime="49880" endTime="50280" ref="169" palette="21" id="32" />
+        <Effect name="Curtain" startTime="52710" endTime="53010" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="53010" endTime="53420" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="53420" endTime="53860" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="53860" endTime="54260" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="54260" endTime="54660" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="54660" endTime="55060" ref="169" palette="3" id="38" />
+        <Effect name="Curtain" startTime="55060" endTime="55460" ref="168" palette="3" id="39" />
+        <Effect name="Curtain" startTime="55460" endTime="55860" ref="169" palette="3" id="40" />
+        <Effect name="Curtain" startTime="55860" endTime="56200" ref="168" palette="3" id="41" />
+        <Effect name="Curtain" startTime="56200" endTime="56610" ref="169" palette="3" id="42" />
+        <Effect name="Curtain" startTime="59850" endTime="60250" ref="168" palette="3" id="43" />
+        <Effect name="Curtain" startTime="60250" endTime="60700" ref="169" palette="3" id="44" />
+        <Effect name="Curtain" startTime="60700" endTime="61100" ref="168" palette="3" id="45" />
+        <Effect name="Curtain" startTime="61100" endTime="61450" ref="169" palette="3" id="46" />
+        <Effect name="Curtain" startTime="61450" endTime="61800" ref="168" palette="3" id="47" />
+        <Effect name="Curtain" startTime="61800" endTime="62200" ref="169" palette="3" id="48" />
+        <Effect name="Curtain" startTime="62200" endTime="62650" ref="168" palette="3" id="49" />
+        <Effect name="Curtain" startTime="65970" endTime="66220" ref="168" palette="3" id="50" />
+        <Effect name="Curtain" startTime="66220" endTime="66650" ref="169" palette="3" id="51" />
+        <Effect name="Curtain" startTime="66650" endTime="67100" ref="168" palette="3" id="52" />
+        <Effect name="Curtain" startTime="67100" endTime="67500" ref="169" palette="3" id="53" />
+        <Effect name="Curtain" startTime="67500" endTime="67900" ref="168" palette="3" id="54" />
+        <Effect name="Curtain" startTime="67900" endTime="68260" ref="169" palette="3" id="55" />
+        <Effect name="Curtain" startTime="68260" endTime="68660" ref="168" palette="3" id="56" />
+        <Effect name="Curtain" startTime="68660" endTime="69110" ref="169" palette="3" id="57" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Spirals" startTime="17740" endTime="18180" ref="104" palette="18" />
-        <Effect name="Spirals" startTime="19680" endTime="20180" ref="96" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21670" endTime="22220" ref="101" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23710" endTime="24260" ref="101" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25650" endTime="26150" ref="93" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27600" endTime="28100" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29600" endTime="30100" ref="98" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31650" endTime="32100" ref="94" palette="20" id="7" />
-        <Effect name="Curtain" startTime="34240" endTime="34650" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="34650" endTime="35110" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="35110" endTime="35580" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="35580" endTime="35990" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="35990" endTime="36350" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="36350" endTime="36760" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="36760" endTime="37170" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="40370" endTime="40770" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="40770" endTime="41160" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="41160" endTime="41560" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="41560" endTime="41960" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="41960" endTime="42360" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="42360" endTime="42710" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="42710" endTime="43110" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="43110" endTime="43510" ref="38" palette="21" id="22" />
-        <Effect name="Curtain" startTime="46250" endTime="46640" ref="37" palette="21" id="23" />
-        <Effect name="Curtain" startTime="46640" endTime="47040" ref="38" palette="21" id="24" />
-        <Effect name="Curtain" startTime="47040" endTime="47490" ref="37" palette="21" id="25" />
-        <Effect name="Curtain" startTime="47490" endTime="47890" ref="38" palette="21" id="26" />
-        <Effect name="Curtain" startTime="47890" endTime="48340" ref="37" palette="21" id="27" />
-        <Effect name="Curtain" startTime="48340" endTime="48690" ref="38" palette="21" id="28" />
-        <Effect name="Curtain" startTime="48690" endTime="49090" ref="37" palette="21" id="29" />
-        <Effect name="Curtain" startTime="49090" endTime="49480" ref="38" palette="21" id="30" />
-        <Effect name="Curtain" startTime="49480" endTime="49880" ref="37" palette="21" id="31" />
-        <Effect name="Curtain" startTime="49880" endTime="50280" ref="38" palette="21" id="32" />
-        <Effect name="Curtain" startTime="52710" endTime="53010" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="53010" endTime="53420" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="53420" endTime="53860" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="53860" endTime="54260" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="54260" endTime="54660" ref="37" palette="3" id="37" />
-        <Effect name="Curtain" startTime="54660" endTime="55060" ref="38" palette="3" id="38" />
-        <Effect name="Curtain" startTime="55060" endTime="55460" ref="37" palette="3" id="39" />
-        <Effect name="Curtain" startTime="55460" endTime="55860" ref="38" palette="3" id="40" />
-        <Effect name="Curtain" startTime="55860" endTime="56200" ref="37" palette="3" id="41" />
-        <Effect name="Curtain" startTime="56200" endTime="56610" ref="38" palette="3" id="42" />
-        <Effect name="Curtain" startTime="59850" endTime="60250" ref="37" palette="3" id="43" />
-        <Effect name="Curtain" startTime="60250" endTime="60700" ref="38" palette="3" id="44" />
-        <Effect name="Curtain" startTime="60700" endTime="61100" ref="37" palette="3" id="45" />
-        <Effect name="Curtain" startTime="61100" endTime="61450" ref="38" palette="3" id="46" />
-        <Effect name="Curtain" startTime="61450" endTime="61800" ref="37" palette="3" id="47" />
-        <Effect name="Curtain" startTime="61800" endTime="62200" ref="38" palette="3" id="48" />
-        <Effect name="Curtain" startTime="62200" endTime="62650" ref="37" palette="3" id="49" />
-        <Effect name="Curtain" startTime="65970" endTime="66220" ref="37" palette="3" id="50" />
-        <Effect name="Curtain" startTime="66220" endTime="66650" ref="38" palette="3" id="51" />
-        <Effect name="Curtain" startTime="66650" endTime="67100" ref="37" palette="3" id="52" />
-        <Effect name="Curtain" startTime="67100" endTime="67500" ref="38" palette="3" id="53" />
-        <Effect name="Curtain" startTime="67500" endTime="67900" ref="37" palette="3" id="54" />
-        <Effect name="Curtain" startTime="67900" endTime="68260" ref="38" palette="3" id="55" />
-        <Effect name="Curtain" startTime="68260" endTime="68660" ref="37" palette="3" id="56" />
-        <Effect name="Curtain" startTime="68660" endTime="69110" ref="38" palette="3" id="57" />
+        <Effect name="Spirals" startTime="17740" endTime="18180" ref="178" palette="18" />
+        <Effect name="Spirals" startTime="19680" endTime="20180" ref="170" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21670" endTime="22220" ref="175" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23710" endTime="24260" ref="175" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25650" endTime="26150" ref="165" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27600" endTime="28100" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29600" endTime="30100" ref="172" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31650" endTime="32100" ref="166" palette="20" id="7" />
+        <Effect name="Curtain" startTime="34240" endTime="34650" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="34650" endTime="35110" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="35110" endTime="35580" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="35580" endTime="35990" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="35990" endTime="36350" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="36350" endTime="36760" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="36760" endTime="37170" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="40370" endTime="40770" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="40770" endTime="41160" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="41160" endTime="41560" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="41560" endTime="41960" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="41960" endTime="42360" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="42360" endTime="42710" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="42710" endTime="43110" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="43110" endTime="43510" ref="169" palette="21" id="22" />
+        <Effect name="Curtain" startTime="46250" endTime="46640" ref="168" palette="21" id="23" />
+        <Effect name="Curtain" startTime="46640" endTime="47040" ref="169" palette="21" id="24" />
+        <Effect name="Curtain" startTime="47040" endTime="47490" ref="168" palette="21" id="25" />
+        <Effect name="Curtain" startTime="47490" endTime="47890" ref="169" palette="21" id="26" />
+        <Effect name="Curtain" startTime="47890" endTime="48340" ref="168" palette="21" id="27" />
+        <Effect name="Curtain" startTime="48340" endTime="48690" ref="169" palette="21" id="28" />
+        <Effect name="Curtain" startTime="48690" endTime="49090" ref="168" palette="21" id="29" />
+        <Effect name="Curtain" startTime="49090" endTime="49480" ref="169" palette="21" id="30" />
+        <Effect name="Curtain" startTime="49480" endTime="49880" ref="168" palette="21" id="31" />
+        <Effect name="Curtain" startTime="49880" endTime="50280" ref="169" palette="21" id="32" />
+        <Effect name="Curtain" startTime="52710" endTime="53010" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="53010" endTime="53420" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="53420" endTime="53860" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="53860" endTime="54260" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="54260" endTime="54660" ref="168" palette="3" id="37" />
+        <Effect name="Curtain" startTime="54660" endTime="55060" ref="169" palette="3" id="38" />
+        <Effect name="Curtain" startTime="55060" endTime="55460" ref="168" palette="3" id="39" />
+        <Effect name="Curtain" startTime="55460" endTime="55860" ref="169" palette="3" id="40" />
+        <Effect name="Curtain" startTime="55860" endTime="56200" ref="168" palette="3" id="41" />
+        <Effect name="Curtain" startTime="56200" endTime="56610" ref="169" palette="3" id="42" />
+        <Effect name="Curtain" startTime="59850" endTime="60250" ref="168" palette="3" id="43" />
+        <Effect name="Curtain" startTime="60250" endTime="60700" ref="169" palette="3" id="44" />
+        <Effect name="Curtain" startTime="60700" endTime="61100" ref="168" palette="3" id="45" />
+        <Effect name="Curtain" startTime="61100" endTime="61450" ref="169" palette="3" id="46" />
+        <Effect name="Curtain" startTime="61450" endTime="61800" ref="168" palette="3" id="47" />
+        <Effect name="Curtain" startTime="61800" endTime="62200" ref="169" palette="3" id="48" />
+        <Effect name="Curtain" startTime="62200" endTime="62650" ref="168" palette="3" id="49" />
+        <Effect name="Curtain" startTime="65970" endTime="66220" ref="168" palette="3" id="50" />
+        <Effect name="Curtain" startTime="66220" endTime="66650" ref="169" palette="3" id="51" />
+        <Effect name="Curtain" startTime="66650" endTime="67100" ref="168" palette="3" id="52" />
+        <Effect name="Curtain" startTime="67100" endTime="67500" ref="169" palette="3" id="53" />
+        <Effect name="Curtain" startTime="67500" endTime="67900" ref="168" palette="3" id="54" />
+        <Effect name="Curtain" startTime="67900" endTime="68260" ref="169" palette="3" id="55" />
+        <Effect name="Curtain" startTime="68260" endTime="68660" ref="168" palette="3" id="56" />
+        <Effect name="Curtain" startTime="68660" endTime="69110" ref="169" palette="3" id="57" />
       </SubModelEffectLayer>
       <EffectLayer>
         <Effect name="Shape" startTime="72870" endTime="78750" ref="110" palette="6" />
@@ -4368,84 +4391,84 @@
         <Effect name="Shape" startTime="96660" endTime="101140" ref="110" palette="6" id="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
-        <Effect name="Spirals" startTime="20180" endTime="20670" ref="97" palette="18" id="1" />
-        <Effect name="Spirals" startTime="22220" endTime="22670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="24260" endTime="24710" ref="90" palette="19" id="3" />
-        <Effect name="Spirals" startTime="26150" endTime="26650" ref="93" palette="2" id="4" />
-        <Effect name="Spirals" startTime="28100" endTime="28600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="30100" endTime="30600" ref="98" palette="20" id="6" />
-        <Effect name="Spirals" startTime="32100" endTime="32490" ref="99" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="18180" endTime="18680" ref="170" palette="18" />
+        <Effect name="Spirals" startTime="20180" endTime="20670" ref="171" palette="18" id="1" />
+        <Effect name="Spirals" startTime="22220" endTime="22670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="24260" endTime="24710" ref="162" palette="19" id="3" />
+        <Effect name="Spirals" startTime="26150" endTime="26650" ref="165" palette="2" id="4" />
+        <Effect name="Spirals" startTime="28100" endTime="28600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="30100" endTime="30600" ref="172" palette="20" id="6" />
+        <Effect name="Spirals" startTime="32100" endTime="32490" ref="173" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect name="Spirals" startTime="16740" endTime="17190" ref="100" palette="18" />
@@ -4591,84 +4614,84 @@
         <Effect name="Plasma" startTime="96660" endTime="101140" ref="105" palette="34" id="18" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Spirals" startTime="17190" endTime="17740" ref="89" palette="18" />
-        <Effect name="Spirals" startTime="19130" endTime="19680" ref="89" palette="18" id="1" />
-        <Effect name="Spirals" startTime="21220" endTime="21670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="23210" endTime="23710" ref="91" palette="19" id="3" />
-        <Effect name="Spirals" startTime="25210" endTime="25650" ref="92" palette="2" id="4" />
-        <Effect name="Spirals" startTime="27100" endTime="27600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="29150" endTime="29600" ref="94" palette="20" id="6" />
-        <Effect name="Spirals" startTime="31100" endTime="31650" ref="95" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="17190" endTime="17740" ref="161" palette="18" />
+        <Effect name="Spirals" startTime="19130" endTime="19680" ref="161" palette="18" id="1" />
+        <Effect name="Spirals" startTime="21220" endTime="21670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="23210" endTime="23710" ref="163" palette="19" id="3" />
+        <Effect name="Spirals" startTime="25210" endTime="25650" ref="164" palette="2" id="4" />
+        <Effect name="Spirals" startTime="27100" endTime="27600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="29150" endTime="29600" ref="166" palette="20" id="6" />
+        <Effect name="Spirals" startTime="31100" endTime="31650" ref="167" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Spirals" startTime="18180" endTime="18680" ref="96" palette="18" />
-        <Effect name="Spirals" startTime="20180" endTime="20670" ref="97" palette="18" id="1" />
-        <Effect name="Spirals" startTime="22220" endTime="22670" ref="90" palette="19" id="2" />
-        <Effect name="Spirals" startTime="24260" endTime="24710" ref="90" palette="19" id="3" />
-        <Effect name="Spirals" startTime="26150" endTime="26650" ref="93" palette="2" id="4" />
-        <Effect name="Spirals" startTime="28100" endTime="28600" ref="93" palette="2" id="5" />
-        <Effect name="Spirals" startTime="30100" endTime="30600" ref="98" palette="20" id="6" />
-        <Effect name="Spirals" startTime="32100" endTime="32490" ref="99" palette="20" id="7" />
-        <Effect name="Curtain" startTime="37170" endTime="37570" ref="37" palette="21" id="8" />
-        <Effect name="Curtain" startTime="37570" endTime="37970" ref="38" palette="21" id="9" />
-        <Effect name="Curtain" startTime="37970" endTime="38320" ref="37" palette="21" id="10" />
-        <Effect name="Curtain" startTime="38320" endTime="38770" ref="38" palette="21" id="11" />
-        <Effect name="Curtain" startTime="38770" endTime="39120" ref="37" palette="21" id="12" />
-        <Effect name="Curtain" startTime="39120" endTime="39520" ref="38" palette="21" id="13" />
-        <Effect name="Curtain" startTime="39520" endTime="40370" ref="37" palette="21" id="14" />
-        <Effect name="Curtain" startTime="43510" endTime="43910" ref="37" palette="21" id="15" />
-        <Effect name="Curtain" startTime="43910" endTime="44310" ref="38" palette="21" id="16" />
-        <Effect name="Curtain" startTime="44310" endTime="44650" ref="37" palette="21" id="17" />
-        <Effect name="Curtain" startTime="44650" endTime="45100" ref="38" palette="21" id="18" />
-        <Effect name="Curtain" startTime="45100" endTime="45450" ref="37" palette="21" id="19" />
-        <Effect name="Curtain" startTime="45450" endTime="45850" ref="38" palette="21" id="20" />
-        <Effect name="Curtain" startTime="45850" endTime="46250" ref="37" palette="21" id="21" />
-        <Effect name="Curtain" startTime="62650" endTime="63050" ref="37" palette="3" id="22" />
-        <Effect name="Curtain" startTime="63050" endTime="63450" ref="38" palette="3" id="23" />
-        <Effect name="Curtain" startTime="63450" endTime="63800" ref="37" palette="3" id="24" />
-        <Effect name="Curtain" startTime="63800" endTime="64250" ref="38" palette="3" id="25" />
-        <Effect name="Curtain" startTime="64250" endTime="64600" ref="37" palette="3" id="26" />
-        <Effect name="Curtain" startTime="64600" endTime="64950" ref="38" palette="3" id="27" />
-        <Effect name="Curtain" startTime="64950" endTime="65310" ref="37" palette="3" id="28" />
-        <Effect name="Curtain" startTime="65310" endTime="65630" ref="38" palette="3" id="29" />
-        <Effect name="Curtain" startTime="65630" endTime="65970" ref="37" palette="3" id="30" />
-        <Effect name="Curtain" startTime="69110" endTime="69510" ref="37" palette="3" id="31" />
-        <Effect name="Curtain" startTime="69510" endTime="69910" ref="38" palette="3" id="32" />
-        <Effect name="Curtain" startTime="69910" endTime="70260" ref="37" palette="3" id="33" />
-        <Effect name="Curtain" startTime="70260" endTime="70710" ref="38" palette="3" id="34" />
-        <Effect name="Curtain" startTime="70710" endTime="70960" ref="37" palette="3" id="35" />
-        <Effect name="Curtain" startTime="70960" endTime="71310" ref="38" palette="3" id="36" />
-        <Effect name="Curtain" startTime="71310" endTime="71870" ref="37" palette="3" id="37" />
+        <Effect name="Spirals" startTime="18180" endTime="18680" ref="170" palette="18" />
+        <Effect name="Spirals" startTime="20180" endTime="20670" ref="171" palette="18" id="1" />
+        <Effect name="Spirals" startTime="22220" endTime="22670" ref="162" palette="19" id="2" />
+        <Effect name="Spirals" startTime="24260" endTime="24710" ref="162" palette="19" id="3" />
+        <Effect name="Spirals" startTime="26150" endTime="26650" ref="165" palette="2" id="4" />
+        <Effect name="Spirals" startTime="28100" endTime="28600" ref="165" palette="2" id="5" />
+        <Effect name="Spirals" startTime="30100" endTime="30600" ref="172" palette="20" id="6" />
+        <Effect name="Spirals" startTime="32100" endTime="32490" ref="173" palette="20" id="7" />
+        <Effect name="Curtain" startTime="37170" endTime="37570" ref="168" palette="21" id="8" />
+        <Effect name="Curtain" startTime="37570" endTime="37970" ref="169" palette="21" id="9" />
+        <Effect name="Curtain" startTime="37970" endTime="38320" ref="168" palette="21" id="10" />
+        <Effect name="Curtain" startTime="38320" endTime="38770" ref="169" palette="21" id="11" />
+        <Effect name="Curtain" startTime="38770" endTime="39120" ref="168" palette="21" id="12" />
+        <Effect name="Curtain" startTime="39120" endTime="39520" ref="169" palette="21" id="13" />
+        <Effect name="Curtain" startTime="39520" endTime="40370" ref="168" palette="21" id="14" />
+        <Effect name="Curtain" startTime="43510" endTime="43910" ref="168" palette="21" id="15" />
+        <Effect name="Curtain" startTime="43910" endTime="44310" ref="169" palette="21" id="16" />
+        <Effect name="Curtain" startTime="44310" endTime="44650" ref="168" palette="21" id="17" />
+        <Effect name="Curtain" startTime="44650" endTime="45100" ref="169" palette="21" id="18" />
+        <Effect name="Curtain" startTime="45100" endTime="45450" ref="168" palette="21" id="19" />
+        <Effect name="Curtain" startTime="45450" endTime="45850" ref="169" palette="21" id="20" />
+        <Effect name="Curtain" startTime="45850" endTime="46250" ref="168" palette="21" id="21" />
+        <Effect name="Curtain" startTime="62650" endTime="63050" ref="168" palette="3" id="22" />
+        <Effect name="Curtain" startTime="63050" endTime="63450" ref="169" palette="3" id="23" />
+        <Effect name="Curtain" startTime="63450" endTime="63800" ref="168" palette="3" id="24" />
+        <Effect name="Curtain" startTime="63800" endTime="64250" ref="169" palette="3" id="25" />
+        <Effect name="Curtain" startTime="64250" endTime="64600" ref="168" palette="3" id="26" />
+        <Effect name="Curtain" startTime="64600" endTime="64950" ref="169" palette="3" id="27" />
+        <Effect name="Curtain" startTime="64950" endTime="65310" ref="168" palette="3" id="28" />
+        <Effect name="Curtain" startTime="65310" endTime="65630" ref="169" palette="3" id="29" />
+        <Effect name="Curtain" startTime="65630" endTime="65970" ref="168" palette="3" id="30" />
+        <Effect name="Curtain" startTime="69110" endTime="69510" ref="168" palette="3" id="31" />
+        <Effect name="Curtain" startTime="69510" endTime="69910" ref="169" palette="3" id="32" />
+        <Effect name="Curtain" startTime="69910" endTime="70260" ref="168" palette="3" id="33" />
+        <Effect name="Curtain" startTime="70260" endTime="70710" ref="169" palette="3" id="34" />
+        <Effect name="Curtain" startTime="70710" endTime="70960" ref="168" palette="3" id="35" />
+        <Effect name="Curtain" startTime="70960" endTime="71310" ref="169" palette="3" id="36" />
+        <Effect name="Curtain" startTime="71310" endTime="71870" ref="168" palette="3" id="37" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect name="Spirals" startTime="16740" endTime="17190" ref="100" palette="18" />
@@ -4854,14 +4877,14 @@
         <Effect name="Pictures" startTime="201000" endTime="204200" ref="139" palette="9" id="43" />
         <Effect name="Pictures" startTime="204200" endTime="208300" ref="139" palette="9" id="44" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-SpiralsCW All" layer="0"><Effect name="Pinwheel" startTime="93670" endTime="98150" ref="150" palette="142" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-SpiralsCCW All" layer="0"><Effect name="Pinwheel" startTime="101850" endTime="103390" ref="150" palette="142" /><Effect name="Pinwheel" startTime="103390" endTime="105680" ref="151" palette="142" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Ring Group Mid" layer="0"><Effect name="Bars" startTime="164940" endTime="165130" ref="152" palette="143" /><Effect name="Bars" startTime="168000" endTime="168150" ref="152" palette="143" /><Effect name="Bars" startTime="169060" endTime="169250" ref="152" palette="143" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Spider" layer="0"><Effect name="Curtain" startTime="57570" endTime="57970" ref="153" palette="144" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Jack O Lantern" layer="0"><Effect name="Curtain" startTime="57970" endTime="58330" ref="154" palette="144" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Bat1" layer="0"><Effect name="Ripple" startTime="58330" endTime="58750" ref="155" palette="145" /></SubModelEffectLayer></Element>
+      <SubModelEffectLayer name="LOR-SpiralsCW All" layer="0"><Effect name="Pinwheel" startTime="93670" endTime="98150" ref="150" palette="142" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-SpiralsCCW All" layer="0"><Effect name="Pinwheel" startTime="101850" endTime="103390" ref="150" palette="142" /><Effect name="Pinwheel" startTime="103390" endTime="105680" ref="151" palette="142" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Ring Group Mid" layer="0"><Effect name="Bars" startTime="164940" endTime="165130" ref="152" palette="143" /><Effect name="Bars" startTime="168000" endTime="168150" ref="152" palette="143" /><Effect name="Bars" startTime="169060" endTime="169250" ref="152" palette="143" /></SubModelEffectLayer><SubModelEffectLayer name="Spider" layer="0"><Effect name="Curtain" startTime="57570" endTime="57970" ref="156" palette="144" /></SubModelEffectLayer><SubModelEffectLayer name="Jack O Lantern" layer="0"><Effect name="Curtain" startTime="57970" endTime="58330" ref="157" palette="144" /></SubModelEffectLayer><SubModelEffectLayer name="Bat1" layer="0"><Effect name="Ripple" startTime="58330" endTime="58750" ref="158" palette="145" /></SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="6220" ref="140" palette="141" />
         <Effect name="On" startTime="7220" endTime="14200" ref="140" palette="141" id="1" />
         <Effect name="On" startTime="15200" endTime="209600" ref="140" palette="141" id="2" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
           <Effect name="On" startTime="1200" endTime="1760" ref="141" palette="140" id="1" />
           <Effect name="On" startTime="2220" endTime="2740" ref="141" palette="140" id="2" />
           <Effect name="On" startTime="3200" endTime="3760" ref="141" palette="140" id="3" />
@@ -4978,7 +5001,7 @@
           <Effect name="On" startTime="149000" endTime="150500" ref="143" palette="140" id="114" />
           <Effect name="On" startTime="150500" endTime="152000" ref="142" palette="140" id="115" />
           <Effect name="On" startTime="152000" endTime="153500" ref="143" palette="140" id="116" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
           <Effect name="On" startTime="1760" endTime="2220" ref="141" palette="6" id="1" />
           <Effect name="On" startTime="2740" endTime="3200" ref="141" palette="6" id="2" />
           <Effect name="On" startTime="3760" endTime="4220" ref="141" palette="6" id="3" />
@@ -5095,7 +5118,7 @@
         <Effect name="On" startTime="7220" endTime="14200" ref="140" palette="141" id="1" />
         <Effect name="On" startTime="15200" endTime="209600" ref="140" palette="141" id="2" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
           <Effect name="On" startTime="1200" endTime="1760" ref="141" palette="140" id="1" />
           <Effect name="On" startTime="2220" endTime="2740" ref="141" palette="140" id="2" />
           <Effect name="On" startTime="3200" endTime="3760" ref="141" palette="140" id="3" />
@@ -5211,7 +5234,7 @@
           <Effect name="On" startTime="149000" endTime="150500" ref="143" palette="140" id="113" />
           <Effect name="On" startTime="150500" endTime="152000" ref="142" palette="140" id="114" />
           <Effect name="On" startTime="152000" endTime="153500" ref="143" palette="140" id="115" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
           <Effect name="On" startTime="1760" endTime="2220" ref="141" palette="6" id="1" />
           <Effect name="On" startTime="2740" endTime="3200" ref="141" palette="6" id="2" />
           <Effect name="On" startTime="3760" endTime="4220" ref="141" palette="6" id="3" />
@@ -5326,7 +5349,7 @@
         <Effect name="On" startTime="7220" endTime="14200" ref="140" palette="141" id="1" />
         <Effect name="On" startTime="15200" endTime="209600" ref="140" palette="141" id="2" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
           <Effect name="On" startTime="1200" endTime="1760" ref="141" palette="140" id="1" />
           <Effect name="On" startTime="2220" endTime="2740" ref="141" palette="140" id="2" />
           <Effect name="On" startTime="3200" endTime="3760" ref="141" palette="140" id="3" />
@@ -5440,7 +5463,7 @@
           <Effect name="On" startTime="149000" endTime="150500" ref="143" palette="140" id="111" />
           <Effect name="On" startTime="150500" endTime="152000" ref="142" palette="140" id="112" />
           <Effect name="On" startTime="152000" endTime="153500" ref="143" palette="140" id="113" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
           <Effect name="On" startTime="1760" endTime="2220" ref="141" palette="6" id="1" />
           <Effect name="On" startTime="2740" endTime="3200" ref="141" palette="6" id="2" />
           <Effect name="On" startTime="3760" endTime="4220" ref="141" palette="6" id="3" />
@@ -5557,7 +5580,7 @@
         <Effect name="On" startTime="7220" endTime="14200" ref="140" palette="141" id="1" />
         <Effect name="On" startTime="15200" endTime="209600" ref="140" palette="141" id="2" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="0" endTime="640" ref="141" palette="140" />
           <Effect name="On" startTime="1200" endTime="1760" ref="141" palette="140" id="1" />
           <Effect name="On" startTime="2220" endTime="2740" ref="141" palette="140" id="2" />
           <Effect name="On" startTime="3200" endTime="3760" ref="141" palette="140" id="3" />
@@ -5675,7 +5698,7 @@
           <Effect name="On" startTime="149000" endTime="150500" ref="143" palette="140" id="115" />
           <Effect name="On" startTime="150500" endTime="152000" ref="142" palette="140" id="116" />
           <Effect name="On" startTime="152000" endTime="153500" ref="143" palette="140" id="117" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="640" endTime="1200" ref="141" palette="6" />
           <Effect name="On" startTime="1760" endTime="2220" ref="141" palette="6" id="1" />
           <Effect name="On" startTime="2740" endTime="3200" ref="141" palette="6" id="2" />
           <Effect name="On" startTime="3760" endTime="4220" ref="141" palette="6" id="3" />

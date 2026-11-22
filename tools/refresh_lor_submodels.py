@@ -12,11 +12,11 @@ def main():
     parser.add_argument('--write',action='store_true')
     args=parser.parse_args();text=args.layout.read_text();root=ET.fromstring(text);changes=[]
     for model in root.findall('.//model'):
-        targets=[s for s in model.findall('subModel') if s.get('name') in ['LOR-Green','LOR-White','LOR-Odd','LOR-Even']]
+        targets=[s for s in model.findall('subModel') if s.get('name') in ['Odd','Even','LOR-Green','LOR-White','LOR-Odd','LOR-Even']]
         if not targets:continue
         count=int(model.get('NodesPerString')) if model.get('DisplayAs')=='Poly Line' else int(model.get('TopNodes'))+int(model.get('BottomNodes'))+2*int(model.get('SideNodes'))
         for sub in targets:
-            parity=1 if sub.get('name') in ['LOR-Green','LOR-Odd'] else 2
+            parity=1 if sub.get('name') in ['Odd','LOR-Green','LOR-Odd'] else 2
             value=','.join(map(str,range(parity,count+1,2)))
             if value==sub.get('line0'):continue
             changes.append((model.get('name'),sub.get('name')))

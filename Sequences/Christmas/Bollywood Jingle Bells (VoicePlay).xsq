@@ -1059,7 +1059,11 @@
     <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=100</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_SLIDER_Twinkle_Count=30,E_SLIDER_Twinkle_Steps=12</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100</Effect>
-  <Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=18,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=4.0</Effect><Effect>E_CHOICE_VUMeter_Type=Frame Waveform,E_SLIDER_VUMeter_Bars=20,E_SLIDER_VUMeter_Gain=30</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHECKBOX_Bars_Gradient=0,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1</Effect><Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect><Effect>E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=18,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=4.0</Effect><Effect>E_CHOICE_VUMeter_Type=Frame Waveform,E_SLIDER_VUMeter_Bars=20,E_SLIDER_VUMeter_Gain=30</Effect>    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_VUMeter_Type=Intensity Wave,E_FILEPICKERCTRL_SVGFile=,E_SLIDER_VUMeter_Bars=16,E_SLIDER_VUMeter_Gain=18</Effect>
+    <Effect>E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=0.26666666666666666</Effect>
+    <Effect>E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=0.26666666666666666</Effect>
+    <Effect>E_CHECKBOX_ShowHeadAtStart=1,E_SLIDER_MorphDuration=75,E_SLIDER_MorphEndLength=8,E_SLIDER_MorphStartLength=8,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=0,E_SLIDER_Morph_End_Y1=0,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Start_X1=100,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=100</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -2203,24 +2207,24 @@
         <Effect ref="16" name="Butterfly" id="1" startTime="97000" endTime="97200" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
-        <Effect ref="22" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="34" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2249,24 +2253,24 @@
         <Effect ref="16" name="Butterfly" id="1" startTime="97400" endTime="97600" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
-        <Effect ref="22" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="34" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2298,14 +2302,14 @@
         <Effect ref="16" name="Butterfly" id="4" startTime="96800" endTime="97000" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2325,24 +2329,24 @@
         <Effect ref="16" name="Butterfly" id="2" startTime="95200" endTime="95600" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
-        <Effect ref="22" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="34" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2375,14 +2379,14 @@
         <Effect ref="16" name="Butterfly" id="4" startTime="97000" endTime="97200" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2403,24 +2407,24 @@
         <Effect ref="16" name="Butterfly" id="3" startTime="96000" endTime="96400" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
-        <Effect ref="21" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
-        <Effect ref="21" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
-        <Effect ref="21" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
-        <Effect ref="21" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
-        <Effect ref="21" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
-        <Effect ref="21" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
-        <Effect ref="21" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
-        <Effect ref="22" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
+        <Effect ref="33" name="VU Meter" id="1" startTime="7650" endTime="10050" palette="1" />
+        <Effect ref="33" name="VU Meter" id="2" startTime="10050" endTime="12450" palette="2" />
+        <Effect ref="33" name="VU Meter" id="3" startTime="12450" endTime="14850" palette="0" />
+        <Effect ref="33" name="VU Meter" id="4" startTime="14850" endTime="17275" palette="12" />
+        <Effect ref="33" name="VU Meter" id="5" startTime="17275" endTime="19675" palette="1" />
+        <Effect ref="33" name="VU Meter" id="6" startTime="19675" endTime="22075" palette="2" />
+        <Effect ref="33" name="VU Meter" id="7" startTime="22075" endTime="24500" palette="0" />
+        <Effect ref="34" name="Curtain" id="8" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="10" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="11" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="12" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="13" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="14" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="15" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="16" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="17" startTime="58200" endTime="58600" palette="16" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="21" name="VU Meter" startTime="5225" endTime="7650" palette="12" />
@@ -2450,56 +2454,56 @@
         <Effect ref="16" name="Butterfly" id="1" startTime="97300" endTime="97500" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="22" name="Curtain" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="34" name="Curtain" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="23" name="Curtain" startTime="42500" endTime="42900" palette="16" />
-        <Effect ref="23" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
-        <Effect ref="23" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
-        <Effect ref="23" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
-        <Effect ref="23" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
-        <Effect ref="23" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
-        <Effect ref="23" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
-        <Effect ref="23" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
-        <Effect ref="23" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
-        <Effect ref="23" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="35" name="Curtain" startTime="42500" endTime="42900" palette="16" />
+        <Effect ref="35" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
+        <Effect ref="35" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
+        <Effect ref="35" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
+        <Effect ref="35" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
+        <Effect ref="35" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
+        <Effect ref="35" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
+        <Effect ref="35" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
+        <Effect ref="35" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
+        <Effect ref="35" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect ref="24" name="Morph" startTime="11675" endTime="12050" palette="2" />
-        <Effect ref="24" name="Morph" id="1" startTime="12450" endTime="12875" palette="0" />
-        <Effect ref="24" name="Morph" id="2" startTime="14850" endTime="15250" palette="12" />
-        <Effect ref="24" name="Morph" id="3" startTime="15650" endTime="16075" palette="12" />
-        <Effect ref="24" name="Morph" id="4" startTime="18100" endTime="18500" palette="1" />
-        <Effect ref="24" name="Morph" id="5" startTime="18875" endTime="19275" palette="1" />
-        <Effect ref="24" name="Morph" id="6" startTime="21275" endTime="21700" palette="2" />
-        <Effect ref="24" name="Morph" id="7" startTime="22075" endTime="22500" palette="0" />
+        <Effect ref="36" name="Morph" startTime="11675" endTime="12050" palette="2" />
+        <Effect ref="36" name="Morph" id="1" startTime="12450" endTime="12875" palette="0" />
+        <Effect ref="36" name="Morph" id="2" startTime="14850" endTime="15250" palette="12" />
+        <Effect ref="36" name="Morph" id="3" startTime="15650" endTime="16075" palette="12" />
+        <Effect ref="36" name="Morph" id="4" startTime="18100" endTime="18500" palette="1" />
+        <Effect ref="36" name="Morph" id="5" startTime="18875" endTime="19275" palette="1" />
+        <Effect ref="36" name="Morph" id="6" startTime="21275" endTime="21700" palette="2" />
+        <Effect ref="36" name="Morph" id="7" startTime="22075" endTime="22500" palette="0" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect ref="24" name="Morph" startTime="11675" endTime="12050" palette="2" />
-        <Effect ref="24" name="Morph" id="1" startTime="12450" endTime="12875" palette="0" />
-        <Effect ref="24" name="Morph" id="2" startTime="14850" endTime="15250" palette="12" />
-        <Effect ref="24" name="Morph" id="3" startTime="15650" endTime="16075" palette="12" />
-        <Effect ref="24" name="Morph" id="4" startTime="18100" endTime="18500" palette="1" />
-        <Effect ref="24" name="Morph" id="5" startTime="18875" endTime="19275" palette="1" />
-        <Effect ref="24" name="Morph" id="6" startTime="21275" endTime="21700" palette="2" />
-        <Effect ref="24" name="Morph" id="7" startTime="22075" endTime="22500" palette="0" />
+        <Effect ref="36" name="Morph" startTime="11675" endTime="12050" palette="2" />
+        <Effect ref="36" name="Morph" id="1" startTime="12450" endTime="12875" palette="0" />
+        <Effect ref="36" name="Morph" id="2" startTime="14850" endTime="15250" palette="12" />
+        <Effect ref="36" name="Morph" id="3" startTime="15650" endTime="16075" palette="12" />
+        <Effect ref="36" name="Morph" id="4" startTime="18100" endTime="18500" palette="1" />
+        <Effect ref="36" name="Morph" id="5" startTime="18875" endTime="19275" palette="1" />
+        <Effect ref="36" name="Morph" id="6" startTime="21275" endTime="21700" palette="2" />
+        <Effect ref="36" name="Morph" id="7" startTime="22075" endTime="22500" palette="0" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -2509,36 +2513,36 @@
         <Effect ref="16" name="Butterfly" id="2" startTime="97200" endTime="97400" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="22" name="Curtain" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="34" name="Curtain" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="23" name="Curtain" startTime="42500" endTime="42900" palette="16" />
-        <Effect ref="23" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
-        <Effect ref="23" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
-        <Effect ref="23" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
-        <Effect ref="23" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
-        <Effect ref="23" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
-        <Effect ref="23" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
-        <Effect ref="23" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
-        <Effect ref="23" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
-        <Effect ref="23" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="35" name="Curtain" startTime="42500" endTime="42900" palette="16" />
+        <Effect ref="35" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
+        <Effect ref="35" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
+        <Effect ref="35" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
+        <Effect ref="35" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
+        <Effect ref="35" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
+        <Effect ref="35" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
+        <Effect ref="35" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
+        <Effect ref="35" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
+        <Effect ref="35" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect ref="24" name="Morph" startTime="11675" endTime="12050" palette="2" />
@@ -2568,36 +2572,36 @@
         <Effect ref="16" name="Butterfly" id="2" startTime="97600" endTime="97800" palette="4" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="22" name="Curtain" startTime="42100" endTime="42500" palette="16" />
-        <Effect ref="22" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
-        <Effect ref="22" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
-        <Effect ref="22" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
-        <Effect ref="22" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
-        <Effect ref="22" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
-        <Effect ref="22" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
-        <Effect ref="22" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
-        <Effect ref="22" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
-        <Effect ref="22" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="34" name="Curtain" startTime="42100" endTime="42500" palette="16" />
+        <Effect ref="34" name="Curtain" id="1" startTime="43700" endTime="44100" palette="16" />
+        <Effect ref="34" name="Curtain" id="2" startTime="47000" endTime="47400" palette="16" />
+        <Effect ref="34" name="Curtain" id="3" startTime="48600" endTime="49000" palette="16" />
+        <Effect ref="34" name="Curtain" id="4" startTime="50200" endTime="50600" palette="16" />
+        <Effect ref="34" name="Curtain" id="5" startTime="51800" endTime="52200" palette="16" />
+        <Effect ref="34" name="Curtain" id="6" startTime="53400" endTime="53800" palette="16" />
+        <Effect ref="34" name="Curtain" id="7" startTime="55000" endTime="55400" palette="16" />
+        <Effect ref="34" name="Curtain" id="8" startTime="56600" endTime="57000" palette="16" />
+        <Effect ref="34" name="Curtain" id="9" startTime="58200" endTime="58600" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="23" name="Curtain" startTime="42500" endTime="42900" palette="16" />
-        <Effect ref="23" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
-        <Effect ref="23" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
-        <Effect ref="23" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
-        <Effect ref="23" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
-        <Effect ref="23" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
-        <Effect ref="23" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
-        <Effect ref="23" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
-        <Effect ref="23" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
-        <Effect ref="23" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
-        <Effect ref="21" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
-        <Effect ref="21" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
-        <Effect ref="21" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
-        <Effect ref="21" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
+        <Effect ref="35" name="Curtain" startTime="42500" endTime="42900" palette="16" />
+        <Effect ref="35" name="Curtain" id="1" startTime="44100" endTime="44500" palette="16" />
+        <Effect ref="35" name="Curtain" id="2" startTime="47400" endTime="47800" palette="16" />
+        <Effect ref="35" name="Curtain" id="3" startTime="49000" endTime="49400" palette="16" />
+        <Effect ref="35" name="Curtain" id="4" startTime="50600" endTime="51000" palette="16" />
+        <Effect ref="35" name="Curtain" id="5" startTime="52200" endTime="52600" palette="16" />
+        <Effect ref="35" name="Curtain" id="6" startTime="53800" endTime="54200" palette="16" />
+        <Effect ref="35" name="Curtain" id="7" startTime="55400" endTime="55800" palette="16" />
+        <Effect ref="35" name="Curtain" id="8" startTime="57000" endTime="57400" palette="16" />
+        <Effect ref="35" name="Curtain" id="9" startTime="58600" endTime="59000" palette="16" />
+        <Effect ref="33" name="VU Meter" id="10" startTime="79100" endTime="80700" palette="12" />
+        <Effect ref="33" name="VU Meter" id="11" startTime="80700" endTime="82300" palette="1" />
+        <Effect ref="33" name="VU Meter" id="12" startTime="85700" endTime="87100" palette="0" />
+        <Effect ref="33" name="VU Meter" id="13" startTime="87100" endTime="88700" palette="2" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect ref="24" name="Morph" startTime="11675" endTime="12050" palette="2" />

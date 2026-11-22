@@ -1105,7 +1105,34 @@
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.574</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.529</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=100</Effect>
-  <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0</Effect><Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0</Effect><Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5</Effect>    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.562,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.551,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=2,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.562,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=2,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.574,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-7,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.562,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-7,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.608,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-7,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.574,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-7,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.529,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-7,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.596,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.517,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.574,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Reverse3D=1,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=66,E_TEXTCTRL_Spirals_Movement=0.529,B_CHOICE_BufferStyle=Single Line</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.4504504505x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x1.8867924528x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.9900990099x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.8474576271x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5,B_CUSTOM_SubBuffer=0x0.8474576271x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.6896551724x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5,B_CUSTOM_SubBuffer=0x0.6896551724x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.6134969325x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.5882352941x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5,B_CUSTOM_SubBuffer=0x0.5882352941x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.6451612903x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0,B_CUSTOM_SubBuffer=0x0.8849557522x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shapes_RandomMovement=1,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_Count=1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=30,E_SLIDER_Shape_Thickness=12,E_SLIDER_Shapes_Velocity=5,B_CUSTOM_SubBuffer=0x0.8849557522x100.0000000000x100</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_FILEPICKERCTRL_Ripple_SVG=,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=3</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -2331,21 +2358,21 @@
         <Effect ref="25" name="Curtain" id="7" startTime="74100" endTime="74650" palette="13" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="46625" endTime="47125" palette="14" />
-        <Effect ref="19" name="Ripple" id="1" startTime="47625" endTime="48125" palette="15" />
-        <Effect ref="19" name="Ripple" id="2" startTime="48625" endTime="49125" palette="14" />
-        <Effect ref="19" name="Ripple" id="3" startTime="50625" endTime="51125" palette="14" />
-        <Effect ref="19" name="Ripple" id="4" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="19" name="Ripple" id="5" startTime="52625" endTime="53150" palette="14" />
-        <Effect ref="19" name="Ripple" id="6" startTime="54625" endTime="55125" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="55650" endTime="56150" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="56625" endTime="57125" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="57625" endTime="58125" palette="15" />
-        <Effect ref="19" name="Ripple" id="10" startTime="58650" endTime="59125" palette="14" />
-        <Effect ref="19" name="Ripple" id="11" startTime="59625" endTime="60125" palette="15" />
-        <Effect ref="26" name="Curtain" id="12" startTime="63150" endTime="63600" palette="13" />
-        <Effect ref="26" name="Curtain" id="13" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="26" name="Curtain" id="14" startTime="67100" endTime="67600" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="46625" endTime="47125" palette="14" />
+        <Effect ref="93" name="Ripple" id="1" startTime="47625" endTime="48125" palette="15" />
+        <Effect ref="93" name="Ripple" id="2" startTime="48625" endTime="49125" palette="14" />
+        <Effect ref="93" name="Ripple" id="3" startTime="50625" endTime="51125" palette="14" />
+        <Effect ref="93" name="Ripple" id="4" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="93" name="Ripple" id="5" startTime="52625" endTime="53150" palette="14" />
+        <Effect ref="93" name="Ripple" id="6" startTime="54625" endTime="55125" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="55650" endTime="56150" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="56625" endTime="57125" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="57625" endTime="58125" palette="15" />
+        <Effect ref="93" name="Ripple" id="10" startTime="58650" endTime="59125" palette="14" />
+        <Effect ref="93" name="Ripple" id="11" startTime="59625" endTime="60125" palette="15" />
+        <Effect ref="94" name="Curtain" id="12" startTime="63150" endTime="63600" palette="13" />
+        <Effect ref="94" name="Curtain" id="13" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="94" name="Curtain" id="14" startTime="67100" endTime="67600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="19" name="Ripple" startTime="46625" endTime="47125" palette="13" />
@@ -2378,21 +2405,21 @@
         <Effect ref="28" name="Bars" id="3" startTime="78625" endTime="79650" palette="19" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="46625" endTime="47125" palette="14" />
-        <Effect ref="19" name="Ripple" id="1" startTime="47625" endTime="48125" palette="15" />
-        <Effect ref="19" name="Ripple" id="2" startTime="48625" endTime="49125" palette="14" />
-        <Effect ref="19" name="Ripple" id="3" startTime="50625" endTime="51125" palette="14" />
-        <Effect ref="19" name="Ripple" id="4" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="19" name="Ripple" id="5" startTime="52625" endTime="53150" palette="14" />
-        <Effect ref="19" name="Ripple" id="6" startTime="54625" endTime="55125" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="55650" endTime="56150" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="56625" endTime="57125" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="57625" endTime="58125" palette="15" />
-        <Effect ref="19" name="Ripple" id="10" startTime="58650" endTime="59125" palette="14" />
-        <Effect ref="19" name="Ripple" id="11" startTime="59625" endTime="60125" palette="15" />
-        <Effect ref="26" name="Curtain" id="12" startTime="63150" endTime="63600" palette="13" />
-        <Effect ref="26" name="Curtain" id="13" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="26" name="Curtain" id="14" startTime="67100" endTime="67600" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="46625" endTime="47125" palette="14" />
+        <Effect ref="93" name="Ripple" id="1" startTime="47625" endTime="48125" palette="15" />
+        <Effect ref="93" name="Ripple" id="2" startTime="48625" endTime="49125" palette="14" />
+        <Effect ref="93" name="Ripple" id="3" startTime="50625" endTime="51125" palette="14" />
+        <Effect ref="93" name="Ripple" id="4" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="93" name="Ripple" id="5" startTime="52625" endTime="53150" palette="14" />
+        <Effect ref="93" name="Ripple" id="6" startTime="54625" endTime="55125" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="55650" endTime="56150" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="56625" endTime="57125" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="57625" endTime="58125" palette="15" />
+        <Effect ref="93" name="Ripple" id="10" startTime="58650" endTime="59125" palette="14" />
+        <Effect ref="93" name="Ripple" id="11" startTime="59625" endTime="60125" palette="15" />
+        <Effect ref="94" name="Curtain" id="12" startTime="63150" endTime="63600" palette="13" />
+        <Effect ref="94" name="Curtain" id="13" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="94" name="Curtain" id="14" startTime="67100" endTime="67600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="19" name="Ripple" startTime="46625" endTime="47125" palette="13" />
@@ -2451,8 +2478,8 @@
         <Effect ref="6" name="Color Wash" id="4" startTime="25100" endTime="25700" palette="18" />
         <Effect ref="6" name="Color Wash" id="5" startTime="25975" endTime="26425" palette="21" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Odd"><Effect ref="6" name="On" startTime="40150" endTime="42700" palette="12" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-Even"><Effect ref="6" name="On" startTime="40150" endTime="42700" palette="13" />
+      <SubModelEffectLayer name="Odd"><Effect ref="6" name="On" startTime="40150" endTime="42700" palette="12" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect ref="6" name="On" startTime="40150" endTime="42700" palette="13" />
         </SubModelEffectLayer></Element>
     <Element type="model" name="Frame-Window-Bottom-2">
       <EffectLayer>
@@ -2478,21 +2505,21 @@
         <Effect ref="6" name="Color Wash" id="3" startTime="24100" endTime="24775" palette="20" />
         <Effect ref="6" name="Color Wash" id="4" startTime="24900" endTime="25700" palette="18" />
         <Effect ref="6" name="Color Wash" id="5" startTime="25825" endTime="26425" palette="21" />
-        <Effect ref="19" name="Ripple" id="6" startTime="46625" endTime="47125" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="47625" endTime="48125" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="48625" endTime="49125" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="50625" endTime="51125" palette="14" />
-        <Effect ref="19" name="Ripple" id="10" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="19" name="Ripple" id="11" startTime="52625" endTime="53150" palette="14" />
-        <Effect ref="19" name="Ripple" id="12" startTime="54625" endTime="55125" palette="14" />
-        <Effect ref="19" name="Ripple" id="13" startTime="55650" endTime="56150" palette="15" />
-        <Effect ref="19" name="Ripple" id="14" startTime="56625" endTime="57125" palette="14" />
-        <Effect ref="19" name="Ripple" id="15" startTime="57625" endTime="58125" palette="15" />
-        <Effect ref="19" name="Ripple" id="16" startTime="58650" endTime="59125" palette="14" />
-        <Effect ref="19" name="Ripple" id="17" startTime="59625" endTime="60125" palette="15" />
-        <Effect ref="26" name="Curtain" id="18" startTime="63150" endTime="63600" palette="13" />
-        <Effect ref="26" name="Curtain" id="19" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="26" name="Curtain" id="20" startTime="67100" endTime="67600" palette="14" />
+        <Effect ref="93" name="Ripple" id="6" startTime="46625" endTime="47125" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="47625" endTime="48125" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="48625" endTime="49125" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="50625" endTime="51125" palette="14" />
+        <Effect ref="93" name="Ripple" id="10" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="93" name="Ripple" id="11" startTime="52625" endTime="53150" palette="14" />
+        <Effect ref="93" name="Ripple" id="12" startTime="54625" endTime="55125" palette="14" />
+        <Effect ref="93" name="Ripple" id="13" startTime="55650" endTime="56150" palette="15" />
+        <Effect ref="93" name="Ripple" id="14" startTime="56625" endTime="57125" palette="14" />
+        <Effect ref="93" name="Ripple" id="15" startTime="57625" endTime="58125" palette="15" />
+        <Effect ref="93" name="Ripple" id="16" startTime="58650" endTime="59125" palette="14" />
+        <Effect ref="93" name="Ripple" id="17" startTime="59625" endTime="60125" palette="15" />
+        <Effect ref="94" name="Curtain" id="18" startTime="63150" endTime="63600" palette="13" />
+        <Effect ref="94" name="Curtain" id="19" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="94" name="Curtain" id="20" startTime="67100" endTime="67600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="6" name="Color Wash" startTime="16300" endTime="16775" palette="20" />
@@ -2539,8 +2566,8 @@
         <Effect ref="26" name="Curtain" id="7" startTime="66600" endTime="67100" palette="12" />
         <Effect ref="26" name="Curtain" id="8" startTime="68600" endTime="69125" palette="14" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Odd"><Effect ref="6" name="On" startTime="41150" endTime="42700" palette="15" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-Even"><Effect ref="6" name="On" startTime="41150" endTime="42700" palette="14" />
+      <SubModelEffectLayer name="Odd"><Effect ref="6" name="On" startTime="41150" endTime="42700" palette="15" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect ref="6" name="On" startTime="41150" endTime="42700" palette="14" />
         </SubModelEffectLayer></Element>
     <Element type="model" name="Frame-Window-Bottom-3">
       <EffectLayer />
@@ -2602,21 +2629,21 @@
         <Effect ref="6" name="Color Wash" id="3" startTime="24100" endTime="24775" palette="20" />
         <Effect ref="6" name="Color Wash" id="4" startTime="24900" endTime="25700" palette="18" />
         <Effect ref="6" name="Color Wash" id="5" startTime="25825" endTime="26425" palette="21" />
-        <Effect ref="19" name="Ripple" id="6" startTime="46625" endTime="47125" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="47625" endTime="48125" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="48625" endTime="49125" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="50625" endTime="51125" palette="14" />
-        <Effect ref="19" name="Ripple" id="10" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="19" name="Ripple" id="11" startTime="52625" endTime="53150" palette="14" />
-        <Effect ref="19" name="Ripple" id="12" startTime="54625" endTime="55125" palette="14" />
-        <Effect ref="19" name="Ripple" id="13" startTime="55650" endTime="56150" palette="15" />
-        <Effect ref="19" name="Ripple" id="14" startTime="56625" endTime="57125" palette="14" />
-        <Effect ref="19" name="Ripple" id="15" startTime="57625" endTime="58125" palette="15" />
-        <Effect ref="19" name="Ripple" id="16" startTime="58650" endTime="59125" palette="14" />
-        <Effect ref="19" name="Ripple" id="17" startTime="59625" endTime="60125" palette="15" />
-        <Effect ref="26" name="Curtain" id="18" startTime="63150" endTime="63600" palette="13" />
-        <Effect ref="26" name="Curtain" id="19" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="26" name="Curtain" id="20" startTime="67100" endTime="67600" palette="14" />
+        <Effect ref="93" name="Ripple" id="6" startTime="46625" endTime="47125" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="47625" endTime="48125" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="48625" endTime="49125" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="50625" endTime="51125" palette="14" />
+        <Effect ref="93" name="Ripple" id="10" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="93" name="Ripple" id="11" startTime="52625" endTime="53150" palette="14" />
+        <Effect ref="93" name="Ripple" id="12" startTime="54625" endTime="55125" palette="14" />
+        <Effect ref="93" name="Ripple" id="13" startTime="55650" endTime="56150" palette="15" />
+        <Effect ref="93" name="Ripple" id="14" startTime="56625" endTime="57125" palette="14" />
+        <Effect ref="93" name="Ripple" id="15" startTime="57625" endTime="58125" palette="15" />
+        <Effect ref="93" name="Ripple" id="16" startTime="58650" endTime="59125" palette="14" />
+        <Effect ref="93" name="Ripple" id="17" startTime="59625" endTime="60125" palette="15" />
+        <Effect ref="94" name="Curtain" id="18" startTime="63150" endTime="63600" palette="13" />
+        <Effect ref="94" name="Curtain" id="19" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="94" name="Curtain" id="20" startTime="67100" endTime="67600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="6" name="Color Wash" startTime="16300" endTime="16775" palette="20" />
@@ -2679,180 +2706,180 @@
         <Effect ref="25" name="Curtain" id="10" startTime="74100" endTime="74650" palette="13" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="14" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="14" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="13" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="13" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect ref="19" name="Ripple" startTime="15025" endTime="15525" palette="15" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16025" endTime="16500" palette="14" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17000" endTime="17475" palette="15" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18025" endTime="18525" palette="14" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19025" endTime="19500" palette="15" />
-        <Effect ref="19" name="Ripple" id="5" startTime="20050" endTime="20550" palette="14" />
-        <Effect ref="19" name="Ripple" id="6" startTime="23650" endTime="24150" palette="15" />
-        <Effect ref="19" name="Ripple" id="7" startTime="24700" endTime="25200" palette="14" />
-        <Effect ref="19" name="Ripple" id="8" startTime="25700" endTime="26175" palette="15" />
-        <Effect ref="19" name="Ripple" id="9" startTime="26675" endTime="27175" palette="14" />
-        <Effect ref="19" name="Ripple" id="10" startTime="27650" endTime="28175" palette="15" />
-        <Effect ref="19" name="Ripple" id="11" startTime="28650" endTime="29175" palette="14" />
-        <Effect ref="19" name="Ripple" id="12" startTime="31650" endTime="32150" palette="15" />
-        <Effect ref="19" name="Ripple" id="13" startTime="32675" endTime="33150" palette="14" />
-        <Effect ref="19" name="Ripple" id="14" startTime="33650" endTime="34150" palette="15" />
-        <Effect ref="19" name="Ripple" id="15" startTime="34650" endTime="35150" palette="14" />
-        <Effect ref="19" name="Ripple" id="16" startTime="35675" endTime="36150" palette="15" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39625" endTime="40125" palette="15" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40650" endTime="41150" palette="14" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41650" endTime="42125" palette="15" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42625" endTime="43125" palette="14" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43650" endTime="44150" palette="15" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44625" endTime="45150" palette="14" />
-        <Effect ref="19" name="Ripple" id="23" startTime="46625" endTime="47125" palette="14" />
-        <Effect ref="19" name="Ripple" id="24" startTime="47625" endTime="48125" palette="15" />
-        <Effect ref="19" name="Ripple" id="25" startTime="48625" endTime="49125" palette="14" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50625" endTime="51125" palette="14" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52625" endTime="53150" palette="14" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54625" endTime="55125" palette="14" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55650" endTime="56150" palette="15" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56625" endTime="57125" palette="14" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57625" endTime="58125" palette="15" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58650" endTime="59125" palette="14" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59625" endTime="60125" palette="15" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60600" endTime="61100" palette="14" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63600" endTime="64100" palette="15" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64625" endTime="65150" palette="14" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65600" endTime="66150" palette="15" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66600" endTime="67100" palette="14" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67600" endTime="68100" palette="15" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68600" endTime="69125" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="15025" endTime="15525" palette="15" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16025" endTime="16500" palette="14" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17000" endTime="17475" palette="15" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18025" endTime="18525" palette="14" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19025" endTime="19500" palette="15" />
+        <Effect ref="93" name="Ripple" id="5" startTime="20050" endTime="20550" palette="14" />
+        <Effect ref="93" name="Ripple" id="6" startTime="23650" endTime="24150" palette="15" />
+        <Effect ref="93" name="Ripple" id="7" startTime="24700" endTime="25200" palette="14" />
+        <Effect ref="93" name="Ripple" id="8" startTime="25700" endTime="26175" palette="15" />
+        <Effect ref="93" name="Ripple" id="9" startTime="26675" endTime="27175" palette="14" />
+        <Effect ref="93" name="Ripple" id="10" startTime="27650" endTime="28175" palette="15" />
+        <Effect ref="93" name="Ripple" id="11" startTime="28650" endTime="29175" palette="14" />
+        <Effect ref="93" name="Ripple" id="12" startTime="31650" endTime="32150" palette="15" />
+        <Effect ref="93" name="Ripple" id="13" startTime="32675" endTime="33150" palette="14" />
+        <Effect ref="93" name="Ripple" id="14" startTime="33650" endTime="34150" palette="15" />
+        <Effect ref="93" name="Ripple" id="15" startTime="34650" endTime="35150" palette="14" />
+        <Effect ref="93" name="Ripple" id="16" startTime="35675" endTime="36150" palette="15" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39625" endTime="40125" palette="15" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40650" endTime="41150" palette="14" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41650" endTime="42125" palette="15" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42625" endTime="43125" palette="14" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43650" endTime="44150" palette="15" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44625" endTime="45150" palette="14" />
+        <Effect ref="93" name="Ripple" id="23" startTime="46625" endTime="47125" palette="14" />
+        <Effect ref="93" name="Ripple" id="24" startTime="47625" endTime="48125" palette="15" />
+        <Effect ref="93" name="Ripple" id="25" startTime="48625" endTime="49125" palette="14" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50625" endTime="51125" palette="14" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52625" endTime="53150" palette="14" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54625" endTime="55125" palette="14" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55650" endTime="56150" palette="15" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56625" endTime="57125" palette="14" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57625" endTime="58125" palette="15" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58650" endTime="59125" palette="14" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59625" endTime="60125" palette="15" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60600" endTime="61100" palette="14" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63600" endTime="64100" palette="15" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64625" endTime="65150" palette="14" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65600" endTime="66150" palette="15" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66600" endTime="67100" palette="14" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67600" endTime="68100" palette="15" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68600" endTime="69125" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect ref="19" name="Ripple" startTime="15025" endTime="15525" palette="12" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16025" endTime="16500" palette="13" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17000" endTime="17475" palette="12" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18025" endTime="18525" palette="13" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19025" endTime="19500" palette="12" />
-        <Effect ref="19" name="Ripple" id="5" startTime="20050" endTime="20550" palette="13" />
-        <Effect ref="19" name="Ripple" id="6" startTime="23650" endTime="24150" palette="12" />
-        <Effect ref="19" name="Ripple" id="7" startTime="24700" endTime="25200" palette="13" />
-        <Effect ref="19" name="Ripple" id="8" startTime="25700" endTime="26175" palette="12" />
-        <Effect ref="19" name="Ripple" id="9" startTime="26675" endTime="27175" palette="13" />
-        <Effect ref="19" name="Ripple" id="10" startTime="27650" endTime="28175" palette="12" />
-        <Effect ref="19" name="Ripple" id="11" startTime="28650" endTime="29175" palette="13" />
-        <Effect ref="19" name="Ripple" id="12" startTime="31650" endTime="32150" palette="12" />
-        <Effect ref="19" name="Ripple" id="13" startTime="32675" endTime="33150" palette="13" />
-        <Effect ref="19" name="Ripple" id="14" startTime="33650" endTime="34150" palette="12" />
-        <Effect ref="19" name="Ripple" id="15" startTime="34650" endTime="35150" palette="13" />
-        <Effect ref="19" name="Ripple" id="16" startTime="35675" endTime="36150" palette="12" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39625" endTime="40125" palette="12" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40650" endTime="41150" palette="13" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41650" endTime="42125" palette="12" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42625" endTime="43125" palette="13" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43650" endTime="44150" palette="12" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44625" endTime="45150" palette="13" />
-        <Effect ref="19" name="Ripple" id="23" startTime="46625" endTime="47125" palette="13" />
-        <Effect ref="19" name="Ripple" id="24" startTime="47625" endTime="48125" palette="12" />
-        <Effect ref="19" name="Ripple" id="25" startTime="48625" endTime="49125" palette="13" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50625" endTime="51125" palette="13" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51625" endTime="52125" palette="12" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52625" endTime="53150" palette="13" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54625" endTime="55125" palette="13" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55650" endTime="56150" palette="12" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56625" endTime="57125" palette="13" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57625" endTime="58125" palette="12" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58650" endTime="59125" palette="13" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59625" endTime="60125" palette="12" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60600" endTime="61100" palette="13" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63600" endTime="64100" palette="12" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64625" endTime="65150" palette="13" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65600" endTime="66150" palette="12" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66600" endTime="67100" palette="13" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67600" endTime="68100" palette="12" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68600" endTime="69125" palette="13" />
+        <Effect ref="93" name="Ripple" startTime="15025" endTime="15525" palette="12" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16025" endTime="16500" palette="13" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17000" endTime="17475" palette="12" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18025" endTime="18525" palette="13" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19025" endTime="19500" palette="12" />
+        <Effect ref="93" name="Ripple" id="5" startTime="20050" endTime="20550" palette="13" />
+        <Effect ref="93" name="Ripple" id="6" startTime="23650" endTime="24150" palette="12" />
+        <Effect ref="93" name="Ripple" id="7" startTime="24700" endTime="25200" palette="13" />
+        <Effect ref="93" name="Ripple" id="8" startTime="25700" endTime="26175" palette="12" />
+        <Effect ref="93" name="Ripple" id="9" startTime="26675" endTime="27175" palette="13" />
+        <Effect ref="93" name="Ripple" id="10" startTime="27650" endTime="28175" palette="12" />
+        <Effect ref="93" name="Ripple" id="11" startTime="28650" endTime="29175" palette="13" />
+        <Effect ref="93" name="Ripple" id="12" startTime="31650" endTime="32150" palette="12" />
+        <Effect ref="93" name="Ripple" id="13" startTime="32675" endTime="33150" palette="13" />
+        <Effect ref="93" name="Ripple" id="14" startTime="33650" endTime="34150" palette="12" />
+        <Effect ref="93" name="Ripple" id="15" startTime="34650" endTime="35150" palette="13" />
+        <Effect ref="93" name="Ripple" id="16" startTime="35675" endTime="36150" palette="12" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39625" endTime="40125" palette="12" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40650" endTime="41150" palette="13" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41650" endTime="42125" palette="12" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42625" endTime="43125" palette="13" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43650" endTime="44150" palette="12" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44625" endTime="45150" palette="13" />
+        <Effect ref="93" name="Ripple" id="23" startTime="46625" endTime="47125" palette="13" />
+        <Effect ref="93" name="Ripple" id="24" startTime="47625" endTime="48125" palette="12" />
+        <Effect ref="93" name="Ripple" id="25" startTime="48625" endTime="49125" palette="13" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50625" endTime="51125" palette="13" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51625" endTime="52125" palette="12" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52625" endTime="53150" palette="13" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54625" endTime="55125" palette="13" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55650" endTime="56150" palette="12" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56625" endTime="57125" palette="13" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57625" endTime="58125" palette="12" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58650" endTime="59125" palette="13" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59625" endTime="60125" palette="12" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60600" endTime="61100" palette="13" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63600" endTime="64100" palette="12" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64625" endTime="65150" palette="13" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65600" endTime="66150" palette="12" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66600" endTime="67100" palette="13" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67600" endTime="68100" palette="12" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68600" endTime="69125" palette="13" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -2864,92 +2891,92 @@
         <Effect ref="22" name="Curtain" id="4" startTime="73600" endTime="74100" palette="14" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="14" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="14" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="13" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="13" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect ref="19" name="Ripple" startTime="15025" endTime="15525" palette="15" />
@@ -3053,92 +3080,92 @@
         <Effect ref="25" name="Curtain" id="8" startTime="74100" endTime="74650" palette="13" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="14" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="14" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="15" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="14" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="15" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="14" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="15" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="14" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="15" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="14" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="15" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="14" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="15" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="14" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="15" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="14" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="15" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="14" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="15" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="14" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="15" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="14" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="15" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="14" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="15" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="14" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="15" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="14" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="15" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="14" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="14" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="15" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="14" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="15" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="14" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="15" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="14" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="15" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="14" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="15" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="14" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="15" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="14" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="19" name="Ripple" startTime="15525" endTime="16025" palette="13" />
-        <Effect ref="19" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
-        <Effect ref="19" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
-        <Effect ref="19" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
-        <Effect ref="19" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
-        <Effect ref="19" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
-        <Effect ref="19" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
-        <Effect ref="19" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
-        <Effect ref="19" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
-        <Effect ref="19" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
-        <Effect ref="19" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
-        <Effect ref="19" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
-        <Effect ref="19" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
-        <Effect ref="19" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
-        <Effect ref="19" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
-        <Effect ref="19" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
-        <Effect ref="19" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
-        <Effect ref="19" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
-        <Effect ref="19" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
-        <Effect ref="19" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
-        <Effect ref="19" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
-        <Effect ref="19" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
-        <Effect ref="19" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
-        <Effect ref="19" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
-        <Effect ref="19" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
-        <Effect ref="19" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
-        <Effect ref="19" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
-        <Effect ref="19" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
-        <Effect ref="19" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
-        <Effect ref="19" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
-        <Effect ref="19" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
-        <Effect ref="19" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
-        <Effect ref="19" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
-        <Effect ref="19" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
-        <Effect ref="19" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
-        <Effect ref="19" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
-        <Effect ref="19" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
-        <Effect ref="19" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
-        <Effect ref="19" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
-        <Effect ref="19" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
-        <Effect ref="19" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
-        <Effect ref="19" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
+        <Effect ref="93" name="Ripple" startTime="15525" endTime="16025" palette="13" />
+        <Effect ref="93" name="Ripple" id="1" startTime="16500" endTime="17000" palette="12" />
+        <Effect ref="93" name="Ripple" id="2" startTime="17475" endTime="18025" palette="13" />
+        <Effect ref="93" name="Ripple" id="3" startTime="18525" endTime="19025" palette="12" />
+        <Effect ref="93" name="Ripple" id="4" startTime="19500" endTime="20050" palette="13" />
+        <Effect ref="93" name="Ripple" id="5" startTime="23175" endTime="23650" palette="12" />
+        <Effect ref="93" name="Ripple" id="6" startTime="24150" endTime="24700" palette="13" />
+        <Effect ref="93" name="Ripple" id="7" startTime="25200" endTime="25700" palette="12" />
+        <Effect ref="93" name="Ripple" id="8" startTime="26175" endTime="26675" palette="13" />
+        <Effect ref="93" name="Ripple" id="9" startTime="27175" endTime="27650" palette="12" />
+        <Effect ref="93" name="Ripple" id="10" startTime="28175" endTime="28650" palette="13" />
+        <Effect ref="93" name="Ripple" id="11" startTime="31150" endTime="31650" palette="12" />
+        <Effect ref="93" name="Ripple" id="12" startTime="32150" endTime="32675" palette="13" />
+        <Effect ref="93" name="Ripple" id="13" startTime="33150" endTime="33650" palette="12" />
+        <Effect ref="93" name="Ripple" id="14" startTime="34150" endTime="34650" palette="13" />
+        <Effect ref="93" name="Ripple" id="15" startTime="35150" endTime="35675" palette="12" />
+        <Effect ref="93" name="Ripple" id="16" startTime="36150" endTime="36650" palette="13" />
+        <Effect ref="93" name="Ripple" id="17" startTime="39150" endTime="39625" palette="12" />
+        <Effect ref="93" name="Ripple" id="18" startTime="40125" endTime="40650" palette="13" />
+        <Effect ref="93" name="Ripple" id="19" startTime="41150" endTime="41650" palette="12" />
+        <Effect ref="93" name="Ripple" id="20" startTime="42125" endTime="42625" palette="13" />
+        <Effect ref="93" name="Ripple" id="21" startTime="43125" endTime="43650" palette="12" />
+        <Effect ref="93" name="Ripple" id="22" startTime="44150" endTime="44625" palette="13" />
+        <Effect ref="93" name="Ripple" id="23" startTime="47125" endTime="47625" palette="12" />
+        <Effect ref="93" name="Ripple" id="24" startTime="48125" endTime="48625" palette="13" />
+        <Effect ref="93" name="Ripple" id="25" startTime="49125" endTime="49625" palette="12" />
+        <Effect ref="93" name="Ripple" id="26" startTime="50125" endTime="50625" palette="13" />
+        <Effect ref="93" name="Ripple" id="27" startTime="51125" endTime="51625" palette="12" />
+        <Effect ref="93" name="Ripple" id="28" startTime="52125" endTime="52625" palette="13" />
+        <Effect ref="93" name="Ripple" id="29" startTime="54125" endTime="54625" palette="13" />
+        <Effect ref="93" name="Ripple" id="30" startTime="55125" endTime="55650" palette="12" />
+        <Effect ref="93" name="Ripple" id="31" startTime="56150" endTime="56625" palette="13" />
+        <Effect ref="93" name="Ripple" id="32" startTime="57125" endTime="57625" palette="12" />
+        <Effect ref="93" name="Ripple" id="33" startTime="58125" endTime="58650" palette="13" />
+        <Effect ref="93" name="Ripple" id="34" startTime="59125" endTime="59625" palette="12" />
+        <Effect ref="93" name="Ripple" id="35" startTime="60125" endTime="60600" palette="13" />
+        <Effect ref="93" name="Ripple" id="36" startTime="63150" endTime="63600" palette="12" />
+        <Effect ref="93" name="Ripple" id="37" startTime="64100" endTime="64625" palette="13" />
+        <Effect ref="93" name="Ripple" id="38" startTime="65150" endTime="65600" palette="12" />
+        <Effect ref="93" name="Ripple" id="39" startTime="66150" endTime="66600" palette="13" />
+        <Effect ref="93" name="Ripple" id="40" startTime="67100" endTime="67600" palette="12" />
+        <Effect ref="93" name="Ripple" id="41" startTime="68100" endTime="68600" palette="13" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect ref="19" name="Ripple" startTime="15025" endTime="15525" palette="15" />
@@ -3236,34 +3263,34 @@
         <Effect ref="51" name="Pictures" id="2" startTime="40125" endTime="43650" palette="25" />
         <Effect ref="52" name="Pictures" id="3" startTime="46625" endTime="50125" palette="25" />
       </EffectLayer>
-      <SubModelEffectLayer name="Star1">
-        <Effect ref="53" name="Spirals" startTime="51625" endTime="52125" palette="15" />
-        <Effect ref="54" name="Spirals" id="1" startTime="54125" endTime="54625" palette="15" />
-        <Effect ref="53" name="Spirals" id="2" startTime="57125" endTime="57625" palette="15" />
+      <SubModelEffectLayer name="Star1" layer="1">
+        <Effect ref="68" name="Spirals" startTime="51625" endTime="52125" palette="15" />
+        <Effect ref="69" name="Spirals" id="1" startTime="54125" endTime="54625" palette="15" />
+        <Effect ref="68" name="Spirals" id="2" startTime="57125" endTime="57625" palette="15" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star2">
-        <Effect ref="55" name="Spirals" startTime="51125" endTime="51625" palette="12" />
-        <Effect ref="55" name="Spirals" id="1" startTime="52125" endTime="52625" palette="12" />
-        <Effect ref="56" name="Spirals" id="2" startTime="54625" endTime="55125" palette="12" />
-        <Effect ref="55" name="Spirals" id="3" startTime="56625" endTime="57125" palette="12" />
-        <Effect ref="55" name="Spirals" id="4" startTime="57625" endTime="58125" palette="12" />
-        <Effect ref="55" name="Spirals" id="5" startTime="59625" endTime="60125" palette="12" />
+        <Effect ref="70" name="Spirals" startTime="51125" endTime="51625" palette="12" />
+        <Effect ref="70" name="Spirals" id="1" startTime="52125" endTime="52625" palette="12" />
+        <Effect ref="71" name="Spirals" id="2" startTime="54625" endTime="55125" palette="12" />
+        <Effect ref="70" name="Spirals" id="3" startTime="56625" endTime="57125" palette="12" />
+        <Effect ref="70" name="Spirals" id="4" startTime="57625" endTime="58125" palette="12" />
+        <Effect ref="70" name="Spirals" id="5" startTime="59625" endTime="60125" palette="12" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Star3">
-        <Effect ref="57" name="Spirals" startTime="50625" endTime="51125" palette="13" />
-        <Effect ref="58" name="Spirals" id="1" startTime="52625" endTime="53150" palette="13" />
-        <Effect ref="59" name="Spirals" id="2" startTime="55125" endTime="55650" palette="13" />
-        <Effect ref="60" name="Spirals" id="3" startTime="56150" endTime="56625" palette="13" />
-        <Effect ref="61" name="Spirals" id="4" startTime="58125" endTime="58650" palette="13" />
-        <Effect ref="57" name="Spirals" id="5" startTime="59125" endTime="59625" palette="13" />
+        <Effect ref="72" name="Spirals" startTime="50625" endTime="51125" palette="13" />
+        <Effect ref="73" name="Spirals" id="1" startTime="52625" endTime="53150" palette="13" />
+        <Effect ref="74" name="Spirals" id="2" startTime="55125" endTime="55650" palette="13" />
+        <Effect ref="75" name="Spirals" id="3" startTime="56150" endTime="56625" palette="13" />
+        <Effect ref="76" name="Spirals" id="4" startTime="58125" endTime="58650" palette="13" />
+        <Effect ref="72" name="Spirals" id="5" startTime="59125" endTime="59625" palette="13" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="Star4">
-        <Effect ref="54" name="Spirals" startTime="50125" endTime="50625" palette="14" />
-        <Effect ref="62" name="Spirals" id="1" startTime="53150" endTime="53625" palette="14" />
-        <Effect ref="63" name="Spirals" id="2" startTime="55650" endTime="56150" palette="14" />
-        <Effect ref="64" name="Spirals" id="3" startTime="58650" endTime="59125" palette="14" />
+      <SubModelEffectLayer name="Star4" layer="1">
+        <Effect ref="69" name="Spirals" startTime="50125" endTime="50625" palette="14" />
+        <Effect ref="77" name="Spirals" id="1" startTime="53150" endTime="53625" palette="14" />
+        <Effect ref="78" name="Spirals" id="2" startTime="55650" endTime="56150" palette="14" />
+        <Effect ref="79" name="Spirals" id="3" startTime="58650" endTime="59125" palette="14" />
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="LOR-Star1" layer="0"><Effect name="Spirals" startTime="54130" endTime="54620" ref="66" palette="1020" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Star4" layer="0"><Effect name="Spirals" startTime="53160" endTime="53620" ref="66" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Star5" layer="0"><Effect name="Spirals" startTime="53620" endTime="54130" ref="66" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Diamond Arm Group1" layer="0"><Effect name="Spirals" startTime="69120" endTime="69630" ref="66" palette="1022" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Spider" layer="0"><Effect name="Spirals" startTime="63160" endTime="63610" ref="66" palette="1020" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Spider2" layer="0"><Effect name="Spirals" startTime="63610" endTime="64110" ref="66" palette="1022" /><Effect name="Spirals" startTime="65610" endTime="66140" ref="66" palette="1022" /><Effect name="Shape" startTime="81150" endTime="82600" ref="67" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Face" layer="0"><Effect name="Spirals" startTime="64110" endTime="64620" ref="66" palette="1023" /><Effect name="Spirals" startTime="65140" endTime="65610" ref="66" palette="1023" /><Effect name="Shape" startTime="84120" endTime="85880" ref="67" palette="1024" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Jack O Lantern" layer="0"><Effect name="Spirals" startTime="64620" endTime="65140" ref="66" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Jack O Lantern1" layer="0"><Effect name="Spirals" startTime="66140" endTime="66600" ref="66" palette="1020" /><Effect name="Shape" startTime="82600" endTime="84120" ref="67" palette="1024" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Pumpkin1" layer="0"><Effect name="Spirals" startTime="66600" endTime="67110" ref="66" palette="1022" /><Effect name="Spirals" startTime="68600" endTime="69120" ref="66" palette="1022" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Bat1" layer="0"><Effect name="Spirals" startTime="67110" endTime="67610" ref="66" palette="1023" /><Effect name="Spirals" startTime="68100" endTime="68600" ref="66" palette="1023" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Bat2" layer="0"><Effect name="Spirals" startTime="67610" endTime="68100" ref="66" palette="1021" /><Effect name="Shape" startTime="79140" endTime="81150" ref="67" palette="1023" /></SubModelEffectLayer></Element>
+      <SubModelEffectLayer name="Star1" layer="0"><Effect name="Spirals" startTime="54130" endTime="54620" ref="80" palette="1020" /></SubModelEffectLayer><SubModelEffectLayer name="Star4" layer="0"><Effect name="Spirals" startTime="53160" endTime="53620" ref="81" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Star5" layer="0"><Effect name="Spirals" startTime="53620" endTime="54130" ref="66" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Diamond Arm Group1" layer="0"><Effect name="Spirals" startTime="69120" endTime="69630" ref="66" palette="1022" /></SubModelEffectLayer><SubModelEffectLayer name="Spider" layer="0"><Effect name="Spirals" startTime="63160" endTime="63610" ref="82" palette="1020" /></SubModelEffectLayer><SubModelEffectLayer name="Spider2" layer="0"><Effect name="Spirals" startTime="63610" endTime="64110" ref="83" palette="1022" /><Effect name="Spirals" startTime="65610" endTime="66140" ref="83" palette="1022" /><Effect name="Shape" startTime="81150" endTime="82600" ref="84" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="Face" layer="0"><Effect name="Spirals" startTime="64110" endTime="64620" ref="85" palette="1023" /><Effect name="Spirals" startTime="65140" endTime="65610" ref="85" palette="1023" /><Effect name="Shape" startTime="84120" endTime="85880" ref="86" palette="1024" /></SubModelEffectLayer><SubModelEffectLayer name="Jack O Lantern" layer="0"><Effect name="Spirals" startTime="64620" endTime="65140" ref="87" palette="1021" /></SubModelEffectLayer><SubModelEffectLayer name="Jack O Lantern1" layer="0"><Effect name="Spirals" startTime="66140" endTime="66600" ref="88" palette="1020" /><Effect name="Shape" startTime="82600" endTime="84120" ref="89" palette="1024" /></SubModelEffectLayer><SubModelEffectLayer name="Pumpkin1" layer="0"><Effect name="Spirals" startTime="66600" endTime="67110" ref="87" palette="1022" /><Effect name="Spirals" startTime="68600" endTime="69120" ref="87" palette="1022" /></SubModelEffectLayer><SubModelEffectLayer name="Bat1" layer="0"><Effect name="Spirals" startTime="67110" endTime="67610" ref="90" palette="1023" /><Effect name="Spirals" startTime="68100" endTime="68600" ref="90" palette="1023" /></SubModelEffectLayer><SubModelEffectLayer name="Bat2" layer="0"><Effect name="Spirals" startTime="67610" endTime="68100" ref="91" palette="1021" /><Effect name="Shape" startTime="79140" endTime="81150" ref="92" palette="1023" /></SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer>
         <Effect ref="65" name="On" startTime="14525" endTime="15025" palette="14" />

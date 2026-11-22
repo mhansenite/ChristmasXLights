@@ -71,7 +71,15 @@
     <Effect>B_CUSTOM_SubBuffer=7.5x0x92.5x100,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_SLIDER_PicturesXC=14,E_TEXTCTRL_Pictures_Filename=Images/Halloween/Spooky Scary Skeletons (Andrew Gold)/Bass.gif,E_TEXTCTRL_Pictures_FrameRateAdj=2.333,E_TEXTCTRL_Pictures_Speed=1.0,T_CHOICE_LayerMethod=Effect 1</Effect>
     <Effect>B_CUSTOM_SubBuffer=22.5x12x77.5x88,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_SLIDER_PicturesXC=28,E_TEXTCTRL_Pictures_Filename=Images/Halloween/Spooky Scary Skeletons (Andrew Gold)/guitar.gif,E_TEXTCTRL_Pictures_FrameRateAdj=1.917,E_TEXTCTRL_Pictures_Speed=1.0,T_CHOICE_LayerMethod=Effect 1</Effect>
     <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_SLIDER_PicturesXC=-8,E_TEXTCTRL_Pictures_Filename=Images/Halloween/Spooky Scary Skeletons (Andrew Gold)/Thriller.gif,E_TEXTCTRL_Pictures_FrameRateAdj=1.583,E_TEXTCTRL_Pictures_Speed=1.0,E_VALUECURVE_PicturesYC=Active=TRUE|Id=ID_VALUECURVE_PicturesYC|Type=Custom|Min=-100.00|Max=100.00|P1=1.00|RV=TRUE|Values=0.000:0.500;0.700:0.500;1.000:0.000|,T_CHOICE_LayerMethod=Effect 1</Effect>
-  <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect></EffectDB>
+  <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0</Effect>    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.8547008547x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.9900990099x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.8474576271x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.6896551724x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.6134969325x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.5882352941x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.6451612903x100.0000000000x100</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CUSTOM_SubBuffer=0x0.8849557522x100.0000000000x100</Effect>
+</EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -2566,12 +2574,12 @@
         <Effect name="Pictures" startTime="56300" endTime="60100" ref="40" palette="8" id="5" />
         <Effect name="Pictures" startTime="60100" endTime="67000" ref="34" palette="8" id="6" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Smiley" layer="0"><Effect name="Curtain" startTime="14170" endTime="14670" ref="41" palette="11" /><Effect name="Curtain" startTime="28340" endTime="28790" ref="41" palette="11" /><Effect name="Curtain" startTime="34880" endTime="35330" ref="41" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Spider" layer="0"><Effect name="Curtain" startTime="7610" endTime="8110" ref="41" palette="11" /><Effect name="Curtain" startTime="13210" endTime="13720" ref="41" palette="11" /><Effect name="Curtain" startTime="14670" endTime="15130" ref="41" palette="11" /><Effect name="Curtain" startTime="27390" endTime="27840" ref="41" palette="11" /><Effect name="Curtain" startTime="33980" endTime="34380" ref="41" palette="11" /><Effect name="Curtain" startTime="35330" endTime="35830" ref="41" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Spider2" layer="0"><Effect name="Curtain" startTime="8110" endTime="8560" ref="41" palette="11" /><Effect name="Curtain" startTime="9460" endTime="9960" ref="41" palette="11" /><Effect name="Curtain" startTime="12310" endTime="12760" ref="41" palette="11" /><Effect name="Curtain" startTime="23630" endTime="24080" ref="41" palette="11" /><Effect name="Curtain" startTime="26440" endTime="26890" ref="41" palette="11" /><Effect name="Curtain" startTime="28790" endTime="29290" ref="41" palette="11" /><Effect name="Curtain" startTime="30190" endTime="30640" ref="41" palette="11" /><Effect name="Curtain" startTime="32980" endTime="33480" ref="41" palette="11" /><Effect name="Curtain" startTime="35830" endTime="36280" ref="41" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Face" layer="0"><Effect name="Curtain" startTime="9010" endTime="9460" ref="41" palette="11" /><Effect name="Curtain" startTime="11860" endTime="12310" ref="41" palette="11" /><Effect name="Curtain" startTime="23120" endTime="23630" ref="41" palette="11" /><Effect name="Curtain" startTime="25990" endTime="26440" ref="41" palette="11" /><Effect name="Curtain" startTime="29740" endTime="30190" ref="41" palette="11" /><Effect name="Curtain" startTime="32530" endTime="32980" ref="41" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Jack O Lantern" layer="0"><Effect name="Curtain" startTime="8560" endTime="9010" ref="41" palette="12" /><Effect name="Curtain" startTime="10910" endTime="11360" ref="41" palette="12" /><Effect name="Curtain" startTime="12760" endTime="13210" ref="41" palette="12" /><Effect name="Curtain" startTime="25030" endTime="25480" ref="41" palette="12" /><Effect name="Curtain" startTime="26890" endTime="27390" ref="41" palette="12" /><Effect name="Curtain" startTime="29290" endTime="29740" ref="41" palette="12" /><Effect name="Curtain" startTime="31640" endTime="32090" ref="41" palette="12" /><Effect name="Curtain" startTime="33480" endTime="33980" ref="41" palette="12" /><Effect name="Curtain" startTime="36280" endTime="36730" ref="41" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Jack O Lantern1" layer="0"><Effect name="Curtain" startTime="13720" endTime="14170" ref="41" palette="12" /><Effect name="Curtain" startTime="27840" endTime="28340" ref="41" palette="12" /><Effect name="Curtain" startTime="34380" endTime="34880" ref="41" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Pumpkin1" layer="0"><Effect name="Curtain" startTime="9960" endTime="10410" ref="41" palette="12" /><Effect name="Curtain" startTime="24080" endTime="24580" ref="41" palette="12" /><Effect name="Curtain" startTime="30640" endTime="31140" ref="41" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Bat1" layer="0"><Effect name="Curtain" startTime="10410" endTime="10910" ref="41" palette="13" /><Effect name="Curtain" startTime="24580" endTime="25030" ref="41" palette="13" /><Effect name="Curtain" startTime="31140" endTime="31640" ref="41" palette="13" /><Effect name="Curtain" startTime="36730" endTime="37180" ref="41" palette="13" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Bat2" layer="0"><Effect name="Curtain" startTime="11360" endTime="11860" ref="41" palette="13" /><Effect name="Curtain" startTime="25480" endTime="25990" ref="41" palette="13" /><Effect name="Curtain" startTime="32090" endTime="32530" ref="41" palette="13" /></SubModelEffectLayer></Element>
+      <SubModelEffectLayer name="Smiley" layer="0"><Effect name="Curtain" startTime="14170" endTime="14670" ref="42" palette="11" /><Effect name="Curtain" startTime="28340" endTime="28790" ref="42" palette="11" /><Effect name="Curtain" startTime="34880" endTime="35330" ref="42" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="Spider" layer="0"><Effect name="Curtain" startTime="7610" endTime="8110" ref="43" palette="11" /><Effect name="Curtain" startTime="13210" endTime="13720" ref="43" palette="11" /><Effect name="Curtain" startTime="14670" endTime="15130" ref="43" palette="11" /><Effect name="Curtain" startTime="27390" endTime="27840" ref="43" palette="11" /><Effect name="Curtain" startTime="33980" endTime="34380" ref="43" palette="11" /><Effect name="Curtain" startTime="35330" endTime="35830" ref="43" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="Spider2" layer="0"><Effect name="Curtain" startTime="8110" endTime="8560" ref="44" palette="11" /><Effect name="Curtain" startTime="9460" endTime="9960" ref="44" palette="11" /><Effect name="Curtain" startTime="12310" endTime="12760" ref="44" palette="11" /><Effect name="Curtain" startTime="23630" endTime="24080" ref="44" palette="11" /><Effect name="Curtain" startTime="26440" endTime="26890" ref="44" palette="11" /><Effect name="Curtain" startTime="28790" endTime="29290" ref="44" palette="11" /><Effect name="Curtain" startTime="30190" endTime="30640" ref="44" palette="11" /><Effect name="Curtain" startTime="32980" endTime="33480" ref="44" palette="11" /><Effect name="Curtain" startTime="35830" endTime="36280" ref="44" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="Face" layer="0"><Effect name="Curtain" startTime="9010" endTime="9460" ref="45" palette="11" /><Effect name="Curtain" startTime="11860" endTime="12310" ref="45" palette="11" /><Effect name="Curtain" startTime="23120" endTime="23630" ref="45" palette="11" /><Effect name="Curtain" startTime="25990" endTime="26440" ref="45" palette="11" /><Effect name="Curtain" startTime="29740" endTime="30190" ref="45" palette="11" /><Effect name="Curtain" startTime="32530" endTime="32980" ref="45" palette="11" /></SubModelEffectLayer><SubModelEffectLayer name="Jack O Lantern" layer="0"><Effect name="Curtain" startTime="8560" endTime="9010" ref="46" palette="12" /><Effect name="Curtain" startTime="10910" endTime="11360" ref="46" palette="12" /><Effect name="Curtain" startTime="12760" endTime="13210" ref="46" palette="12" /><Effect name="Curtain" startTime="25030" endTime="25480" ref="46" palette="12" /><Effect name="Curtain" startTime="26890" endTime="27390" ref="46" palette="12" /><Effect name="Curtain" startTime="29290" endTime="29740" ref="46" palette="12" /><Effect name="Curtain" startTime="31640" endTime="32090" ref="46" palette="12" /><Effect name="Curtain" startTime="33480" endTime="33980" ref="46" palette="12" /><Effect name="Curtain" startTime="36280" endTime="36730" ref="46" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="Jack O Lantern1" layer="0"><Effect name="Curtain" startTime="13720" endTime="14170" ref="47" palette="12" /><Effect name="Curtain" startTime="27840" endTime="28340" ref="47" palette="12" /><Effect name="Curtain" startTime="34380" endTime="34880" ref="47" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="Pumpkin1" layer="0"><Effect name="Curtain" startTime="9960" endTime="10410" ref="46" palette="12" /><Effect name="Curtain" startTime="24080" endTime="24580" ref="46" palette="12" /><Effect name="Curtain" startTime="30640" endTime="31140" ref="46" palette="12" /></SubModelEffectLayer><SubModelEffectLayer name="Bat1" layer="0"><Effect name="Curtain" startTime="10410" endTime="10910" ref="48" palette="13" /><Effect name="Curtain" startTime="24580" endTime="25030" ref="48" palette="13" /><Effect name="Curtain" startTime="31140" endTime="31640" ref="48" palette="13" /><Effect name="Curtain" startTime="36730" endTime="37180" ref="48" palette="13" /></SubModelEffectLayer><SubModelEffectLayer name="Bat2" layer="0"><Effect name="Curtain" startTime="11360" endTime="11860" ref="49" palette="13" /><Effect name="Curtain" startTime="25480" endTime="25990" ref="49" palette="13" /><Effect name="Curtain" startTime="32090" endTime="32530" ref="49" palette="13" /></SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="73160" ref="35" palette="10" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
           <Effect name="On" startTime="8560" endTime="9010" ref="36" palette="5" id="1" />
           <Effect name="On" startTime="9460" endTime="9960" ref="36" palette="5" id="2" />
           <Effect name="On" startTime="10410" endTime="10910" ref="36" palette="5" id="3" />
@@ -2635,7 +2643,7 @@
           <Effect name="On" startTime="58690" endTime="59140" ref="36" palette="5" id="61" />
           <Effect name="On" startTime="59140" endTime="59640" ref="36" palette="5" id="62" />
           <Effect name="On" startTime="59640" endTime="60140" ref="36" palette="5" id="63" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
           <Effect name="On" startTime="9010" endTime="9460" ref="36" palette="7" id="1" />
           <Effect name="On" startTime="9960" endTime="10410" ref="36" palette="7" id="2" />
           <Effect name="On" startTime="10910" endTime="11360" ref="36" palette="7" id="3" />
@@ -2704,7 +2712,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="73160" ref="35" palette="10" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
           <Effect name="On" startTime="8560" endTime="9010" ref="36" palette="5" id="1" />
           <Effect name="On" startTime="9460" endTime="9960" ref="36" palette="5" id="2" />
           <Effect name="On" startTime="10410" endTime="10910" ref="36" palette="5" id="3" />
@@ -2768,7 +2776,7 @@
           <Effect name="On" startTime="58690" endTime="59140" ref="36" palette="5" id="61" />
           <Effect name="On" startTime="59140" endTime="59640" ref="36" palette="5" id="62" />
           <Effect name="On" startTime="59640" endTime="60140" ref="36" palette="5" id="63" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
           <Effect name="On" startTime="9010" endTime="9460" ref="36" palette="7" id="1" />
           <Effect name="On" startTime="9960" endTime="10410" ref="36" palette="7" id="2" />
           <Effect name="On" startTime="10910" endTime="11360" ref="36" palette="7" id="3" />
@@ -2837,7 +2845,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="73160" ref="35" palette="10" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
           <Effect name="On" startTime="8560" endTime="9010" ref="36" palette="5" id="1" />
           <Effect name="On" startTime="9460" endTime="9960" ref="36" palette="5" id="2" />
           <Effect name="On" startTime="10410" endTime="10910" ref="36" palette="5" id="3" />
@@ -2901,7 +2909,7 @@
           <Effect name="On" startTime="58690" endTime="59140" ref="36" palette="5" id="61" />
           <Effect name="On" startTime="59140" endTime="59640" ref="36" palette="5" id="62" />
           <Effect name="On" startTime="59640" endTime="60140" ref="36" palette="5" id="63" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
           <Effect name="On" startTime="9010" endTime="9460" ref="36" palette="7" id="1" />
           <Effect name="On" startTime="9960" endTime="10410" ref="36" palette="7" id="2" />
           <Effect name="On" startTime="10910" endTime="11360" ref="36" palette="7" id="3" />
@@ -2970,7 +2978,7 @@
       <EffectLayer>
         <Effect name="On" startTime="0" endTime="73160" ref="35" palette="10" />
       </EffectLayer>
-      <SubModelEffectLayer name="LOR-Green"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
+      <SubModelEffectLayer name="Odd"><Effect name="On" startTime="7610" endTime="8110" ref="36" palette="5" />
           <Effect name="On" startTime="8560" endTime="9010" ref="36" palette="5" id="1" />
           <Effect name="On" startTime="9460" endTime="9960" ref="36" palette="5" id="2" />
           <Effect name="On" startTime="10410" endTime="10910" ref="36" palette="5" id="3" />
@@ -3034,7 +3042,7 @@
           <Effect name="On" startTime="58690" endTime="59140" ref="36" palette="5" id="61" />
           <Effect name="On" startTime="59140" endTime="59640" ref="36" palette="5" id="62" />
           <Effect name="On" startTime="59640" endTime="60140" ref="36" palette="5" id="63" />
-        </SubModelEffectLayer><SubModelEffectLayer name="LOR-White"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
+        </SubModelEffectLayer><SubModelEffectLayer name="Even"><Effect name="On" startTime="8110" endTime="8560" ref="36" palette="7" />
           <Effect name="On" startTime="9010" endTime="9460" ref="36" palette="7" id="1" />
           <Effect name="On" startTime="9960" endTime="10410" ref="36" palette="7" id="2" />
           <Effect name="On" startTime="10910" endTime="11360" ref="36" palette="7" id="3" />
