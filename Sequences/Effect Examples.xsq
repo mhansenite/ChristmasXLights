@@ -310,7 +310,15 @@
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=7,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.8,T_TEXTCTRL_Fadeout=.5</Effect>
       <Effect>B_CHOICE_BufferStyle=Single Line</Effect>
     <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1,B_CHOICE_BufferStyle=Single Line</Effect>
-</EffectDB>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.30</Effect>
+    <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.24</Effect>
+    <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.42</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=25,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1</Effect>
+    <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.21</Effect>
+    <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.18</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Bars_3D=1,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=11.84</Effect>
+    <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.27</Effect>
+  </EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -706,49 +714,49 @@
     </Element>
     <Element type="model" name="Frames-Edge-All-Right">
       <EffectLayer>
-        <Effect ref="4" palette="2" name="SingleStrand" startTime="0" endTime="1500" />
-        <Effect ref="4" palette="2" name="SingleStrand" startTime="1500" endTime="1950" id="1" />
-        <Effect ref="4" palette="2" name="SingleStrand" startTime="1950" endTime="4225" id="2" />
-        <Effect ref="4" palette="4" name="SingleStrand" startTime="4225" endTime="4800" id="3" />
-        <Effect ref="4" palette="2" name="SingleStrand" startTime="4800" endTime="5000" id="4" />
-        <Effect ref="4" palette="8" name="SingleStrand" startTime="5000" endTime="5400" id="5" />
-        <Effect ref="4" palette="9" name="SingleStrand" startTime="5400" endTime="5700" id="6" />
-        <Effect ref="4" palette="4" name="SingleStrand" startTime="5700" endTime="6300" id="7" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="25625" endTime="26100" id="8" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="26100" endTime="26600" id="9" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="26600" endTime="26900" id="10" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="26900" endTime="27075" id="11" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="27075" endTime="27325" id="12" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="27325" endTime="27550" id="13" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="27550" endTime="27775" id="14" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="27775" endTime="28000" id="15" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="28000" endTime="28250" id="16" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="28250" endTime="28725" id="17" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="28725" endTime="28975" id="18" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="28975" endTime="29225" id="19" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="29225" endTime="29450" id="20" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="29450" endTime="29900" id="21" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="29900" endTime="30175" id="22" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="30175" endTime="30400" id="23" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="30400" endTime="30650" id="24" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="30650" endTime="30900" id="25" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="30900" endTime="31150" id="26" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="31150" endTime="31350" id="27" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="31350" endTime="31600" id="28" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="31600" endTime="31850" id="29" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="31850" endTime="32100" id="30" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="32100" endTime="32350" id="31" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="32350" endTime="32550" id="32" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="32550" endTime="32800" id="33" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="32800" endTime="33025" id="34" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="33025" endTime="33275" id="35" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="33275" endTime="33525" id="36" />
-        <Effect ref="27" palette="19" name="Curtain" startTime="33525" endTime="33775" id="37" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="33775" endTime="33800" id="38" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="33800" endTime="34050" id="39" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="34050" endTime="34300" id="40" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="34300" endTime="34525" id="41" />
-        <Effect ref="27" palette="16" name="Curtain" startTime="34525" endTime="34775" id="42" />
+        <Effect ref="5" palette="2" name="SingleStrand" startTime="0" endTime="1500" />
+        <Effect ref="5" palette="2" name="SingleStrand" startTime="1500" endTime="1950" id="1" />
+        <Effect ref="5" palette="2" name="SingleStrand" startTime="1950" endTime="4225" id="2" />
+        <Effect ref="5" palette="4" name="SingleStrand" startTime="4225" endTime="4800" id="3" />
+        <Effect ref="5" palette="2" name="SingleStrand" startTime="4800" endTime="5000" id="4" />
+        <Effect ref="5" palette="8" name="SingleStrand" startTime="5000" endTime="5400" id="5" />
+        <Effect ref="5" palette="9" name="SingleStrand" startTime="5400" endTime="5700" id="6" />
+        <Effect ref="5" palette="4" name="SingleStrand" startTime="5700" endTime="6300" id="7" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="25625" endTime="26100" id="8" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="26100" endTime="26600" id="9" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="26600" endTime="26900" id="10" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="26900" endTime="27075" id="11" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="27075" endTime="27325" id="12" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="27325" endTime="27550" id="13" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="27550" endTime="27775" id="14" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="27775" endTime="28000" id="15" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="28000" endTime="28250" id="16" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="28250" endTime="28725" id="17" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="28725" endTime="28975" id="18" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="28975" endTime="29225" id="19" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="29225" endTime="29450" id="20" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="29450" endTime="29900" id="21" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="29900" endTime="30175" id="22" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="30175" endTime="30400" id="23" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="30400" endTime="30650" id="24" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="30650" endTime="30900" id="25" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="30900" endTime="31150" id="26" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="31150" endTime="31350" id="27" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="31350" endTime="31600" id="28" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="31600" endTime="31850" id="29" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="31850" endTime="32100" id="30" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="32100" endTime="32350" id="31" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="32350" endTime="32550" id="32" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="32550" endTime="32800" id="33" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="32800" endTime="33025" id="34" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="33025" endTime="33275" id="35" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="33275" endTime="33525" id="36" />
+        <Effect ref="26" palette="19" name="Curtain" startTime="33525" endTime="33775" id="37" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="33775" endTime="33800" id="38" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="33800" endTime="34050" id="39" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="34050" endTime="34300" id="40" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="34300" endTime="34525" id="41" />
+        <Effect ref="26" palette="16" name="Curtain" startTime="34525" endTime="34775" id="42" />
         <Effect ref="58" palette="37" name="SingleStrand" startTime="52450" endTime="53050" id="43" />
         <Effect ref="59" palette="36" name="SingleStrand" startTime="54400" endTime="55675" id="44" />
         <Effect ref="58" palette="37" name="SingleStrand" startTime="56350" endTime="57175" id="45" />
@@ -3072,11 +3080,11 @@
         <Effect ref="98" palette="82" name="Twinkle" startTime="142125" endTime="149075" id="7" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="90" palette="75" name="Bars" startTime="114750" endTime="114850" id="2" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="3" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="4" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="176" palette="75" name="Bars" startTime="114750" endTime="114850" id="2" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="3" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="4" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3103,10 +3111,10 @@
         <Effect ref="98" palette="82" name="Twinkle" startTime="142125" endTime="149075" id="6" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3133,10 +3141,10 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="7" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3164,10 +3172,10 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="5" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3197,10 +3205,10 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="7" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3228,10 +3236,10 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135375" endTime="136225" id="5" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
         <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
@@ -3259,38 +3267,38 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="5" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="5" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="6" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="5" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="6" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="78600" endTime="79100" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
-        <Effect ref="100" palette="86" name="Bars" startTime="149075" endTime="149425" id="5" />
-        <Effect ref="103" palette="86" name="Bars" startTime="149425" endTime="149725" id="6" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="7" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="8" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="78100" endTime="78500" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="78600" endTime="79100" id="1" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
+        <Effect ref="180" palette="86" name="Bars" startTime="149075" endTime="149425" id="5" />
+        <Effect ref="181" palette="86" name="Bars" startTime="149425" endTime="149725" id="6" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="7" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="8" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect ref="90" palette="75" name="Bars" startTime="114750" endTime="114850" />
-        <Effect ref="93" palette="76" name="Bars" startTime="114850" endTime="120750" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
+        <Effect ref="176" palette="75" name="Bars" startTime="114750" endTime="114850" />
+        <Effect ref="182" palette="76" name="Bars" startTime="114850" endTime="120750" id="1" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="134525" endTime="134825" id="2" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135075" endTime="135375" id="3" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135525" endTime="136225" id="4" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect ref="93" palette="75" name="Bars" startTime="114850" endTime="120750" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="134525" endTime="134825" id="1" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135075" endTime="135375" id="2" />
-        <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="3" />
-        <Effect ref="107" palette="86" name="Bars" startTime="150825" endTime="151275" id="4" />
+        <Effect ref="182" palette="75" name="Bars" startTime="114850" endTime="120750" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="134525" endTime="134825" id="1" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135075" endTime="135375" id="2" />
+        <Effect ref="179" palette="69" name="Ripple" startTime="135525" endTime="136225" id="3" />
+        <Effect ref="183" palette="86" name="Bars" startTime="150825" endTime="151275" id="4" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
@@ -3304,18 +3312,18 @@
         <Effect ref="97" palette="69" name="Ripple" startTime="135525" endTime="136225" id="6" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="77600" endTime="78100" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="77600" endTime="78100" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="79100" endTime="79500" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="68" palette="47" name="Curtain" startTime="78100" endTime="78500" />
-        <Effect ref="69" palette="47" name="Curtain" startTime="78600" endTime="79100" id="1" />
-        <Effect ref="100" palette="86" name="Bars" startTime="149075" endTime="149425" id="2" />
-        <Effect ref="103" palette="86" name="Bars" startTime="149425" endTime="149725" id="3" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="4" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="5" />
+        <Effect ref="69" palette="47" name="Curtain" startTime="78100" endTime="78500" />
+        <Effect ref="68" palette="47" name="Curtain" startTime="78600" endTime="79100" id="1" />
+        <Effect ref="180" palette="86" name="Bars" startTime="149075" endTime="149425" id="2" />
+        <Effect ref="181" palette="86" name="Bars" startTime="149425" endTime="149725" id="3" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="4" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
         <Effect ref="88" palette="75" name="Bars" startTime="114750" endTime="120750" />
@@ -3342,14 +3350,14 @@
         <Effect ref="88" palette="76" name="Bars" startTime="114750" endTime="120750" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect ref="100" palette="86" name="Bars" startTime="149075" endTime="149425" />
-        <Effect ref="103" palette="86" name="Bars" startTime="149425" endTime="149725" id="1" />
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
+        <Effect ref="180" palette="86" name="Bars" startTime="149075" endTime="149425" />
+        <Effect ref="181" palette="86" name="Bars" startTime="149425" endTime="149725" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" id="2" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="3" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect ref="104" palette="86" name="Bars" startTime="149725" endTime="150125" />
-        <Effect ref="106" palette="86" name="Bars" startTime="150125" endTime="150825" id="1" />
+        <Effect ref="177" palette="86" name="Bars" startTime="149725" endTime="150125" />
+        <Effect ref="178" palette="86" name="Bars" startTime="150125" endTime="150825" id="1" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="PPD Wreath">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
     <version>2026.20</version>
@@ -10111,7 +10111,7 @@
     <ColorPalette>C_BUTTON_Palette1=#003047,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#000000,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#00FF00,C_CHECKBOX_Palette1=1</ColorPalette>
-  <ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=89.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=89.00|P2=78.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=78.00|P2=57.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=57.00|P2=46.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=46.00|P2=36.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=36.00|P2=25.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=25.00|P2=0.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=14.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0080C0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=14.00|P2=0.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=0.00|P2=100.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=0.00|RV=TRUE|</ColorPalette></ColorPalettes>
+  <ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=89.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=89.00|P2=78.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=78.00|P2=57.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=57.00|P2=46.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=46.00|P2=36.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=36.00|P2=25.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=25.00|P2=0.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_BUTTON_Palette2=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=14.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0080C0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=14.00|P2=0.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=0.00|P2=100.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=0.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0080C0,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|P2=0.00|RV=TRUE|</ColorPalette></ColorPalettes>
   <EffectDB>
     <Effect>E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=0.5466666666666666,T_CHOICE_LayerMethod=Max</Effect>
@@ -10200,7 +10200,7 @@
     <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.350</Effect>
     <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.622</Effect>
     <Effect>E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=0.194</Effect>
-</EffectDB>
+<Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=1.113,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.113,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.739,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.739,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.373,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.389,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.35,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.366,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.747,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.105,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.397,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.342,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.366,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.755,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.731,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.381,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.35,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.373,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.856,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_Number_Chases=1,E_TEXTCTRL_Chase_Offset=0,E_TEXTCTRL_Chase_Rotations=1,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_Number_Chases=1,E_TEXTCTRL_Chase_Offset=0,E_TEXTCTRL_Chase_Rotations=1,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.389,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.747,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=1.105,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.397,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.342,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.755,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.731,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.62,E_TEXTCTRL_Chase_Rotations=0.381,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=0.856,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=1,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=1.113,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=1.113,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.739,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.739,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.373,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.389,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.35,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.366,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.747,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=1.105,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.397,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.342,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.366,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.755,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.731,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.381,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.358,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=47.73,E_TEXTCTRL_Chase_Rotations=0.35,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.373,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=50.0,E_TEXTCTRL_Chase_Rotations=0.856,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=1.113,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.739,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.373,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.366,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=1.105,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.397,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.755,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.381,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Offset=97.06,E_TEXTCTRL_Chase_Rotations=0.35,T_CHOICE_LayerMethod=1 reveals 2</Effect><Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=100,T_CHOICE_LayerMethod=Effect 1</Effect><Effect>E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100,T_CHOICE_LayerMethod=Effect 1</Effect></EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -11315,601 +11315,601 @@
     <Element type="model" name="Frame-Window-Bottom-1">
       <EffectLayer>
         <Effect name="Ripple" startTime="6030" endTime="8410" ref="66" palette="1" />
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" id="1" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="2" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="3" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="4" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="5" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="6" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="7" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="8" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="9" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="10" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="11" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="12" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="13" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="14" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="15" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="16" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="17" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="18" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="19" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="20" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="21" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="22" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="23" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="24" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="25" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="26" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="27" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="28" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="29" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="30" />
-        <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="32" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="33" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="34" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="35" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="36" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="37" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="38" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="39" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="40" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="41" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="42" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="43" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="127" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="106" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="159" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="106" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="160" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="107" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="161" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="128" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="161" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="122" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="162" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="129" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="160" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="106" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="163" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="129" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="164" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="132" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="161" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="112" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="161" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="107" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="165" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="134" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="166" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="136" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="162" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="128" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="167" palette="1" id="29" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="129" palette="1" id="30" />
+        <Effect name="On" startTime="95640" endTime="96140" ref="168" palette="0" /><Effect name="On" startTime="98990" endTime="99490" ref="168" palette="0" /><Effect name="On" startTime="102840" endTime="103640" ref="169" palette="0" /><Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="160" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="107" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="161" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="109" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="162" palette="1" id="36" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="112" palette="18" id="37" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="166" palette="15" id="38" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="107" palette="19" id="39" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="162" palette="16" id="40" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="109" palette="20" id="41" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="161" palette="17" id="42" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="137" palette="21" id="43" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="47" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="45" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="47" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="126" palette="10111" id="6" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Bottom-2">
       <EffectLayer>
         <Effect name="Ripple" startTime="6030" endTime="8410" ref="66" palette="1" />
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" id="1" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="2" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="3" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="4" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="5" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="6" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="7" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="8" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="9" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="10" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="11" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="12" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="13" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="14" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="15" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="16" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="17" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="18" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="19" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="20" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="21" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="22" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="23" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="24" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="25" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="26" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="27" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="28" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="29" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="30" />
-        <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="32" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="33" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="34" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="35" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="36" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="37" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="38" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="39" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="40" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="41" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="42" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="43" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="104" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="105" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="106" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="105" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="107" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="108" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="109" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="110" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="109" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="111" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="112" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="113" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="107" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="105" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="114" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="113" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="115" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="116" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="109" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="117" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="109" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="108" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="118" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="119" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="120" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="121" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="112" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="110" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="122" palette="1" id="29" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="113" palette="1" id="30" />
+        <Effect name="On" startTime="96140" endTime="96640" ref="168" palette="23" /><Effect name="On" startTime="99490" endTime="99940" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="103640" ref="169" palette="23" /><Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="107" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="108" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="109" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="123" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="112" palette="1" id="36" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="117" palette="18" id="37" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="120" palette="15" id="38" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="108" palette="19" id="39" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="112" palette="16" id="40" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="123" palette="20" id="41" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="109" palette="17" id="42" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="124" palette="21" id="43" />
       </EffectLayer>
       <EffectLayer>
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="47" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="45" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="47" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="126" palette="10111" id="6" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Bottom-3">
       <EffectLayer>
         <Effect name="Ripple" startTime="6030" endTime="8410" ref="66" palette="1" />
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" id="1" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="2" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="3" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="4" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="5" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="6" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="7" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="8" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="9" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="10" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="11" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="12" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="13" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="14" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="15" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="16" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="17" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="18" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="19" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="20" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="21" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="22" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="23" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="24" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="25" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="26" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="27" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="28" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="29" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="30" />
-        <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="32" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="33" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="34" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="35" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="36" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="37" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="38" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="39" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="40" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="41" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="42" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="43" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="127" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="106" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="159" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="106" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="160" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="107" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="161" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="128" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="161" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="122" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="162" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="129" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="160" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="106" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="163" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="129" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="164" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="132" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="161" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="112" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="161" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="107" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="165" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="134" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="166" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="136" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="162" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="128" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="167" palette="1" id="29" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="129" palette="1" id="30" />
+        <Effect name="On" startTime="96640" endTime="97140" ref="168" palette="0" /><Effect name="On" startTime="97140" endTime="97590" ref="168" palette="0" /><Effect name="On" startTime="99940" endTime="100440" ref="168" palette="0" /><Effect name="On" startTime="100440" endTime="100890" ref="168" palette="0" /><Effect name="On" startTime="102840" endTime="103640" ref="169" palette="0" /><Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="160" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="107" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="161" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="109" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="162" palette="1" id="36" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="112" palette="18" id="37" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="166" palette="15" id="38" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="107" palette="19" id="39" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="162" palette="16" id="40" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="109" palette="20" id="41" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="161" palette="17" id="42" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="137" palette="21" id="43" />
       </EffectLayer>
       <EffectLayer>
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="47" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="45" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="47" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="126" palette="10111" id="6" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Bottom-4">
       <EffectLayer>
         <Effect name="Ripple" startTime="6030" endTime="8410" ref="66" palette="1" />
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" id="1" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="2" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="3" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="4" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="5" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="6" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="7" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="8" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="9" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="10" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="11" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="12" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="13" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="14" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="15" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="16" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="17" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="18" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="19" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="20" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="21" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="22" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="23" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="24" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="25" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="26" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="27" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="28" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="29" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="30" />
-        <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="32" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="33" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="34" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="35" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="36" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="37" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="38" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="39" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="40" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="41" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="42" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="43" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="138" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="139" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="140" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="139" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="141" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="142" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="143" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="144" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="143" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="145" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="146" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="147" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="141" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="139" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="148" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="147" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="149" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="150" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="143" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="151" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="143" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="142" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="152" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="153" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="154" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="155" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="146" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="144" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="156" palette="1" id="29" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="147" palette="1" id="30" />
+        <Effect name="On" startTime="97590" endTime="98540" ref="168" palette="23" /><Effect name="On" startTime="98540" endTime="98990" ref="168" palette="23" /><Effect name="On" startTime="100890" endTime="101440" ref="168" palette="23" /><Effect name="On" startTime="101440" endTime="102340" ref="168" palette="23" /><Effect name="On" startTime="102340" endTime="102840" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="103640" ref="169" palette="23" /><Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="141" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="142" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="143" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="157" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="146" palette="1" id="36" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="151" palette="18" id="37" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="154" palette="15" id="38" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="142" palette="19" id="39" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="146" palette="16" id="40" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="157" palette="20" id="41" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="143" palette="17" id="42" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="158" palette="21" id="43" />
       </EffectLayer>
       <EffectLayer>
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="47" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="45" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="47" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="126" palette="10111" id="6" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-1">
       <EffectLayer>
         <Effect name="Ripple" startTime="6030" endTime="8410" ref="66" palette="1" />
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" id="1" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="2" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="3" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="4" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="5" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="6" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="7" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="8" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="9" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="10" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="11" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="12" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="13" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="14" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="15" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="16" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="17" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="18" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="19" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="20" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="21" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="22" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="23" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="24" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="25" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="26" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="27" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="28" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="29" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="30" />
-        <Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="32" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="33" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="34" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="35" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="36" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="37" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="38" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="39" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="40" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="41" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="42" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="43" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="104" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="105" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="106" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="105" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="107" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="108" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="109" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="110" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="109" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="111" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="112" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="113" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="107" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="105" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="114" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="113" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="115" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="116" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="109" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="117" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="109" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="108" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="118" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="119" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="120" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="121" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="112" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="110" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="122" palette="1" id="29" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="113" palette="1" id="30" />
+        <Effect name="On" startTime="95640" endTime="96140" ref="168" palette="0" /><Effect name="On" startTime="98990" endTime="99490" ref="168" palette="0" /><Effect name="On" startTime="102840" endTime="103640" ref="169" palette="0" /><Effect name="Bars" startTime="103640" endTime="104440" ref="42" palette="2" id="31" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="107" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="108" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="109" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="123" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="112" palette="1" id="36" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="117" palette="18" id="37" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="120" palette="15" id="38" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="108" palette="19" id="39" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="112" palette="16" id="40" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="123" palette="20" id="41" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="109" palette="17" id="42" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="124" palette="21" id="43" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="98" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="100" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="98" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="125" palette="10111" id="6" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="101" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="100" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="102" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="95" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="98" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="98" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="125" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="125" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="125" palette="10111" id="8" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="95" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="102" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="103" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="125" palette="10111" id="2" />
         <Effect name="Bars" startTime="103640" endTime="104440" ref="99" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-2">
       <EffectLayer>
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="1" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="2" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="3" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="4" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="5" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="6" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="7" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="8" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="9" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="10" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="11" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="12" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="13" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="14" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="15" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="16" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="17" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="18" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="19" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="20" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="21" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="22" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="23" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="24" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="25" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="26" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="27" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="28" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="29" />
-        <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="30" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="31" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="32" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="33" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="34" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="35" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="36" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="37" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="38" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="39" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="40" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="41" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="42" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="104" palette="10111" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="105" palette="1" id="1" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="106" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="105" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="107" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="108" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="109" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="110" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="109" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="111" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="112" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="113" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="107" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="105" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="114" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="113" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="115" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="116" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="109" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="117" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="109" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="108" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="118" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="119" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="120" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="121" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="112" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="110" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="122" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="113" palette="1" id="29" />
+        <Effect name="On" startTime="96140" endTime="96640" ref="168" palette="23" /><Effect name="On" startTime="99490" endTime="99940" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="104040" ref="169" palette="23" /><Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="30" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="107" palette="1" id="31" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="108" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="109" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="123" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="112" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="117" palette="18" id="36" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="120" palette="15" id="37" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="108" palette="19" id="38" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="112" palette="16" id="39" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="123" palette="20" id="40" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="109" palette="17" id="41" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="124" palette="21" id="42" />
       </EffectLayer>
       <EffectLayer>
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="98" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="100" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="98" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="125" palette="10111" id="6" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="99" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Frame-Window-Top-3">
       <EffectLayer>
-        <Effect name="Bars" startTime="71950" endTime="72410" ref="28" palette="22" />
-        <Effect name="Bars" startTime="72700" endTime="74130" ref="29" palette="6" id="1" />
-        <Effect name="Bars" startTime="74130" endTime="75560" ref="30" palette="6" id="2" />
-        <Effect name="Bars" startTime="75560" endTime="76990" ref="29" palette="6" id="3" />
-        <Effect name="Bars" startTime="76990" endTime="77940" ref="31" palette="6" id="4" />
-        <Effect name="Bars" startTime="77940" endTime="78890" ref="19" palette="6" id="5" />
-        <Effect name="Bars" startTime="78890" endTime="79370" ref="20" palette="6" id="6" />
-        <Effect name="Bars" startTime="79370" endTime="79870" ref="32" palette="6" id="7" />
-        <Effect name="Bars" startTime="79870" endTime="80350" ref="20" palette="6" id="8" />
-        <Effect name="Bars" startTime="80350" endTime="80800" ref="33" palette="6" id="9" />
-        <Effect name="Bars" startTime="80800" endTime="81270" ref="22" palette="6" id="10" />
-        <Effect name="Bars" startTime="81270" endTime="82230" ref="34" palette="6" id="11" />
-        <Effect name="Bars" startTime="82230" endTime="83180" ref="31" palette="6" id="12" />
-        <Effect name="Bars" startTime="83180" endTime="84610" ref="29" palette="6" id="13" />
-        <Effect name="Bars" startTime="84610" endTime="86030" ref="35" palette="6" id="14" />
-        <Effect name="Bars" startTime="86030" endTime="86990" ref="34" palette="6" id="15" />
-        <Effect name="Bars" startTime="86990" endTime="87500" ref="36" palette="6" id="16" />
-        <Effect name="Bars" startTime="87500" endTime="87940" ref="37" palette="6" id="17" />
-        <Effect name="Bars" startTime="87940" endTime="88420" ref="20" palette="6" id="18" />
-        <Effect name="Bars" startTime="88420" endTime="88890" ref="23" palette="6" id="19" />
-        <Effect name="Bars" startTime="88890" endTime="89370" ref="20" palette="6" id="20" />
-        <Effect name="Bars" startTime="89370" endTime="90320" ref="19" palette="6" id="21" />
-        <Effect name="Bars" startTime="90320" endTime="91290" ref="38" palette="6" id="22" />
-        <Effect name="Bars" startTime="91290" endTime="92230" ref="39" palette="6" id="23" />
-        <Effect name="Bars" startTime="92230" endTime="92720" ref="24" palette="6" id="24" />
-        <Effect name="Bars" startTime="92720" endTime="93180" ref="40" palette="6" id="25" />
-        <Effect name="Bars" startTime="93180" endTime="93650" ref="22" palette="6" id="26" />
-        <Effect name="Bars" startTime="93650" endTime="94150" ref="32" palette="6" id="27" />
-        <Effect name="Bars" startTime="94150" endTime="94600" ref="41" palette="6" id="28" />
-        <Effect name="Bars" startTime="94600" endTime="95560" ref="34" palette="6" id="29" />
-        <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="30" />
-        <Effect name="Bars" startTime="108890" endTime="109840" ref="31" palette="6" id="31" />
-        <Effect name="Bars" startTime="109840" endTime="110790" ref="19" palette="6" id="32" />
-        <Effect name="Bars" startTime="110790" endTime="111270" ref="20" palette="6" id="33" />
-        <Effect name="Bars" startTime="111270" endTime="111750" ref="21" palette="6" id="34" />
-        <Effect name="Bars" startTime="111750" endTime="112220" ref="22" palette="6" id="35" />
-        <Effect name="Bars" startTime="112220" endTime="112690" ref="23" palette="8" id="36" />
-        <Effect name="Bars" startTime="112690" endTime="113180" ref="24" palette="9" id="37" />
-        <Effect name="Bars" startTime="113180" endTime="114130" ref="19" palette="10" id="38" />
-        <Effect name="Bars" startTime="114130" endTime="114600" ref="22" palette="11" id="39" />
-        <Effect name="Bars" startTime="114600" endTime="115080" ref="21" palette="12" id="40" />
-        <Effect name="Bars" startTime="115080" endTime="115560" ref="20" palette="13" id="41" />
-        <Effect name="Bars" startTime="115560" endTime="116660" ref="43" palette="14" id="42" />
+        <Effect name="SingleStrand" startTime="71950" endTime="72410" ref="127" palette="10111" />
+        <Effect name="SingleStrand" startTime="72700" endTime="74130" ref="106" palette="1" id="1" />
+        <Effect name="SingleStrand" startTime="74130" endTime="75560" ref="105" palette="1" id="2" />
+        <Effect name="SingleStrand" startTime="75560" endTime="76990" ref="106" palette="1" id="3" />
+        <Effect name="SingleStrand" startTime="76990" endTime="77940" ref="108" palette="1" id="4" />
+        <Effect name="SingleStrand" startTime="77940" endTime="78890" ref="107" palette="1" id="5" />
+        <Effect name="SingleStrand" startTime="78890" endTime="79370" ref="123" palette="1" id="6" />
+        <Effect name="SingleStrand" startTime="79370" endTime="79870" ref="128" palette="1" id="7" />
+        <Effect name="SingleStrand" startTime="79870" endTime="80350" ref="123" palette="1" id="8" />
+        <Effect name="SingleStrand" startTime="80350" endTime="80800" ref="122" palette="1" id="9" />
+        <Effect name="SingleStrand" startTime="80800" endTime="81270" ref="117" palette="1" id="10" />
+        <Effect name="SingleStrand" startTime="81270" endTime="82230" ref="129" palette="1" id="11" />
+        <Effect name="SingleStrand" startTime="82230" endTime="83180" ref="108" palette="1" id="12" />
+        <Effect name="SingleStrand" startTime="83180" endTime="84610" ref="106" palette="1" id="13" />
+        <Effect name="SingleStrand" startTime="84610" endTime="86030" ref="130" palette="1" id="14" />
+        <Effect name="SingleStrand" startTime="86030" endTime="86990" ref="129" palette="1" id="15" />
+        <Effect name="SingleStrand" startTime="86990" endTime="87500" ref="131" palette="1" id="16" />
+        <Effect name="SingleStrand" startTime="87500" endTime="87940" ref="132" palette="1" id="17" />
+        <Effect name="SingleStrand" startTime="87940" endTime="88420" ref="123" palette="1" id="18" />
+        <Effect name="SingleStrand" startTime="88420" endTime="88890" ref="112" palette="1" id="19" />
+        <Effect name="SingleStrand" startTime="88890" endTime="89370" ref="123" palette="1" id="20" />
+        <Effect name="SingleStrand" startTime="89370" endTime="90320" ref="107" palette="1" id="21" />
+        <Effect name="SingleStrand" startTime="90320" endTime="91290" ref="133" palette="1" id="22" />
+        <Effect name="SingleStrand" startTime="91290" endTime="92230" ref="134" palette="1" id="23" />
+        <Effect name="SingleStrand" startTime="92230" endTime="92720" ref="135" palette="1" id="24" />
+        <Effect name="SingleStrand" startTime="92720" endTime="93180" ref="136" palette="1" id="25" />
+        <Effect name="SingleStrand" startTime="93180" endTime="93650" ref="117" palette="1" id="26" />
+        <Effect name="SingleStrand" startTime="93650" endTime="94150" ref="128" palette="1" id="27" />
+        <Effect name="SingleStrand" startTime="94150" endTime="94600" ref="111" palette="1" id="28" />
+        <Effect name="SingleStrand" startTime="94600" endTime="95560" ref="129" palette="1" id="29" />
+        <Effect name="On" startTime="97590" endTime="98540" ref="168" palette="23" /><Effect name="On" startTime="98540" endTime="98990" ref="168" palette="23" /><Effect name="On" startTime="100890" endTime="101440" ref="168" palette="23" /><Effect name="On" startTime="101440" endTime="102340" ref="168" palette="23" /><Effect name="On" startTime="102340" endTime="102840" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="104040" ref="169" palette="23" /><Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="30" />
+        <Effect name="SingleStrand" startTime="108890" endTime="109840" ref="108" palette="1" id="31" />
+        <Effect name="SingleStrand" startTime="109840" endTime="110790" ref="107" palette="1" id="32" />
+        <Effect name="SingleStrand" startTime="110790" endTime="111270" ref="123" palette="1" id="33" />
+        <Effect name="SingleStrand" startTime="111270" endTime="111750" ref="109" palette="1" id="34" />
+        <Effect name="SingleStrand" startTime="111750" endTime="112220" ref="117" palette="1" id="35" />
+        <Effect name="SingleStrand" startTime="112220" endTime="112690" ref="112" palette="18" id="36" />
+        <Effect name="SingleStrand" startTime="112690" endTime="113180" ref="135" palette="15" id="37" />
+        <Effect name="SingleStrand" startTime="113180" endTime="114130" ref="107" palette="19" id="38" />
+        <Effect name="SingleStrand" startTime="114130" endTime="114600" ref="117" palette="16" id="39" />
+        <Effect name="SingleStrand" startTime="114600" endTime="115080" ref="109" palette="20" id="40" />
+        <Effect name="SingleStrand" startTime="115080" endTime="115560" ref="123" palette="17" id="41" />
+        <Effect name="SingleStrand" startTime="115560" endTime="116660" ref="137" palette="21" id="42" />
       </EffectLayer>
       <EffectLayer>
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" />
       </EffectLayer>
       <SubModelEffectLayer name="RightSide">
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="1" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="3" />
-        <Effect name="Bars" startTime="71600" endTime="71950" ref="98" palette="22" id="4" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="71600" endTime="71950" ref="125" palette="10111" id="4" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="99" palette="2" id="5" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LeftSide">
-        <Effect name="Bars" startTime="65200" endTime="65550" ref="98" palette="22" />
-        <Effect name="Bars" startTime="65550" endTime="65850" ref="100" palette="22" id="1" />
-        <Effect name="Bars" startTime="65850" endTime="66250" ref="95" palette="22" id="2" />
-        <Effect name="Bars" startTime="66250" endTime="66950" ref="96" palette="22" id="3" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="95" palette="22" id="4" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="97" palette="22" id="5" />
-        <Effect name="Bars" startTime="70900" endTime="71250" ref="98" palette="22" id="6" />
+        <Effect name="SingleStrand" startTime="65200" endTime="65550" ref="125" palette="10111" />
+        <Effect name="SingleStrand" startTime="65550" endTime="65850" ref="125" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="65850" endTime="66250" ref="125" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="66250" endTime="66950" ref="125" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="125" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="125" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="70900" endTime="71250" ref="125" palette="10111" id="6" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="99" palette="2" id="7" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Top">
-        <Effect name="Bars" startTime="66950" endTime="67400" ref="49" palette="22" />
-        <Effect name="Bars" startTime="67400" endTime="67700" ref="48" palette="22" id="1" />
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" id="2" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="3" />
-        <Effect name="Bars" startTime="68900" endTime="69300" ref="44" palette="22" id="4" />
-        <Effect name="Bars" startTime="69300" endTime="69650" ref="47" palette="22" id="5" />
-        <Effect name="Bars" startTime="69650" endTime="70050" ref="44" palette="22" id="6" />
-        <Effect name="Bars" startTime="70050" endTime="70650" ref="46" palette="22" id="7" />
-        <Effect name="Bars" startTime="71250" endTime="71600" ref="47" palette="22" id="8" />
+        <Effect name="SingleStrand" startTime="66950" endTime="67400" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="67400" endTime="67700" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" id="2" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="3" />
+        <Effect name="SingleStrand" startTime="68900" endTime="69300" ref="126" palette="10111" id="4" />
+        <Effect name="SingleStrand" startTime="69300" endTime="69650" ref="126" palette="10111" id="5" />
+        <Effect name="SingleStrand" startTime="69650" endTime="70050" ref="126" palette="10111" id="6" />
+        <Effect name="SingleStrand" startTime="70050" endTime="70650" ref="126" palette="10111" id="7" />
+        <Effect name="SingleStrand" startTime="71250" endTime="71600" ref="126" palette="10111" id="8" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="9" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Bottom">
-        <Effect name="Bars" startTime="67700" endTime="68100" ref="44" palette="22" />
-        <Effect name="Bars" startTime="68100" endTime="68900" ref="50" palette="22" id="1" />
-        <Effect name="Bars" startTime="70650" endTime="70900" ref="51" palette="22" id="2" />
+        <Effect name="SingleStrand" startTime="67700" endTime="68100" ref="126" palette="10111" />
+        <Effect name="SingleStrand" startTime="68100" endTime="68900" ref="126" palette="10111" id="1" />
+        <Effect name="SingleStrand" startTime="70650" endTime="70900" ref="126" palette="10111" id="2" />
         <Effect name="Bars" startTime="104040" endTime="104440" ref="42" palette="2" id="3" />
       </SubModelEffectLayer>
     </Element>
@@ -11951,7 +11951,8 @@
       <SubModelEffectLayer name="LOR-SpiralsCW All" layer="0"><Effect name="Pinwheel" startTime="72700" endTime="74130" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="74130" endTime="75560" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="75560" endTime="76990" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="76990" endTime="77940" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="77940" endTime="78890" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="78890" endTime="79370" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="79370" endTime="79870" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="79870" endTime="80350" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="80350" endTime="80800" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="80800" endTime="81270" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="81270" endTime="82230" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="82230" endTime="83180" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="83180" endTime="84610" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="84610" endTime="86030" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="86030" endTime="86990" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="86990" endTime="87500" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="87500" endTime="87940" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="87940" endTime="88420" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="88420" endTime="88890" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="88890" endTime="89370" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="89370" endTime="90320" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="90320" endTime="91290" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="91290" endTime="92230" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="92230" endTime="92720" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="92720" endTime="93180" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="93180" endTime="93650" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="93650" endTime="94150" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="94150" endTime="94600" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="94600" endTime="95560" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="108890" endTime="109840" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="109840" endTime="110790" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="110790" endTime="111270" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="111270" endTime="111750" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="111750" endTime="112220" ref="69" palette="10094" /><Effect name="Pinwheel" startTime="112220" endTime="112690" ref="69" palette="10095" /><Effect name="Pinwheel" startTime="112690" endTime="113180" ref="69" palette="10096" /><Effect name="Pinwheel" startTime="113180" endTime="114130" ref="69" palette="10097" /><Effect name="Pinwheel" startTime="114130" endTime="114600" ref="69" palette="10098" /><Effect name="Pinwheel" startTime="114600" endTime="115080" ref="69" palette="10099" /><Effect name="Pinwheel" startTime="115080" endTime="115560" ref="69" palette="10100" /><Effect name="Pinwheel" startTime="115560" endTime="116660" ref="69" palette="10101" /></SubModelEffectLayer><SubModelEffectLayer name="Star4" layer="0"><Effect name="Ripple" startTime="6030" endTime="26980" ref="90" palette="10102" /><Effect name="On" startTime="26980" endTime="42220" ref="91" palette="1" /><Effect name="On" startTime="42220" endTime="45080" ref="92" palette="1" /></SubModelEffectLayer><SubModelEffectLayer name="Star4" layer="1"><Effect name="Bars" startTime="26980" endTime="42220" ref="93" palette="10103" /><Effect name="Bars" startTime="42220" endTime="45080" ref="94" palette="10104" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Star Offset Group" layer="0"><Effect name="On" startTime="6150" endTime="6500" ref="75" palette="23" /><Effect name="On" startTime="6500" endTime="6850" ref="75" palette="23" /><Effect name="On" startTime="8050" endTime="8400" ref="75" palette="23" /><Effect name="On" startTime="8400" endTime="8750" ref="75" palette="23" /><Effect name="On" startTime="9750" endTime="10000" ref="75" palette="23" /><Effect name="On" startTime="10700" endTime="11050" ref="75" palette="23" /><Effect name="On" startTime="11050" endTime="11850" ref="75" palette="23" /><Effect name="On" startTime="13650" endTime="14100" ref="75" palette="23" /><Effect name="On" startTime="14100" endTime="14450" ref="75" palette="23" /><Effect name="On" startTime="15700" endTime="16050" ref="75" palette="23" /><Effect name="On" startTime="16050" endTime="16400" ref="75" palette="23" /><Effect name="On" startTime="17400" endTime="17600" ref="75" palette="23" /><Effect name="On" startTime="18300" endTime="18650" ref="75" palette="23" /><Effect name="On" startTime="18650" endTime="19450" ref="75" palette="23" /><Effect name="On" startTime="19450" endTime="23200" ref="76" palette="0" /><Effect name="On" startTime="23200" endTime="23550" ref="75" palette="23" /><Effect name="On" startTime="23550" endTime="23950" ref="75" palette="23" /><Effect name="On" startTime="23950" endTime="24300" ref="75" palette="23" /><Effect name="On" startTime="24300" endTime="24900" ref="75" palette="23" /><Effect name="On" startTime="27100" endTime="30900" ref="76" palette="0" /><Effect name="On" startTime="30900" endTime="31250" ref="75" palette="23" /><Effect name="On" startTime="31250" endTime="31600" ref="75" palette="23" /><Effect name="On" startTime="31600" endTime="31960" ref="75" palette="23" /><Effect name="On" startTime="31960" endTime="32700" ref="75" palette="23" /><Effect name="Garlands" startTime="34700" endTime="42300" ref="77" palette="10105" /><Effect name="On" startTime="42300" endTime="45560" ref="78" palette="23" /><Effect name="On" startTime="55560" endTime="60600" ref="76" palette="23" /><Effect name="On" startTime="60600" endTime="61280" ref="79" palette="23" /><Effect name="Twinkle" startTime="61280" endTime="61350" ref="80" palette="10106" /><Effect name="Bars" startTime="61350" endTime="61750" ref="81" palette="3" /><Effect name="Bars" startTime="61750" endTime="62150" ref="81" palette="3" /><Effect name="Bars" startTime="63300" endTime="63650" ref="81" palette="3" /><Effect name="Bars" startTime="63650" endTime="64000" ref="81" palette="3" /><Effect name="On" startTime="65200" endTime="65550" ref="75" palette="0" /><Effect name="On" startTime="65550" endTime="65850" ref="75" palette="0" /><Effect name="On" startTime="66950" endTime="67400" ref="75" palette="0" /><Effect name="On" startTime="67400" endTime="67700" ref="75" palette="0" /><Effect name="On" startTime="68900" endTime="69300" ref="75" palette="0" /><Effect name="On" startTime="69300" endTime="69650" ref="75" palette="0" /><Effect name="On" startTime="70900" endTime="71250" ref="75" palette="0" /><Effect name="On" startTime="71250" endTime="71600" ref="75" palette="0" /><Effect name="On" startTime="71950" endTime="72410" ref="75" palette="23" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 1" layer="0"><Effect name="On" startTime="4950" endTime="5300" ref="75" palette="23" /><Effect name="On" startTime="5300" endTime="6150" ref="75" palette="23" /><Effect name="On" startTime="12500" endTime="12900" ref="75" palette="23" /><Effect name="On" startTime="12900" endTime="13650" ref="75" palette="23" /><Effect name="On" startTime="21300" endTime="21650" ref="75" palette="23" /><Effect name="On" startTime="21650" endTime="22050" ref="75" palette="23" /><Effect name="On" startTime="22050" endTime="22350" ref="75" palette="23" /><Effect name="On" startTime="22350" endTime="23200" ref="75" palette="23" /><Effect name="On" startTime="23200" endTime="27100" ref="76" palette="0" /><Effect name="On" startTime="29000" endTime="29300" ref="75" palette="23" /><Effect name="On" startTime="29300" endTime="29700" ref="75" palette="23" /><Effect name="On" startTime="29700" endTime="30050" ref="75" palette="23" /><Effect name="On" startTime="30050" endTime="30900" ref="75" palette="23" /><Effect name="On" startTime="30900" endTime="34700" ref="76" palette="0" /><Effect name="Garlands" startTime="34700" endTime="42300" ref="77" palette="10105" /><Effect name="On" startTime="42300" endTime="45560" ref="78" palette="23" /><Effect name="Twinkle" startTime="61280" endTime="61350" ref="80" palette="10106" /><Effect name="Bars" startTime="61350" endTime="61750" ref="81" palette="3" /><Effect name="Bars" startTime="61750" endTime="62150" ref="81" palette="3" /><Effect name="Bars" startTime="63300" endTime="63650" ref="81" palette="3" /><Effect name="Bars" startTime="63650" endTime="64000" ref="81" palette="3" /><Effect name="On" startTime="65850" endTime="66250" ref="75" palette="0" /><Effect name="On" startTime="66250" endTime="66950" ref="75" palette="0" /><Effect name="On" startTime="71950" endTime="72410" ref="75" palette="23" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 2" layer="0"><Effect name="On" startTime="4200" endTime="4600" ref="75" palette="23" /><Effect name="On" startTime="4600" endTime="4950" ref="75" palette="23" /><Effect name="On" startTime="11850" endTime="12200" ref="75" palette="23" /><Effect name="On" startTime="12200" endTime="12500" ref="75" palette="23" /><Effect name="On" startTime="19450" endTime="23200" ref="76" palette="0" /><Effect name="On" startTime="24900" endTime="25200" ref="75" palette="23" /><Effect name="On" startTime="25200" endTime="25500" ref="75" palette="23" /><Effect name="On" startTime="25500" endTime="25900" ref="75" palette="23" /><Effect name="On" startTime="25900" endTime="26250" ref="75" palette="23" /><Effect name="On" startTime="26250" endTime="27100" ref="75" palette="23" /><Effect name="On" startTime="27100" endTime="30900" ref="76" palette="0" /><Effect name="On" startTime="32700" endTime="32900" ref="75" palette="23" /><Effect name="On" startTime="32900" endTime="33450" ref="75" palette="23" /><Effect name="On" startTime="33450" endTime="33800" ref="75" palette="23" /><Effect name="On" startTime="33800" endTime="34700" ref="75" palette="23" /><Effect name="Garlands" startTime="34700" endTime="42300" ref="77" palette="10105" /><Effect name="On" startTime="42300" endTime="45560" ref="78" palette="23" /><Effect name="Bars" startTime="62150" endTime="62500" ref="81" palette="3" /><Effect name="Bars" startTime="62500" endTime="63100" ref="81" palette="3" /><Effect name="Bars" startTime="63100" endTime="63300" ref="81" palette="3" /><Effect name="Bars" startTime="64000" endTime="64350" ref="81" palette="3" /><Effect name="Bars" startTime="64350" endTime="65200" ref="81" palette="3" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Diamond Outer" layer="0"><Effect name="On" startTime="45080" endTime="45560" ref="83" palette="1" /><Effect name="Snowflakes" startTime="57470" endTime="57940" ref="84" palette="10108" /><Effect name="Snowflakes" startTime="57940" endTime="60330" ref="84" palette="10109" /><Effect name="Snowflakes" startTime="60330" endTime="61280" ref="84" palette="10110" /><Effect name="Curtain" startTime="106990" endTime="107060" ref="85" palette="10102" /><Effect name="Bars" startTime="107060" endTime="107940" ref="81" palette="10106" /><Effect name="Bars" startTime="107940" endTime="108890" ref="81" palette="3" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Diamond Outer" layer="1"><Effect name="Bars" startTime="45080" endTime="45560" ref="82" palette="10107" /></SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomLeft">
       <EffectLayer>
-        <Effect name="On" startTime="0" endTime="116660" ref="9" palette="10092" />
+        <Effect name="On" startTime="0" endTime="95560" ref="9" palette="10092" />
+      <Effect name="On" startTime="95640" endTime="96140" ref="168" palette="0" /><Effect name="On" startTime="98990" endTime="99490" ref="168" palette="0" /><Effect name="On" startTime="102840" endTime="103290" ref="169" palette="0" /><Effect name="On" startTime="103290" endTime="116660" ref="9" palette="10092" />
       </EffectLayer>
       <SubModelEffectLayer name="Odd"><Effect name="On" startTime="4130" endTime="4600" ref="52" palette="10093" />
           <Effect name="On" startTime="5080" endTime="5550" ref="52" palette="10093" id="1" />
@@ -12114,7 +12115,8 @@
         </SubModelEffectLayer></Element>
     <Element type="model" name="Roof-BottomRight">
       <EffectLayer>
-        <Effect name="On" startTime="0" endTime="116660" ref="9" palette="10092" />
+        <Effect name="On" startTime="0" endTime="95560" ref="9" palette="10092" />
+      <Effect name="On" startTime="97590" endTime="98540" ref="168" palette="23" /><Effect name="On" startTime="98540" endTime="98990" ref="168" palette="23" /><Effect name="On" startTime="100890" endTime="101440" ref="168" palette="23" /><Effect name="On" startTime="101440" endTime="102340" ref="168" palette="23" /><Effect name="On" startTime="102340" endTime="102840" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="103290" ref="169" palette="23" /><Effect name="On" startTime="103290" endTime="116660" ref="9" palette="10092" />
       </EffectLayer>
       <SubModelEffectLayer name="Odd"><Effect name="On" startTime="4130" endTime="4600" ref="52" palette="10093" />
           <Effect name="On" startTime="5080" endTime="5550" ref="52" palette="10093" id="1" />
@@ -12277,7 +12279,8 @@
         </SubModelEffectLayer></Element>
     <Element type="model" name="Roof-TopLeft">
       <EffectLayer>
-        <Effect name="On" startTime="0" endTime="116660" ref="9" palette="10092" />
+        <Effect name="On" startTime="0" endTime="95560" ref="9" palette="10092" />
+      <Effect name="On" startTime="96140" endTime="96640" ref="168" palette="23" /><Effect name="On" startTime="99490" endTime="99940" ref="168" palette="23" /><Effect name="On" startTime="102840" endTime="103290" ref="169" palette="23" /><Effect name="On" startTime="103290" endTime="116660" ref="9" palette="10092" />
       </EffectLayer>
       <SubModelEffectLayer name="Odd"><Effect name="On" startTime="4130" endTime="4600" ref="52" palette="10093" />
           <Effect name="On" startTime="5080" endTime="5550" ref="52" palette="10093" id="1" />
@@ -12440,7 +12443,8 @@
         </SubModelEffectLayer></Element>
     <Element type="model" name="Roof-TopRight">
       <EffectLayer>
-        <Effect name="On" startTime="0" endTime="116660" ref="9" palette="10092" />
+        <Effect name="On" startTime="0" endTime="95560" ref="9" palette="10092" />
+      <Effect name="On" startTime="96640" endTime="97140" ref="168" palette="0" /><Effect name="On" startTime="97140" endTime="97590" ref="168" palette="0" /><Effect name="On" startTime="99940" endTime="100440" ref="168" palette="0" /><Effect name="On" startTime="100440" endTime="100890" ref="168" palette="0" /><Effect name="On" startTime="102840" endTime="103290" ref="169" palette="0" /><Effect name="On" startTime="103290" endTime="116660" ref="9" palette="10092" />
       </EffectLayer>
       <SubModelEffectLayer name="Odd"><Effect name="On" startTime="4130" endTime="4600" ref="52" palette="10093" />
           <Effect name="On" startTime="5080" endTime="5550" ref="52" palette="10093" id="1" />
