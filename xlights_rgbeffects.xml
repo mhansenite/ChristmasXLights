@@ -358,6 +358,20 @@
         <alias name="oldname:snowflakes"/>
       </Aliases>
     </modelGroup>
+  <modelGroup selected="0" name="Arch-1" LayoutGroup="Default" models="Arch-1-1-large,Arch-1-2-medium,Arch-1-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="1735.913574" centrey="224.365753" centreDefined="0" centreMinx="1629" centreMiny="165" centreMaxx="1842" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Arch-2" LayoutGroup="Default" models="Arch-2-1-large,Arch-2-2-medium,Arch-2-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="1967.638428" centrey="224.375717" centreDefined="0" centreMinx="1860" centreMiny="165" centreMaxx="2074" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Arch-3" LayoutGroup="Default" models="Arch-3-1-large,Arch-3-2-medium,Arch-3-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="2199.363525" centrey="225.478149" centreDefined="0" centreMinx="2092" centreMiny="167" centreMaxx="2306" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Arch-4" LayoutGroup="Default" models="Arch-4-1-large,Arch-4-2-medium,Arch-4-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="2431.088379" centrey="224.942230" centreDefined="0" centreMinx="2324" centreMiny="166" centreMaxx="2537" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Arch-5" LayoutGroup="Default" models="Arch-5-1-large,Arch-5-2-medium,Arch-5-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="2662.813232" centrey="224.375717" centreDefined="0" centreMinx="2555" centreMiny="165" centreMaxx="2769" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Arch-6" LayoutGroup="Default" models="Arch-6-1-large,Arch-6-2-medium,Arch-6-3-small" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" centrex="2894.538330" centrey="224.540497" centreDefined="0" centreMinx="2787" centreMiny="165" centreMaxx="3001" centreMaxy="283" />
+    
+<modelGroup selected="0" name="Frames-Windows" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="Frame-Window-Bottom-1,Frame-Window-Bottom-2,Frame-Window-Bottom-3,Frame-Window-Bottom-4,Frame-Window-Top-1,Frame-Window-Top-2,Frame-Window-Top-3" centrex="1241.000122" centrey="586.292847" centreDefined="0" centreMinx="578" centreMiny="379" centreMaxx="1903" centreMaxy="793" />
+    
   </modelGroups>
   <view_objects>
     <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" Active="0" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" Locked="1" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="12" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
