@@ -1,0 +1,570 @@
+[
+  {
+    "file": "Sequences/Christmas/All I Want for Christmas (Mariah Carey).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 360,
+        "effects": 182645
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 12702
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 25520
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 18960
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 22880
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/All I Want For Christmas Is You.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Angels We Have Heard on High (One Voice Choir).xsq",
+    "comment": "",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 437,
+        "effects": 86007
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/OneVoice - Angels We Have Heard on High.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Bollywood Jingle Bells (VoicePlay).xsq",
+    "comment": "",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 288,
+        "effects": 54153
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Bollywood_Jingle_Bells.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Carol of the Bells (Mannheim Steamroller).xsq",
+    "comment": "Hansen Light-O-Rama conversion of Carol_of_the_bells_Manheim.loredit",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 416,
+        "effects": 190722
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 13137
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 24119
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 17928
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 21593
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Carol_of_the_bells_Manheim.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Christmas Rickroll - Custom Edit.xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 186,
+        "effects": 26996
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 5829
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 10687
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 7940
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 9581
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Rick-Roll.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Come All Ye Faithful (Eclipse 6).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 520,
+        "effects": 392531
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 13746
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 25203
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 18725
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 22594
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Come All Ye Faithfull- Eclipse.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/December (Earth Wind & Fire).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "Frame-Window-Bottom-1",
+        "nodes": 34,
+        "effects": 1122
+      },
+      {
+        "model": "Frame-Window-Bottom-2",
+        "nodes": 42,
+        "effects": 1386
+      },
+      {
+        "model": "Frame-Window-Bottom-3",
+        "nodes": 34,
+        "effects": 1122
+      },
+      {
+        "model": "Frame-Window-Bottom-4",
+        "nodes": 44,
+        "effects": 1452
+      },
+      {
+        "model": "Frame-Window-Top-1",
+        "nodes": 42,
+        "effects": 1386
+      },
+      {
+        "model": "Frame-Window-Top-2",
+        "nodes": 42,
+        "effects": 1386
+      },
+      {
+        "model": "Frame-Window-Top-3",
+        "nodes": 42,
+        "effects": 1386
+      },
+      {
+        "model": "PPD Wreath",
+        "nodes": 449,
+        "effects": 26726
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 4002
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 7346
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 5460
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 6578
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/December EWF 2021.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Full of Cheer (Home Free) - LOR.xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 392,
+        "effects": 6962
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 19923
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 36524
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 27964
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 33748
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/HomeFree_Full_of_Cheer.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Jingle Bells (Mickey and the Gang).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 281,
+        "effects": 84841
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 27231
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 49776
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 36984
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 44616
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Disney Jingle Bells 2021.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Light of Christmas (Owl City & TobyMac).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 560,
+        "effects": 72878
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 18009
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 33001
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 24277
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 29315
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Light of Christmas 2021.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Most Wonderful Time (Andy Williams).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 288,
+        "effects": 677052
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 18270
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 33495
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 24885
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 30030
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Its the Most Wonderful Time of the Year - Andy Williams 2021.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Pirates On Stranger Tides - End Credits (Hans Zimmer & Geoff Zanelli).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 599,
+        "effects": 574746
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 18966
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 34771
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 25833
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 31031
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Pirates stranger Tides 2021.loredit"
+  },
+  {
+    "file": "Sequences/Christmas/Run Run Rudolph (Kelly Clarkson).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 453,
+        "effects": 616455
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 30624
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 56283
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 40394
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 48763
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Run Run Rudolph - Kelly Clarkson 2021.loredit"
+  },
+  {
+    "file": "Sequences/Halloween/Golden (HUNTR-X) - Short.xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 177,
+        "effects": 7248
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 1044
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 1914
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 1422
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 1716
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Mike/Halloween/Kpop-Golden.loredit"
+  },
+  {
+    "file": "Sequences/Halloween/Halloween Hits Medley (Peter Hollens).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 440,
+        "effects": 25826
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 19749
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 35732
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 26546
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 32461
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Mike/Halloween/Halloween Hits Medley.loredit"
+  },
+  {
+    "file": "Sequences/Halloween/Heffalumps and Woozles (Disney Chorus) - AI.xsq",
+    "comment": "",
+    "models": [
+      {
+        "model": "Frame-Window-Bottom-1",
+        "nodes": 34,
+        "effects": 34
+      },
+      {
+        "model": "Frame-Window-Bottom-2",
+        "nodes": 42,
+        "effects": 42
+      },
+      {
+        "model": "PPD Wreath",
+        "nodes": 523,
+        "effects": 28975
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Mike/Halloween/Heffalumps and Woozles.loredit"
+  },
+  {
+    "file": "Sequences/Halloween/Slash Inferno (Teminite, Boom Kitty & Waterflame).xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 7047
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 11963
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 8888
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 10725
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Mike/Halloween/Slash_Inferno.loredit"
+  },
+  {
+    "file": "Sequences/Halloween/Spooky Scary Skeletons (Andrew Gold) - Undead Remix.xsq",
+    "comment": "Hansen Light-O-Rama conversion",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 349,
+        "effects": 3600
+      },
+      {
+        "model": "Roof-BottomLeft",
+        "nodes": 174,
+        "effects": 11136
+      },
+      {
+        "model": "Roof-BottomRight",
+        "nodes": 319,
+        "effects": 20416
+      },
+      {
+        "model": "Roof-TopLeft",
+        "nodes": 237,
+        "effects": 15168
+      },
+      {
+        "model": "Roof-TopRight",
+        "nodes": 286,
+        "effects": 18304
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Mike/Halloween/Spooky, Scary Skeletons.loredit"
+  },
+  {
+    "file": "Sequences/NotReady/Snowman Medley (InsideOut A Cappella).xsq",
+    "comment": "",
+    "models": [
+      {
+        "model": "PPD Wreath",
+        "nodes": 322,
+        "effects": 86416
+      }
+    ],
+    "source": "../ChristmasLights/Sequences/Snowman.loredit"
+  }
+]
