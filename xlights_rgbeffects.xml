@@ -102,14 +102,14 @@
       <subModel name="Top" bufferstyle="Default" layout="horizontal" line0="9-22" type="ranges"/>
       <subModel name="Bottom" bufferstyle="Default" layout="horizontal" line0="1,42-30" type="ranges"/>
     </model>
-    <model name="Frame-Window-Top-2" DisplayAs="Window Frame" Antialias="0" BottomNodes="12" Controller="Falcon_F16V5" Dir="R" LayoutGroup="Default" Locked="1" PixelSize="3" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" Rotation="Clockwise" ScaleX="5.329531" ScaleY="5.846437" ScaleZ="5.034096" SideNodes="9" SourceVersion="2026.20" StartChannel="!Falcon_F16V5:8350" StartSide="T" StringType="RGB Nodes" TopNodes="12" Transparency="0" versionNumber="8" WorldPosX="-269.575439" WorldPosY="196.700653" WorldPosZ="67.953522">
+    <model name="Frame-Window-Top-2" DisplayAs="Window Frame" Antialias="0" BottomNodes="12" Controller="Falcon_F16V5" Dir="L" LayoutGroup="Default" Locked="1" PixelSize="3" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" Rotation="Counter Clockwise" ScaleX="5.329531" ScaleY="5.846437" ScaleZ="5.034096" SideNodes="9" SourceVersion="2026.20" StartChannel="!Falcon_F16V5:8350" StartSide="T" StringType="RGB Nodes" TopNodes="12" Transparency="0" versionNumber="8" WorldPosX="-269.575439" WorldPosY="196.700653" WorldPosZ="67.953522">
       <ControllerConnection Port="22" Protocol="ws2811"/>
       <subModel name="RightSide" bufferstyle="Default" layout="horizontal" line0="1-9" type="ranges"/>
       <subModel name="LeftSide" bufferstyle="Default" layout="horizontal" line0="22-30" type="ranges"/>
       <subModel name="Top" bufferstyle="Default" layout="horizontal" line0="1,42-30" type="ranges"/>
       <subModel name="Bottom" bufferstyle="Default" layout="horizontal" line0="9-22" type="ranges"/>
     </model>
-    <model name="Frame-Window-Top-3" DisplayAs="Window Frame" Antialias="0" BottomNodes="12" Controller="Falcon_F16V5" Dir="R" LayoutGroup="Default" Locked="1" PixelSize="3" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" Rotation="Counter Clockwise" ScaleX="5.329531" ScaleY="5.846437" ScaleZ="5.034096" SideNodes="9" SourceVersion="2026.20" StartChannel="!Falcon_F16V5:2281" StartSide="T" StringType="RGB Nodes" TopNodes="12" Transparency="0" versionNumber="8" WorldPosX="-18.781006" WorldPosY="195.638565" WorldPosZ="66.045410">
+    <model name="Frame-Window-Top-3" DisplayAs="Window Frame" Antialias="0" BottomNodes="12" Controller="Falcon_F16V5" Dir="R" LayoutGroup="Default" Locked="1" PixelSize="3" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" Rotation="Clockwise" ScaleX="5.329531" ScaleY="5.846437" ScaleZ="5.034096" SideNodes="9" SourceVersion="2026.20" StartChannel="!Falcon_F16V5:2281" StartSide="T" StringType="RGB Nodes" TopNodes="12" Transparency="0" versionNumber="8" WorldPosX="-18.781006" WorldPosY="195.638565" WorldPosZ="66.045410">
       <ControllerConnection Port="6" Protocol="ws2811"/>
       <subModel name="RightSide" bufferstyle="Default" layout="horizontal" line0="35-42,1" type="ranges"/>
       <subModel name="LeftSide" bufferstyle="Default" layout="horizontal" line0="14-22" type="ranges"/>
