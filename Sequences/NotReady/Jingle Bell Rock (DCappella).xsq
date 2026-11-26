@@ -2,28 +2,30 @@
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
     <version>2026.20</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
+    <author />
+    <author-email />
+    <author-website />
     <song>Jingle Bell Rock</song>
     <artist>DCappella</artist>
     <album>Rockin&amp;apos; Holiday</album>
-    <MusicURL></MusicURL>
-    <comment></comment>
+    <MusicURL />
+    <comment />
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
     <mediaFile>Audio/Christmas/Jingle Bell Rock (DCappella).mp3</mediaFile>
     <sequenceDuration>102.997</sequenceDuration>
-    <imageDir></imageDir>
+    <imageDir />
   </head>
   <ColorPalettes />
   <EffectDB />
   <SequenceMedia />
   <DataLayers>
-    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="false" type="timing" name="New Timing" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
+    <Element collapsed="false" type="timing" name="Beats - audio detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
+    <Element collapsed="false" type="timing" name="Lyrics - word starts" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
+    <Element collapsed="false" type="timing" name="New Timing" visible="false" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="model" name="All-Pixles" visible="true" />
     <Element collapsed="false" type="model" name="Arch-All" visible="true" />
     <Element collapsed="false" type="model" name="Arch-Small" visible="true" />
@@ -44,6 +46,361 @@
     <Element collapsed="false" type="model" name="SnowFlakes-Right" visible="true" />
   </DisplayElements>
   <ElementEffects>
+    <Element type="timing" name="Beats - audio detected">
+      <EffectLayer>
+        <Effect label="Lead-in" startTime="0" endTime="300" />
+        <Effect label="1" startTime="300" endTime="825" />
+        <Effect label="2" startTime="825" endTime="1350" />
+        <Effect label="3" startTime="1350" endTime="1925" />
+        <Effect label="4" startTime="1925" endTime="2500" />
+        <Effect label="5" startTime="2500" endTime="3075" />
+        <Effect label="6" startTime="3075" endTime="3600" />
+        <Effect label="7" startTime="3600" endTime="4150" />
+        <Effect label="8" startTime="4150" endTime="4825" />
+        <Effect label="9" startTime="4825" endTime="5350" />
+        <Effect label="10" startTime="5350" endTime="5875" />
+        <Effect label="11" startTime="5875" endTime="6400" />
+        <Effect label="12" startTime="6400" endTime="6925" />
+        <Effect label="13" startTime="6925" endTime="7475" />
+        <Effect label="14" startTime="7475" endTime="7975" />
+        <Effect label="15" startTime="7975" endTime="8500" />
+        <Effect label="16" startTime="8500" endTime="9025" />
+        <Effect label="17" startTime="9025" endTime="9550" />
+        <Effect label="18" startTime="9550" endTime="10075" />
+        <Effect label="19" startTime="10075" endTime="10600" />
+        <Effect label="20" startTime="10600" endTime="11100" />
+        <Effect label="21" startTime="11100" endTime="11650" />
+        <Effect label="22" startTime="11650" endTime="12150" />
+        <Effect label="23" startTime="12150" endTime="12675" />
+        <Effect label="24" startTime="12675" endTime="13200" />
+        <Effect label="25" startTime="13200" endTime="13725" />
+        <Effect label="26" startTime="13725" endTime="14250" />
+        <Effect label="27" startTime="14250" endTime="14775" />
+        <Effect label="28" startTime="14775" endTime="15300" />
+        <Effect label="29" startTime="15300" endTime="15825" />
+        <Effect label="30" startTime="15825" endTime="16350" />
+        <Effect label="31" startTime="16350" endTime="16875" />
+        <Effect label="32" startTime="16875" endTime="17400" />
+        <Effect label="33" startTime="17400" endTime="17925" />
+        <Effect label="34" startTime="17925" endTime="18425" />
+        <Effect label="35" startTime="18425" endTime="18975" />
+        <Effect label="36" startTime="18975" endTime="19475" />
+        <Effect label="37" startTime="19475" endTime="20025" />
+        <Effect label="38" startTime="20025" endTime="20550" />
+        <Effect label="39" startTime="20550" endTime="21050" />
+        <Effect label="40" startTime="21050" endTime="21575" />
+        <Effect label="41" startTime="21575" endTime="22050" />
+        <Effect label="42" startTime="22050" endTime="22625" />
+        <Effect label="43" startTime="22625" endTime="23150" />
+        <Effect label="44" startTime="23150" endTime="23675" />
+        <Effect label="45" startTime="23675" endTime="24225" />
+        <Effect label="46" startTime="24225" endTime="24875" />
+        <Effect label="47" startTime="24875" endTime="25400" />
+        <Effect label="48" startTime="25400" endTime="25925" />
+        <Effect label="49" startTime="25925" endTime="26450" />
+        <Effect label="50" startTime="26450" endTime="27000" />
+        <Effect label="51" startTime="27000" endTime="27500" />
+        <Effect label="52" startTime="27500" endTime="28025" />
+        <Effect label="53" startTime="28025" endTime="28550" />
+        <Effect label="54" startTime="28550" endTime="29075" />
+        <Effect label="55" startTime="29075" endTime="29600" />
+        <Effect label="56" startTime="29600" endTime="30125" />
+        <Effect label="57" startTime="30125" endTime="30650" />
+        <Effect label="58" startTime="30650" endTime="31175" />
+        <Effect label="59" startTime="31175" endTime="31675" />
+        <Effect label="60" startTime="31675" endTime="32225" />
+        <Effect label="61" startTime="32225" endTime="32750" />
+        <Effect label="62" startTime="32750" endTime="33275" />
+        <Effect label="63" startTime="33275" endTime="33800" />
+        <Effect label="64" startTime="33800" endTime="34375" />
+        <Effect label="65" startTime="34375" endTime="34825" />
+        <Effect label="66" startTime="34825" endTime="35375" />
+        <Effect label="67" startTime="35375" endTime="35875" />
+        <Effect label="68" startTime="35875" endTime="36425" />
+        <Effect label="69" startTime="36425" endTime="36925" />
+        <Effect label="70" startTime="36925" endTime="37300" />
+        <Effect label="71" startTime="37300" endTime="37825" />
+        <Effect label="72" startTime="37825" endTime="38325" />
+        <Effect label="73" startTime="38325" endTime="38900" />
+        <Effect label="74" startTime="38900" endTime="39375" />
+        <Effect label="75" startTime="39375" endTime="39925" />
+        <Effect label="76" startTime="39925" endTime="40425" />
+        <Effect label="77" startTime="40425" endTime="40875" />
+        <Effect label="78" startTime="40875" endTime="41350" />
+        <Effect label="79" startTime="41350" endTime="41925" />
+        <Effect label="80" startTime="41925" endTime="42525" />
+        <Effect label="81" startTime="42525" endTime="43050" />
+        <Effect label="82" startTime="43050" endTime="43550" />
+        <Effect label="83" startTime="43550" endTime="44025" />
+        <Effect label="84" startTime="44025" endTime="44500" />
+        <Effect label="85" startTime="44500" endTime="44950" />
+        <Effect label="86" startTime="44950" endTime="45475" />
+        <Effect label="87" startTime="45475" endTime="46000" />
+        <Effect label="88" startTime="46000" endTime="46550" />
+        <Effect label="89" startTime="46550" endTime="47200" />
+        <Effect label="90" startTime="47200" endTime="47725" />
+        <Effect label="91" startTime="47725" endTime="48250" />
+        <Effect label="92" startTime="48250" endTime="48775" />
+        <Effect label="93" startTime="48775" endTime="49325" />
+        <Effect label="94" startTime="49325" endTime="49850" />
+        <Effect label="95" startTime="49850" endTime="50350" />
+        <Effect label="96" startTime="50350" endTime="50875" />
+        <Effect label="97" startTime="50875" endTime="51400" />
+        <Effect label="98" startTime="51400" endTime="51925" />
+        <Effect label="99" startTime="51925" endTime="52450" />
+        <Effect label="100" startTime="52450" endTime="52975" />
+        <Effect label="101" startTime="52975" endTime="53500" />
+        <Effect label="102" startTime="53500" endTime="54000" />
+        <Effect label="103" startTime="54000" endTime="54550" />
+        <Effect label="104" startTime="54550" endTime="55075" />
+        <Effect label="105" startTime="55075" endTime="55600" />
+        <Effect label="106" startTime="55600" endTime="56100" />
+        <Effect label="107" startTime="56100" endTime="56625" />
+        <Effect label="108" startTime="56625" endTime="57075" />
+        <Effect label="109" startTime="57075" endTime="57500" />
+        <Effect label="110" startTime="57500" endTime="58025" />
+        <Effect label="111" startTime="58025" endTime="58550" />
+        <Effect label="112" startTime="58550" endTime="59075" />
+        <Effect label="113" startTime="59075" endTime="59600" />
+        <Effect label="114" startTime="59600" endTime="60125" />
+        <Effect label="115" startTime="60125" endTime="60650" />
+        <Effect label="116" startTime="60650" endTime="61175" />
+        <Effect label="117" startTime="61175" endTime="61675" />
+        <Effect label="118" startTime="61675" endTime="62200" />
+        <Effect label="119" startTime="62200" endTime="62750" />
+        <Effect label="120" startTime="62750" endTime="63275" />
+        <Effect label="121" startTime="63275" endTime="63775" />
+        <Effect label="122" startTime="63775" endTime="64300" />
+        <Effect label="123" startTime="64300" endTime="64825" />
+        <Effect label="124" startTime="64825" endTime="65350" />
+        <Effect label="125" startTime="65350" endTime="65875" />
+        <Effect label="126" startTime="65875" endTime="66400" />
+        <Effect label="127" startTime="66400" endTime="66925" />
+        <Effect label="128" startTime="66925" endTime="67375" />
+        <Effect label="129" startTime="67375" endTime="67850" />
+        <Effect label="130" startTime="67850" endTime="68325" />
+        <Effect label="131" startTime="68325" endTime="68850" />
+        <Effect label="132" startTime="68850" endTime="69375" />
+        <Effect label="133" startTime="69375" endTime="69900" />
+        <Effect label="134" startTime="69900" endTime="70400" />
+        <Effect label="135" startTime="70400" endTime="70800" />
+        <Effect label="136" startTime="70800" endTime="71350" />
+        <Effect label="137" startTime="71350" endTime="71825" />
+        <Effect label="138" startTime="71825" endTime="72400" />
+        <Effect label="139" startTime="72400" endTime="72875" />
+        <Effect label="140" startTime="72875" endTime="73400" />
+        <Effect label="141" startTime="73400" endTime="73900" />
+        <Effect label="142" startTime="73900" endTime="74325" />
+        <Effect label="143" startTime="74325" endTime="74825" />
+        <Effect label="144" startTime="74825" endTime="75300" />
+        <Effect label="145" startTime="75300" endTime="75825" />
+        <Effect label="146" startTime="75825" endTime="76350" />
+        <Effect label="147" startTime="76350" endTime="76875" />
+        <Effect label="148" startTime="76875" endTime="77400" />
+        <Effect label="149" startTime="77400" endTime="77925" />
+        <Effect label="150" startTime="77925" endTime="78425" />
+        <Effect label="151" startTime="78425" endTime="78950" />
+        <Effect label="152" startTime="78950" endTime="79475" />
+        <Effect label="153" startTime="79475" endTime="80050" />
+        <Effect label="154" startTime="80050" endTime="80550" />
+        <Effect label="155" startTime="80550" endTime="81050" />
+        <Effect label="156" startTime="81050" endTime="81575" />
+        <Effect label="157" startTime="81575" endTime="82100" />
+        <Effect label="158" startTime="82100" endTime="82625" />
+        <Effect label="159" startTime="82625" endTime="83150" />
+        <Effect label="160" startTime="83150" endTime="83650" />
+        <Effect label="161" startTime="83650" endTime="84225" />
+        <Effect label="162" startTime="84225" endTime="84750" />
+        <Effect label="163" startTime="84750" endTime="85250" />
+        <Effect label="164" startTime="85250" endTime="85775" />
+        <Effect label="165" startTime="85775" endTime="86275" />
+        <Effect label="166" startTime="86275" endTime="86800" />
+        <Effect label="167" startTime="86800" endTime="87350" />
+        <Effect label="168" startTime="87350" endTime="87875" />
+        <Effect label="169" startTime="87875" endTime="88400" />
+        <Effect label="170" startTime="88400" endTime="88775" />
+        <Effect label="171" startTime="88775" endTime="89250" />
+        <Effect label="172" startTime="89250" endTime="89600" />
+        <Effect label="173" startTime="89600" endTime="90175" />
+        <Effect label="174" startTime="90175" endTime="90725" />
+        <Effect label="175" startTime="90725" endTime="91125" />
+        <Effect label="176" startTime="91125" endTime="91650" />
+        <Effect label="Ending" startTime="91650" endTime="102975" />
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Lyrics - word starts">
+      <EffectLayer>
+        <Effect label="Intro / vocal fills" startTime="0" endTime="11400" />
+        <Effect label="Jingle" startTime="11400" endTime="11775" />
+        <Effect label="bell," startTime="11775" endTime="12100" />
+        <Effect label="jingle" startTime="12100" endTime="12475" />
+        <Effect label="bell," startTime="12475" endTime="12800" />
+        <Effect label="jingle" startTime="12800" endTime="13150" />
+        <Effect label="bell" startTime="13150" endTime="13475" />
+        <Effect label="rock" startTime="13475" endTime="14175" />
+        <Effect label="Jingle" startTime="14175" endTime="14550" />
+        <Effect label="bells" startTime="14550" endTime="14850" />
+        <Effect label="swing" startTime="14850" endTime="15325" />
+        <Effect label="and" startTime="15325" endTime="15575" />
+        <Effect label="jingle" startTime="15575" endTime="15950" />
+        <Effect label="bells" startTime="15950" endTime="16375" />
+        <Effect label="ring" startTime="16375" endTime="16900" />
+        <Effect label="Snowing" startTime="16900" endTime="17550" />
+        <Effect label="and" startTime="17550" endTime="17750" />
+        <Effect label="blowing" startTime="17750" endTime="18250" />
+        <Effect label="up" startTime="18250" endTime="18400" />
+        <Effect label="bushels" startTime="18400" endTime="18825" />
+        <Effect label="of" startTime="18825" endTime="19000" />
+        <Effect label="fun" startTime="19000" endTime="19950" />
+        <Effect label="Now" startTime="19950" endTime="20375" />
+        <Effect label="the" startTime="20375" endTime="20500" />
+        <Effect label="jingle" startTime="20500" endTime="20900" />
+        <Effect label="hop" startTime="20900" endTime="21175" />
+        <Effect label="has" startTime="21175" endTime="21600" />
+        <Effect label="begun" startTime="21600" endTime="22550" />
+        <Effect label="Jingle" startTime="22550" endTime="22925" />
+        <Effect label="bell," startTime="22925" endTime="23300" />
+        <Effect label="jingle" startTime="23300" endTime="23625" />
+        <Effect label="bell," startTime="23625" endTime="23950" />
+        <Effect label="jingle" startTime="23950" endTime="24325" />
+        <Effect label="bell" startTime="24325" endTime="24625" />
+        <Effect label="rock" startTime="24625" endTime="25350" />
+        <Effect label="Jingle" startTime="25350" endTime="25725" />
+        <Effect label="bells" startTime="25725" endTime="26025" />
+        <Effect label="chime" startTime="26025" endTime="26425" />
+        <Effect label="in" startTime="26425" endTime="26750" />
+        <Effect label="jingle" startTime="26750" endTime="27125" />
+        <Effect label="bell" startTime="27125" endTime="27450" />
+        <Effect label="time" startTime="27450" endTime="28200" />
+        <Effect label="Dancing" startTime="28200" endTime="28725" />
+        <Effect label="and" startTime="28725" endTime="28850" />
+        <Effect label="prancing" startTime="28850" endTime="29450" />
+        <Effect label="in" startTime="29450" endTime="29575" />
+        <Effect label="Jingle" startTime="29575" endTime="29875" />
+        <Effect label="Bell" startTime="29875" endTime="30175" />
+        <Effect label="Square" startTime="30175" endTime="31175" />
+        <Effect label="In" startTime="31175" endTime="31475" />
+        <Effect label="the" startTime="31475" endTime="31600" />
+        <Effect label="frosty" startTime="31600" endTime="32225" />
+        <Effect label="air" startTime="32225" endTime="33475" />
+        <Effect label="What" startTime="33475" endTime="33675" />
+        <Effect label="a" startTime="33675" endTime="33725" />
+        <Effect label="bright" startTime="33725" endTime="34300" />
+        <Effect label="time," startTime="34300" endTime="34875" />
+        <Effect label="it's" startTime="34875" endTime="35050" />
+        <Effect label="the" startTime="35050" endTime="35175" />
+        <Effect label="right" startTime="35175" endTime="35725" />
+        <Effect label="time" startTime="35725" endTime="36400" />
+        <Effect label="To" startTime="36400" endTime="36575" />
+        <Effect label="rock" startTime="36575" endTime="36900" />
+        <Effect label="the" startTime="36900" endTime="37125" />
+        <Effect label="night" startTime="37125" endTime="37325" />
+        <Effect label="away" startTime="37325" endTime="38950" />
+        <Effect label="Jingle" startTime="38950" endTime="39325" />
+        <Effect label="bell" startTime="39325" endTime="39875" />
+        <Effect label="time" startTime="39875" endTime="40450" />
+        <Effect label="is" startTime="40450" endTime="40675" />
+        <Effect label="a" startTime="40675" endTime="40850" />
+        <Effect label="swell" startTime="40850" endTime="41350" />
+        <Effect label="time" startTime="41350" endTime="42325" />
+        <Effect label="To" startTime="42325" endTime="42475" />
+        <Effect label="go" startTime="42475" endTime="42775" />
+        <Effect label="gliding" startTime="42775" endTime="43225" />
+        <Effect label="in" startTime="43225" endTime="43400" />
+        <Effect label="a" startTime="43400" endTime="43600" />
+        <Effect label="one-horse" startTime="43600" endTime="44200" />
+        <Effect label="sleigh" startTime="44200" endTime="44900" />
+        <Effect label="Giddy-up" startTime="44900" endTime="45600" />
+        <Effect label="jingle" startTime="45600" endTime="45950" />
+        <Effect label="horse," startTime="45950" endTime="46350" />
+        <Effect label="pick" startTime="46350" endTime="46575" />
+        <Effect label="up" startTime="46575" endTime="46675" />
+        <Effect label="your" startTime="46675" endTime="46825" />
+        <Effect label="feet" startTime="46825" endTime="47675" />
+        <Effect label="Jingle" startTime="47675" endTime="48300" />
+        <Effect label="around" startTime="48300" endTime="48725" />
+        <Effect label="the" startTime="48725" endTime="48900" />
+        <Effect label="clock" startTime="48900" endTime="50475" />
+        <Effect label="Mix" startTime="50475" endTime="50925" />
+        <Effect label="and" startTime="50925" endTime="51075" />
+        <Effect label="a-mingle" startTime="51075" endTime="51775" />
+        <Effect label="in" startTime="51775" endTime="51875" />
+        <Effect label="the" startTime="51875" endTime="51950" />
+        <Effect label="jingling" startTime="51950" endTime="52200" />
+        <Effect label="feet" startTime="52200" endTime="53250" />
+        <Effect label="That's" startTime="53250" endTime="53775" />
+        <Effect label="the" startTime="53775" endTime="53975" />
+        <Effect label="jingle" startTime="53975" endTime="54525" />
+        <Effect label="bell" startTime="54525" endTime="54725" />
+        <Effect label="rock" startTime="54725" endTime="60250" />
+        <Effect label="Hey," startTime="60250" endTime="60925" />
+        <Effect label="hey," startTime="60925" endTime="62175" />
+        <Effect label="hey," startTime="62175" endTime="63600" />
+        <Effect label="hey," startTime="63600" endTime="64450" />
+        <Effect label="hey," startTime="64450" endTime="65150" />
+        <Effect label="hey," startTime="65150" endTime="65850" />
+        <Effect label="hey." startTime="65850" endTime="66900" />
+        <Effect label="What" startTime="66900" endTime="67150" />
+        <Effect label="a" startTime="67150" endTime="67200" />
+        <Effect label="bright" startTime="67200" endTime="67825" />
+        <Effect label="time," startTime="67825" endTime="68275" />
+        <Effect label="it's" startTime="68275" endTime="68525" />
+        <Effect label="the" startTime="68525" endTime="68625" />
+        <Effect label="right" startTime="68625" endTime="69200" />
+        <Effect label="time" startTime="69200" endTime="69875" />
+        <Effect label="To" startTime="69875" endTime="70050" />
+        <Effect label="rock" startTime="70050" endTime="70375" />
+        <Effect label="the" startTime="70375" endTime="70625" />
+        <Effect label="night" startTime="70625" endTime="71150" />
+        <Effect label="away" startTime="71150" endTime="72450" />
+        <Effect label="Jingle" startTime="72450" endTime="73050" />
+        <Effect label="bell" startTime="73050" endTime="73350" />
+        <Effect label="time" startTime="73350" endTime="74175" />
+        <Effect label="is" startTime="74175" endTime="74250" />
+        <Effect label="a" startTime="74250" endTime="74325" />
+        <Effect label="swell" startTime="74325" endTime="74825" />
+        <Effect label="time" startTime="74825" endTime="75800" />
+        <Effect label="To" startTime="75800" endTime="75975" />
+        <Effect label="go" startTime="75975" endTime="76275" />
+        <Effect label="gliding" startTime="76275" endTime="76725" />
+        <Effect label="in" startTime="76725" endTime="76900" />
+        <Effect label="a" startTime="76900" endTime="77075" />
+        <Effect label="one-horse" startTime="77075" endTime="77675" />
+        <Effect label="sleigh" startTime="77675" endTime="78425" />
+        <Effect label="Giddy-up" startTime="78425" endTime="79075" />
+        <Effect label="jingle" startTime="79075" endTime="79425" />
+        <Effect label="horse," startTime="79425" endTime="79775" />
+        <Effect label="pick" startTime="79775" endTime="80075" />
+        <Effect label="up" startTime="80075" endTime="80250" />
+        <Effect label="your" startTime="80250" endTime="80500" />
+        <Effect label="feet" startTime="80500" endTime="81150" />
+        <Effect label="Jingle" startTime="81150" endTime="81650" />
+        <Effect label="around" startTime="81650" endTime="82200" />
+        <Effect label="the" startTime="82200" endTime="82400" />
+        <Effect label="clock" startTime="82400" endTime="83975" />
+        <Effect label="Mix" startTime="83975" endTime="84400" />
+        <Effect label="and" startTime="84400" endTime="84575" />
+        <Effect label="a-mingle" startTime="84575" endTime="85150" />
+        <Effect label="in" startTime="85150" endTime="85225" />
+        <Effect label="the" startTime="85225" endTime="85400" />
+        <Effect label="jingling" startTime="85400" endTime="85900" />
+        <Effect label="feet" startTime="85900" endTime="86950" />
+        <Effect label="That's" startTime="86950" endTime="87275" />
+        <Effect label="the" startTime="87275" endTime="87450" />
+        <Effect label="jingle" startTime="87450" endTime="87800" />
+        <Effect label="bell" startTime="87800" endTime="88350" />
+        <Effect label="That's" startTime="88350" endTime="88675" />
+        <Effect label="the" startTime="88675" endTime="88825" />
+        <Effect label="jingle" startTime="88825" endTime="89200" />
+        <Effect label="bell" startTime="89200" endTime="89800" />
+        <Effect label="That's" startTime="89800" endTime="90125" />
+        <Effect label="the" startTime="90125" endTime="90275" />
+        <Effect label="jingle" startTime="90275" endTime="90675" />
+        <Effect label="bell" startTime="90675" endTime="91125" />
+        <Effect label="rock" startTime="91125" endTime="92150" />
+        <Effect label="Ending" startTime="92150" endTime="102975" />
+      </EffectLayer>
+    </Element>
     <Element type="timing" name="New Timing">
       <EffectLayer />
     </Element>
