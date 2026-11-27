@@ -1420,7 +1420,7 @@
     <ColorPalette>C_BUTTON_Palette1=#7067FF,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=46</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#B36BFF,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=90</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#00BCD7,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=90</ColorPalette>
-  <ColorPalette>C_BUTTON_Palette1=#E5562B,C_BUTTON_Palette2=#F9931E,C_BUTTON_Palette3=#C3A61E,C_BUTTON_Palette4=#A775D2,C_BUTTON_Palette5=#C31E1E,C_BUTTON_Palette6=#FFF56D,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#00FF00,C_BUTTON_Palette2=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette></ColorPalettes>
+  <ColorPalette>C_BUTTON_Palette1=#E5562B,C_BUTTON_Palette2=#F9931E,C_BUTTON_Palette3=#C3A61E,C_BUTTON_Palette4=#A775D2,C_BUTTON_Palette5=#C31E1E,C_BUTTON_Palette6=#FFF56D,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#00FF00,C_BUTTON_Palette2=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=100.0</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C856C,C_BUTTON_Palette2=#006776,C_BUTTON_Palette3=#623B8C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#006776,C_BUTTON_Palette2=#623B8C,C_BUTTON_Palette3=#8C395B,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#623B8C,C_BUTTON_Palette2=#8C395B,C_BUTTON_Palette3=#64838C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C395B,C_BUTTON_Palette2=#64838C,C_BUTTON_Palette3=#8C856C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#006776,C_BUTTON_Palette2=#623B8C,C_BUTTON_Palette3=#8C395B,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=86</ColorPalette><ColorPalette>C_BUTTON_Palette1=#64838C,C_BUTTON_Palette2=#8C856C,C_BUTTON_Palette3=#006776,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8B8877,C_BUTTON_Palette2=#8C2439,C_BUTTON_Palette3=#8C6724,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C2439,C_BUTTON_Palette2=#8C6724,C_BUTTON_Palette3=#2D7D54,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C6724,C_BUTTON_Palette2=#2D7D54,C_BUTTON_Palette3=#62877D,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#6D8C86,C_BUTTON_Palette2=#205A8C,C_BUTTON_Palette3=#79378C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=88</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C7D41,C_BUTTON_Palette2=#6D8C86,C_BUTTON_Palette3=#205A8C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#0C7762,C_BUTTON_Palette2=#2F448C,C_BUTTON_Palette3=#8C2845,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#2F448C,C_BUTTON_Palette2=#8C2845,C_BUTTON_Palette3=#8C753A,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#8C2845,C_BUTTON_Palette2=#8C753A,C_BUTTON_Palette3=#82898C,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#005561,C_BUTTON_Palette2=#513073,C_BUTTON_Palette3=#732F4B,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#513073,C_BUTTON_Palette2=#732F4B,C_BUTTON_Palette3=#516C73,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#732F4B,C_BUTTON_Palette2=#516C73,C_BUTTON_Palette3=#736C59,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#736C59,C_BUTTON_Palette2=#005561,C_BUTTON_Palette3=#513073,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#005561,C_BUTTON_Palette2=#513073,C_BUTTON_Palette3=#732F4B,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#732F4B,C_BUTTON_Palette2=#516C73,C_BUTTON_Palette3=#736C59,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#513073,C_BUTTON_Palette2=#732F4B,C_BUTTON_Palette3=#516C73,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#516C73,C_BUTTON_Palette2=#736C59,C_BUTTON_Palette3=#005561,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90</ColorPalette><ColorPalette>C_BUTTON_Palette1=#516E66,C_BUTTON_Palette2=#726F62,C_BUTTON_Palette3=#721D2F,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#73551E,C_BUTTON_Palette2=#246744,C_BUTTON_Palette3=#516E66,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#726F62,C_BUTTON_Palette2=#721D2F,C_BUTTON_Palette3=#73551E,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#5A736D,C_BUTTON_Palette2=#1B4A73,C_BUTTON_Palette3=#632D73,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=88</ColorPalette><ColorPalette>C_BUTTON_Palette1=#1B4A73,C_BUTTON_Palette2=#632D73,C_BUTTON_Palette3=#733B1B,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#632D73,C_BUTTON_Palette2=#733B1B,C_BUTTON_Palette3=#736736,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#736736,C_BUTTON_Palette2=#5A736D,C_BUTTON_Palette3=#1B4A73,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#733B1B,C_BUTTON_Palette2=#736736,C_BUTTON_Palette3=#5A736D,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#5A736D,C_BUTTON_Palette2=#1B4A73,C_BUTTON_Palette3=#632D73,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#263773,C_BUTTON_Palette2=#732038,C_BUTTON_Palette3=#736030,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#732038,C_BUTTON_Palette2=#736030,C_BUTTON_Palette3=#6B7073,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#736030,C_BUTTON_Palette2=#6B7073,C_BUTTON_Palette3=#096251,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#6B7073,C_BUTTON_Palette2=#096251,C_BUTTON_Palette3=#263773,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=90,C_BUTTON_Palette4=#000000,C_CHECKBOX_Palette4=1</ColorPalette><ColorPalette>C_BUTTON_Palette1=#666666,C_CHECKBOX_Palette1=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp|Min=0.00|Max=400.00|P2=100.00|RV=TRUE|</ColorPalette><ColorPalette>C_BUTTON_Palette1=#045A5F,C_CHECKBOX_Palette1=1</ColorPalette></ColorPalettes>
   <EffectDB>
     <Effect />
     <Effect>E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=Custom,E_SLIDER_Bars_Angle=0,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0,T_CHOICE_LayerMethod=Max</Effect>
@@ -1547,7 +1547,7 @@
   <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=40,E_TEXTCTRL_Spirals_Movement=1.0</Effect><Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=35,E_SLIDER_Pinwheel_Twist=0</Effect><Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=0.0,E_TEXTCTRL_Eff_On_Start=100.0</Effect>    <Effect>B_CHOICE_BufferStyle=Single Line</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Right,E_SLIDER_Garlands_Spacing=81,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Left,E_SLIDER_Garlands_Spacing=81,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
-</EffectDB>
+<Effect>E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CHOICE_BufferStyle=Per Preview,T_CHOICE_LayerMethod=Normal</Effect><Effect>E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0,B_CHOICE_BufferStyle=Per Preview,T_CHOICE_LayerMethod=Normal</Effect><Effect>E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=Head and Tail,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=53,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Rotations=1.0,B_CHOICE_BufferStyle=Vertical Per Model/Strand,T_CHOICE_LayerMethod=Normal,B_CUSTOM_SubBuffer=0x45.454545455x100x100</Effect><Effect>E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=Head and Tail,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=53,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Rotations=1.0,B_CHOICE_BufferStyle=Vertical Per Model/Strand,T_CHOICE_LayerMethod=Normal,B_CUSTOM_SubBuffer=0x0x100x45.454545455,B_CHOICE_BufferTransform=Flip Horizontal</Effect><Effect>E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=Head and Tail,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=53,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Rotations=1.0,B_CHOICE_BufferStyle=Vertical Per Model/Strand,T_CHOICE_LayerMethod=Normal,B_CUSTOM_SubBuffer=0x45.454545455x100x100</Effect><Effect>E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=Head and Tail,E_CHOICE_SingleStrand_Colors=Palette,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=53,E_SLIDER_Number_Chases=2,E_TEXTCTRL_Chase_Rotations=1.0,B_CHOICE_BufferStyle=Vertical Per Model/Strand,T_CHOICE_LayerMethod=Normal,B_CUSTOM_SubBuffer=0x0x100x45.454545455,B_CHOICE_BufferTransform=Flip Horizontal</Effect><Effect>E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=1.0,B_CHOICE_BufferStyle=Per Preview,T_CHOICE_LayerMethod=Normal</Effect><Effect>E_CHECKBOX_Bars_Gradient=1,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=1.0,B_CHOICE_BufferStyle=Per Preview,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.5357142857142857,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.2916666666666667,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.3958333333333333,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.4878048780487805,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.3333333333333333,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.7777777777777778,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.4375,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.42857142857142855,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.4166666666666667,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.4090909090909091,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.45454545454545453,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.3541666666666667,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.375,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.2708333333333333,E_CHECKBOX_Bars_3D=1,T_CHOICE_LayerMethod=Normal</Effect><Effect>B_CHOICE_BufferStyle=Per Preview,T_CHOICE_LayerMethod=Normal</Effect></EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
@@ -1568,6 +1568,13 @@
     <Element collapsed="false" type="timing" name="Wreath: Petal Tips Group" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Dueling houses" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="model" name="All-Pixles" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-All" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Bottom" visible="true" />
+    <Element collapsed="false" type="model" name="RoofLines-Top" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-BottomLeft" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-BottomRight" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-TopLeft" visible="true" />
+    <Element collapsed="false" type="model" name="Roof-TopRight" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Rings" visible="true" />
     <Element collapsed="false" type="model" name="Arch-All" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Petals" visible="true" />
@@ -1585,15 +1592,12 @@
     <Element collapsed="false" type="model" name="Frames-All-Bottom" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Center Piece" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Star" visible="true" />
-    <Element collapsed="false" type="model" name="RoofLines-All" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlakes-Left" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlakes-Right" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Star Offset" visible="true" />
     <Element collapsed="false" type="model" name="Frames-All-Top" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Center Rings" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Spiral All" visible="true" />
-    <Element collapsed="false" type="model" name="RoofLines-Bottom" visible="true" />
-    <Element collapsed="false" type="model" name="RoofLines-Top" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Spiral CClockwise" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Spiral Clockwise" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath Outer Diamonds" visible="true" />
@@ -1625,10 +1629,6 @@
     <Element collapsed="false" type="model" name="Frame-Window-Top-2" visible="true" />
     <Element collapsed="false" type="model" name="Frame-Window-Top-3" visible="true" />
     <Element collapsed="false" type="model" name="PPD Wreath" visible="true" />
-    <Element collapsed="false" type="model" name="Roof-BottomLeft" visible="true" />
-    <Element collapsed="false" type="model" name="Roof-BottomRight" visible="true" />
-    <Element collapsed="false" type="model" name="Roof-TopLeft" visible="true" />
-    <Element collapsed="false" type="model" name="Roof-TopRight" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlake-L1-Diamond" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlake-L2- 3 prong" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlake-L3-Arrow" visible="true" />
@@ -2208,6 +2208,258 @@
         <Effect ref="6" name="Bars" id="1" startTime="58725" endTime="59175" palette="11" />
       </EffectLayer>
     </Element>
+    <Element type="model" name="RoofLines-All">
+      <EffectLayer>
+        <Effect ref="0" name="Color Wash" startTime="9650" endTime="13900" palette="0" />
+        </EffectLayer>
+      <EffectLayer layerName="Lindsey response">
+        <Effect ref="71" name="Bars" startTime="14275" endTime="14650" palette="53" />
+        <Effect ref="71" name="Bars" id="1" startTime="15025" endTime="15400" palette="54" />
+        <Effect ref="71" name="Bars" id="2" startTime="15850" endTime="16250" palette="55" />
+        <Effect ref="71" name="Bars" id="3" startTime="16675" endTime="17450" palette="56" />
+        <Effect ref="72" name="Bars" id="4" startTime="31900" endTime="32250" palette="16" />
+        <Effect ref="71" name="Bars" id="5" startTime="32250" endTime="32700" palette="17" />
+        <Effect ref="71" name="Bars" id="6" startTime="38575" endTime="38875" palette="16" />
+        <Effect ref="71" name="Bars" id="7" startTime="39075" endTime="39375" palette="18" />
+        <Effect ref="73" name="Shockwave" id="8" startTime="63425" endTime="64625" palette="57" />
+        <Effect ref="71" name="Bars" id="9" startTime="64625" endTime="65825" palette="58" />
+        <Effect ref="73" name="Shockwave" id="10" startTime="65825" endTime="66250" palette="59" />
+        <Effect ref="71" name="Bars" id="11" startTime="66250" endTime="67450" palette="22" />
+        <Effect ref="73" name="Shockwave" id="12" startTime="67450" endTime="68650" palette="23" />
+        <Effect ref="71" name="Bars" id="13" startTime="68650" endTime="69850" palette="24" />
+        <Effect ref="73" name="Shockwave" id="14" startTime="69850" endTime="71050" palette="25" />
+        <Effect ref="71" name="Bars" id="15" startTime="71050" endTime="72250" palette="26" />
+        <Effect ref="73" name="Shockwave" id="16" startTime="72250" endTime="73450" palette="22" />
+        <Effect ref="71" name="Bars" id="17" startTime="73450" endTime="74650" palette="23" />
+        <Effect ref="73" name="Shockwave" id="18" startTime="74650" endTime="75850" palette="24" />
+        <Effect ref="71" name="Bars" id="19" startTime="75850" endTime="76600" palette="25" />
+        <Effect ref="72" name="Bars" id="20" startTime="107600" endTime="107850" palette="60" />
+        <Effect ref="72" name="Bars" id="21" startTime="112525" endTime="112775" palette="61" />
+        <Effect ref="72" name="Bars" id="22" startTime="114700" endTime="114950" palette="61" />
+        <Effect ref="72" name="Bars" id="23" startTime="120550" endTime="120800" palette="62" />
+        <Effect ref="71" name="Bars" id="24" startTime="135250" endTime="136450" palette="31" />
+        <Effect ref="73" name="Shockwave" id="25" startTime="136450" endTime="137650" palette="32" />
+        <Effect ref="72" name="Bars" id="26" startTime="138800" endTime="139075" palette="34" />
+        <Effect ref="71" name="Bars" id="27" startTime="139075" endTime="139325" palette="35" />
+        <Effect ref="72" name="Bars" id="28" startTime="139325" endTime="139675" palette="31" />
+        <Effect ref="73" name="Shockwave" id="29" startTime="142875" endTime="143325" palette="35" />
+        <Effect ref="71" name="Bars" id="30" startTime="143725" endTime="144125" palette="31" />
+        <Effect ref="73" name="Shockwave" id="31" startTime="144575" endTime="145075" palette="32" />
+        <Effect ref="71" name="Bars" id="32" startTime="145625" endTime="146125" palette="33" />
+        <Effect ref="71" name="Bars" id="33" startTime="146800" endTime="147775" palette="35" />
+        <Effect ref="73" name="Shockwave" id="34" startTime="147775" endTime="148750" palette="31" />
+        <Effect ref="71" name="Bars" id="35" startTime="148750" endTime="149700" palette="32" />
+        <Effect ref="73" name="Shockwave" id="36" startTime="149700" endTime="150250" palette="33" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="RoofLines-Bottom">
+      <EffectLayer><Effect ref="152" name="Color Wash" startTime="5475" endTime="9350" palette="1440" />
+        <Effect ref="152" name="Color Wash" startTime="47000" endTime="48500" palette="1441" />
+        </EffectLayer>
+    <EffectLayer><Effect ref="129" name="Curtain" startTime="27850" endTime="28550" palette="1405" />
+        <Effect ref="130" name="Curtain" startTime="28550" endTime="29125" palette="1406" />
+        <Effect ref="129" name="Curtain" startTime="30325" endTime="31525" palette="1408" />
+        <Effect ref="129" name="Curtain" startTime="33925" endTime="35125" palette="1406" />
+        <Effect ref="130" name="Curtain" startTime="35125" endTime="35750" palette="1407" />
+        <Effect ref="130" name="Curtain" startTime="39600" endTime="40275" palette="1409" />
+        <Effect ref="129" name="Curtain" startTime="40650" endTime="41225" palette="1408" />
+        <Effect ref="130" name="Curtain" startTime="41225" endTime="41700" palette="1410" />
+        <Effect ref="129" name="Curtain" startTime="42025" endTime="42625" palette="1406" />
+        <Effect ref="129" name="Curtain" startTime="61200" endTime="62100" palette="1412" />
+        <Effect ref="130" name="Curtain" startTime="62100" endTime="63300" palette="1413" />
+        <Effect ref="129" name="Curtain" startTime="101950" endTime="103000" palette="1414" />
+        <Effect ref="130" name="Curtain" startTime="122050" endTime="122650" palette="1415" />
+        <Effect ref="129" name="Curtain" startTime="145250" endTime="145625" palette="1417" />
+        <Effect ref="130" name="Curtain" startTime="146200" endTime="146575" palette="1418" />
+        </EffectLayer><EffectLayer><Effect ref="131" name="SingleStrand" startTime="29125" endTime="30325" palette="1407" />
+        <Effect ref="133" name="SingleStrand" startTime="32725" endTime="33925" palette="1405" />
+        <Effect ref="133" name="SingleStrand" startTime="40275" endTime="40650" palette="1407" />
+        <Effect ref="131" name="SingleStrand" startTime="41700" endTime="42025" palette="1405" />
+        <Effect ref="131" name="SingleStrand" startTime="60000" endTime="61200" palette="1411" />
+        <Effect ref="131" name="SingleStrand" startTime="144200" endTime="144575" palette="1416" />
+        </EffectLayer><EffectLayer><Effect ref="132" name="SingleStrand" startTime="29125" endTime="30325" palette="1407" />
+        <Effect ref="134" name="SingleStrand" startTime="32725" endTime="33925" palette="1405" />
+        <Effect ref="134" name="SingleStrand" startTime="40275" endTime="40650" palette="1407" />
+        <Effect ref="132" name="SingleStrand" startTime="41700" endTime="42025" palette="1405" />
+        <Effect ref="132" name="SingleStrand" startTime="60000" endTime="61200" palette="1411" />
+        <Effect ref="132" name="SingleStrand" startTime="144200" endTime="144575" palette="1416" />
+        </EffectLayer></Element>
+    <Element type="model" name="RoofLines-Top">
+      <EffectLayer />
+    <EffectLayer><Effect ref="135" name="Bars" startTime="27075" endTime="27850" palette="1419" />
+        <Effect ref="136" name="Bars" startTime="27850" endTime="28550" palette="1420" />
+        <Effect ref="137" name="Bars" startTime="28550" endTime="29125" palette="1421" />
+        <Effect ref="135" name="Bars" startTime="29350" endTime="29950" palette="1422" />
+        <Effect ref="137" name="Bars" startTime="29950" endTime="30250" palette="1423" />
+        <Effect ref="136" name="Bars" startTime="30600" endTime="31800" palette="1424" />
+        <Effect ref="137" name="Bars" startTime="33325" endTime="33725" palette="1425" />
+        <Effect ref="136" name="Bars" startTime="33900" endTime="34350" palette="1426" />
+        <Effect ref="136" name="Bars" startTime="34575" endTime="35200" palette="1419" />
+        <Effect ref="135" name="Bars" startTime="35200" endTime="35750" palette="1420" />
+        <Effect ref="137" name="Bars" startTime="35750" endTime="36950" palette="1421" />
+        <Effect ref="136" name="Bars" startTime="37150" endTime="37900" palette="1422" />
+        <Effect ref="138" name="Bars" startTime="38200" endTime="38575" palette="1423" />
+        <Effect ref="136" name="Bars" startTime="39575" endTime="40275" palette="1420" />
+        <Effect ref="135" name="Bars" startTime="40275" endTime="41475" palette="1424" />
+        <Effect ref="135" name="Bars" startTime="41675" endTime="42125" palette="1422" />
+        <Effect ref="136" name="Bars" startTime="42125" endTime="42900" palette="1419" />
+        <Effect ref="137" name="Bars" startTime="59750" endTime="60300" palette="1427" />
+        <Effect ref="137" name="Bars" startTime="61100" endTime="61500" palette="1428" />
+        <Effect ref="137" name="Bars" startTime="62100" endTime="63050" palette="1429" />
+        <Effect ref="136" name="Bars" startTime="101950" endTime="103000" palette="1430" />
+        <Effect ref="139" name="Bars" startTime="103000" endTime="103350" palette="1431" />
+        <Effect ref="140" name="Bars" startTime="103725" endTime="104200" palette="1431" />
+        <Effect ref="141" name="Bars" startTime="104625" endTime="105125" palette="1432" />
+        <Effect ref="139" name="Bars" startTime="105675" endTime="106025" palette="1433" />
+        <Effect ref="142" name="Bars" startTime="106475" endTime="106875" palette="1433" />
+        <Effect ref="143" name="Bars" startTime="108350" endTime="108700" palette="1432" />
+        <Effect ref="144" name="Bars" startTime="109100" endTime="109625" palette="1434" />
+        <Effect ref="145" name="Bars" startTime="110050" endTime="110500" palette="1433" />
+        <Effect ref="143" name="Bars" startTime="111050" endTime="111400" palette="1435" />
+        <Effect ref="146" name="Bars" startTime="111800" endTime="112300" palette="1431" />
+        <Effect ref="147" name="Bars" startTime="112775" endTime="113225" palette="1432" />
+        <Effect ref="148" name="Bars" startTime="115400" endTime="115900" palette="1435" />
+        <Effect ref="143" name="Bars" startTime="116450" endTime="116800" palette="1431" />
+        <Effect ref="146" name="Bars" startTime="117200" endTime="117700" palette="1432" />
+        <Effect ref="148" name="Bars" startTime="118100" endTime="118600" palette="1434" />
+        <Effect ref="143" name="Bars" startTime="119200" endTime="119550" palette="1433" />
+        <Effect ref="149" name="Bars" startTime="119925" endTime="120350" palette="1435" />
+        <Effect ref="142" name="Bars" startTime="120850" endTime="121250" palette="1431" />
+        <Effect ref="149" name="Bars" startTime="121625" endTime="122050" palette="1431" />
+        <Effect ref="142" name="Bars" startTime="143325" endTime="143725" palette="1436" />
+        <Effect ref="150" name="Bars" startTime="144125" endTime="144575" palette="1437" />
+        <Effect ref="139" name="Bars" startTime="145275" endTime="145625" palette="1438" />
+        <Effect ref="139" name="Bars" startTime="146125" endTime="146475" palette="1438" />
+        <Effect ref="151" name="Bars" startTime="146475" endTime="146800" palette="1439" />
+        </EffectLayer></Element>
+    <Element type="model" name="Roof-BottomLeft">
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer layerName="Lindsey response">
+        <Effect ref="84" name="Color Wash" startTime="31675" endTime="31900" palette="20" />
+        <Effect ref="84" name="Color Wash" id="1" startTime="38200" endTime="38375" palette="19" />
+        <Effect ref="84" name="Color Wash" id="2" startTime="103000" endTime="103200" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="3" startTime="103750" endTime="103950" palette="62" />
+        <Effect ref="84" name="Color Wash" id="4" startTime="104650" endTime="104875" palette="61" />
+        <Effect ref="84" name="Color Wash" id="5" startTime="105575" endTime="105775" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="6" startTime="106525" endTime="106725" palette="60" />
+        <Effect ref="84" name="Color Wash" id="7" startTime="107400" endTime="107600" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="8" startTime="108250" endTime="108450" palette="62" />
+        <Effect ref="84" name="Color Wash" id="9" startTime="109150" endTime="109350" palette="61" />
+        <Effect ref="84" name="Color Wash" id="10" startTime="110100" endTime="110300" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="11" startTime="110950" endTime="111150" palette="60" />
+        <Effect ref="84" name="Color Wash" id="12" startTime="111850" endTime="112050" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="13" startTime="112825" endTime="113025" palette="62" />
+        <Effect ref="84" name="Color Wash" id="14" startTime="113675" endTime="113875" palette="61" />
+        <Effect ref="84" name="Color Wash" id="15" startTime="114500" endTime="114700" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="16" startTime="115450" endTime="115650" palette="60" />
+        <Effect ref="84" name="Color Wash" id="17" startTime="116350" endTime="116550" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="18" startTime="117250" endTime="117450" palette="62" />
+        <Effect ref="84" name="Color Wash" id="19" startTime="118150" endTime="118350" palette="61" />
+        <Effect ref="84" name="Color Wash" id="20" startTime="119075" endTime="119300" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="21" startTime="119950" endTime="120150" palette="60" />
+        <Effect ref="84" name="Color Wash" id="22" startTime="120825" endTime="121050" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="23" startTime="121650" endTime="121850" palette="62" />
+        <Effect ref="84" name="Color Wash" id="25" startTime="146575" endTime="146800" palette="34" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof-BottomRight">
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer layerName="Lindsey response">
+        <Effect ref="84" name="Color Wash" startTime="38375" endTime="38575" palette="20" />
+        <Effect ref="84" name="Color Wash" id="1" startTime="39375" endTime="39575" palette="19" />
+        <Effect ref="84" name="Color Wash" id="3" startTime="103950" endTime="104150" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="4" startTime="104875" endTime="105075" palette="62" />
+        <Effect ref="84" name="Color Wash" id="5" startTime="105775" endTime="106000" palette="61" />
+        <Effect ref="84" name="Color Wash" id="6" startTime="106725" endTime="106925" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="7" startTime="108450" endTime="108650" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="8" startTime="109350" endTime="109575" palette="62" />
+        <Effect ref="84" name="Color Wash" id="9" startTime="110300" endTime="110475" palette="61" />
+        <Effect ref="84" name="Color Wash" id="10" startTime="111150" endTime="111350" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="11" startTime="112050" endTime="112250" palette="60" />
+        <Effect ref="84" name="Color Wash" id="12" startTime="113025" endTime="113200" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="13" startTime="113875" endTime="114050" palette="62" />
+        <Effect ref="84" name="Color Wash" id="14" startTime="115650" endTime="115850" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="15" startTime="116550" endTime="116750" palette="60" />
+        <Effect ref="84" name="Color Wash" id="16" startTime="117450" endTime="117650" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="17" startTime="118350" endTime="118550" palette="62" />
+        <Effect ref="84" name="Color Wash" id="18" startTime="119300" endTime="119500" palette="61" />
+        <Effect ref="84" name="Color Wash" id="19" startTime="120150" endTime="120325" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="20" startTime="121050" endTime="121225" palette="60" />
+        <Effect ref="84" name="Color Wash" id="21" startTime="121850" endTime="122050" palette="1391" />
+        <Effect ref="78" name="Twinkle" id="22" startTime="132900" endTime="134100" palette="34" />
+        <Effect ref="78" name="Twinkle" id="23" startTime="137650" endTime="138800" palette="33" />
+        <Effect ref="78" name="Twinkle" id="24" startTime="139675" endTime="140875" palette="32" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof-TopLeft">
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer layerName="Lindsey response">
+        <Effect ref="84" name="Color Wash" id="1" startTime="103350" endTime="103550" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="2" startTime="104200" endTime="104400" palette="60" />
+        <Effect ref="84" name="Color Wash" id="3" startTime="105125" endTime="105325" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="4" startTime="106025" endTime="106250" palette="62" />
+        <Effect ref="84" name="Color Wash" id="5" startTime="106950" endTime="107150" palette="61" />
+        <Effect ref="84" name="Color Wash" id="6" startTime="107875" endTime="108075" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="7" startTime="108700" endTime="108900" palette="60" />
+        <Effect ref="84" name="Color Wash" id="8" startTime="109625" endTime="109850" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="9" startTime="110500" endTime="110700" palette="62" />
+        <Effect ref="84" name="Color Wash" id="10" startTime="111400" endTime="111600" palette="61" />
+        <Effect ref="84" name="Color Wash" id="11" startTime="112300" endTime="112525" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="12" startTime="113225" endTime="113400" palette="60" />
+        <Effect ref="84" name="Color Wash" id="13" startTime="114075" endTime="114250" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="14" startTime="114975" endTime="115200" palette="62" />
+        <Effect ref="84" name="Color Wash" id="15" startTime="115900" endTime="116100" palette="61" />
+        <Effect ref="84" name="Color Wash" id="16" startTime="116800" endTime="117000" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="17" startTime="117700" endTime="117900" palette="60" />
+        <Effect ref="84" name="Color Wash" id="18" startTime="118600" endTime="118800" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="19" startTime="119550" endTime="119750" palette="62" />
+        <Effect ref="84" name="Color Wash" id="20" startTime="120350" endTime="120550" palette="61" />
+        <Effect ref="84" name="Color Wash" id="21" startTime="121250" endTime="121450" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="22" startTime="122075" endTime="122300" palette="30" />
+        <Effect ref="78" name="Twinkle" id="23" startTime="134100" endTime="135250" palette="35" />
+        <Effect ref="78" name="Twinkle" id="24" startTime="140875" endTime="142075" palette="33" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof-TopRight">
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer>
+        </EffectLayer>
+      <EffectLayer layerName="Lindsey response">
+        <Effect ref="84" name="Color Wash" startTime="38000" endTime="38200" palette="18" />
+        <Effect ref="84" name="Color Wash" id="1" startTime="38875" endTime="39075" palette="17" />
+        <Effect ref="78" name="Twinkle" id="2" startTime="59225" endTime="59750" palette="23" />
+        <Effect ref="84" name="Color Wash" id="3" startTime="103550" endTime="103725" palette="61" />
+        <Effect ref="84" name="Color Wash" id="4" startTime="104400" endTime="104625" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="5" startTime="105325" endTime="105525" palette="60" />
+        <Effect ref="84" name="Color Wash" id="6" startTime="106250" endTime="106475" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="7" startTime="107150" endTime="107350" palette="62" />
+        <Effect ref="84" name="Color Wash" id="9" startTime="108900" endTime="109100" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="10" startTime="109850" endTime="110050" palette="60" />
+        <Effect ref="84" name="Color Wash" id="11" startTime="110700" endTime="110900" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="12" startTime="111600" endTime="111800" palette="62" />
+        <Effect ref="84" name="Color Wash" id="13" startTime="113400" endTime="113625" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="14" startTime="114250" endTime="114450" palette="60" />
+        <Effect ref="84" name="Color Wash" id="15" startTime="115200" endTime="115400" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="16" startTime="116100" endTime="116300" palette="62" />
+        <Effect ref="84" name="Color Wash" id="17" startTime="117000" endTime="117200" palette="61" />
+        <Effect ref="84" name="Color Wash" id="18" startTime="117900" endTime="118100" palette="1392" />
+        <Effect ref="84" name="Color Wash" id="19" startTime="118800" endTime="119025" palette="60" />
+        <Effect ref="84" name="Color Wash" id="20" startTime="119750" endTime="119925" palette="1391" />
+        <Effect ref="84" name="Color Wash" id="21" startTime="121450" endTime="121625" palette="61" />
+        <Effect ref="84" name="Color Wash" id="22" startTime="122300" endTime="122500" palette="43" />
+        <Effect ref="78" name="Twinkle" id="23" startTime="142075" endTime="142875" palette="34" />
+      </EffectLayer>
+    </Element>
     <Element type="model" name="PPD Wreath Rings">
       <EffectLayer />
     </Element>
@@ -2483,53 +2735,6 @@
     <Element type="model" name="PPD Wreath Star">
       <EffectLayer />
     </Element>
-    <Element type="model" name="RoofLines-All">
-      <EffectLayer>
-        <Effect ref="0" name="Color Wash" startTime="9650" endTime="14250" palette="0" />
-        <Effect ref="0" name="Color Wash" id="1" startTime="14650" endTime="15000" palette="0" />
-        <Effect ref="0" name="Color Wash" id="2" startTime="15400" endTime="15800" palette="0" />
-        <Effect ref="0" name="Color Wash" id="3" startTime="16250" endTime="16650" palette="0" />
-      </EffectLayer>
-      <EffectLayer layerName="Lindsey response">
-        <Effect ref="71" name="Bars" startTime="14275" endTime="14650" palette="53" />
-        <Effect ref="71" name="Bars" id="1" startTime="15025" endTime="15400" palette="54" />
-        <Effect ref="71" name="Bars" id="2" startTime="15850" endTime="16250" palette="55" />
-        <Effect ref="71" name="Bars" id="3" startTime="16675" endTime="17450" palette="56" />
-        <Effect ref="72" name="Bars" id="4" startTime="31900" endTime="32250" palette="16" />
-        <Effect ref="71" name="Bars" id="5" startTime="32250" endTime="32700" palette="17" />
-        <Effect ref="71" name="Bars" id="6" startTime="38575" endTime="38875" palette="16" />
-        <Effect ref="71" name="Bars" id="7" startTime="39075" endTime="39375" palette="18" />
-        <Effect ref="73" name="Shockwave" id="8" startTime="63425" endTime="64625" palette="57" />
-        <Effect ref="71" name="Bars" id="9" startTime="64625" endTime="65825" palette="58" />
-        <Effect ref="73" name="Shockwave" id="10" startTime="65825" endTime="66250" palette="59" />
-        <Effect ref="71" name="Bars" id="11" startTime="66250" endTime="67450" palette="22" />
-        <Effect ref="73" name="Shockwave" id="12" startTime="67450" endTime="68650" palette="23" />
-        <Effect ref="71" name="Bars" id="13" startTime="68650" endTime="69850" palette="24" />
-        <Effect ref="73" name="Shockwave" id="14" startTime="69850" endTime="71050" palette="25" />
-        <Effect ref="71" name="Bars" id="15" startTime="71050" endTime="72250" palette="26" />
-        <Effect ref="73" name="Shockwave" id="16" startTime="72250" endTime="73450" palette="22" />
-        <Effect ref="71" name="Bars" id="17" startTime="73450" endTime="74650" palette="23" />
-        <Effect ref="73" name="Shockwave" id="18" startTime="74650" endTime="75850" palette="24" />
-        <Effect ref="71" name="Bars" id="19" startTime="75850" endTime="76600" palette="25" />
-        <Effect ref="72" name="Bars" id="20" startTime="107600" endTime="107850" palette="60" />
-        <Effect ref="72" name="Bars" id="21" startTime="112525" endTime="112775" palette="61" />
-        <Effect ref="72" name="Bars" id="22" startTime="114700" endTime="114950" palette="61" />
-        <Effect ref="72" name="Bars" id="23" startTime="120550" endTime="120800" palette="62" />
-        <Effect ref="71" name="Bars" id="24" startTime="135250" endTime="136450" palette="31" />
-        <Effect ref="73" name="Shockwave" id="25" startTime="136450" endTime="137650" palette="32" />
-        <Effect ref="72" name="Bars" id="26" startTime="138800" endTime="139075" palette="34" />
-        <Effect ref="71" name="Bars" id="27" startTime="139075" endTime="139325" palette="35" />
-        <Effect ref="72" name="Bars" id="28" startTime="139325" endTime="139675" palette="31" />
-        <Effect ref="73" name="Shockwave" id="29" startTime="142875" endTime="143325" palette="35" />
-        <Effect ref="71" name="Bars" id="30" startTime="143725" endTime="144125" palette="31" />
-        <Effect ref="73" name="Shockwave" id="31" startTime="144575" endTime="145075" palette="32" />
-        <Effect ref="71" name="Bars" id="32" startTime="145625" endTime="146125" palette="33" />
-        <Effect ref="71" name="Bars" id="33" startTime="146800" endTime="147775" palette="35" />
-        <Effect ref="73" name="Shockwave" id="34" startTime="147775" endTime="148750" palette="31" />
-        <Effect ref="71" name="Bars" id="35" startTime="148750" endTime="149700" palette="32" />
-        <Effect ref="73" name="Shockwave" id="36" startTime="149700" endTime="150250" palette="33" />
-      </EffectLayer>
-    </Element>
     <Element type="model" name="SnowFlakes-Left">
       <EffectLayer>
         <Effect ref="74" name="Garlands" startTime="17450" endTime="25750" palette="0" />
@@ -2554,12 +2759,6 @@
       <EffectLayer />
     </Element>
     <Element type="model" name="PPD Wreath Spiral All">
-      <EffectLayer />
-    </Element>
-    <Element type="model" name="RoofLines-Bottom">
-      <EffectLayer />
-    </Element>
-    <Element type="model" name="RoofLines-Top">
       <EffectLayer />
     </Element>
     <Element type="model" name="PPD Wreath Spiral CClockwise">
@@ -4633,492 +4832,6 @@
         <Effect ref="126" name="Color Wash" id="1" startTime="48500" endTime="48600" palette="64" />
       </SubModelEffectLayer>
       <SubModelEffectLayer name="LOR-SpiralsCW All" layer="0"><Effect name="Pinwheel" startTime="43000" endTime="43400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="43400" endTime="43800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="43800" endTime="44200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="44200" endTime="44600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="44600" endTime="45000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45000" endTime="45400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45400" endTime="45800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="45800" endTime="46200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="46200" endTime="46600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="46600" endTime="47000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="47000" endTime="47400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="48600" endTime="49000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49000" endTime="49400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49400" endTime="49800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="49800" endTime="50200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="50200" endTime="50600" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="50600" endTime="51000" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51000" endTime="51400" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51400" endTime="51800" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="51800" endTime="52200" ref="122" palette="1403" /><Effect name="Pinwheel" startTime="52200" endTime="52600" ref="122" palette="1403" /><Effect name="Spirals" startTime="52600" endTime="53000" ref="123" palette="1403" /><Effect name="Spirals" startTime="53000" endTime="53400" ref="123" palette="1403" /><Effect name="Spirals" startTime="53400" endTime="53800" ref="123" palette="1403" /><Effect name="Spirals" startTime="53800" endTime="54200" ref="123" palette="1403" /><Effect name="Spirals" startTime="54200" endTime="54600" ref="123" palette="1403" /><Effect name="Spirals" startTime="54600" endTime="55000" ref="123" palette="1403" /><Effect name="Spirals" startTime="55000" endTime="55400" ref="123" palette="1403" /><Effect name="Spirals" startTime="55400" endTime="55800" ref="123" palette="1403" /><Effect name="Spirals" startTime="55800" endTime="56200" ref="123" palette="1403" /><Effect name="Spirals" startTime="56200" endTime="56600" ref="123" palette="1403" /><Effect name="Spirals" startTime="56600" endTime="57000" ref="123" palette="1403" /><Effect name="Spirals" startTime="57000" endTime="57400" ref="123" palette="1403" /><Effect name="Spirals" startTime="57400" endTime="57600" ref="123" palette="1403" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 2" layer="0"><Effect name="Pinwheel" startTime="18720" endTime="26050" ref="124" palette="1404" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Group 5" layer="0"><Effect name="On" startTime="19070" endTime="19560" ref="125" palette="0" /><Effect name="On" startTime="19960" endTime="20310" ref="125" palette="0" /><Effect name="On" startTime="20840" endTime="21290" ref="125" palette="0" /><Effect name="On" startTime="21600" endTime="22140" ref="125" palette="0" /><Effect name="On" startTime="22640" endTime="23040" ref="125" palette="0" /><Effect name="On" startTime="23640" endTime="24090" ref="125" palette="0" /><Effect name="On" startTime="24440" endTime="24990" ref="125" palette="0" /></SubModelEffectLayer><SubModelEffectLayer name="LOR-Petal Tips Group" layer="0"><Effect name="On" startTime="18720" endTime="19070" ref="125" palette="0" /><Effect name="On" startTime="19560" endTime="19960" ref="125" palette="0" /><Effect name="On" startTime="20310" endTime="20840" ref="125" palette="0" /><Effect name="On" startTime="21290" endTime="21600" ref="125" palette="0" /><Effect name="On" startTime="22140" endTime="22640" ref="125" palette="0" /><Effect name="On" startTime="23040" endTime="23640" ref="125" palette="0" /><Effect name="On" startTime="24090" endTime="24440" ref="125" palette="0" /><Effect name="On" startTime="24990" endTime="26050" ref="125" palette="0" /></SubModelEffectLayer></Element>
-    <Element type="model" name="Roof-BottomLeft">
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="87" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="87" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="87" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="87" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="87" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="87" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="87" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="87" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="87" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="87" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="87" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="87" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="87" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="87" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="87" />
-        <Effect ref="114" name="On" id="15" startTime="47800" endTime="48600" palette="87" />
-        <Effect ref="115" name="On" id="16" startTime="48600" endTime="49000" palette="87" />
-        <Effect ref="115" name="On" id="17" startTime="49000" endTime="49400" palette="0" />
-        <Effect ref="115" name="On" id="18" startTime="49400" endTime="49800" palette="87" />
-        <Effect ref="115" name="On" id="19" startTime="49800" endTime="50200" palette="0" />
-        <Effect ref="115" name="On" id="20" startTime="50200" endTime="50600" palette="87" />
-        <Effect ref="115" name="On" id="21" startTime="50600" endTime="51000" palette="0" />
-        <Effect ref="115" name="On" id="22" startTime="51000" endTime="51400" palette="87" />
-        <Effect ref="115" name="On" id="23" startTime="51400" endTime="51800" palette="0" />
-        <Effect ref="115" name="On" id="24" startTime="51800" endTime="52200" palette="87" />
-        <Effect ref="115" name="On" id="25" startTime="52200" endTime="52600" palette="0" />
-        <Effect ref="115" name="On" id="26" startTime="52600" endTime="53000" palette="87" />
-        <Effect ref="115" name="On" id="27" startTime="53000" endTime="53400" palette="0" />
-        <Effect ref="115" name="On" id="28" startTime="53400" endTime="53800" palette="87" />
-        <Effect ref="115" name="On" id="29" startTime="53800" endTime="54200" palette="0" />
-        <Effect ref="115" name="On" id="30" startTime="54200" endTime="54600" palette="87" />
-        <Effect ref="115" name="On" id="31" startTime="54600" endTime="55000" palette="0" />
-        <Effect ref="115" name="On" id="32" startTime="55000" endTime="55400" palette="87" />
-        <Effect ref="115" name="On" id="33" startTime="55400" endTime="55800" palette="0" />
-        <Effect ref="115" name="On" id="34" startTime="55800" endTime="56200" palette="87" />
-        <Effect ref="115" name="On" id="35" startTime="56200" endTime="56600" palette="0" />
-        <Effect ref="115" name="On" id="36" startTime="56600" endTime="57000" palette="87" />
-        <Effect ref="115" name="On" id="37" startTime="57000" endTime="57400" palette="0" />
-        <Effect ref="115" name="On" id="38" startTime="57400" endTime="57600" palette="87" />
-        <Effect ref="115" name="On" id="39" startTime="76950" endTime="88550" palette="87" />
-        <Effect ref="113" name="On" id="40" startTime="88550" endTime="89100" palette="87" />
-        <Effect ref="115" name="On" id="41" startTime="89100" endTime="94700" palette="0" />
-        <Effect ref="116" name="On" id="42" startTime="94700" endTime="95050" palette="87" />
-        <Effect ref="115" name="On" id="43" startTime="95050" endTime="97700" palette="87" />
-        <Effect ref="116" name="On" id="44" startTime="97700" endTime="98100" palette="87" />
-        <Effect ref="113" name="On" id="45" startTime="98100" endTime="98550" palette="87" />
-        <Effect ref="116" name="On" id="46" startTime="98550" endTime="99050" palette="87" />
-        <Effect ref="113" name="On" id="47" startTime="99050" endTime="99500" palette="87" />
-        <Effect ref="116" name="On" id="48" startTime="99500" endTime="100000" palette="87" />
-        <Effect ref="113" name="On" id="49" startTime="100000" endTime="100550" palette="87" />
-        <Effect ref="116" name="On" id="50" startTime="100550" endTime="101050" palette="87" />
-        <Effect ref="115" name="On" id="51" startTime="101050" endTime="101575" palette="87" />
-        <Effect ref="116" name="On" id="52" startTime="124925" endTime="125275" palette="87" />
-        <Effect ref="115" name="On" id="53" startTime="125275" endTime="127100" palette="87" />
-        <Effect ref="113" name="On" id="54" startTime="127100" endTime="127400" palette="87" />
-        <Effect ref="116" name="On" id="55" startTime="127400" endTime="127725" palette="0" />
-        <Effect ref="115" name="On" id="56" startTime="127725" endTime="129500" palette="0" />
-        <Effect ref="113" name="On" id="57" startTime="129500" endTime="129800" palette="0" />
-        <Effect ref="116" name="On" id="58" startTime="129800" endTime="130100" palette="87" />
-        <Effect ref="115" name="On" id="59" startTime="130100" endTime="131775" palette="87" />
-        <Effect ref="113" name="On" id="60" startTime="131775" endTime="131950" palette="87" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="0" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="0" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="0" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="0" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="0" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="0" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="0" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="0" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="0" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="0" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="0" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="0" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="0" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="0" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="0" />
-        <Effect ref="114" name="On" id="15" startTime="47800" endTime="48600" palette="0" />
-        <Effect ref="116" name="On" id="16" startTime="88550" endTime="89100" palette="0" />
-        <Effect ref="113" name="On" id="17" startTime="94700" endTime="95050" palette="0" />
-        <Effect ref="113" name="On" id="18" startTime="97700" endTime="98100" palette="0" />
-        <Effect ref="116" name="On" id="19" startTime="98100" endTime="98550" palette="0" />
-        <Effect ref="113" name="On" id="20" startTime="98550" endTime="99050" palette="0" />
-        <Effect ref="116" name="On" id="21" startTime="99050" endTime="99500" palette="0" />
-        <Effect ref="113" name="On" id="22" startTime="99500" endTime="100000" palette="0" />
-        <Effect ref="116" name="On" id="23" startTime="100000" endTime="100550" palette="0" />
-        <Effect ref="113" name="On" id="24" startTime="100550" endTime="101050" palette="0" />
-        <Effect ref="116" name="On" id="25" startTime="101050" endTime="101575" palette="0" />
-      </EffectLayer>
-      <EffectLayer layerName="Lindsey response">
-        <Effect ref="84" name="Color Wash" startTime="31675" endTime="31900" palette="20" />
-        <Effect ref="84" name="Color Wash" id="1" startTime="38200" endTime="38375" palette="19" />
-        <Effect ref="84" name="Color Wash" id="2" startTime="103000" endTime="103200" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="3" startTime="103750" endTime="103950" palette="62" />
-        <Effect ref="84" name="Color Wash" id="4" startTime="104650" endTime="104875" palette="61" />
-        <Effect ref="84" name="Color Wash" id="5" startTime="105575" endTime="105775" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="6" startTime="106525" endTime="106725" palette="60" />
-        <Effect ref="84" name="Color Wash" id="7" startTime="107400" endTime="107600" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="8" startTime="108250" endTime="108450" palette="62" />
-        <Effect ref="84" name="Color Wash" id="9" startTime="109150" endTime="109350" palette="61" />
-        <Effect ref="84" name="Color Wash" id="10" startTime="110100" endTime="110300" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="11" startTime="110950" endTime="111150" palette="60" />
-        <Effect ref="84" name="Color Wash" id="12" startTime="111850" endTime="112050" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="13" startTime="112825" endTime="113025" palette="62" />
-        <Effect ref="84" name="Color Wash" id="14" startTime="113675" endTime="113875" palette="61" />
-        <Effect ref="84" name="Color Wash" id="15" startTime="114500" endTime="114700" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="16" startTime="115450" endTime="115650" palette="60" />
-        <Effect ref="84" name="Color Wash" id="17" startTime="116350" endTime="116550" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="18" startTime="117250" endTime="117450" palette="62" />
-        <Effect ref="84" name="Color Wash" id="19" startTime="118150" endTime="118350" palette="61" />
-        <Effect ref="84" name="Color Wash" id="20" startTime="119075" endTime="119300" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="21" startTime="119950" endTime="120150" palette="60" />
-        <Effect ref="84" name="Color Wash" id="22" startTime="120825" endTime="121050" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="23" startTime="121650" endTime="121850" palette="62" />
-        <Effect ref="79" name="On" id="24" startTime="122525" endTime="122650" palette="1393" />
-        <Effect ref="84" name="Color Wash" id="25" startTime="146575" endTime="146800" palette="34" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Roof-BottomRight">
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="87" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="87" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="87" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="87" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="87" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="87" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="87" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="87" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="87" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="87" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="87" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="87" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="87" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="87" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="87" />
-        <Effect ref="117" name="On" id="15" startTime="47700" endTime="48600" palette="87" />
-        <Effect ref="115" name="On" id="16" startTime="48600" endTime="49000" palette="87" />
-        <Effect ref="115" name="On" id="17" startTime="49000" endTime="49400" palette="0" />
-        <Effect ref="115" name="On" id="18" startTime="49400" endTime="49800" palette="87" />
-        <Effect ref="115" name="On" id="19" startTime="49800" endTime="50200" palette="0" />
-        <Effect ref="115" name="On" id="20" startTime="50200" endTime="50600" palette="87" />
-        <Effect ref="115" name="On" id="21" startTime="50600" endTime="51000" palette="0" />
-        <Effect ref="115" name="On" id="22" startTime="51000" endTime="51400" palette="87" />
-        <Effect ref="115" name="On" id="23" startTime="51400" endTime="51800" palette="0" />
-        <Effect ref="115" name="On" id="24" startTime="51800" endTime="52200" palette="87" />
-        <Effect ref="115" name="On" id="25" startTime="52200" endTime="52600" palette="0" />
-        <Effect ref="115" name="On" id="26" startTime="52600" endTime="53000" palette="87" />
-        <Effect ref="115" name="On" id="27" startTime="53000" endTime="53400" palette="0" />
-        <Effect ref="115" name="On" id="28" startTime="53400" endTime="53800" palette="87" />
-        <Effect ref="115" name="On" id="29" startTime="53800" endTime="54200" palette="0" />
-        <Effect ref="115" name="On" id="30" startTime="54200" endTime="54600" palette="87" />
-        <Effect ref="115" name="On" id="31" startTime="54600" endTime="55000" palette="0" />
-        <Effect ref="115" name="On" id="32" startTime="55000" endTime="55400" palette="87" />
-        <Effect ref="115" name="On" id="33" startTime="55400" endTime="55800" palette="0" />
-        <Effect ref="115" name="On" id="34" startTime="55800" endTime="56200" palette="87" />
-        <Effect ref="115" name="On" id="35" startTime="56200" endTime="56600" palette="0" />
-        <Effect ref="115" name="On" id="36" startTime="56600" endTime="57000" palette="87" />
-        <Effect ref="115" name="On" id="37" startTime="57000" endTime="57400" palette="0" />
-        <Effect ref="115" name="On" id="38" startTime="57400" endTime="57600" palette="87" />
-        <Effect ref="115" name="On" id="39" startTime="76950" endTime="88550" palette="87" />
-        <Effect ref="113" name="On" id="40" startTime="88550" endTime="89100" palette="87" />
-        <Effect ref="115" name="On" id="41" startTime="89100" endTime="94700" palette="0" />
-        <Effect ref="116" name="On" id="42" startTime="94700" endTime="95050" palette="87" />
-        <Effect ref="115" name="On" id="43" startTime="95050" endTime="97700" palette="87" />
-        <Effect ref="116" name="On" id="44" startTime="97700" endTime="98100" palette="87" />
-        <Effect ref="113" name="On" id="45" startTime="98100" endTime="98550" palette="87" />
-        <Effect ref="116" name="On" id="46" startTime="98550" endTime="99050" palette="87" />
-        <Effect ref="113" name="On" id="47" startTime="99050" endTime="99500" palette="87" />
-        <Effect ref="116" name="On" id="48" startTime="99500" endTime="100000" palette="87" />
-        <Effect ref="113" name="On" id="49" startTime="100000" endTime="100550" palette="87" />
-        <Effect ref="116" name="On" id="50" startTime="100550" endTime="101050" palette="87" />
-        <Effect ref="115" name="On" id="51" startTime="101050" endTime="101575" palette="87" />
-        <Effect ref="113" name="On" id="52" startTime="101575" endTime="101950" palette="87" />
-        <Effect ref="116" name="On" id="53" startTime="124925" endTime="125275" palette="87" />
-        <Effect ref="115" name="On" id="54" startTime="125275" endTime="127100" palette="87" />
-        <Effect ref="113" name="On" id="55" startTime="127100" endTime="127400" palette="87" />
-        <Effect ref="116" name="On" id="56" startTime="127400" endTime="127725" palette="0" />
-        <Effect ref="115" name="On" id="57" startTime="127725" endTime="129500" palette="0" />
-        <Effect ref="113" name="On" id="58" startTime="129500" endTime="129800" palette="0" />
-        <Effect ref="116" name="On" id="59" startTime="129800" endTime="130100" palette="87" />
-        <Effect ref="115" name="On" id="60" startTime="130100" endTime="131775" palette="87" />
-        <Effect ref="113" name="On" id="61" startTime="131775" endTime="131950" palette="87" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="0" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="0" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="0" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="0" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="0" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="0" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="0" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="0" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="0" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="0" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="0" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="0" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="0" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="0" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="0" />
-        <Effect ref="117" name="On" id="15" startTime="47700" endTime="48600" palette="0" />
-        <Effect ref="116" name="On" id="16" startTime="88550" endTime="89100" palette="0" />
-        <Effect ref="113" name="On" id="17" startTime="94700" endTime="95050" palette="0" />
-        <Effect ref="113" name="On" id="18" startTime="97700" endTime="98100" palette="0" />
-        <Effect ref="116" name="On" id="19" startTime="98100" endTime="98550" palette="0" />
-        <Effect ref="113" name="On" id="20" startTime="98550" endTime="99050" palette="0" />
-        <Effect ref="116" name="On" id="21" startTime="99050" endTime="99500" palette="0" />
-        <Effect ref="113" name="On" id="22" startTime="99500" endTime="100000" palette="0" />
-        <Effect ref="116" name="On" id="23" startTime="100000" endTime="100550" palette="0" />
-        <Effect ref="113" name="On" id="24" startTime="100550" endTime="101050" palette="0" />
-        <Effect ref="116" name="On" id="25" startTime="101050" endTime="101575" palette="0" />
-        <Effect ref="113" name="On" id="26" startTime="101575" endTime="101950" palette="0" />
-      </EffectLayer>
-      <EffectLayer layerName="Lindsey response">
-        <Effect ref="84" name="Color Wash" startTime="38375" endTime="38575" palette="20" />
-        <Effect ref="84" name="Color Wash" id="1" startTime="39375" endTime="39575" palette="19" />
-        <Effect ref="79" name="On" id="2" startTime="103200" endTime="103300" palette="1394" />
-        <Effect ref="84" name="Color Wash" id="3" startTime="103950" endTime="104150" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="4" startTime="104875" endTime="105075" palette="62" />
-        <Effect ref="84" name="Color Wash" id="5" startTime="105775" endTime="106000" palette="61" />
-        <Effect ref="84" name="Color Wash" id="6" startTime="106725" endTime="106925" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="7" startTime="108450" endTime="108650" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="8" startTime="109350" endTime="109575" palette="62" />
-        <Effect ref="84" name="Color Wash" id="9" startTime="110300" endTime="110475" palette="61" />
-        <Effect ref="84" name="Color Wash" id="10" startTime="111150" endTime="111350" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="11" startTime="112050" endTime="112250" palette="60" />
-        <Effect ref="84" name="Color Wash" id="12" startTime="113025" endTime="113200" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="13" startTime="113875" endTime="114050" palette="62" />
-        <Effect ref="84" name="Color Wash" id="14" startTime="115650" endTime="115850" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="15" startTime="116550" endTime="116750" palette="60" />
-        <Effect ref="84" name="Color Wash" id="16" startTime="117450" endTime="117650" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="17" startTime="118350" endTime="118550" palette="62" />
-        <Effect ref="84" name="Color Wash" id="18" startTime="119300" endTime="119500" palette="61" />
-        <Effect ref="84" name="Color Wash" id="19" startTime="120150" endTime="120325" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="20" startTime="121050" endTime="121225" palette="60" />
-        <Effect ref="84" name="Color Wash" id="21" startTime="121850" endTime="122050" palette="1391" />
-        <Effect ref="78" name="Twinkle" id="22" startTime="132900" endTime="134100" palette="34" />
-        <Effect ref="78" name="Twinkle" id="23" startTime="137650" endTime="138800" palette="33" />
-        <Effect ref="78" name="Twinkle" id="24" startTime="139675" endTime="140875" palette="32" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Roof-TopLeft">
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="87" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="87" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="87" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="87" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="87" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="87" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="87" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="87" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="87" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="87" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="87" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="87" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="87" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="87" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="87" />
-        <Effect ref="118" name="On" id="15" startTime="47700" endTime="48600" palette="87" />
-        <Effect ref="115" name="On" id="16" startTime="48600" endTime="49000" palette="87" />
-        <Effect ref="115" name="On" id="17" startTime="49000" endTime="49400" palette="0" />
-        <Effect ref="115" name="On" id="18" startTime="49400" endTime="49800" palette="87" />
-        <Effect ref="115" name="On" id="19" startTime="49800" endTime="50200" palette="0" />
-        <Effect ref="115" name="On" id="20" startTime="50200" endTime="50600" palette="87" />
-        <Effect ref="115" name="On" id="21" startTime="50600" endTime="51000" palette="0" />
-        <Effect ref="115" name="On" id="22" startTime="51000" endTime="51400" palette="87" />
-        <Effect ref="115" name="On" id="23" startTime="51400" endTime="51800" palette="0" />
-        <Effect ref="115" name="On" id="24" startTime="51800" endTime="52200" palette="87" />
-        <Effect ref="115" name="On" id="25" startTime="52200" endTime="52600" palette="0" />
-        <Effect ref="115" name="On" id="26" startTime="52600" endTime="53000" palette="87" />
-        <Effect ref="115" name="On" id="27" startTime="53000" endTime="53400" palette="0" />
-        <Effect ref="115" name="On" id="28" startTime="53400" endTime="53800" palette="87" />
-        <Effect ref="115" name="On" id="29" startTime="53800" endTime="54200" palette="0" />
-        <Effect ref="115" name="On" id="30" startTime="54200" endTime="54600" palette="87" />
-        <Effect ref="115" name="On" id="31" startTime="54600" endTime="55000" palette="0" />
-        <Effect ref="115" name="On" id="32" startTime="55000" endTime="55400" palette="87" />
-        <Effect ref="115" name="On" id="33" startTime="55400" endTime="55800" palette="0" />
-        <Effect ref="115" name="On" id="34" startTime="55800" endTime="56200" palette="87" />
-        <Effect ref="115" name="On" id="35" startTime="56200" endTime="56600" palette="0" />
-        <Effect ref="115" name="On" id="36" startTime="56600" endTime="57000" palette="87" />
-        <Effect ref="115" name="On" id="37" startTime="57000" endTime="57400" palette="0" />
-        <Effect ref="115" name="On" id="38" startTime="57400" endTime="57600" palette="87" />
-        <Effect ref="115" name="On" id="39" startTime="76950" endTime="88550" palette="87" />
-        <Effect ref="113" name="On" id="40" startTime="88550" endTime="89100" palette="87" />
-        <Effect ref="115" name="On" id="41" startTime="89100" endTime="94700" palette="0" />
-        <Effect ref="116" name="On" id="42" startTime="94700" endTime="95050" palette="87" />
-        <Effect ref="115" name="On" id="43" startTime="95050" endTime="97700" palette="87" />
-        <Effect ref="116" name="On" id="44" startTime="97700" endTime="98100" palette="87" />
-        <Effect ref="113" name="On" id="45" startTime="98100" endTime="98550" palette="87" />
-        <Effect ref="116" name="On" id="46" startTime="98550" endTime="99050" palette="87" />
-        <Effect ref="113" name="On" id="47" startTime="99050" endTime="99500" palette="87" />
-        <Effect ref="116" name="On" id="48" startTime="99500" endTime="100000" palette="87" />
-        <Effect ref="113" name="On" id="49" startTime="100000" endTime="100550" palette="87" />
-        <Effect ref="116" name="On" id="50" startTime="100550" endTime="101050" palette="87" />
-        <Effect ref="115" name="On" id="51" startTime="101050" endTime="101575" palette="87" />
-        <Effect ref="113" name="On" id="52" startTime="101575" endTime="101950" palette="87" />
-        <Effect ref="116" name="On" id="53" startTime="124925" endTime="125275" palette="87" />
-        <Effect ref="115" name="On" id="54" startTime="125275" endTime="127100" palette="87" />
-        <Effect ref="113" name="On" id="55" startTime="127100" endTime="127400" palette="87" />
-        <Effect ref="116" name="On" id="56" startTime="127400" endTime="127725" palette="0" />
-        <Effect ref="115" name="On" id="57" startTime="127725" endTime="129500" palette="0" />
-        <Effect ref="113" name="On" id="58" startTime="129500" endTime="129800" palette="0" />
-        <Effect ref="116" name="On" id="59" startTime="129800" endTime="130100" palette="87" />
-        <Effect ref="115" name="On" id="60" startTime="130100" endTime="131775" palette="87" />
-        <Effect ref="113" name="On" id="61" startTime="131775" endTime="131950" palette="87" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="0" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="0" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="0" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="0" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="0" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="0" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="0" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="0" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="0" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="0" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="0" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="0" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="0" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="0" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="0" />
-        <Effect ref="118" name="On" id="15" startTime="47700" endTime="48600" palette="0" />
-        <Effect ref="116" name="On" id="16" startTime="88550" endTime="89100" palette="0" />
-        <Effect ref="113" name="On" id="17" startTime="94700" endTime="95050" palette="0" />
-        <Effect ref="113" name="On" id="18" startTime="97700" endTime="98100" palette="0" />
-        <Effect ref="116" name="On" id="19" startTime="98100" endTime="98550" palette="0" />
-        <Effect ref="113" name="On" id="20" startTime="98550" endTime="99050" palette="0" />
-        <Effect ref="116" name="On" id="21" startTime="99050" endTime="99500" palette="0" />
-        <Effect ref="113" name="On" id="22" startTime="99500" endTime="100000" palette="0" />
-        <Effect ref="116" name="On" id="23" startTime="100000" endTime="100550" palette="0" />
-        <Effect ref="113" name="On" id="24" startTime="100550" endTime="101050" palette="0" />
-        <Effect ref="116" name="On" id="25" startTime="101050" endTime="101575" palette="0" />
-        <Effect ref="113" name="On" id="26" startTime="101575" endTime="101950" palette="0" />
-      </EffectLayer>
-      <EffectLayer layerName="Lindsey response">
-        <Effect ref="79" name="On" startTime="39575" endTime="39725" palette="1395" />
-        <Effect ref="84" name="Color Wash" id="1" startTime="103350" endTime="103550" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="2" startTime="104200" endTime="104400" palette="60" />
-        <Effect ref="84" name="Color Wash" id="3" startTime="105125" endTime="105325" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="4" startTime="106025" endTime="106250" palette="62" />
-        <Effect ref="84" name="Color Wash" id="5" startTime="106950" endTime="107150" palette="61" />
-        <Effect ref="84" name="Color Wash" id="6" startTime="107875" endTime="108075" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="7" startTime="108700" endTime="108900" palette="60" />
-        <Effect ref="84" name="Color Wash" id="8" startTime="109625" endTime="109850" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="9" startTime="110500" endTime="110700" palette="62" />
-        <Effect ref="84" name="Color Wash" id="10" startTime="111400" endTime="111600" palette="61" />
-        <Effect ref="84" name="Color Wash" id="11" startTime="112300" endTime="112525" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="12" startTime="113225" endTime="113400" palette="60" />
-        <Effect ref="84" name="Color Wash" id="13" startTime="114075" endTime="114250" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="14" startTime="114975" endTime="115200" palette="62" />
-        <Effect ref="84" name="Color Wash" id="15" startTime="115900" endTime="116100" palette="61" />
-        <Effect ref="84" name="Color Wash" id="16" startTime="116800" endTime="117000" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="17" startTime="117700" endTime="117900" palette="60" />
-        <Effect ref="84" name="Color Wash" id="18" startTime="118600" endTime="118800" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="19" startTime="119550" endTime="119750" palette="62" />
-        <Effect ref="84" name="Color Wash" id="20" startTime="120350" endTime="120550" palette="61" />
-        <Effect ref="84" name="Color Wash" id="21" startTime="121250" endTime="121450" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="22" startTime="122075" endTime="122300" palette="30" />
-        <Effect ref="78" name="Twinkle" id="23" startTime="134100" endTime="135250" palette="35" />
-        <Effect ref="78" name="Twinkle" id="24" startTime="140875" endTime="142075" palette="33" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Roof-TopRight">
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="87" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="87" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="87" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="87" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="87" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="87" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="87" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="87" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="87" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="87" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="87" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="87" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="87" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="87" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="87" />
-        <Effect ref="118" name="On" id="15" startTime="47700" endTime="48600" palette="87" />
-        <Effect ref="115" name="On" id="16" startTime="48600" endTime="49000" palette="87" />
-        <Effect ref="115" name="On" id="17" startTime="49000" endTime="49400" palette="0" />
-        <Effect ref="115" name="On" id="18" startTime="49400" endTime="49800" palette="87" />
-        <Effect ref="115" name="On" id="19" startTime="49800" endTime="50200" palette="0" />
-        <Effect ref="115" name="On" id="20" startTime="50200" endTime="50600" palette="87" />
-        <Effect ref="115" name="On" id="21" startTime="50600" endTime="51000" palette="0" />
-        <Effect ref="115" name="On" id="22" startTime="51000" endTime="51400" palette="87" />
-        <Effect ref="115" name="On" id="23" startTime="51400" endTime="51800" palette="0" />
-        <Effect ref="115" name="On" id="24" startTime="51800" endTime="52200" palette="87" />
-        <Effect ref="115" name="On" id="25" startTime="52200" endTime="52600" palette="0" />
-        <Effect ref="115" name="On" id="26" startTime="52600" endTime="53000" palette="87" />
-        <Effect ref="115" name="On" id="27" startTime="53000" endTime="53400" palette="0" />
-        <Effect ref="115" name="On" id="28" startTime="53400" endTime="53800" palette="87" />
-        <Effect ref="115" name="On" id="29" startTime="53800" endTime="54200" palette="0" />
-        <Effect ref="115" name="On" id="30" startTime="54200" endTime="54600" palette="87" />
-        <Effect ref="115" name="On" id="31" startTime="54600" endTime="55000" palette="0" />
-        <Effect ref="115" name="On" id="32" startTime="55000" endTime="55400" palette="87" />
-        <Effect ref="115" name="On" id="33" startTime="55400" endTime="55800" palette="0" />
-        <Effect ref="115" name="On" id="34" startTime="55800" endTime="56200" palette="87" />
-        <Effect ref="115" name="On" id="35" startTime="56200" endTime="56600" palette="0" />
-        <Effect ref="115" name="On" id="36" startTime="56600" endTime="57000" palette="87" />
-        <Effect ref="115" name="On" id="37" startTime="57000" endTime="57400" palette="0" />
-        <Effect ref="115" name="On" id="38" startTime="57400" endTime="57600" palette="87" />
-        <Effect ref="115" name="On" id="39" startTime="76950" endTime="88550" palette="87" />
-        <Effect ref="113" name="On" id="40" startTime="88550" endTime="89100" palette="87" />
-        <Effect ref="115" name="On" id="41" startTime="89100" endTime="94700" palette="0" />
-        <Effect ref="116" name="On" id="42" startTime="94700" endTime="95050" palette="87" />
-        <Effect ref="115" name="On" id="43" startTime="95050" endTime="97700" palette="87" />
-        <Effect ref="116" name="On" id="44" startTime="97700" endTime="98100" palette="87" />
-        <Effect ref="113" name="On" id="45" startTime="98100" endTime="98550" palette="87" />
-        <Effect ref="116" name="On" id="46" startTime="98550" endTime="99050" palette="87" />
-        <Effect ref="113" name="On" id="47" startTime="99050" endTime="99500" palette="87" />
-        <Effect ref="116" name="On" id="48" startTime="99500" endTime="100000" palette="87" />
-        <Effect ref="113" name="On" id="49" startTime="100000" endTime="100550" palette="87" />
-        <Effect ref="116" name="On" id="50" startTime="100550" endTime="101050" palette="87" />
-        <Effect ref="115" name="On" id="51" startTime="101050" endTime="101575" palette="87" />
-        <Effect ref="113" name="On" id="52" startTime="101575" endTime="101950" palette="87" />
-        <Effect ref="116" name="On" id="53" startTime="124925" endTime="125275" palette="87" />
-        <Effect ref="115" name="On" id="54" startTime="125275" endTime="127100" palette="87" />
-        <Effect ref="113" name="On" id="55" startTime="127100" endTime="127400" palette="87" />
-        <Effect ref="116" name="On" id="56" startTime="127400" endTime="127725" palette="0" />
-        <Effect ref="115" name="On" id="57" startTime="127725" endTime="129500" palette="0" />
-        <Effect ref="113" name="On" id="58" startTime="129500" endTime="129800" palette="0" />
-        <Effect ref="116" name="On" id="59" startTime="129800" endTime="130100" palette="87" />
-        <Effect ref="115" name="On" id="60" startTime="130100" endTime="131775" palette="87" />
-        <Effect ref="113" name="On" id="61" startTime="131775" endTime="131950" palette="87" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="113" name="On" startTime="18725" endTime="19075" palette="0" />
-        <Effect ref="113" name="On" id="1" startTime="19075" endTime="19550" palette="0" />
-        <Effect ref="113" name="On" id="2" startTime="19550" endTime="19950" palette="0" />
-        <Effect ref="113" name="On" id="3" startTime="19950" endTime="20300" palette="0" />
-        <Effect ref="113" name="On" id="4" startTime="20300" endTime="20850" palette="0" />
-        <Effect ref="113" name="On" id="5" startTime="20850" endTime="21300" palette="0" />
-        <Effect ref="113" name="On" id="6" startTime="21300" endTime="21600" palette="0" />
-        <Effect ref="113" name="On" id="7" startTime="21600" endTime="22150" palette="0" />
-        <Effect ref="113" name="On" id="8" startTime="22150" endTime="22650" palette="0" />
-        <Effect ref="113" name="On" id="9" startTime="22650" endTime="23050" palette="0" />
-        <Effect ref="113" name="On" id="10" startTime="23050" endTime="23650" palette="0" />
-        <Effect ref="113" name="On" id="11" startTime="23650" endTime="24100" palette="0" />
-        <Effect ref="113" name="On" id="12" startTime="24100" endTime="24450" palette="0" />
-        <Effect ref="113" name="On" id="13" startTime="24450" endTime="25000" palette="0" />
-        <Effect ref="113" name="On" id="14" startTime="25000" endTime="26050" palette="0" />
-        <Effect ref="118" name="On" id="15" startTime="47700" endTime="48600" palette="0" />
-        <Effect ref="116" name="On" id="16" startTime="88550" endTime="89100" palette="0" />
-        <Effect ref="113" name="On" id="17" startTime="94700" endTime="95050" palette="0" />
-        <Effect ref="113" name="On" id="18" startTime="97700" endTime="98100" palette="0" />
-        <Effect ref="116" name="On" id="19" startTime="98100" endTime="98550" palette="0" />
-        <Effect ref="113" name="On" id="20" startTime="98550" endTime="99050" palette="0" />
-        <Effect ref="116" name="On" id="21" startTime="99050" endTime="99500" palette="0" />
-        <Effect ref="113" name="On" id="22" startTime="99500" endTime="100000" palette="0" />
-        <Effect ref="116" name="On" id="23" startTime="100000" endTime="100550" palette="0" />
-        <Effect ref="113" name="On" id="24" startTime="100550" endTime="101050" palette="0" />
-        <Effect ref="116" name="On" id="25" startTime="101050" endTime="101575" palette="0" />
-        <Effect ref="113" name="On" id="26" startTime="101575" endTime="101950" palette="0" />
-      </EffectLayer>
-      <EffectLayer layerName="Lindsey response">
-        <Effect ref="84" name="Color Wash" startTime="38000" endTime="38200" palette="18" />
-        <Effect ref="84" name="Color Wash" id="1" startTime="38875" endTime="39075" palette="17" />
-        <Effect ref="78" name="Twinkle" id="2" startTime="59225" endTime="59750" palette="23" />
-        <Effect ref="84" name="Color Wash" id="3" startTime="103550" endTime="103725" palette="61" />
-        <Effect ref="84" name="Color Wash" id="4" startTime="104400" endTime="104625" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="5" startTime="105325" endTime="105525" palette="60" />
-        <Effect ref="84" name="Color Wash" id="6" startTime="106250" endTime="106475" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="7" startTime="107150" endTime="107350" palette="62" />
-        <Effect ref="79" name="On" id="8" startTime="108075" endTime="108225" palette="1396" />
-        <Effect ref="84" name="Color Wash" id="9" startTime="108900" endTime="109100" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="10" startTime="109850" endTime="110050" palette="60" />
-        <Effect ref="84" name="Color Wash" id="11" startTime="110700" endTime="110900" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="12" startTime="111600" endTime="111800" palette="62" />
-        <Effect ref="84" name="Color Wash" id="13" startTime="113400" endTime="113625" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="14" startTime="114250" endTime="114450" palette="60" />
-        <Effect ref="84" name="Color Wash" id="15" startTime="115200" endTime="115400" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="16" startTime="116100" endTime="116300" palette="62" />
-        <Effect ref="84" name="Color Wash" id="17" startTime="117000" endTime="117200" palette="61" />
-        <Effect ref="84" name="Color Wash" id="18" startTime="117900" endTime="118100" palette="1392" />
-        <Effect ref="84" name="Color Wash" id="19" startTime="118800" endTime="119025" palette="60" />
-        <Effect ref="84" name="Color Wash" id="20" startTime="119750" endTime="119925" palette="1391" />
-        <Effect ref="84" name="Color Wash" id="21" startTime="121450" endTime="121625" palette="61" />
-        <Effect ref="84" name="Color Wash" id="22" startTime="122300" endTime="122500" palette="43" />
-        <Effect ref="78" name="Twinkle" id="23" startTime="142075" endTime="142875" palette="34" />
-      </EffectLayer>
-    </Element>
     <Element type="model" name="SnowFlake-L1-Diamond">
       <EffectLayer>
         <Effect ref="0" name="Color Wash" startTime="47000" endTime="48600" palette="0" />
