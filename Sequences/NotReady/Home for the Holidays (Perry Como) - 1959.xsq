@@ -2,32 +2,48 @@
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
     <version>2026.20</version>
-    <author />
-    <author-email />
-    <author-website />
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
     <song>(There&amp;apos;s No Place Like) Home for the Holidays (1959 Version)</song>
     <artist>Perry Como</artist>
     <album>Christmas In New York</album>
-    <MusicURL />
-    <comment />
+    <MusicURL></MusicURL>
+    <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>Audio/Christmas/Home for the Holidays (Perry Como) - 1959.mp3</mediaFile>
+    <mediaFile>/Users/denisehansen/git/ChristmasXLights/Audio/Christmas/Home for the Holidays (Perry Como) - 1959.mp3</mediaFile>
     <sequenceDuration>174.960</sequenceDuration>
-    <imageDir />
+    <imageDir></imageDir>
   </head>
-  <ColorPalettes />
-  <EffectDB />
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#9f1d35,C_BUTTON_Palette2=#a67c00,C_BUTTON_Palette3=#82a762,C_BUTTON_Palette4=#ffffff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#9f1d35,C_BUTTON_Palette2=#a67c00,C_BUTTON_Palette3=#82a762,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#9f1d35,C_BUTTON_Palette2=#a67c00,C_BUTTON_Palette3=#82a762,C_BUTTON_Palette4=#ffffff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=27</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#9f1d35,C_BUTTON_Palette2=#a67c00,C_BUTTON_Palette3=#82a762,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#9f1d35,C_BUTTON_Palette2=#a67c00,C_BUTTON_Palette3=#82a762,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=65</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.50,T_TEXTCTRL_Fadeout=0.15</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.25</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.15</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=4,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.50,T_TEXTCTRL_Fadeout=0.15</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHECKBOX_Ripple_FilterRegex=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Square,E_CHOICE_Ripple_TimingTrack=,E_SLIDER_Ripple_Duration=1000,E_SLIDER_Ripple_Thickness=36,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_FilterLabel=,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.15</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHECKBOX_Ripple_FilterRegex=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Square,E_CHOICE_Ripple_TimingTrack=,E_SLIDER_Ripple_Duration=1000,E_SLIDER_Ripple_Thickness=36,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_FilterLabel=,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.25</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHECKBOX_Ripple_FilterRegex=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Square,E_CHOICE_Ripple_TimingTrack=,E_SLIDER_Ripple_Duration=1000,E_SLIDER_Ripple_Thickness=36,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_FilterLabel=,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.17</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHECKBOX_Ripple_FilterRegex=0,E_CHOICE_Ripple_Draw_Style=Old,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Square,E_CHOICE_Ripple_TimingTrack=,E_SLIDER_Ripple_Duration=1000,E_SLIDER_Ripple_Thickness=36,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_FilterLabel=,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadeout=0.20</Effect>
+  </EffectDB>
   <SequenceMedia />
   <DataLayers>
-    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="false" type="timing" name="Lyrics - word starts" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
+    <Element collapsed="false" type="timing" name="Lyrics - word starts" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Lyrics - phrases" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Sections - audio changes (estimated)" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Phrases - 8 beats (estimated)" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
-    <Element collapsed="false" type="timing" name="Beats - audio detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
+    <Element collapsed="false" type="timing" name="Beats - audio detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="true" />
     <Element collapsed="false" type="timing" name="Low-frequency accents - detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Bright accents - detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
     <Element collapsed="false" type="timing" name="Full-mix accents - detected" visible="true" views="Master View,Wreath Groups,Denise Fav,Arches plain,Props only" active="false" />
@@ -50,17 +66,48 @@
     <Element collapsed="false" type="model" name="Snowflakes-All" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlakes-Left" visible="true" />
     <Element collapsed="false" type="model" name="SnowFlakes-Right" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Center Piece" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Center Rings" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath DiamondArms" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Outer Diamonds" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Petals" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Rings" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral All" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral CClockwise" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Spiral Clockwise" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Star" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath Star Offset" visible="true" />
+    <Element collapsed="false" type="model" name="PPD Wreath-All" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-1-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-2-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-3-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-4-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-5-3-small" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-1-large" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-2-medium" visible="true" />
+    <Element collapsed="false" type="model" name="Arch-6-3-small" visible="true" />
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Lyrics - word starts">
       <EffectLayer>
         <Effect label="Instrumental lead-in" startTime="0" endTime="300" />
         <Effect label="Oh," startTime="300" endTime="725" />
-        <Effect label="there's" startTime="725" endTime="1050" />
+        <Effect label="there&amp;apos;s" startTime="725" endTime="1050" />
         <Effect label="no" startTime="1050" endTime="1650" />
         <Effect label="place" startTime="1650" endTime="2350" />
-        <Effect label="like" startTime="2350" endTime="2950" />
-        <Effect label="home" startTime="2950" endTime="3850" />
+        <Effect label="like" startTime="2350" endTime="3125" />
+        <Effect label="home" startTime="3125" endTime="3850" />
         <Effect label="for" startTime="3850" endTime="5150" />
         <Effect label="the" startTime="5150" endTime="5450" />
         <Effect label="holidays," startTime="5450" endTime="8200" />
@@ -86,11 +133,11 @@
         <Effect label="the" startTime="26250" endTime="27425" />
         <Effect label="holidays," startTime="27425" endTime="29450" />
         <Effect label="you" startTime="29450" endTime="29475" />
-        <Effect label="can't" startTime="29475" endTime="30250" />
+        <Effect label="can&amp;apos;t" startTime="29475" endTime="30250" />
         <Effect label="beat" startTime="30250" endTime="30650" />
         <Effect label="home," startTime="30650" endTime="31575" />
-        <Effect label="sweet" startTime="31575" endTime="32900" />
-        <Effect label="home." startTime="32900" endTime="36175" />
+        <Effect label="sweet" startTime="31575" endTime="33975" />
+        <Effect label="home." startTime="33975" endTime="36175" />
         <Effect label="I" startTime="36175" endTime="36475" />
         <Effect label="met" startTime="36475" endTime="37050" />
         <Effect label="a" startTime="37050" endTime="37325" />
@@ -101,7 +148,7 @@
         <Effect label="Tennessee." startTime="39225" endTime="41125" />
         <Effect label="He" startTime="41125" endTime="41350" />
         <Effect label="was" startTime="41350" endTime="41625" />
-        <Effect label="headin'" startTime="41625" endTime="42575" />
+        <Effect label="headin&amp;apos;" startTime="41625" endTime="42575" />
         <Effect label="for" startTime="42575" endTime="42825" />
         <Effect label="Pennsylvania" startTime="42825" endTime="44450" />
         <Effect label="and" startTime="44450" endTime="45300" />
@@ -116,7 +163,7 @@
         <Effect label="traveling" startTime="52375" endTime="52950" />
         <Effect label="down" startTime="52950" endTime="54050" />
         <Effect label="to" startTime="54050" endTime="54275" />
-        <Effect label="Dixie's" startTime="54275" endTime="55350" />
+        <Effect label="Dixie&amp;apos;s" startTime="54275" endTime="55350" />
         <Effect label="sunny" startTime="55350" endTime="55600" />
         <Effect label="shore" startTime="55600" endTime="56625" />
         <Effect label="From" startTime="56625" endTime="57225" />
@@ -129,7 +176,7 @@
         <Effect label="is" startTime="61400" endTime="62350" />
         <Effect label="terrific" startTime="62350" endTime="62975" />
         <Effect label="Oh," startTime="62975" endTime="63800" />
-        <Effect label="there's" startTime="63800" endTime="64225" />
+        <Effect label="there&amp;apos;s" startTime="63800" endTime="64225" />
         <Effect label="no" startTime="64225" endTime="64750" />
         <Effect label="place" startTime="64750" endTime="65350" />
         <Effect label="like" startTime="65350" endTime="65825" />
@@ -159,7 +206,7 @@
         <Effect label="the" startTime="84025" endTime="84250" />
         <Effect label="holidays" startTime="84250" endTime="85150" />
         <Effect label="you" startTime="85150" endTime="85675" />
-        <Effect label="can't" startTime="85675" endTime="86450" />
+        <Effect label="can&amp;apos;t" startTime="85675" endTime="86450" />
         <Effect label="beat" startTime="86450" endTime="86550" />
         <Effect label="home," startTime="86550" endTime="87275" />
         <Effect label="sweet" startTime="87275" endTime="87475" />
@@ -212,7 +259,7 @@
         <Effect label="Tennessee." startTime="106300" endTime="108100" />
         <Effect label="He" startTime="108100" endTime="108350" />
         <Effect label="was" startTime="108350" endTime="108625" />
-        <Effect label="a-headin'" startTime="108625" endTime="109875" />
+        <Effect label="a-headin&amp;apos;" startTime="108625" endTime="109875" />
         <Effect label="for" startTime="109875" endTime="109900" />
         <Effect label="Pennsylvania" startTime="109900" endTime="111100" />
         <Effect label="and" startTime="111100" endTime="112375" />
@@ -227,10 +274,10 @@
         <Effect label="Pennsylvania" startTime="116925" endTime="118000" />
         <Effect label="folks" startTime="118000" endTime="118975" />
         <Effect label="are" startTime="118975" endTime="119300" />
-        <Effect label="travelin'" startTime="119300" endTime="120525" />
+        <Effect label="travelin&amp;apos;" startTime="119300" endTime="120525" />
         <Effect label="Down" startTime="120525" endTime="120925" />
         <Effect label="to" startTime="120925" endTime="121150" />
-        <Effect label="Dixie's" startTime="121150" endTime="122200" />
+        <Effect label="Dixie&amp;apos;s" startTime="121150" endTime="122200" />
         <Effect label="sunny" startTime="122200" endTime="122475" />
         <Effect label="shore" startTime="122475" endTime="123000" />
         <Effect label="From" startTime="123000" endTime="123900" />
@@ -243,7 +290,7 @@
         <Effect label="is" startTime="128200" endTime="129125" />
         <Effect label="terrific" startTime="129125" endTime="129825" />
         <Effect label="Oh," startTime="129825" endTime="130600" />
-        <Effect label="there's" startTime="130600" endTime="131025" />
+        <Effect label="there&amp;apos;s" startTime="130600" endTime="131025" />
         <Effect label="no" startTime="131025" endTime="131450" />
         <Effect label="place" startTime="131450" endTime="132125" />
         <Effect label="like" startTime="132125" endTime="132575" />
@@ -273,7 +320,7 @@
         <Effect label="the" startTime="150750" endTime="151150" />
         <Effect label="holidays" startTime="151150" endTime="152000" />
         <Effect label="you" startTime="152000" endTime="152575" />
-        <Effect label="can't" startTime="152575" endTime="153325" />
+        <Effect label="can&amp;apos;t" startTime="152575" endTime="153325" />
         <Effect label="beat" startTime="153325" endTime="153475" />
         <Effect label="home" startTime="153475" endTime="153850" />
         <Effect label="sweet" startTime="153850" endTime="154275" />
@@ -282,7 +329,7 @@
         <Effect label="the" startTime="157225" endTime="157725" />
         <Effect label="holidays" startTime="157725" endTime="158750" />
         <Effect label="you" startTime="158750" endTime="159325" />
-        <Effect label="can't" startTime="159325" endTime="160525" />
+        <Effect label="can&amp;apos;t" startTime="159325" endTime="160525" />
         <Effect label="beat" startTime="160525" endTime="160900" />
         <Effect label="home," startTime="160900" endTime="162600" />
         <Effect label="sweet" startTime="162600" endTime="163500" />
@@ -293,27 +340,27 @@
     <Element type="timing" name="Lyrics - phrases">
       <EffectLayer>
         <Effect label="Instrumental lead-in" startTime="0" endTime="300" />
-        <Effect label="Oh, there's no place like home for the holidays," startTime="300" endTime="8200" />
+        <Effect label="Oh, there&amp;apos;s no place like home for the holidays," startTime="300" endTime="8200" />
         <Effect label="cause no matter how far away you roam." startTime="8200" endTime="16825" />
-        <Effect label="When you pine for the sunshine of a friendly gaze," startTime="16825" endTime="24525" />
-        <Effect label="For the holidays, you can't beat home, sweet home." startTime="24525" endTime="36175" />
+        <Effect label="When you pine for the sunshine of a friendly gaze," startTime="16825" endTime="25000" />
+        <Effect label="For the holidays, you can&amp;apos;t beat home, sweet home." startTime="25000" endTime="36175" />
         <Effect label="I met a man who lives in Tennessee." startTime="36175" endTime="41125" />
-        <Effect label="He was headin' for Pennsylvania and some homemade pumpkin pie." startTime="41125" endTime="47700" />
-        <Effect label="From Pennsylvania, folks are traveling down to Dixie's sunny shore" startTime="47700" endTime="56625" />
+        <Effect label="He was headin&amp;apos; for Pennsylvania and some homemade pumpkin pie." startTime="41125" endTime="47700" />
+        <Effect label="From Pennsylvania, folks are traveling down to Dixie&amp;apos;s sunny shore" startTime="47700" endTime="56625" />
         <Effect label="From Atlantic to Pacific, gee, the traffic is terrific" startTime="56625" endTime="62975" />
-        <Effect label="Oh, there's no place like home for the holidays" startTime="62975" endTime="69850" />
+        <Effect label="Oh, there&amp;apos;s no place like home for the holidays" startTime="62975" endTime="69850" />
         <Effect label="Cause no matter how far away you roam" startTime="69850" endTime="76500" />
-        <Effect label="If you want to be happy in a million ways For the holidays you can't beat home, sweet home" startTime="76500" endTime="89500" />
+        <Effect label="If you want to be happy in a million ways For the holidays you can&amp;apos;t beat home, sweet home" startTime="76500" endTime="89500" />
         <Effect label="Take a bus, take a train, go and hop an aeroplane. Put the wife and kiddies in the family car" startTime="89500" endTime="96450" />
         <Effect label="For the pleasure that you bring when you make that doorbell ring No trip could be too far" startTime="96450" endTime="102950" />
-        <Effect label="I met a man who lives in Tennessee. He was a-headin' for Pennsylvania and some homemade pumpkin pie. Some pumpkin pie" startTime="102950" endTime="116550" />
-        <Effect label="From Pennsylvania folks are travelin' Down to Dixie's sunny shore" startTime="116550" endTime="123000" />
+        <Effect label="I met a man who lives in Tennessee. He was a-headin&amp;apos; for Pennsylvania and some homemade pumpkin pie. Some pumpkin pie" startTime="102950" endTime="116550" />
+        <Effect label="From Pennsylvania folks are travelin&amp;apos; Down to Dixie&amp;apos;s sunny shore" startTime="116550" endTime="123000" />
         <Effect label="From Atlantic to Pacific. Gee, the traffic is terrific" startTime="123000" endTime="129825" />
-        <Effect label="Oh, there's no place like home for the holidays" startTime="129825" endTime="136525" />
+        <Effect label="Oh, there&amp;apos;s no place like home for the holidays" startTime="129825" endTime="136525" />
         <Effect label="Cause no matter how far away you roam" startTime="136525" endTime="142725" />
         <Effect label="If you want to be happy in a million ways" startTime="142725" endTime="150025" />
-        <Effect label="For the holidays you can't beat home sweet home" startTime="150025" endTime="154875" />
-        <Effect label="For the holidays you can't beat home, sweet home." startTime="154875" endTime="164825" />
+        <Effect label="For the holidays you can&amp;apos;t beat home sweet home" startTime="150025" endTime="154875" />
+        <Effect label="For the holidays you can&amp;apos;t beat home, sweet home." startTime="154875" endTime="164825" />
         <Effect label="Ending / instrumental" startTime="164825" endTime="174950" />
       </EffectLayer>
     </Element>
@@ -1907,7 +1954,12 @@
       <EffectLayer />
     </Element>
     <Element type="model" name="Frames-All">
-      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="Butterfly" startTime="0" endTime="8200" palette="0" />
+        <Effect ref="1" name="Butterfly" id="1" startTime="8200" endTime="17175" palette="1" />
+        <Effect ref="2" name="Butterfly" id="2" startTime="17175" endTime="24975" palette="2" />
+        <Effect ref="3" name="Butterfly" id="3" startTime="25000" endTime="34000" palette="0" />
+      </EffectLayer>
     </Element>
     <Element type="model" name="Frames-All-Bottom">
       <EffectLayer />
@@ -1928,7 +1980,12 @@
       <EffectLayer />
     </Element>
     <Element type="model" name="RoofLines-All">
-      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="4" name="Butterfly" startTime="0" endTime="8200" palette="3" />
+        <Effect ref="1" name="Butterfly" id="1" startTime="8200" endTime="17175" palette="1" />
+        <Effect ref="2" name="Butterfly" id="2" startTime="17175" endTime="25000" palette="2" />
+        <Effect ref="3" name="Butterfly" id="3" startTime="25000" endTime="34000" palette="0" />
+      </EffectLayer>
     </Element>
     <Element type="model" name="RoofLines-Top">
       <EffectLayer />
@@ -1945,8 +2002,158 @@
     <Element type="model" name="SnowFlakes-Right">
       <EffectLayer />
     </Element>
+    <Element type="model" name="PPD Wreath">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Center Piece">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Center Rings">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath DiamondArms">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Outer Diamonds">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Petals">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Rings">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral CClockwise">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Spiral Clockwise">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Star">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath Star Offset">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="PPD Wreath-All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-1-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-1-2-medium">
+      <EffectLayer>
+        <Effect ref="5" name="Ripple" startTime="21175" endTime="21666" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-1-3-small">
+      <EffectLayer>
+        <Effect ref="6" name="Ripple" startTime="4475" endTime="5175" palette="4" />
+        <Effect ref="7" name="Ripple" id="1" startTime="15050" endTime="15455" palette="4" />
+        <Effect ref="5" name="Ripple" id="2" startTime="20975" endTime="21466" palette="4" />
+        <Effect ref="5" name="Ripple" id="3" startTime="21491" endTime="21982" palette="4" />
+        <Effect ref="5" name="Ripple" id="4" startTime="24125" endTime="24616" palette="4" />
+        <Effect ref="5" name="Ripple" id="5" startTime="25125" endTime="25616" palette="4" />
+        <Effect ref="5" name="Ripple" id="6" startTime="27800" endTime="28500" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-2-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-2-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-2-3-small">
+      <EffectLayer>
+        <Effect ref="6" name="Ripple" startTime="3100" endTime="3925" palette="4" />
+        <Effect ref="7" name="Ripple" id="1" startTime="9211" endTime="9695" palette="4" />
+        <Effect ref="7" name="Ripple" id="2" startTime="10661" endTime="11157" palette="4" />
+        <Effect ref="5" name="Ripple" id="3" startTime="13900" endTime="14380" palette="4" />
+        <Effect ref="5" name="Ripple" id="4" startTime="14775" endTime="15270" palette="4" />
+        <Effect ref="5" name="Ripple" id="5" startTime="18800" endTime="19291" palette="4" />
+        <Effect ref="5" name="Ripple" id="6" startTime="20775" endTime="21266" palette="4" />
+        <Effect ref="5" name="Ripple" id="7" startTime="21800" endTime="22291" palette="4" />
+        <Effect ref="5" name="Ripple" id="8" startTime="22775" endTime="23266" palette="4" />
+        <Effect ref="5" name="Ripple" id="9" startTime="23925" endTime="24416" palette="4" />
+        <Effect ref="5" name="Ripple" id="10" startTime="24850" endTime="25341" palette="4" />
+        <Effect ref="5" name="Ripple" id="11" startTime="26875" endTime="27366" palette="4" />
+        <Effect ref="5" name="Ripple" id="12" startTime="28575" endTime="29300" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-3-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-3-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-3-3-small">
+      <EffectLayer>
+        <Effect ref="6" name="Ripple" startTime="1250" endTime="2050" palette="4" />
+        <Effect ref="6" name="Ripple" id="1" startTime="2100" endTime="2750" palette="4" />
+        <Effect ref="6" name="Ripple" id="2" startTime="5750" endTime="6350" palette="4" />
+        <Effect ref="7" name="Ripple" id="3" startTime="6550" endTime="6975" palette="4" />
+        <Effect ref="7" name="Ripple" id="4" startTime="8771" endTime="9262" palette="4" />
+        <Effect ref="7" name="Ripple" id="5" startTime="9646" endTime="10145" palette="4" />
+        <Effect ref="8" name="Ripple" id="6" startTime="10383" endTime="10808" palette="4" />
+        <Effect ref="7" name="Ripple" id="7" startTime="11130" endTime="11645" palette="4" />
+        <Effect ref="5" name="Ripple" id="8" startTime="12500" endTime="12950" palette="4" />
+        <Effect ref="5" name="Ripple" id="9" startTime="13650" endTime="14130" palette="4" />
+        <Effect ref="5" name="Ripple" id="10" startTime="15208" endTime="15736" palette="4" />
+        <Effect ref="5" name="Ripple" id="11" startTime="16091" endTime="16800" palette="4" />
+        <Effect ref="5" name="Ripple" id="12" startTime="18071" endTime="18562" palette="4" />
+        <Effect ref="5" name="Ripple" id="13" startTime="19325" endTime="19816" palette="4" />
+        <Effect ref="5" name="Ripple" id="14" startTime="20525" endTime="21016" palette="4" />
+        <Effect ref="5" name="Ripple" id="15" startTime="22475" endTime="22966" palette="4" />
+        <Effect ref="5" name="Ripple" id="16" startTime="23125" endTime="23616" palette="4" />
+        <Effect ref="5" name="Ripple" id="17" startTime="24525" endTime="25016" palette="4" />
+        <Effect ref="5" name="Ripple" id="18" startTime="26300" endTime="26791" palette="4" />
+        <Effect ref="5" name="Ripple" id="19" startTime="29600" endTime="30175" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-4-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-4-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-4-3-small">
+      <EffectLayer>
+        <Effect ref="7" name="Ripple" startTime="6825" endTime="7275" palette="4" />
+        <Effect ref="5" name="Ripple" id="1" startTime="14200" endTime="14683" palette="4" />
+        <Effect ref="5" name="Ripple" id="2" startTime="15499" endTime="16058" palette="4" />
+        <Effect ref="5" name="Ripple" id="3" startTime="30675" endTime="31275" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-5-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-5-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-5-3-small">
+      <EffectLayer>
+        <Effect ref="7" name="Ripple" startTime="7150" endTime="7625" palette="4" />
+        <Effect ref="5" name="Ripple" id="1" startTime="14500" endTime="15008" palette="4" />
+        <Effect ref="5" name="Ripple" id="2" startTime="15744" endTime="16338" palette="4" />
+        <Effect ref="5" name="Ripple" id="3" startTime="32100" endTime="32775" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arch-6-1-large">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-6-2-medium">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Arch-6-3-small">
+      <EffectLayer>
+        <Effect ref="5" name="Ripple" startTime="33975" endTime="34650" palette="4" />
+      </EffectLayer>
+    </Element>
   </ElementEffects>
-  <lastView>2</lastView>
+  <lastView>3</lastView>
   <TimingTags>
     <Tag number="0" position="-1" />
     <Tag number="1" position="-1" />
